@@ -2,25 +2,60 @@ name: Update publications (daily)
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # runs daily at 06:00 UTC
+    - cron: '0 6 * * *'   # daily at 06:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: read   # we will push using PAT instead
 
 jobs:
   update-pubs:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false   # IMPORTANT: we will override remote manually
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: pip install requests
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
       - name: Run arXiv fetch for current year
         run: |
-          python3 scripts/fetch_arxiv_inspire.py --year $(date -u +%Y) --delay 3.0 --no-inspire
-      - name: Commit updated data
+          python3 scripts/fetch_arxiv_inspire.py \
+            --year $(date -u +%Y) \
+            --delay 3.0 \
+            --no-inspire
+
+      - name: Commit & push updated data (using PAT)
+        env:
+          GH_PAGES_PAT: ${{ secrets.GH_PAGES_PAT }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/static/data/publications*.json
-          git commit -m "Update publications cache for $(date -u +%Y-%m-%d)" || echo "No changes to commit"
-          git push
+          set -e
+
+          git config user.name "usqcd-ci"
+          git config user.email "ci@usqcd.org"
+
+          git add public/static/data/publications*.json || true
+
+          # Exit cleanly if nothing changed
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update publications cache for $(date -u +%Y-%m-%d)"
+
+          # Replace origin with PAT-authenticated HTTPS remote
+          git remote set-url origin https://x-access-token:${GH_PAGES_PAT}@github.com/${{ github.repository }}
+
+          git push origin HEAD:main
