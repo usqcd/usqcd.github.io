@@ -132,37 +132,91 @@ function Thrusts() {
     fetch('/api/publications').then((r) => r.ok ? r.json() : {}).then((j) => setImages(j?.thrust_images || {})).catch(() => setImages({}));
   }, []);
 
-  const fallbackImages = {
+  {/*const fallbackImages = {
     'nucleon-structure': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png',
     'spectroscopy': 'https://www.bu.edu/tech/wp-content/uploads/sites/88/2016/01/lattice_qcd_2005.jpg',
-    'nuclei': 'https://www.alcf.anl.gov/sites/all/themes/alcf/images/aurora-hero.jpg',
+    'extremeqcd': 'https://www.alcf.anl.gov/sites/all/themes/alcf/images/aurora-hero.jpg',
     'muon-g2': 'https://ar5iv.org/static/ar5iv-PDFs/2411.09656.pdf.cover.jpg',
-    'flavor-ckm': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png'
-  };
+    'flavor-ckm': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png',
+    'bsm': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png',
+    'algorithms': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png',
+    'aiml': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png',
+    'quantum': 'https://edryd.org/wp-content/uploads/2019/11/lattice-qcd-visualization.png'
+  };*/}
+
+  const COLOURS = [
+  	"bg-gradient-to-br from-red-600/20 to-red-700/20",
+  	"bg-gradient-to-br from-blue-600/20 to-blue-700/20",
+  	"bg-gradient-to-br from-green-600/20 to-green-700/20"
+	];
 
   const THRUSTS = [
-    { key: 'nucleon-structure', title: 'Nucleon structure', desc: 'Axial charge, radii, form factors.' },
-    { key: 'spectroscopy', title: 'Spectroscopy', desc: 'Resonances, exotics, finite-volume amplitudes.' },
-    { key: 'nuclei', title: 'Nuclear inputs', desc: 'Magnetic moments & polarizabilities.' },
-    { key: 'muon-g2', title: 'Muon g-2', desc: 'HVP & HLbL window contributions.' },
-    { key: 'flavor-ckm', title: 'Flavor & CKM', desc: 'Decay constants & mixing matrix elements.' },
-    { key: 'algorithms', title: 'Algorithms', desc: 'Algorithms for lattice field theory.' },
-    { key: 'quantum', title: 'Quantum Computing', desc: 'Lattice field theory on quantum devices.' }
+    { key: 'nucleon-structure', title: 'Nucleon structure', desc: 'Charges, radii, Form factors and partonic structure.', colour: COLOURS[0] },
+    { key: 'spectroscopy', title: 'Spectroscopy & Nuclear inputs', desc: 'Resonances, exotics, and nuclei.', colour: COLOURS[0] },
+    { key: 'extremeqcd', title: 'QCD in extreme conditions', desc: 'QCD at non-zero  temperature and density.', colour: COLOURS[0] },
+    { key: 'muon-g2', title: 'Muon g-2', desc: 'HVP & HLbL window contributions.', colour: COLOURS[1] },
+    { key: 'flavor-ckm', title: 'Flavor & CKM', desc: 'Decay constants & mixing matrix elements.', colour: COLOURS[1] },
+    { key: 'bsm', title: 'LQFT beyond the Standard Model', desc: 'LQFT methods for theories of new physics.', colour: COLOURS[1] },	
+    { key: 'algorithms', title: 'Algorithms', desc: 'Algorithms for lattice field theory.', colour: COLOURS[2] },
+    { key: 'aiml', title: 'Artificial Intelligence & Machine Learning', desc: 'Applications of AI/ML to lattice field theory.', colour: COLOURS[2] },	
+    { key: 'quantum', title: 'Quantum Computing', desc: 'Lattice field theory on quantum devices.', colour: COLOURS[2] }
 
   ];
 
   return (
     <section className="bg-white">
       <div className="max-w-6xl mx-auto px-6 py-12">
+        <h2 className="text-2xl font-semibold text-slate-900 mb-6">
+          Science thrusts
+        </h2>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {THRUSTS.map((t) => (
+            <div
+              key={t.key}
+              className={`relative rounded-2xl overflow-hidden shadow-lg ${t.colour}`}
+            >
+              <div className="relative h-56 w-full">
+                <img
+                  src={`/static/data/thrusts/${t.key}.png`}
+                  alt={t.title}
+                  className="w-full h-56 object-cover"
+                />
+
+                {/* subtle dark overlay for readability */}
+                <div className="absolute inset-0 bg-black/30" />
+
+                {/* title */}
+                <div className="absolute left-4 bottom-4 bg-black/40 backdrop-blur text-white px-3 py-1 rounded-md text-sm font-medium">
+                  {t.title}
+                </div>
+              </div>
+
+              <div className="p-4">
+                <div className="text-sm text-black/95">
+                  {t.desc}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+  
+  {/*return (
+    <section className="bg-white">
+      <div className="max-w-6xl mx-auto px-6 py-12">
         <h2 className="text-2xl font-semibold text-slate-900 mb-6">Science thrusts</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {THRUSTS.map((t) => (
-            <div key={t.key} className="relative rounded-2xl overflow-hidden shadow-sm bg-slate-50">
+            //<div key={t.key} className="relative rounded-2xl overflow-hidden shadow-sm bg-slate-50">
+	    <div key={t.key} className={`relative rounded-2xl overflow-hidden shadow-sm text-white ${t.colour}`}>
               <div className="relative h-56 w-full">
                 {(images && images[t.key]) || fallbackImages[t.key] ? (
                   <>
                     <img src={images[t.key] || fallbackImages[t.key]} alt={t.title} className="w-full h-56 object-cover" />
-                    <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/25 to-sky-600/20 mix-blend-multiply pointer-events-none" />
+		    <div className="absolute inset-0 bg-gradient-to-b from-cyan-400/25 to-sky-600/20 mix-blend-multiply pointer-events-none" />
                     <div className="absolute left-4 bottom-4 bg-white/90 text-slate-800 px-3 py-1 rounded-md text-sm font-medium">{t.title}</div>
                     <div className="absolute right-3 top-3 text-xs text-white/80 font-medium">USQCD</div>
                   </>
@@ -171,7 +225,6 @@ function Thrusts() {
                 )}
               </div>
               <div className="p-4">
-                <div className="font-semibold text-slate-900">{t.title}</div>
                 <div className="text-sm text-slate-600 mt-1">{t.desc}</div>
               </div>
             </div>
@@ -180,6 +233,7 @@ function Thrusts() {
       </div>
     </section>
   );
+  */}
 }
 
 function ScienceSection() {
@@ -196,22 +250,11 @@ function ScienceSection() {
 
   return (
     <SectionShell title="Science highlights & background">
+          <Thrusts />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
          <div className="max-w-6xl mx-auto px-6 py-12">
        	      <FiguresCarousel jsonPath={resolvePath('static/data/doe-science.json')} interval={7000} maxCaptionWords={30} maxImageHeight={300} />
       	</div>
-{/*
-        <div>
-          <h3>Precision flavor physics</h3>
-          <p>Decay constants, semileptonic form factors, and neutral-meson mixing matrix elements computed with lattice QCD feed directly into CKM determinations and tests of the Standard Model.</p>
-
-          <h3 className="mt-6">Hadron spectroscopy</h3>
-          <p>Finite-volume methods allow extraction of resonance properties and excited-state spectra — including hybrid and exotic candidates.</p>
-
-          <h3 className="mt-6">Muon g-2 contributions</h3>
-          <p>Lattice calculations of hadronic vacuum polarization and hadronic light-by-light contributions are essential for the Standard-Model prediction of the muon anomalous magnetic moment.</p>
-        </div>
-*/}
         <aside>
           <div className="bg-slate-50 p-4 rounded-lg">
             <h4 className="font-semibold">USQCD white papers</h4>
@@ -226,8 +269,6 @@ function ScienceSection() {
           </div>
         </aside>
       </div>
-
-      <Thrusts />
     </SectionShell>
   );
 }

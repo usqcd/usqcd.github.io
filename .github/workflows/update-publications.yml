@@ -33,8 +33,7 @@ jobs:
         run: |
           python3 scripts/fetch_arxiv_inspire.py \
             --year $(date -u +%Y) \
-            --delay 3.0 \
-            --no-inspire
+            --delay 3.0 
 
       - name: Commit & push updated data (using PAT)
         env:
