@@ -1088,7 +1088,7 @@ Our immediate objectives are to:</p>
       </main>
       <footer className="border-t border-slate-100 mt-12 bg-white">
         <div className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between text-sm text-slate-500">
-          <div>© USQCD — prototype • content curated from USQCD collaboration pages.</div>
+          <div>© USQCD collaboration.</div>
         </div>
       </footer>
     </div>
