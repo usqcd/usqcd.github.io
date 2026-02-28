@@ -13,7 +13,7 @@ export default defineConfig(async () => {
 
   return {
     // Use a relative base for portable local preview builds.
-    base: "./",
+    base: "/",
     plugins: [reactPlugin()],
     build: {
       outDir: "build",   // keep your current outDir
