@@ -2,7 +2,8 @@ name: Build and deploy (gh-pages)
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -13,6 +14,7 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -49,4 +51,3 @@ jobs:
           user_name: "github-actions[bot]"
           user_email: "41898282+github-actions[bot]@users.noreply.github.com"
           enable_jekyll: false
-	  
