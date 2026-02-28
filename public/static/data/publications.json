@@ -1,114 +1,108 @@
 {
-  "generated": "2026-02-09T18:56:18.458503+00:00Z",
-  "count": 18,
+  "generated": "2026-02-27T18:20:39.159407+00:00Z",
+  "count": 32,
   "publications": [
     {
-      "id": "2602.02436v1",
-      "title": "Wilson loops with neural networks",
-      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
+      "id": "2602.23158v1",
+      "title": "Symmetric Mass Generation via Multicriticality in a 3D Lattice Gross-Neveu Model",
+      "summary": "We investigate a three-dimensional lattice model of two flavors of massless staggered fermions coupled through two independent four-fermion interactions, $U_I$ and $U_B$. Using large-scale fermion-bag Monte Carlo simulations, we map out the phase diagram in the $(U_I, U_B)$ parameter space and identify three distinct phases: a massless fermion phase, a symmetry-broken massive phase, and a symmetric massive phase. When one of the interactions is absent ($U_B=0$), the system undergoes a single continuous transition directly connecting the massless and symmetric massive phases, a feature previously associated with unconventional fermion mass generation. We find that turning on a nonzero $U_B$ separates this direct transition into two successive transitions with an intermediate symmetry-broken phase. The transition from the massless to the broken phase belongs to the Gross-Neveu universality class, while the transition from the broken to the symmetric massive phase falls into the three-dimensional XY universality class. Our results indicate that the special point at vanishing coupling, where the direct transition occurs, plays the role of a multicritical point organizing the surrounding phase structure. These findings provide a unified lattice perspective on conventional and unconventional mechanisms of fermion mass generation within a single model.",
       "authors": [
-        "Verena Bellscheidt",
-        "Nora Brambilla",
-        "Andreas S. Kronfeld",
-        "Julian Mayer-Steudte"
+        "Sandip Maiti",
+        "Debasish Banerjee",
+        "Shailesh Chandrasekharan",
+        "Marina K. Marinkovic"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.02436v1",
-      "link": "https://arxiv.org/abs/2602.02436v1",
-      "published": "2026-02-02T18:33:56Z",
+      "pdf": "https://arxiv.org/pdf/2602.23158v1",
+      "link": "https://arxiv.org/abs/2602.23158v1",
+      "published": "2026-02-26T16:18:58Z",
       "categories": [
         "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ]
-    },
-    {
-      "id": "2601.22273v1",
-      "title": "Excited-state uncertainties in lattice-QCD calculations of hadron masses and scattering phase shifts",
-      "summary": "Lattice QCD has historically produced energy results interpretable as either estimates relying on implicit assumptions about asymptotic behavior or one-sided upper bounds. New Lanczos methods providing two-sided bounds with less-restrictive assumptions are introduced and quantified in a high-statistics calculation with unphysical quark masses. Two-sided bounds without spectral assumptions provide sub-percent constraints on the nucleon mass. Other bounds, which assume all states in a given energy window are resolved, provide meaningful two-sided constraints on nucleon-nucleon scattering phase shifts.",
-      "authors": [
-        "William Detmold",
-        "Anthony V. Grebe",
-        "Daniel C. Hackett",
-        "Marc Illa",
-        "Robert J. Perry",
-        "Phiala E. Shanahan",
-        "Michael L. Wagman"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.22273v1",
-      "link": "https://arxiv.org/abs/2601.22273v1",
-      "published": "2026-01-29T19:43:58Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ]
-    },
-    {
-      "id": "2601.22272v1",
-      "title": "Excited-state uncertainties in lattice-QCD calculations of multi-hadron systems",
-      "summary": "Excited-state effects lead to hard-to-quantify systematic uncertainties in lattice quantum chromodynamics (LQCD) spectroscopy calculations when computationally accessible imaginary times are smaller than inverse excitation gaps, as often arises for multi-hadron systems with signal-to-noise problems. Lanczos residual bounds address this by providing two-sided constraints on energies that do not require assumptions beyond Hermiticity, but often give very conservative systematic uncertainty estimates. Here, a more-constraining set of gap bounds is introduced for hadron spectroscopy. These bounds provide tighter constraints whose validity requires an explicit assumption about an energy gap. Exactly solvable lattice field theory correlators are used to test the utility of residual and gap bounds at finite and infinite statistics. Two-sided bounds and other analysis methods are then applied to a high-statistics LQCD calculation of nucleon-nucleon scattering at $m_π\\sim 800$ MeV. Generalized eigenvalue problem (GEVP) and Lanczos energy estimators are compatible when applied to the same correlator data, but analyses including different interpolating operators show statistically significant inconsistencies. However, two-sided bounds from all operators are consistent. Under the assumption that the number of energy levels below $NΔ$ and $ΔΔ$ thresholds is the same as for non-interacting nucleons, gap bounds are sufficient to constrain nucleon-nucleon scattering amplitudes at phenomenologically relevant precision. Lanczos methods further reveal that energy-eigenstate estimates from previously studied asymmetric correlators have not converged over accessible imaginary times. Nevertheless, data-driven examples demonstrate why assumptions are required to draw conclusions about the natures of two-nucleon ground states at these masses.",
-      "authors": [
-        "William Detmold",
-        "Anthony V. Grebe",
-        "Daniel C. Hackett",
-        "Marc Illa",
-        "Robert J. Perry",
-        "Phiala E. Shanahan",
-        "Michael L. Wagman"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.22272v1",
-      "link": "https://arxiv.org/abs/2601.22272v1",
-      "published": "2026-01-29T19:43:41Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ]
-    },
-    {
-      "id": "2601.21232v1",
-      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
-      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
-      "authors": [
-        "Joaquin Grefa",
-        "Chun Yue Tsang",
-        "Rajesh Kumar",
-        "Veronica Dexheimer",
-        "Claudia Ratti",
-        "Zhangbu Xu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21232v1",
-      "link": "https://arxiv.org/abs/2601.21232v1",
-      "published": "2026-01-29T03:49:43Z",
-      "categories": [
-        "nucl-th",
-        "hep-ex",
-        "hep-lat",
-        "hep-ph",
+        "cond-mat.str-el",
         "hep-th"
       ]
     },
     {
-      "id": "2601.21155v1",
-      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
-      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
+      "id": "2602.23118v1",
+      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
+      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
       "authors": [
-        "Oleksandr Tomalak",
-        "Aaron S. Meyer",
-        "Clarence Wret",
-        "Tejin Cai",
-        "Richard J. Hill",
-        "Kevin S. McFarland"
+        "Sabarnya Mitra",
+        "Jishnu Goswami",
+        "Frithjof Karsch"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.21155v1",
-      "link": "https://arxiv.org/abs/2601.21155v1",
-      "published": "2026-01-29T01:30:05Z",
+      "pdf": "https://arxiv.org/pdf/2602.23118v1",
+      "link": "https://arxiv.org/abs/2602.23118v1",
+      "published": "2026-02-26T15:32:30Z",
       "categories": [
-        "hep-ph",
-        "hep-ex",
         "hep-lat",
+        "hep-ph",
+        "hep-th",
         "nucl-ex",
         "nucl-th"
+      ]
+    },
+    {
+      "id": "2602.23002v1",
+      "title": "Confinement transition to gravitational waves in the one-flavor $SU(4)$ Hyper Stealth Dark Matter theory",
+      "summary": "The thermodynamics of the $SU(4)$ gauge theory with a single flavor of fundamental quarks is analyzed on the lattice with dynamical fermion simulations, which is the low-energy sector of a realistic, strongly-interacting dark matter model -- the Hyper Stealth Dark Matter. The gravitational wave spectrum from the first-order confinement transition in the early universe is further calculated, where the effect of the dark sea quarks, which decrease the interface tension in the effective potential of the Polyakov loop, is shown numerically to lower the gravitational wave amplitude.",
+      "authors": [
+        "V. Ayyar",
+        "R. C. Brower",
+        "G. T. Fleming",
+        "J. Ingoldby",
+        "X. Y. Jin",
+        "N. Matsumoto",
+        "A. S. Meyer",
+        "E. T. Neil",
+        "J. C. Osborn",
+        "S. Park",
+        "C. T. Peterson",
+        "D. Schaich",
+        "P. Vranas",
+        "O. Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.23002v1",
+      "link": "https://arxiv.org/abs/2602.23002v1",
+      "published": "2026-02-26T13:47:44Z",
+      "categories": [
+        "hep-lat",
+        "astro-ph.CO",
+        "hep-ph"
+      ]
+    },
+    {
+      "id": "2602.22515v1",
+      "title": "Confined and Deconfined Phases of Qubit Regularized Lattice Gauge Theories",
+      "summary": "We construct simple qubit-regularized Hamiltonian lattice gauge theories formulated in the monomer--dimer--tensor-network (MDTN) basis that are free of sign problems in the pure gauge sector. These models naturally realize both confined and deconfined phases. Using classical Monte Carlo methods, we investigate the associated finite-temperature phase transitions and show that they exhibit the expected universality classes of conventional SU(N) lattice gauge theories in various spacetime dimensions. Furthermore, we argue that second-order quantum phase transitions separating the confined and deconfined phases are likely to exist. Such critical points would provide a nonperturbative route to defining continuum limits of qubit-regularized gauge theories, potentially allowing Yang--Mills theory and related continuum gauge theories to emerge from finite-dimensional lattice constructions.",
+      "authors": [
+        "Shailesh Chandrasekharan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22515v1",
+      "link": "https://arxiv.org/abs/2602.22515v1",
+      "published": "2026-02-26T01:17:44Z",
+      "categories": [
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ]
+    },
+    {
+      "id": "2602.22379v1",
+      "title": "The hadronic tensor from four-point functions on the lattice",
+      "summary": "The hadronic tensor is the central non-perturbative object in the calculation of the cross section of lepton-hadron interactions like neutrino-nucleon scattering. It is usually parameterized in terms of structure functions, which encode all necessary information for all kinematic regions. Moreover, the structure functions can be factorized in terms of parton distribution functions (PDFs) and contains information on hadron resonances. On the lattice, we can calculate the corresponding matrix element of two quark-bilinear currents with a relative Euclidean time separation. The reconstruction of the hadronic tensor in Minkowski space requires appropriate dealing with the corresponding inverse problem. In our current work, we extend previous calculations on the nucleon by considering a much larger range of momentum transfers, which is inevitable in the context of structure functions. This can be achieved by using stochastic sources, which allows us to calculate the required four-point functions in a broad kinematic region. We employ a clover fermion ensemble at pion mass $m_π= 223~\\mathrm{MeV}$ and lattice spacing $a=0.085~\\mathrm{fm}$. In these proceedings, we will give an overview of our simulation and present some first preliminary results.",
+      "authors": [
+        "Christian Zimmermann",
+        "Terrence Draper",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Raza Sabbir Sufian",
+        "Bigeng Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22379v1",
+      "link": "https://arxiv.org/abs/2602.22379v1",
+      "published": "2026-02-25T20:23:38Z",
+      "categories": [
+        "hep-lat"
       ]
     }
   ]
