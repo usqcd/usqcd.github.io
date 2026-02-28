@@ -2,26 +2,25 @@
 import { defineConfig } from "vite";
 
 /**
- * Default config: use a relative base './' so built assets resolve when
- * serving the build folder locally (vite preview or npx serve).
+ * Use an async config and dynamic import for ESM-only plugins
+ * (avoids "ESM file cannot be loaded by require" esbuild error).
  *
- * For building for GitHub Pages, call: npm run build:gh
- * which passes --base /usqcd-site/ to the CLI (see package.json scripts below).
+ * For a root GitHub Pages site (usqcd.github.io) we set base: "/".
+ * Ensure build.outDir matches your deploy workflow (here: "build").
  */
 export default defineConfig(async () => {
   const reactPlugin = (await import("@vitejs/plugin-react")).default;
 
   return {
-    // Use a relative base for portable local preview builds.
     base: "/",
     plugins: [reactPlugin()],
     build: {
-      outDir: "build",   // keep your current outDir
+      outDir: "build",
       sourcemap: false,
-      chunkSizeWarningLimit: 2000,
+      chunkSizeWarningLimit: 2000
     },
     server: {
-      port: 5173,
-    },
+      port: 5173
+    }
   };
 });
