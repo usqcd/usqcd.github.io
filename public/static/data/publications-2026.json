@@ -1,7 +1,66 @@
 {
-  "generated": "2026-03-01T06:34:15.946307+00:00Z",
-  "count": 32,
+  "generated": "2026-03-02T06:36:47.472330+00:00Z",
+  "count": 33,
   "publications": [
+    {
+      "id": "2602.24200v1",
+      "title": "Progress on computing the hadronic vacuum polarization contribution to the muon anomalous magnetic moment with staggered fermions",
+      "summary": "We give an update of our calculation of the light-quark, connected, hadronic vacuum polarization contribution to the muon anomalous magnetic moment, or muon $g-2$. The update includes preliminary results on a $2 + 1 + 1$ highly-improved staggered quark (HISQ) ensemble from the MILC collaboration with physical pion mass, $0.042$ fm lattice spacing, and volume $144^3 \\times 288$. We discuss code and algorithm improvements for these calculations to compute the vector-vector correlation function more efficiently.",
+      "authors": [
+        "Vaishakhi Moningi",
+        "Christopher Aubin",
+        "Thomas Blum",
+        "Maarten Golterman",
+        "Luchang Jin",
+        "Santiago Peris"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.24200v1",
+      "link": "https://arxiv.org/abs/2602.24200v1",
+      "published": "2026-02-27T17:27:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "2870801",
+        "inspire_url": "https://inspirehep.net/literature/2870801",
+        "doi": "10.22323/1.466.0247",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2024",
+            "page_start": "247",
+            "artid": "247",
+            "year": 2025
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "PoS, LATTICE2024, artid 247, p. 247, 2025"
+      }
+    },
+    {
+      "id": "2602.24190v1",
+      "title": "The Light Quark Connected Hadronic Vacuum Polarization Contribution to the muon anomaly via Sparsened Meson Fields",
+      "summary": "We present an update on our determination of the light-quark connected contribution to the hadronic vacuum polarization (HVP) of the muon anomalous magnetic moment, $a_μ$, on a finer lattice with 2+1+1 highly-improved staggered quark (HISQ) ensemble from the MILC collaboration with physical pion mass, 0.042 fm lattice spacing, and size $144^3 \\times 288$ sites. Within the low-mode averaging (LMA) framework, the HVP correlator is decomposed into low-low (LL), high-low (HL), low-high (LH) and high-high (HH) components. Since the LL part dominates the total statistical uncertainty but is also the most computationally expensive to evaluate, we implement a sparsening strategy to construct the meson fields efficiently. This approach significantly reduces the computational cost while preserving signal quality. By combining the sparsened LL contribution with HL, LH and HH components, we achieve an improved determination of the light-quark connected HVP contribution to $a_μ$.",
+      "authors": [
+        "Vaishakhi Moningi",
+        "Christopher Aubin",
+        "Thomas Blum",
+        "Maarten Golterman",
+        "Luchang Jin",
+        "Santiago Peris"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.24190v1",
+      "link": "https://arxiv.org/abs/2602.24190v1",
+      "published": "2026-02-27T17:13:39Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124242",
+        "inspire_url": "https://inspirehep.net/literature/3124242",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2602.23158v1",
       "title": "Symmetric Mass Generation via Multicriticality in a 3D Lattice Gross-Neveu Model",
@@ -23,31 +82,6 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.23118v1",
-      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
-      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
-      "authors": [
-        "Sabarnya Mitra",
-        "Jishnu Goswami",
-        "Frithjof Karsch"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23118v1",
-      "link": "https://arxiv.org/abs/2602.23118v1",
-      "published": "2026-02-26T15:32:30Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3123855",
-        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
