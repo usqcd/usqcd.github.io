@@ -1,7 +1,102 @@
 {
-  "generated": "2026-03-02T06:36:47.529064+00:00Z",
-  "count": 33,
+  "generated": "2026-03-03T06:29:54.971936+00:00Z",
+  "count": 38,
   "publications": [
+    {
+      "id": "2603.01259v1",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v1",
+      "link": "https://arxiv.org/abs/2603.01259v1",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.01215v1",
+      "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
+      "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
+      "authors": [
+        "Rui Xian Siew",
+        "Shailesh Chandrasekharan",
+        "Tanmoy Bhattacharya"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01215v1",
+      "link": "https://arxiv.org/abs/2603.01215v1",
+      "published": "2026-03-01T18:20:45Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3124607",
+        "inspire_url": "https://inspirehep.net/literature/3124607",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.00946v1",
+      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
+      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00946v1",
+      "link": "https://arxiv.org/abs/2603.00946v1",
+      "published": "2026-03-01T06:33:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.00698v1",
+      "title": "Preliminary study of the $H$ dibaryon in $N_{\\rm f}=2+1$ lattice QCD",
+      "summary": "We present preliminary results on the $I=0$, $S=-2$ $H$ dibaryon in $N_{\\rm f}=2+1$ QCD. The calculation is performed with heavier-than-physical quarks ($m_π\\approx 280$ MeV) on a single CLS ensemble. Correlation matrices are constructed using the distillation technique and the three relevant channels, $ΛΛ$, $NΞ$, $ΣΣ$, are investigated to determine the interacting spectrum relevant for $S$-wave across multiple momentum frames. The scattering amplitude is determined by solving the corresponding two-body quantization condition. These preliminary results are part of the ongoing efforts to determine the properties of di-hyperons and to establish whether the $H$ dibaryon exists down to physical quark masses.",
+      "authors": [
+        "André Baião Raposo",
+        "John Bulava",
+        "Jeremy R. Green",
+        "Andrew D. Hanlon",
+        "Davide Laudicina",
+        "Malcolm Lazarow",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Fernando Romero-López",
+        "Miguel Salg",
+        "André Walker-Loud",
+        "Hartmut Wittig"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00698v1",
+      "link": "https://arxiv.org/abs/2603.00698v1",
+      "published": "2026-02-28T15:13:21Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124603",
+        "inspire_url": "https://inspirehep.net/literature/3124603",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2602.24200v1",
       "title": "Progress on computing the hadronic vacuum polarization contribution to the muon anomalous magnetic moment with staggered fermions",
@@ -35,109 +130,6 @@
         ],
         "citation_count": 2,
         "journal_ref": "PoS, LATTICE2024, artid 247, p. 247, 2025"
-      }
-    },
-    {
-      "id": "2602.24190v1",
-      "title": "The Light Quark Connected Hadronic Vacuum Polarization Contribution to the muon anomaly via Sparsened Meson Fields",
-      "summary": "We present an update on our determination of the light-quark connected contribution to the hadronic vacuum polarization (HVP) of the muon anomalous magnetic moment, $a_μ$, on a finer lattice with 2+1+1 highly-improved staggered quark (HISQ) ensemble from the MILC collaboration with physical pion mass, 0.042 fm lattice spacing, and size $144^3 \\times 288$ sites. Within the low-mode averaging (LMA) framework, the HVP correlator is decomposed into low-low (LL), high-low (HL), low-high (LH) and high-high (HH) components. Since the LL part dominates the total statistical uncertainty but is also the most computationally expensive to evaluate, we implement a sparsening strategy to construct the meson fields efficiently. This approach significantly reduces the computational cost while preserving signal quality. By combining the sparsened LL contribution with HL, LH and HH components, we achieve an improved determination of the light-quark connected HVP contribution to $a_μ$.",
-      "authors": [
-        "Vaishakhi Moningi",
-        "Christopher Aubin",
-        "Thomas Blum",
-        "Maarten Golterman",
-        "Luchang Jin",
-        "Santiago Peris"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.24190v1",
-      "link": "https://arxiv.org/abs/2602.24190v1",
-      "published": "2026-02-27T17:13:39Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124242",
-        "inspire_url": "https://inspirehep.net/literature/3124242",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.23158v1",
-      "title": "Symmetric Mass Generation via Multicriticality in a 3D Lattice Gross-Neveu Model",
-      "summary": "We investigate a three-dimensional lattice model of two flavors of massless staggered fermions coupled through two independent four-fermion interactions, $U_I$ and $U_B$. Using large-scale fermion-bag Monte Carlo simulations, we map out the phase diagram in the $(U_I, U_B)$ parameter space and identify three distinct phases: a massless fermion phase, a symmetry-broken massive phase, and a symmetric massive phase. When one of the interactions is absent ($U_B=0$), the system undergoes a single continuous transition directly connecting the massless and symmetric massive phases, a feature previously associated with unconventional fermion mass generation. We find that turning on a nonzero $U_B$ separates this direct transition into two successive transitions with an intermediate symmetry-broken phase. The transition from the massless to the broken phase belongs to the Gross-Neveu universality class, while the transition from the broken to the symmetric massive phase falls into the three-dimensional XY universality class. Our results indicate that the special point at vanishing coupling, where the direct transition occurs, plays the role of a multicritical point organizing the surrounding phase structure. These findings provide a unified lattice perspective on conventional and unconventional mechanisms of fermion mass generation within a single model.",
-      "authors": [
-        "Sandip Maiti",
-        "Debasish Banerjee",
-        "Shailesh Chandrasekharan",
-        "Marina K. Marinkovic"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23158v1",
-      "link": "https://arxiv.org/abs/2602.23158v1",
-      "published": "2026-02-26T16:18:58Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3123887",
-        "inspire_url": "https://inspirehep.net/literature/3123887",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.23002v1",
-      "title": "Confinement transition to gravitational waves in the one-flavor $SU(4)$ Hyper Stealth Dark Matter theory",
-      "summary": "The thermodynamics of the $SU(4)$ gauge theory with a single flavor of fundamental quarks is analyzed on the lattice with dynamical fermion simulations, which is the low-energy sector of a realistic, strongly-interacting dark matter model -- the Hyper Stealth Dark Matter. The gravitational wave spectrum from the first-order confinement transition in the early universe is further calculated, where the effect of the dark sea quarks, which decrease the interface tension in the effective potential of the Polyakov loop, is shown numerically to lower the gravitational wave amplitude.",
-      "authors": [
-        "V. Ayyar",
-        "R. C. Brower",
-        "G. T. Fleming",
-        "J. Ingoldby",
-        "X. Y. Jin",
-        "N. Matsumoto",
-        "A. S. Meyer",
-        "E. T. Neil",
-        "J. C. Osborn",
-        "S. Park",
-        "C. T. Peterson",
-        "D. Schaich",
-        "P. Vranas",
-        "O. Witzel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23002v1",
-      "link": "https://arxiv.org/abs/2602.23002v1",
-      "published": "2026-02-26T13:47:44Z",
-      "categories": [
-        "hep-lat",
-        "astro-ph.CO",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3123848",
-        "inspire_url": "https://inspirehep.net/literature/3123848",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.22515v1",
-      "title": "Confined and Deconfined Phases of Qubit Regularized Lattice Gauge Theories",
-      "summary": "We construct simple qubit-regularized Hamiltonian lattice gauge theories formulated in the monomer--dimer--tensor-network (MDTN) basis that are free of sign problems in the pure gauge sector. These models naturally realize both confined and deconfined phases. Using classical Monte Carlo methods, we investigate the associated finite-temperature phase transitions and show that they exhibit the expected universality classes of conventional SU(N) lattice gauge theories in various spacetime dimensions. Furthermore, we argue that second-order quantum phase transitions separating the confined and deconfined phases are likely to exist. Such critical points would provide a nonperturbative route to defining continuum limits of qubit-regularized gauge theories, potentially allowing Yang--Mills theory and related continuum gauge theories to emerge from finite-dimensional lattice constructions.",
-      "authors": [
-        "Shailesh Chandrasekharan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.22515v1",
-      "link": "https://arxiv.org/abs/2602.22515v1",
-      "published": "2026-02-26T01:17:44Z",
-      "categories": [
-        "hep-lat",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3123852",
-        "inspire_url": "https://inspirehep.net/literature/3123852",
-        "citation_count": 0
       }
     }
   ]
