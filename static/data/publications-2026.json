@@ -1,7 +1,102 @@
 {
-  "generated": "2026-03-02T06:36:47.472330+00:00Z",
-  "count": 33,
+  "generated": "2026-03-03T06:29:54.915391+00:00Z",
+  "count": 38,
   "publications": [
+    {
+      "id": "2603.01259v1",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v1",
+      "link": "https://arxiv.org/abs/2603.01259v1",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.01215v1",
+      "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
+      "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
+      "authors": [
+        "Rui Xian Siew",
+        "Shailesh Chandrasekharan",
+        "Tanmoy Bhattacharya"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01215v1",
+      "link": "https://arxiv.org/abs/2603.01215v1",
+      "published": "2026-03-01T18:20:45Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3124607",
+        "inspire_url": "https://inspirehep.net/literature/3124607",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.00946v1",
+      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
+      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00946v1",
+      "link": "https://arxiv.org/abs/2603.00946v1",
+      "published": "2026-03-01T06:33:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.00698v1",
+      "title": "Preliminary study of the $H$ dibaryon in $N_{\\rm f}=2+1$ lattice QCD",
+      "summary": "We present preliminary results on the $I=0$, $S=-2$ $H$ dibaryon in $N_{\\rm f}=2+1$ QCD. The calculation is performed with heavier-than-physical quarks ($m_π\\approx 280$ MeV) on a single CLS ensemble. Correlation matrices are constructed using the distillation technique and the three relevant channels, $ΛΛ$, $NΞ$, $ΣΣ$, are investigated to determine the interacting spectrum relevant for $S$-wave across multiple momentum frames. The scattering amplitude is determined by solving the corresponding two-body quantization condition. These preliminary results are part of the ongoing efforts to determine the properties of di-hyperons and to establish whether the $H$ dibaryon exists down to physical quark masses.",
+      "authors": [
+        "André Baião Raposo",
+        "John Bulava",
+        "Jeremy R. Green",
+        "Andrew D. Hanlon",
+        "Davide Laudicina",
+        "Malcolm Lazarow",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Fernando Romero-López",
+        "Miguel Salg",
+        "André Walker-Loud",
+        "Hartmut Wittig"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00698v1",
+      "link": "https://arxiv.org/abs/2603.00698v1",
+      "published": "2026-02-28T15:13:21Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124603",
+        "inspire_url": "https://inspirehep.net/literature/3124603",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2602.24200v1",
       "title": "Progress on computing the hadronic vacuum polarization contribution to the muon anomalous magnetic moment with staggered fermions",
@@ -82,6 +177,31 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.23118v1",
+      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
+      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
+      "authors": [
+        "Sabarnya Mitra",
+        "Jishnu Goswami",
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.23118v1",
+      "link": "https://arxiv.org/abs/2602.23118v1",
+      "published": "2026-02-26T15:32:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123855",
+        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
