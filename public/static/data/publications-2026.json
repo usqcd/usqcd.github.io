@@ -1,7 +1,89 @@
 {
-  "generated": "2026-03-03T06:29:54.915391+00:00Z",
-  "count": 38,
+  "generated": "2026-03-04T06:34:50.253207+00:00Z",
+  "count": 40,
   "publications": [
+    {
+      "id": "2603.02994v1",
+      "title": "Kaon leptonic and semileptonic decays with $N_f=2+1+1$ HISQ fermions",
+      "summary": "Precision tests of the Standard Model (SM) currently show a deficit in first-row Cabibbo-Kobayashi-Maskawa (CKM) unitarity. In this talk, we discuss progress towards a correlated analysis of the lattice-QCD inputs needed to test this relation with kaon data using highly improved staggered quarks (HISQ) on the MILC $N_{f}=2+1+1$ configurations. We present the status of a new analysis of light-meson decay constant data where chiral-continuum fits are guided by staggered chiral perturbation theory (SChPT). The goal of SChPT is twofold: it allows us to use data not only at physical pion mass but also at unphysical masses. Moreover, it provides values of ChPT low energy constants (LECs) as well as their correlations. We also present a reanalysis of our previous kaon semileptonic form factor calculation, aiming to estimate correlations between the form factor and light-meson decay constants. We discuss the new methodology, new data included, and present some preliminary results.",
+      "authors": [
+        "Ramón Merino",
+        "Alexei Bazavov",
+        "Claude W. Bernard",
+        "Carleton DeTar",
+        "Aida X. El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "Anthony V. Grebe",
+        "Urs M. Heller",
+        "Leon Hostetler",
+        "William I. Jay",
+        "Andreas S. Kronfeld"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02994v1",
+      "link": "https://arxiv.org/abs/2603.02994v1",
+      "published": "2026-03-03T13:46:15Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3125287",
+        "inspire_url": "https://inspirehep.net/literature/3125287",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.02984v1",
+      "title": "Variance reduction in lattice QCD observables via normalizing flows",
+      "summary": "Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor Quantum Chromodynamics (QCD) in four space-time dimensions. Variance reduction by factors of $10$-$60$ is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so that volume transfer can be utilized to minimize training costs.",
+      "authors": [
+        "Ryan Abbott",
+        "Denis Boyda",
+        "Yang Fu",
+        "Daniel C. Hackett",
+        "Gurtej Kanwar",
+        "Fernando Romero-López",
+        "Phiala E. Shanahan",
+        "Julian M. Urban"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02984v1",
+      "link": "https://arxiv.org/abs/2603.02984v1",
+      "published": "2026-03-03T13:36:29Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG"
+      ],
+      "inspire": {
+        "control_number": "3125285",
+        "inspire_url": "https://inspirehep.net/literature/3125285",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.02739v1",
+      "title": "Tensor renormalization group approach to the $O(2)$ models via symmetry-twisted partition functions",
+      "summary": "We investigate critical phenomena in the $O(2)$ models using symmetry-twisted partition functions that can be efficiently computed within the tensor renormalization group framework. We first demonstrate, taking the three-dimensional model as an example, that symmetry-twisted partition functions detect the spontaneous breaking of global continuous symmetry. We then consider the same model in two dimensions, where the Berezinskii--Kosterlitz--Thouless (BKT) transition occurs. Since symmetry-twisted partition functions directly provide the helicity modulus at a finite twist angle, we determine the BKT transition point. These results are presented based on Ref.~\\cite{Akiyama:2026dzg}. Finally, in addition to the original paper~\\cite{Akiyama:2026dzg}, we apply this approach to the two-dimensional generalized $O(2)$ model and confirm that it successfully identifies the phase transitions between the ferromagnetic and nematic phases, as well as between the nematic and paramagnetic phases.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02739v1",
+      "link": "https://arxiv.org/abs/2603.02739v1",
+      "published": "2026-03-03T08:41:57Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125292",
+        "inspire_url": "https://inspirehep.net/literature/3125292",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.01259v1",
       "title": "$T_{cc}$ pole trajectory",
@@ -94,6 +176,9 @@
       "inspire": {
         "control_number": "3124603",
         "inspire_url": "https://inspirehep.net/literature/3124603",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -153,6 +238,9 @@
       "inspire": {
         "control_number": "3124242",
         "inspire_url": "https://inspirehep.net/literature/3124242",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -307,7 +395,7 @@
       }
     },
     {
-      "id": "2602.20373v1",
+      "id": "2602.20373v2",
       "title": "Resolving the structure of bound states using lattice quantum field theories",
       "summary": "This work presents the first lattice calculation of a two-to-two particle matrix element of a local current. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteron-like bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, $\\2+\\Jc \\to \\2$. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-volume form factor. By varying over a range of values of the coupling of the theory, we explore the effects of this analysis for deep-bound states and shallow-bound states. We reproduce the expected result that for deep bound states, the finite-volume formalism is largely unnecessary, while for shallow bound states, it is absolutely critical to obtain a sensible result. We present a detailed outline of the analysis of this class of matrix elements, including the determination of the charge radius of the bound state. In the shallow bound state limit, we find good agreement with the prediction stemming from the anomalous threshold.",
       "authors": [
@@ -318,8 +406,8 @@
         "Charles Kacir",
         "Amy N. Nicholson"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.20373v1",
-      "link": "https://arxiv.org/abs/2602.20373v1",
+      "pdf": "https://arxiv.org/pdf/2602.20373v2",
+      "link": "https://arxiv.org/abs/2602.20373v2",
       "published": "2026-02-23T21:20:41Z",
       "categories": [
         "hep-lat",
@@ -720,30 +808,6 @@
         "control_number": "3109204",
         "inspire_url": "https://inspirehep.net/literature/3109204",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2601.12189v1",
-      "title": "Asymptotic Long-Distance Expansion of Euclidean Correlators in Lattice Parton Applications",
-      "summary": "Bilinear Euclidean quark and gluon correlators with Wilson links have been used widely for applications of large-momentum effective field theories to computing non-perturbative collinear and soft parton physics. Due to color confinement, these correlators decay exponentially at large spatial distances, a behavior crucial for computing momentum-space Fourier transformations with controlled errors from lattice QCD data. Using heavy-quark effective theory reduction, dispersive analysis, Lorentz symmetry, and heavy-flavor spectra, we determine the leading and next-to-leading asymptotic behaviors and relate the expansion parameters to binding energies of heavy-flavor hadrons. We demonstrate the results through two-loop calculations in $φ^3$ theory and from the perspective of locality and analyticity. We also study the impact of the asymptotic analysis on realistic lattice QCD data and demonstrate reliable error estimates.",
-      "authors": [
-        "Xiangdong Ji",
-        "Yizhuang Liu",
-        "Yushan Su"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.12189v1",
-      "link": "https://arxiv.org/abs/2601.12189v1",
-      "published": "2026-01-17T22:39:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3109203",
-        "inspire_url": "https://inspirehep.net/literature/3109203",
-        "citation_count": 1
       }
     },
     {
