@@ -1,7 +1,89 @@
 {
-  "generated": "2026-03-03T06:29:54.971936+00:00Z",
-  "count": 38,
+  "generated": "2026-03-04T06:34:50.310152+00:00Z",
+  "count": 40,
   "publications": [
+    {
+      "id": "2603.02994v1",
+      "title": "Kaon leptonic and semileptonic decays with $N_f=2+1+1$ HISQ fermions",
+      "summary": "Precision tests of the Standard Model (SM) currently show a deficit in first-row Cabibbo-Kobayashi-Maskawa (CKM) unitarity. In this talk, we discuss progress towards a correlated analysis of the lattice-QCD inputs needed to test this relation with kaon data using highly improved staggered quarks (HISQ) on the MILC $N_{f}=2+1+1$ configurations. We present the status of a new analysis of light-meson decay constant data where chiral-continuum fits are guided by staggered chiral perturbation theory (SChPT). The goal of SChPT is twofold: it allows us to use data not only at physical pion mass but also at unphysical masses. Moreover, it provides values of ChPT low energy constants (LECs) as well as their correlations. We also present a reanalysis of our previous kaon semileptonic form factor calculation, aiming to estimate correlations between the form factor and light-meson decay constants. We discuss the new methodology, new data included, and present some preliminary results.",
+      "authors": [
+        "Ramón Merino",
+        "Alexei Bazavov",
+        "Claude W. Bernard",
+        "Carleton DeTar",
+        "Aida X. El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "Anthony V. Grebe",
+        "Urs M. Heller",
+        "Leon Hostetler",
+        "William I. Jay",
+        "Andreas S. Kronfeld"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02994v1",
+      "link": "https://arxiv.org/abs/2603.02994v1",
+      "published": "2026-03-03T13:46:15Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3125287",
+        "inspire_url": "https://inspirehep.net/literature/3125287",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.02984v1",
+      "title": "Variance reduction in lattice QCD observables via normalizing flows",
+      "summary": "Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor Quantum Chromodynamics (QCD) in four space-time dimensions. Variance reduction by factors of $10$-$60$ is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so that volume transfer can be utilized to minimize training costs.",
+      "authors": [
+        "Ryan Abbott",
+        "Denis Boyda",
+        "Yang Fu",
+        "Daniel C. Hackett",
+        "Gurtej Kanwar",
+        "Fernando Romero-López",
+        "Phiala E. Shanahan",
+        "Julian M. Urban"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02984v1",
+      "link": "https://arxiv.org/abs/2603.02984v1",
+      "published": "2026-03-03T13:36:29Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG"
+      ],
+      "inspire": {
+        "control_number": "3125285",
+        "inspire_url": "https://inspirehep.net/literature/3125285",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.02739v1",
+      "title": "Tensor renormalization group approach to the $O(2)$ models via symmetry-twisted partition functions",
+      "summary": "We investigate critical phenomena in the $O(2)$ models using symmetry-twisted partition functions that can be efficiently computed within the tensor renormalization group framework. We first demonstrate, taking the three-dimensional model as an example, that symmetry-twisted partition functions detect the spontaneous breaking of global continuous symmetry. We then consider the same model in two dimensions, where the Berezinskii--Kosterlitz--Thouless (BKT) transition occurs. Since symmetry-twisted partition functions directly provide the helicity modulus at a finite twist angle, we determine the BKT transition point. These results are presented based on Ref.~\\cite{Akiyama:2026dzg}. Finally, in addition to the original paper~\\cite{Akiyama:2026dzg}, we apply this approach to the two-dimensional generalized $O(2)$ model and confirm that it successfully identifies the phase transitions between the ferromagnetic and nematic phases, as well as between the nematic and paramagnetic phases.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02739v1",
+      "link": "https://arxiv.org/abs/2603.02739v1",
+      "published": "2026-03-03T08:41:57Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125292",
+        "inspire_url": "https://inspirehep.net/literature/3125292",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.01259v1",
       "title": "$T_{cc}$ pole trajectory",
@@ -46,90 +128,6 @@
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.00946v1",
-      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
-      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.00946v1",
-      "link": "https://arxiv.org/abs/2603.00946v1",
-      "published": "2026-03-01T06:33:31Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124602",
-        "inspire_url": "https://inspirehep.net/literature/3124602",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.00698v1",
-      "title": "Preliminary study of the $H$ dibaryon in $N_{\\rm f}=2+1$ lattice QCD",
-      "summary": "We present preliminary results on the $I=0$, $S=-2$ $H$ dibaryon in $N_{\\rm f}=2+1$ QCD. The calculation is performed with heavier-than-physical quarks ($m_π\\approx 280$ MeV) on a single CLS ensemble. Correlation matrices are constructed using the distillation technique and the three relevant channels, $ΛΛ$, $NΞ$, $ΣΣ$, are investigated to determine the interacting spectrum relevant for $S$-wave across multiple momentum frames. The scattering amplitude is determined by solving the corresponding two-body quantization condition. These preliminary results are part of the ongoing efforts to determine the properties of di-hyperons and to establish whether the $H$ dibaryon exists down to physical quark masses.",
-      "authors": [
-        "André Baião Raposo",
-        "John Bulava",
-        "Jeremy R. Green",
-        "Andrew D. Hanlon",
-        "Davide Laudicina",
-        "Malcolm Lazarow",
-        "Colin Morningstar",
-        "Amy Nicholson",
-        "Fernando Romero-López",
-        "Miguel Salg",
-        "André Walker-Loud",
-        "Hartmut Wittig"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.00698v1",
-      "link": "https://arxiv.org/abs/2603.00698v1",
-      "published": "2026-02-28T15:13:21Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124603",
-        "inspire_url": "https://inspirehep.net/literature/3124603",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.24200v1",
-      "title": "Progress on computing the hadronic vacuum polarization contribution to the muon anomalous magnetic moment with staggered fermions",
-      "summary": "We give an update of our calculation of the light-quark, connected, hadronic vacuum polarization contribution to the muon anomalous magnetic moment, or muon $g-2$. The update includes preliminary results on a $2 + 1 + 1$ highly-improved staggered quark (HISQ) ensemble from the MILC collaboration with physical pion mass, $0.042$ fm lattice spacing, and volume $144^3 \\times 288$. We discuss code and algorithm improvements for these calculations to compute the vector-vector correlation function more efficiently.",
-      "authors": [
-        "Vaishakhi Moningi",
-        "Christopher Aubin",
-        "Thomas Blum",
-        "Maarten Golterman",
-        "Luchang Jin",
-        "Santiago Peris"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.24200v1",
-      "link": "https://arxiv.org/abs/2602.24200v1",
-      "published": "2026-02-27T17:27:00Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "2870801",
-        "inspire_url": "https://inspirehep.net/literature/2870801",
-        "doi": "10.22323/1.466.0247",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2024",
-            "page_start": "247",
-            "artid": "247",
-            "year": 2025
-          }
-        ],
-        "citation_count": 2,
-        "journal_ref": "PoS, LATTICE2024, artid 247, p. 247, 2025"
       }
     }
   ]
