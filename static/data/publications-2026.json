@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-05T06:33:26.226477+00:00Z",
+  "generated": "2026-03-06T06:32:42.062090+00:00Z",
   "count": 44,
   "publications": [
     {
@@ -31,6 +31,9 @@
       "inspire": {
         "control_number": "3125658",
         "inspire_url": "https://inspirehep.net/literature/3125658",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -82,6 +85,9 @@
       "inspire": {
         "control_number": "3125649",
         "inspire_url": "https://inspirehep.net/literature/3125649",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -112,6 +118,9 @@
       "inspire": {
         "control_number": "3125287",
         "inspire_url": "https://inspirehep.net/literature/3125287",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
