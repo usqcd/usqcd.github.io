@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-08T06:27:13.159415+00:00Z",
+  "generated": "2026-03-09T06:49:46.213620+00:00Z",
   "count": 44,
   "publications": [
     {
@@ -1068,8 +1068,8 @@
       }
     },
     {
-      "id": "2601.04092v1",
-      "title": "Extracting scattering phase shift in quantum mechanics on quantum computers",
+      "id": "2601.04092v2",
+      "title": "Scattering phase shift in quantum mechanics on quantum computers",
       "summary": "We investigate the feasibility of extracting infinite volume scattering phase shift on quantum computers in a simple one-dimensional quantum mechanical model, using the formalism established in Ref.~\\cite{Guo:2023ecc} that relates the integrated correlation functions (ICF) for a trapped system to the infinite volume scattering phase shifts through a weighted integral. The system is first discretized in a finite box with periodic boundary conditions, and the formalism in real time is verified by employing a contact interaction potential with exact solutions. Quantum circuits are then designed and constructed to implement the formalism on current quantum computing architectures. To overcome the fast oscillatory behavior of the integrated correlation functions in real-time simulation, different methods of post-data analysis are proposed and discussed. Test results on IBM hardware show that good agreement can be achieved with two qubits, but complete failure ensues with three qubits due to two-qubit gate operation errors and thermal relaxation errors.",
       "authors": [
         "Peng Guo",
@@ -1077,8 +1077,8 @@
         "Frank X. Lee",
         "Yong Zhao"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.04092v1",
-      "link": "https://arxiv.org/abs/2601.04092v1",
+      "pdf": "https://arxiv.org/pdf/2601.04092v2",
+      "link": "https://arxiv.org/abs/2601.04092v2",
       "published": "2026-01-07T16:59:20Z",
       "categories": [
         "quant-ph",
