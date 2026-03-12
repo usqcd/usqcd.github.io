@@ -1,7 +1,30 @@
 {
-  "generated": "2026-03-11T06:30:21.979653+00:00Z",
-  "count": 44,
+  "generated": "2026-03-12T06:34:50.701812+00:00Z",
+  "count": 45,
   "publications": [
+    {
+      "id": "2603.10255v1",
+      "title": "Topological structure of the entanglement radius of Yang-Mills flux tubes",
+      "summary": "We expand on recent work arXiv:2601.17199 demonstrating the existence of a novel entanglement radius $ξ_0$ characterizing flux tube entanglement entropy (FTE$^2$) in (2+1)D Yang-Mills theory. This physical scale corresponds to the intrinsic thickness of the flux tube that must be fully severed by an entangling region for color degrees of freedom in the flux tube to contribute non-zero FTE$^2$. We consider here geometries of the entanglement region $V$ on the lattice where the length of the region cross-cutting the flux tube is of the same magnitude as $ξ_0$. Our results further the conclusions of arXiv:2601.17199 by adding detailed new information on the topological structure of the entanglement radius of color flux tubes.",
+      "authors": [
+        "Rocco Amorosso",
+        "Sergey Syritsyn",
+        "Raju Venugopalan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.10255v1",
+      "link": "https://arxiv.org/abs/2603.10255v1",
+      "published": "2026-03-10T22:17:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3128414",
+        "inspire_url": "https://inspirehep.net/literature/3128414",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.03835v1",
       "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
@@ -121,33 +144,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.02984v1",
-      "title": "Variance reduction in lattice QCD observables via normalizing flows",
-      "summary": "Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor Quantum Chromodynamics (QCD) in four space-time dimensions. Variance reduction by factors of $10$-$60$ is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so that volume transfer can be utilized to minimize training costs.",
-      "authors": [
-        "Ryan Abbott",
-        "Denis Boyda",
-        "Yang Fu",
-        "Daniel C. Hackett",
-        "Gurtej Kanwar",
-        "Fernando Romero-López",
-        "Phiala E. Shanahan",
-        "Julian M. Urban"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.02984v1",
-      "link": "https://arxiv.org/abs/2603.02984v1",
-      "published": "2026-03-03T13:36:29Z",
-      "categories": [
-        "hep-lat",
-        "cs.LG"
-      ],
-      "inspire": {
-        "control_number": "3125285",
-        "inspire_url": "https://inspirehep.net/literature/3125285",
         "citation_count": 0
       }
     }
