@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-14T06:29:30.801704+00:00Z",
-  "count": 45,
+  "generated": "2026-03-15T06:49:39.242883+00:00Z",
+  "count": 44,
   "publications": [
     {
       "id": "2603.10255v1",
@@ -716,30 +716,6 @@
       "inspire": {
         "control_number": "3118097",
         "inspire_url": "https://inspirehep.net/literature/3118097",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.02436v1",
-      "title": "Wilson loops with neural networks",
-      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
-      "authors": [
-        "Verena Bellscheidt",
-        "Nora Brambilla",
-        "Andreas S. Kronfeld",
-        "Julian Mayer-Steudte"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.02436v1",
-      "link": "https://arxiv.org/abs/2602.02436v1",
-      "published": "2026-02-02T18:33:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3113673",
-        "inspire_url": "https://inspirehep.net/literature/3113673",
         "citation_count": 0
       }
     },
