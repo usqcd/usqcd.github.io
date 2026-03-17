@@ -1,7 +1,26 @@
 {
-  "generated": "2026-03-16T06:50:39.691039+00:00Z",
+  "generated": "2026-03-17T06:47:26.200638+00:00Z",
   "count": 48,
   "publications": [
+    {
+      "id": "2603.15231v1",
+      "title": "Electric Polarizability of Charged Pions from nHYP Four-Point Functions",
+      "summary": "Understanding a hadron's electric and magnetic polarizabilities allows one to access internal structural information. Traditionally, the external field two-point function method has been used to calculate polarizabilities. However, recent work has demonstrated the effectiveness of using four-point functions for computing polarizabilities of charged and neutral hadrons. Our previous study on the electric polarizability of the charged pion used a quenched Wilson action on a lattice with pion mass from 1100 MeV to 370 MeV. In this work, we employ a number of improvements, including a dynamical action (nHYP), smaller pion masses (220 MeV and 315 MeV), and a variable lattice size in order to extrapolate to infinite volume. Preliminary results are presented.",
+      "authors": [
+        "Benjamin Luke",
+        "Sudip Shiwakoti",
+        "Shayan Nadeem",
+        "Andrei Alexandru",
+        "Walter Wilcox",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.15231v1",
+      "link": "https://arxiv.org/abs/2603.15231v1",
+      "published": "2026-03-16T13:07:10Z",
+      "categories": [
+        "hep-lat"
+      ]
+    },
     {
       "id": "2603.13101v1",
       "title": "Recent update of nucleon axial-vector charge with the PACS10 superfine lattice",
@@ -102,41 +121,6 @@
       "inspire": {
         "control_number": "3128414",
         "inspire_url": "https://inspirehep.net/literature/3128414",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.03835v1",
-      "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
-      "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
-      "authors": [
-        "Finn M. Stokes",
-        "Michel Davier",
-        "Zoltan Fodor",
-        "Fabian Frech",
-        "Andrey Yu. Kotov",
-        "Laurent Lellouch",
-        "Bogdan Malaescu",
-        "Sophie Mutzel",
-        "Kalman K. Szabo",
-        "Balint C. Toth",
-        "Gen Wang",
-        "Zhiqing Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.03835v1",
-      "link": "https://arxiv.org/abs/2603.03835v1",
-      "published": "2026-03-04T08:35:32Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3125658",
-        "inspire_url": "https://inspirehep.net/literature/3125658",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     }
