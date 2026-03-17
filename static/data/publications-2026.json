@@ -1,7 +1,26 @@
 {
-  "generated": "2026-03-16T06:50:39.638219+00:00Z",
+  "generated": "2026-03-17T06:47:26.142132+00:00Z",
   "count": 48,
   "publications": [
+    {
+      "id": "2603.15231v1",
+      "title": "Electric Polarizability of Charged Pions from nHYP Four-Point Functions",
+      "summary": "Understanding a hadron's electric and magnetic polarizabilities allows one to access internal structural information. Traditionally, the external field two-point function method has been used to calculate polarizabilities. However, recent work has demonstrated the effectiveness of using four-point functions for computing polarizabilities of charged and neutral hadrons. Our previous study on the electric polarizability of the charged pion used a quenched Wilson action on a lattice with pion mass from 1100 MeV to 370 MeV. In this work, we employ a number of improvements, including a dynamical action (nHYP), smaller pion masses (220 MeV and 315 MeV), and a variable lattice size in order to extrapolate to infinite volume. Preliminary results are presented.",
+      "authors": [
+        "Benjamin Luke",
+        "Sudip Shiwakoti",
+        "Shayan Nadeem",
+        "Andrei Alexandru",
+        "Walter Wilcox",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.15231v1",
+      "link": "https://arxiv.org/abs/2603.15231v1",
+      "published": "2026-03-16T13:07:10Z",
+      "categories": [
+        "hep-lat"
+      ]
+    },
     {
       "id": "2603.13101v1",
       "title": "Recent update of nucleon axial-vector charge with the PACS10 superfine lattice",
@@ -800,30 +819,6 @@
       }
     },
     {
-      "id": "2602.02436v1",
-      "title": "Wilson loops with neural networks",
-      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
-      "authors": [
-        "Verena Bellscheidt",
-        "Nora Brambilla",
-        "Andreas S. Kronfeld",
-        "Julian Mayer-Steudte"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.02436v1",
-      "link": "https://arxiv.org/abs/2602.02436v1",
-      "published": "2026-02-02T18:33:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3113673",
-        "inspire_url": "https://inspirehep.net/literature/3113673",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.22273v1",
       "title": "Excited-state uncertainties in lattice-QCD calculations of hadron masses and scattering phase shifts",
       "summary": "Lattice QCD has historically produced energy results interpretable as either estimates relying on implicit assumptions about asymptotic behavior or one-sided upper bounds. New Lanczos methods providing two-sided bounds with less-restrictive assumptions are introduced and quantified in a high-statistics calculation with unphysical quark masses. Two-sided bounds without spectral assumptions provide sub-percent constraints on the nucleon mass. Other bounds, which assume all states in a given energy window are resolved, provide meaningful two-sided constraints on nucleon-nucleon scattering phase shifts.",
@@ -1116,7 +1111,7 @@
       }
     },
     {
-      "id": "2601.04782v1",
+      "id": "2601.04782v2",
       "title": "QCD Crossover at Low Temperatures from Lee-Yang Edge Singularity",
       "summary": "We provide the first lattice-QCD estimate of the crossover line down to $T\\simeq108$~MeV. We introduce a new method that combines the Lee-Yang edge in the complex plane of baryon chemical potential $μ_B$ with universal chiral scaling to determine the $μ_B$ dependence of the QCD chiral critical and pseudo-critical temperatures. By performing $(2\\!+\\!1)$-flavor lattice QCD simulations at $T\\simeq108$~MeV and purely imaginary $μ_B$ with a single lattice spacing and two volumes, we compute $μ_B$-dependent baryon-number susceptibilities and extract the location of the Lee-Yang edge. Together with universal scaling near the QCD chiral transition, it constrains the mapping function between $\\{T,μ_B\\}$ and the scaling variable (\\textit{i.e.}\\ the argument of the universal scaling functions). This mapping function then yields the $μ_B$ dependence of the critical and pseudo-critical temperatures for $T\\gtrsim108$~MeV. While our calculation is performed only at a single value of low temperature without explicit input from small-$μ_B$ expansion, the resulting $μ_B$ dependence of the pseudo-critical temperature is consistent with established lattice-QCD determinations at small $μ_B$ and compatible with chemical freeze-out parameters of heavy-ion collisions down to low temperatures, demonstrating the validity and robustness of the method. Application of this method can be systematically extended to additional temperatures and finer discretizations, opening a pathway to charting the QCD phase diagram in the low-$T$, high-$μ_B$ regime.",
       "authors": [
@@ -1130,8 +1125,8 @@
         "H. -T. Shu",
         "K. -F. Ye"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.04782v1",
-      "link": "https://arxiv.org/abs/2601.04782v1",
+      "pdf": "https://arxiv.org/pdf/2601.04782v2",
+      "link": "https://arxiv.org/abs/2601.04782v2",
       "published": "2026-01-08T10:04:11Z",
       "categories": [
         "hep-lat",
