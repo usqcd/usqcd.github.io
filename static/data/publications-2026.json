@@ -1,7 +1,59 @@
 {
-  "generated": "2026-03-18T06:38:08.782139+00:00Z",
-  "count": 49,
+  "generated": "2026-03-19T06:35:23.948957+00:00Z",
+  "count": 51,
   "publications": [
+    {
+      "id": "2603.17971v1",
+      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
+      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
+      "authors": [
+        "Omar Alsheikh",
+        "A. F. Kemper",
+        "Ermal Rrapaj",
+        "Goksu C. Toga"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.17971v1",
+      "link": "https://arxiv.org/abs/2603.17971v1",
+      "published": "2026-03-18T17:38:05Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.17900v1",
+      "title": "$K π$ scattering as a step towards $B \\to K^* \\ell^+ \\ell^-$ from Lattice QCD",
+      "summary": "Rare $b\\to s\\ell^+\\ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B\\to K^*\\ell^+\\ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new exploratory lattice calculation that combines a variational determination of finite-volume $Kπ$ states with the $1+J\\to2$ finite-volume formalism to access the relevant matrix elements. The computation is carried out on an RBC/UKQCD domain-wall fermion ensemble with $a^{-1} \\approx 2.7\\,\\mathrm{GeV}$ and employs a dual heavy-quark strategy, using both a relativistic heavy-quark action tuned to the physical $b$ mass and domain-wall heavy masses extrapolating from charm. All correlation functions are computed using (stochastic) distillation, providing a versatile setup that supports a broad range of heavy-to-light transitions into resonant final states. We show first two-point results for the $K^*\\leftrightarrow Kπ$ system and discuss the accessible kinematic region, which allows for a controlled study at high $q^2$. The outlook for extending the calculation to lower $q^2$ and for incorporating effects from charmonium resonances is outlined.",
+      "authors": [
+        "Felix Erben",
+        "Matthew Black",
+        "Peter Boyle",
+        "Matteo Di Carlo",
+        "Vera Gülpers",
+        "Maxwell T. Hansen",
+        "Nelson Pitanga Lachini",
+        "Rajnandini Mukherjee",
+        "Antonin Portelli",
+        "J. Tobias Tsang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.17900v1",
+      "link": "https://arxiv.org/abs/2603.17900v1",
+      "published": "2026-03-18T16:33:43Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3130955",
+        "inspire_url": "https://inspirehep.net/literature/3130955",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.15231v1",
       "title": "Electric Polarizability of Charged Pions from nHYP Four-Point Functions",
