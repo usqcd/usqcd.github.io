@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-21T06:33:32.981968+00:00Z",
-  "count": 53,
+  "generated": "2026-03-22T06:34:32.838771+00:00Z",
+  "count": 52,
   "publications": [
     {
       "id": "2603.19192v1",
@@ -460,25 +460,6 @@
       "inspire": {
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.00946v1",
-      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
-      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.00946v1",
-      "link": "https://arxiv.org/abs/2603.00946v1",
-      "published": "2026-03-01T06:33:31Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124602",
-        "inspire_url": "https://inspirehep.net/literature/3124602",
         "citation_count": 0
       }
     },
