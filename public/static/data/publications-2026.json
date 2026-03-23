@@ -1,7 +1,64 @@
 {
-  "generated": "2026-03-22T06:34:32.838771+00:00Z",
-  "count": 52,
+  "generated": "2026-03-23T06:41:09.065821+00:00Z",
+  "count": 55,
   "publications": [
+    {
+      "id": "2603.20157v1",
+      "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
+      "summary": "We develop a one-class, deep-learning framework to detect the phase transition and recover critical behavior of the 3D Ising model. A 3D convolutional neural network autoencoder (CAE) is trained on ground-state configurations only, without prior knowledge of the critical temperature, the Hamiltonian, or the order parameter. After training, the model is applied to Monte Carlo configurations across a wide temperature range and different lattice sizes. The mean-square reconstruction error is shown to be sensitive to the transition. Finite-size scaling of the peak location for the reconstruction error susceptibility yields the critical temperature $T_c=4.5128(58)$ and the correlation-length critical exponent $ν=0.63(27)$, consistent with results from the literature. Our results show that a one-class CAE, trained on zero-temperature configurations only, can recover nontrivial critical behavior of the 3D Ising model.",
+      "authors": [
+        "Ahmed Abuali",
+        "David A. Clarke",
+        "Morten Hjorth-Jensen",
+        "Ioannis Konstantinidis",
+        "Claudia Ratti",
+        "Jianyi Yang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.20157v1",
+      "link": "https://arxiv.org/abs/2603.20157v1",
+      "published": "2026-03-20T17:31:41Z",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "nucl-th",
+        "physics.data-an"
+      ],
+      "inspire": {
+        "control_number": "3132368",
+        "inspire_url": "https://inspirehep.net/literature/3132368",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.19960v1",
+      "title": "Real radiative decays of heavy pseudoscalar mesons",
+      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
+      "authors": [
+        "Teseo San Jose",
+        "Yasumichi Aoki",
+        "Matteo Di Carlo",
+        "Felix Erben",
+        "Vera Gülpers",
+        "Maxwell T. Hansen",
+        "Shoji Hashimoto",
+        "Nils Hermansson-Truedsson",
+        "Ryan Hill",
+        "Takashi Kaneko",
+        "Antonin Portelli",
+        "Justus Tobias Tsang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.19960v1",
+      "link": "https://arxiv.org/abs/2603.19960v1",
+      "published": "2026-03-20T14:01:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132388",
+        "inspire_url": "https://inspirehep.net/literature/3132388",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.19192v1",
       "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
@@ -163,15 +220,15 @@
       }
     },
     {
-      "id": "2603.12418v1",
+      "id": "2603.12418v2",
       "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
       "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-79 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
       "authors": [
         "Jakob Hoffmann",
         "Stefan Meinel"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.12418v1",
-      "link": "https://arxiv.org/abs/2603.12418v1",
+      "pdf": "https://arxiv.org/pdf/2603.12418v2",
+      "link": "https://arxiv.org/abs/2603.12418v2",
       "published": "2026-03-12T19:59:18Z",
       "categories": [
         "hep-lat",
@@ -460,6 +517,25 @@
       "inspire": {
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.00946v1",
+      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
+      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00946v1",
+      "link": "https://arxiv.org/abs/2603.00946v1",
+      "published": "2026-03-01T06:33:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
         "citation_count": 0
       }
     },
