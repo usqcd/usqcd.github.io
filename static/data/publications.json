@@ -1,7 +1,64 @@
 {
-  "generated": "2026-03-22T06:34:32.899013+00:00Z",
-  "count": 52,
+  "generated": "2026-03-23T06:41:09.125415+00:00Z",
+  "count": 55,
   "publications": [
+    {
+      "id": "2603.20157v1",
+      "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
+      "summary": "We develop a one-class, deep-learning framework to detect the phase transition and recover critical behavior of the 3D Ising model. A 3D convolutional neural network autoencoder (CAE) is trained on ground-state configurations only, without prior knowledge of the critical temperature, the Hamiltonian, or the order parameter. After training, the model is applied to Monte Carlo configurations across a wide temperature range and different lattice sizes. The mean-square reconstruction error is shown to be sensitive to the transition. Finite-size scaling of the peak location for the reconstruction error susceptibility yields the critical temperature $T_c=4.5128(58)$ and the correlation-length critical exponent $ν=0.63(27)$, consistent with results from the literature. Our results show that a one-class CAE, trained on zero-temperature configurations only, can recover nontrivial critical behavior of the 3D Ising model.",
+      "authors": [
+        "Ahmed Abuali",
+        "David A. Clarke",
+        "Morten Hjorth-Jensen",
+        "Ioannis Konstantinidis",
+        "Claudia Ratti",
+        "Jianyi Yang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.20157v1",
+      "link": "https://arxiv.org/abs/2603.20157v1",
+      "published": "2026-03-20T17:31:41Z",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "nucl-th",
+        "physics.data-an"
+      ],
+      "inspire": {
+        "control_number": "3132368",
+        "inspire_url": "https://inspirehep.net/literature/3132368",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.19960v1",
+      "title": "Real radiative decays of heavy pseudoscalar mesons",
+      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
+      "authors": [
+        "Teseo San Jose",
+        "Yasumichi Aoki",
+        "Matteo Di Carlo",
+        "Felix Erben",
+        "Vera Gülpers",
+        "Maxwell T. Hansen",
+        "Shoji Hashimoto",
+        "Nils Hermansson-Truedsson",
+        "Ryan Hill",
+        "Takashi Kaneko",
+        "Antonin Portelli",
+        "Justus Tobias Tsang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.19960v1",
+      "link": "https://arxiv.org/abs/2603.19960v1",
+      "published": "2026-03-20T14:01:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132388",
+        "inspire_url": "https://inspirehep.net/literature/3132388",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.19192v1",
       "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
@@ -73,61 +130,6 @@
       "inspire": {
         "control_number": "3130964",
         "inspire_url": "https://inspirehep.net/literature/3130964",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.17900v1",
-      "title": "$K π$ scattering as a step towards $B \\to K^* \\ell^+ \\ell^-$ from Lattice QCD",
-      "summary": "Rare $b\\to s\\ell^+\\ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B\\to K^*\\ell^+\\ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new exploratory lattice calculation that combines a variational determination of finite-volume $Kπ$ states with the $1+J\\to2$ finite-volume formalism to access the relevant matrix elements. The computation is carried out on an RBC/UKQCD domain-wall fermion ensemble with $a^{-1} \\approx 2.7\\,\\mathrm{GeV}$ and employs a dual heavy-quark strategy, using both a relativistic heavy-quark action tuned to the physical $b$ mass and domain-wall heavy masses extrapolating from charm. All correlation functions are computed using (stochastic) distillation, providing a versatile setup that supports a broad range of heavy-to-light transitions into resonant final states. We show first two-point results for the $K^*\\leftrightarrow Kπ$ system and discuss the accessible kinematic region, which allows for a controlled study at high $q^2$. The outlook for extending the calculation to lower $q^2$ and for incorporating effects from charmonium resonances is outlined.",
-      "authors": [
-        "Felix Erben",
-        "Matthew Black",
-        "Peter Boyle",
-        "Matteo Di Carlo",
-        "Vera Gülpers",
-        "Maxwell T. Hansen",
-        "Nelson Pitanga Lachini",
-        "Rajnandini Mukherjee",
-        "Antonin Portelli",
-        "J. Tobias Tsang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.17900v1",
-      "link": "https://arxiv.org/abs/2603.17900v1",
-      "published": "2026-03-18T16:33:43Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3130955",
-        "inspire_url": "https://inspirehep.net/literature/3130955",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.15231v1",
-      "title": "Electric Polarizability of Charged Pions from nHYP Four-Point Functions",
-      "summary": "Understanding a hadron's electric and magnetic polarizabilities allows one to access internal structural information. Traditionally, the external field two-point function method has been used to calculate polarizabilities. However, recent work has demonstrated the effectiveness of using four-point functions for computing polarizabilities of charged and neutral hadrons. Our previous study on the electric polarizability of the charged pion used a quenched Wilson action on a lattice with pion mass from 1100 MeV to 370 MeV. In this work, we employ a number of improvements, including a dynamical action (nHYP), smaller pion masses (220 MeV and 315 MeV), and a variable lattice size in order to extrapolate to infinite volume. Preliminary results are presented.",
-      "authors": [
-        "Benjamin Luke",
-        "Sudip Shiwakoti",
-        "Shayan Nadeem",
-        "Andrei Alexandru",
-        "Walter Wilcox",
-        "Frank X. Lee"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.15231v1",
-      "link": "https://arxiv.org/abs/2603.15231v1",
-      "published": "2026-03-16T13:07:10Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129855",
-        "inspire_url": "https://inspirehep.net/literature/3129855",
         "citation_count": 0
       }
     }
