@@ -1,7 +1,48 @@
 {
-  "generated": "2026-03-23T06:41:09.125415+00:00Z",
-  "count": 55,
+  "generated": "2026-03-24T06:40:29.044846+00:00Z",
+  "count": 54,
   "publications": [
+    {
+      "id": "2603.21059v1",
+      "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
+      "summary": "The precise value of the strong coupling $α_s(m_{Z})$ at the $Z$-boson mass $m_{Z}$ is essential for high-energy phenomenology and precision tests of quantum chromodynamics (QCD). We present the status of a program targeting a $\\sim 0.3\\%$ determination of $α_s(m_{Z})$ using the renormalization group $β$-function in the infinite volume gradient flow scheme based on lattice QCD simulations of degenerate four-flavor highly improved staggered quark (HISQ) ensembles. In particular, we analyze both tree-level cutoff effects and finite-mass effects. We also outline the next steps of the analysis, including the infinite-volume and continuum extrapolations required for a precise determination of $α_s(m_Z)$.",
+      "authors": [
+        "Yash Mandlecha",
+        "Alexei Bazavov",
+        "Akhil Chauhan",
+        "Mingwei Dai",
+        "Carleton DeTar",
+        "Aida El-Khadra",
+        "Steven Gottlieb",
+        "Anna Hasenfratz",
+        "Leon Hostetler",
+        "Andreas S. Kronfeld",
+        "Ethan T. Neil",
+        "Curtis T. Peterson",
+        "James Simone"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.21059v1",
+      "link": "https://arxiv.org/abs/2603.21059v1",
+      "published": "2026-03-22T05:01:02Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132761",
+        "inspire_url": "https://inspirehep.net/literature/3132761",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "207",
+            "artid": "207",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2025"
+      }
+    },
     {
       "id": "2603.20157v1",
       "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
@@ -56,6 +97,9 @@
       "inspire": {
         "control_number": "3132388",
         "inspire_url": "https://inspirehep.net/literature/3132388",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -106,30 +150,6 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.17971v1",
-      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
-      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
-      "authors": [
-        "Omar Alsheikh",
-        "A. F. Kemper",
-        "Ermal Rrapaj",
-        "Goksu C. Toga"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.17971v1",
-      "link": "https://arxiv.org/abs/2603.17971v1",
-      "published": "2026-03-18T17:38:05Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.stat-mech",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3130964",
-        "inspire_url": "https://inspirehep.net/literature/3130964",
         "citation_count": 0
       }
     }
