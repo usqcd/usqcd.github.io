@@ -1,7 +1,52 @@
 {
-  "generated": "2026-03-24T06:40:29.044846+00:00Z",
-  "count": 54,
+  "generated": "2026-03-25T06:37:23.425301+00:00Z",
+  "count": 58,
   "publications": [
+    {
+      "id": "2603.23022v1",
+      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
+      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
+      "authors": [
+        "Issaku Kanamori",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Jishnu Goswami",
+        "Shoji Hashimotod",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.23022v1",
+      "link": "https://arxiv.org/abs/2603.23022v1",
+      "published": "2026-03-24T10:05:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133766",
+        "inspire_url": "https://inspirehep.net/literature/3133766",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.22422v1",
+      "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
+      "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.22422v1",
+      "link": "https://arxiv.org/abs/2603.22422v1",
+      "published": "2026-03-23T18:01:03Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133770",
+        "inspire_url": "https://inspirehep.net/literature/3133770",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.21059v1",
       "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
@@ -100,56 +145,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.19192v1",
-      "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
-      "summary": "The role of tetraquark operators in studying the isodoublet strange $κ$ and isovector nonstrange $a_0(980)$ scalar mesons in lattice QCD is examined using an ensemble with $m_π\\approx230$ MeV and spatial extent $L$ such that $m_πL\\approx4.4$. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the $Kη$ sub-system below the $Kη$ threshold. The implications of this on parametrizing the scattering $K$-matrix through a well-known quantization condition to extract properties of the $κ$ and $a_0(980)$ scalar meson resonances are discussed.",
-      "authors": [
-        "Andrew D. Hanlon",
-        "Daniel Darvish",
-        "Sarah Skinner",
-        "John Meneghini",
-        "Ruairí Brett",
-        "John Bulava",
-        "Jacob Fallica",
-        "Colin Morningstar",
-        "Fernando Romero-López",
-        "André Walker-Loud"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.19192v1",
-      "link": "https://arxiv.org/abs/2603.19192v1",
-      "published": "2026-03-19T17:49:16Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3131517",
-        "inspire_url": "https://inspirehep.net/literature/3131517",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.18438v1",
-      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
-      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
-      "authors": [
-        "Callum Farrell",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.18438v1",
-      "link": "https://arxiv.org/abs/2603.18438v1",
-      "published": "2026-03-19T02:56:21Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3131487",
-        "inspire_url": "https://inspirehep.net/literature/3131487",
         "citation_count": 0
       }
     }

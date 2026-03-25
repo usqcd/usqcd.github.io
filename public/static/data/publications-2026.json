@@ -1,7 +1,52 @@
 {
-  "generated": "2026-03-24T06:40:28.980817+00:00Z",
-  "count": 54,
+  "generated": "2026-03-25T06:37:23.364893+00:00Z",
+  "count": 58,
   "publications": [
+    {
+      "id": "2603.23022v1",
+      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
+      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
+      "authors": [
+        "Issaku Kanamori",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Jishnu Goswami",
+        "Shoji Hashimotod",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.23022v1",
+      "link": "https://arxiv.org/abs/2603.23022v1",
+      "published": "2026-03-24T10:05:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133766",
+        "inspire_url": "https://inspirehep.net/literature/3133766",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.22422v1",
+      "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
+      "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.22422v1",
+      "link": "https://arxiv.org/abs/2603.22422v1",
+      "published": "2026-03-23T18:01:03Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133770",
+        "inspire_url": "https://inspirehep.net/literature/3133770",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.21059v1",
       "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
@@ -581,7 +626,7 @@
       "inspire": {
         "control_number": "3124602",
         "inspire_url": "https://inspirehep.net/literature/3124602",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -808,6 +853,28 @@
       }
     },
     {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2602.20373v2",
       "title": "Resolving the structure of bound states using lattice quantum field theories",
       "summary": "This work presents the first lattice calculation of a two-to-two particle matrix element of a local current. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteron-like bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, $\\2+\\Jc \\to \\2$. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-volume form factor. By varying over a range of values of the coupling of the theory, we explore the effects of this analysis for deep-bound states and shallow-bound states. We reproduce the expected result that for deep bound states, the finite-volume formalism is largely unnecessary, while for shallow bound states, it is absolutely critical to obtain a sensible result. We present a detailed outline of the analysis of this class of matrix elements, including the determination of the charge radius of the bound state. In the shallow bound state limit, we find good agreement with the prediction stemming from the anomalous threshold.",
@@ -1011,6 +1078,30 @@
       "inspire": {
         "control_number": "3118097",
         "inspire_url": "https://inspirehep.net/literature/3118097",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.02436v1",
+      "title": "Wilson loops with neural networks",
+      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
+      "authors": [
+        "Verena Bellscheidt",
+        "Nora Brambilla",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.02436v1",
+      "link": "https://arxiv.org/abs/2602.02436v1",
+      "published": "2026-02-02T18:33:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113673",
+        "inspire_url": "https://inspirehep.net/literature/3113673",
         "citation_count": 0
       }
     },
