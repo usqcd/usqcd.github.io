@@ -1,7 +1,36 @@
 {
-  "generated": "2026-03-25T06:37:23.364893+00:00Z",
-  "count": 58,
+  "generated": "2026-03-26T06:40:03.710193+00:00Z",
+  "count": 59,
   "publications": [
+    {
+      "id": "2603.23702v1",
+      "title": "$B \\to π$, $B_{(s)} \\to D_{(s)}$ from 2+1+1 Flavor Lattice QCD",
+      "summary": "We present a lattice-QCD calculation of the hadronic form factors for $B$-meson semileptonic decays computed using the highly improved staggered quark action for both valence and sea quarks on the MILC collaborations 2+1+1-flavor ensembles with lattice spacing ranging from 0.09 fm to 0.03 fm, many with physical pion masses On our finest ensembles, we compute the form factors directly at the physical $b$-quark mass. We discuss the computational setup and analysis strategies for two- and three-point correlation functions. For $B_{(s)} \\to D_{(s)}$ we present preliminary results of chiral-continuum fits for the scalar and vector form factors. The goal of this project is a percent-level determination of the scalar and vector form factors to enable high-precision determinations of $|V_{cb}|$. This work fits into a broader program of lattice-QCD studies of weak $B$-meson decays by the Fermilab Lattice and MILC Collaborations.",
+      "authors": [
+        "Nicholas Cassar",
+        "Akhil Chauhan",
+        "Carleton DeTar",
+        "Aida El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "William I. Jay",
+        "Andreas S. Kronfeld",
+        "Jack Laiho",
+        "Andrew Lytle",
+        "Alejandro Vaquero"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.23702v1",
+      "link": "https://arxiv.org/abs/2603.23702v1",
+      "published": "2026-03-24T20:43:08Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3134068",
+        "inspire_url": "https://inspirehep.net/literature/3134068",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.23022v1",
       "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
@@ -358,7 +387,7 @@
       "inspire": {
         "control_number": "3129090",
         "inspire_url": "https://inspirehep.net/literature/3129090",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -607,7 +636,7 @@
       "inspire": {
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
