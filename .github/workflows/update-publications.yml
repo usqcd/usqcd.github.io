@@ -30,12 +30,14 @@ jobs:
           pip install requests
 
       - name: Run arXiv fetch for current year
+        id: fetch
         run: |
           python3 scripts/fetch_arxiv_inspire.py \
             --year $(date -u +%Y) \
             --delay 3.0 
 
       - name: Commit & push updated data (using PAT)
+        if: success()
         env:
           GH_PAGES_PAT: ${{ secrets.GH_PAGES_PAT }}
         run: |
