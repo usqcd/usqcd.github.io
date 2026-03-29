@@ -1,5 +1,152 @@
 {
-  "generated": "2026-03-29T06:44:07.170974+00:00Z",
-  "count": 0,
-  "publications": []
+  "generated": "2026-03-25T06:37:23.425301+00:00Z",
+  "count": 58,
+  "publications": [
+    {
+      "id": "2603.23022v1",
+      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
+      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
+      "authors": [
+        "Issaku Kanamori",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Jishnu Goswami",
+        "Shoji Hashimotod",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.23022v1",
+      "link": "https://arxiv.org/abs/2603.23022v1",
+      "published": "2026-03-24T10:05:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133766",
+        "inspire_url": "https://inspirehep.net/literature/3133766",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.22422v1",
+      "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
+      "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.22422v1",
+      "link": "https://arxiv.org/abs/2603.22422v1",
+      "published": "2026-03-23T18:01:03Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133770",
+        "inspire_url": "https://inspirehep.net/literature/3133770",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.21059v1",
+      "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
+      "summary": "The precise value of the strong coupling $α_s(m_{Z})$ at the $Z$-boson mass $m_{Z}$ is essential for high-energy phenomenology and precision tests of quantum chromodynamics (QCD). We present the status of a program targeting a $\\sim 0.3\\%$ determination of $α_s(m_{Z})$ using the renormalization group $β$-function in the infinite volume gradient flow scheme based on lattice QCD simulations of degenerate four-flavor highly improved staggered quark (HISQ) ensembles. In particular, we analyze both tree-level cutoff effects and finite-mass effects. We also outline the next steps of the analysis, including the infinite-volume and continuum extrapolations required for a precise determination of $α_s(m_Z)$.",
+      "authors": [
+        "Yash Mandlecha",
+        "Alexei Bazavov",
+        "Akhil Chauhan",
+        "Mingwei Dai",
+        "Carleton DeTar",
+        "Aida El-Khadra",
+        "Steven Gottlieb",
+        "Anna Hasenfratz",
+        "Leon Hostetler",
+        "Andreas S. Kronfeld",
+        "Ethan T. Neil",
+        "Curtis T. Peterson",
+        "James Simone"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.21059v1",
+      "link": "https://arxiv.org/abs/2603.21059v1",
+      "published": "2026-03-22T05:01:02Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132761",
+        "inspire_url": "https://inspirehep.net/literature/3132761",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "207",
+            "artid": "207",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2025"
+      }
+    },
+    {
+      "id": "2603.20157v1",
+      "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
+      "summary": "We develop a one-class, deep-learning framework to detect the phase transition and recover critical behavior of the 3D Ising model. A 3D convolutional neural network autoencoder (CAE) is trained on ground-state configurations only, without prior knowledge of the critical temperature, the Hamiltonian, or the order parameter. After training, the model is applied to Monte Carlo configurations across a wide temperature range and different lattice sizes. The mean-square reconstruction error is shown to be sensitive to the transition. Finite-size scaling of the peak location for the reconstruction error susceptibility yields the critical temperature $T_c=4.5128(58)$ and the correlation-length critical exponent $ν=0.63(27)$, consistent with results from the literature. Our results show that a one-class CAE, trained on zero-temperature configurations only, can recover nontrivial critical behavior of the 3D Ising model.",
+      "authors": [
+        "Ahmed Abuali",
+        "David A. Clarke",
+        "Morten Hjorth-Jensen",
+        "Ioannis Konstantinidis",
+        "Claudia Ratti",
+        "Jianyi Yang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.20157v1",
+      "link": "https://arxiv.org/abs/2603.20157v1",
+      "published": "2026-03-20T17:31:41Z",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "nucl-th",
+        "physics.data-an"
+      ],
+      "inspire": {
+        "control_number": "3132368",
+        "inspire_url": "https://inspirehep.net/literature/3132368",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.19960v1",
+      "title": "Real radiative decays of heavy pseudoscalar mesons",
+      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
+      "authors": [
+        "Teseo San Jose",
+        "Yasumichi Aoki",
+        "Matteo Di Carlo",
+        "Felix Erben",
+        "Vera Gülpers",
+        "Maxwell T. Hansen",
+        "Shoji Hashimoto",
+        "Nils Hermansson-Truedsson",
+        "Ryan Hill",
+        "Takashi Kaneko",
+        "Antonin Portelli",
+        "Justus Tobias Tsang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.19960v1",
+      "link": "https://arxiv.org/abs/2603.19960v1",
+      "published": "2026-03-20T14:01:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132388",
+        "inspire_url": "https://inspirehep.net/literature/3132388",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    }
+  ]
 }
