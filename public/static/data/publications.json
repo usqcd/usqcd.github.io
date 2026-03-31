@@ -1,11 +1,114 @@
 {
-  "generated": "2026-03-30T08:48:09.155867+00:00Z",
-  "count": 50,
+  "generated": "2026-03-31T06:51:01.769596+00:00Z",
+  "count": 63,
   "publications": [
     {
-      "id": "2603.23702v1",
+      "id": "2603.28517v1",
+      "title": "Heavy-Meson Bag Parameters using Gradient Flow",
+      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28517v1",
+      "link": "https://arxiv.org/abs/2603.28517v1",
+      "published": "2026-03-30T14:47:45Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3137111",
+        "inspire_url": "https://inspirehep.net/literature/3137111",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.28516v1",
+      "title": "Bag Parameters for Heavy Meson Lifetimes",
+      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28516v1",
+      "link": "https://arxiv.org/abs/2603.28516v1",
+      "published": "2026-03-30T14:47:42Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3137099",
+        "inspire_url": "https://inspirehep.net/literature/3137099",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.27608v1",
+      "title": "Domain wall fermions",
+      "summary": "We introduce the formulation of domain wall fermions in the context of lattice QCD. We prove the recovery of exact chiral symmetry in the limit of an infinite fifth direction, and derive the effective four-dimensional operator satisfying the Ginsparg-Wilson relation obtained in this limit. We discuss the residual breaking of chiral symmetry for finite extent of the fifth direction, and how it is affected by spectral features of the Wilson kernel. We also discuss various improvements of domain wall fermions including notably Möbius fermions. These notes are a chapter contributed to the on-line book ``Lattice QCD at 50 years'' (LQCD@50).",
+      "authors": [
+        "Thomas Blum",
+        "Yigal Shamir"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.27608v1",
+      "link": "https://arxiv.org/abs/2603.27608v1",
+      "published": "2026-03-29T10:02:10Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3137098",
+        "inspire_url": "https://inspirehep.net/literature/3137098",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.24698v1",
+      "title": "String-breaking statics and dynamics in a (1+1)D SU(2) lattice gauge theory",
+      "summary": "String breaking is at the core of hadronization models of relevance to particle colliders. Yet, studies of string-breaking dynamics rooted in quantum chromodynamics remain fundamentally challenging. Tensor networks enable sign-problem-free studies of static and dynamical properties of lattice gauge theories. In this work, we develop and apply a tensor-network toolkit based on the loop-string-hadron formulation of an SU(2) lattice gauge theory in 1+1 dimensions with dynamical fermions. We apply this toolkit to study static and dynamical aspects of strings and their breaking in this theory. The simple, gauge-invariant, and local structure of the loop-string-hadron states and constraints removes the need to impose non-Abelian constraints in the algorithm, and allows for a systematic computation of observables at increasingly large bosonic cutoffs, and toward the infinite-volume and continuum limits. Our study of static strings yields a determination of the string tension in the continuum and thermodynamic limits. Our study of dynamical string breaking, performed at a fixed lattice spacing and system size, illuminates underlying processes at play during the quench dynamics of a string. The loop, string, and hadron description offers a systematic and intuitive way to diagnose these processes, including string expansion and contraction, endpoint splitting and particle shower, chain scattering events, and inelastic processes resulting from string dissociation and recombination, and particle production. We relate these processes to several features of the dynamics, such as energy transport, entanglement-entropy production, and correlation spreading. This work opens the way to future tensor-network studies of string breaking and particle production in increasingly complex lattice gauge theories.",
+      "authors": [
+        "Navya Gupta",
+        "Emil Mathew",
+        "Saurabh V. Kadam",
+        "Jesse R. Stryker",
+        "Aniruddha Bapat",
+        "Niklas Mueller",
+        "Zohreh Davoudi",
+        "Indrakshi Raychowdhury"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.24698v1",
+      "link": "https://arxiv.org/abs/2603.24698v1",
+      "published": "2026-03-25T18:21:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3136536",
+        "inspire_url": "https://inspirehep.net/literature/3136536",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.23702v2",
       "title": "$B \\to π$, $B_{(s)} \\to D_{(s)}$ from 2+1+1 Flavor Lattice QCD",
-      "summary": "We present a lattice-QCD calculation of the hadronic form factors for $B$-meson semileptonic decays computed using the highly improved staggered quark action for both valence and sea quarks on the MILC collaborations 2+1+1-flavor ensembles with lattice spacing ranging from 0.09 fm to 0.03 fm, many with physical pion masses On our finest ensembles, we compute the form factors directly at the physical $b$-quark mass. We discuss the computational setup and analysis strategies for two- and three-point correlation functions. For $B_{(s)} \\to D_{(s)}$ we present preliminary results of chiral-continuum fits for the scalar and vector form factors. The goal of this project is a percent-level determination of the scalar and vector form factors to enable high-precision determinations of $|V_{cb}|$. This work fits into a broader program of lattice-QCD studies of weak $B$-meson decays by the Fermilab Lattice and MILC Collaborations.",
+      "summary": "We present a lattice-QCD calculation of the hadronic form factors for $B$-meson semileptonic decays computed using the highly improved staggered quark action for both valence and sea quarks on the MILC collaborations 2+1+1-flavor ensembles with lattice spacing ranging from 0.09 fm to 0.03 fm, many with physical pion masses On our finest ensembles, we compute the form factors directly at the physical $b$-quark mass. We discuss the computational setup and analysis strategies for two- and three-point correlation functions. For $B_{(s)} \\to D_{(s)}$ we present preliminary results of chiral-continuum fits for the scalar and vector form factors. The goal of this project is a percent-level determination of the scalar and vector form factors to enable high-precision determinations of $|V_{ub}|$ and $|V_{cb}|$. This work fits into a broader program of lattice-QCD studies of weak $B$-meson decays by the Fermilab Lattice and MILC Collaborations.",
       "authors": [
         "Nicholas Cassar",
         "Akhil Chauhan",
@@ -19,8 +122,8 @@
         "Andrew Lytle",
         "Alejandro Vaquero"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.23702v1",
-      "link": "https://arxiv.org/abs/2603.23702v1",
+      "pdf": "https://arxiv.org/pdf/2603.23702v2",
+      "link": "https://arxiv.org/abs/2603.23702v2",
       "published": "2026-03-24T20:43:08Z",
       "categories": [
         "hep-lat"
@@ -28,123 +131,6 @@
       "inspire": {
         "control_number": "3134068",
         "inspire_url": "https://inspirehep.net/literature/3134068",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.22422v1",
-      "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
-      "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
-      "authors": [
-        "Erik J. Gustafson",
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.22422v1",
-      "link": "https://arxiv.org/abs/2603.22422v1",
-      "published": "2026-03-23T18:01:03Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3133770",
-        "inspire_url": "https://inspirehep.net/literature/3133770",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.21059v1",
-      "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
-      "summary": "The precise value of the strong coupling $α_s(m_{Z})$ at the $Z$-boson mass $m_{Z}$ is essential for high-energy phenomenology and precision tests of quantum chromodynamics (QCD). We present the status of a program targeting a $\\sim 0.3\\%$ determination of $α_s(m_{Z})$ using the renormalization group $β$-function in the infinite volume gradient flow scheme based on lattice QCD simulations of degenerate four-flavor highly improved staggered quark (HISQ) ensembles. In particular, we analyze both tree-level cutoff effects and finite-mass effects. We also outline the next steps of the analysis, including the infinite-volume and continuum extrapolations required for a precise determination of $α_s(m_Z)$.",
-      "authors": [
-        "Yash Mandlecha",
-        "Alexei Bazavov",
-        "Akhil Chauhan",
-        "Mingwei Dai",
-        "Carleton DeTar",
-        "Aida El-Khadra",
-        "Steven Gottlieb",
-        "Anna Hasenfratz",
-        "Leon Hostetler",
-        "Andreas S. Kronfeld",
-        "Ethan T. Neil",
-        "Curtis T. Peterson",
-        "James Simone"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.21059v1",
-      "link": "https://arxiv.org/abs/2603.21059v1",
-      "published": "2026-03-22T05:01:02Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3132761",
-        "inspire_url": "https://inspirehep.net/literature/3132761",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "207",
-            "artid": "207",
-            "year": 2025
-          }
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2025"
-      }
-    },
-    {
-      "id": "2603.20157v1",
-      "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
-      "summary": "We develop a one-class, deep-learning framework to detect the phase transition and recover critical behavior of the 3D Ising model. A 3D convolutional neural network autoencoder (CAE) is trained on ground-state configurations only, without prior knowledge of the critical temperature, the Hamiltonian, or the order parameter. After training, the model is applied to Monte Carlo configurations across a wide temperature range and different lattice sizes. The mean-square reconstruction error is shown to be sensitive to the transition. Finite-size scaling of the peak location for the reconstruction error susceptibility yields the critical temperature $T_c=4.5128(58)$ and the correlation-length critical exponent $ν=0.63(27)$, consistent with results from the literature. Our results show that a one-class CAE, trained on zero-temperature configurations only, can recover nontrivial critical behavior of the 3D Ising model.",
-      "authors": [
-        "Ahmed Abuali",
-        "David A. Clarke",
-        "Morten Hjorth-Jensen",
-        "Ioannis Konstantinidis",
-        "Claudia Ratti",
-        "Jianyi Yang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.20157v1",
-      "link": "https://arxiv.org/abs/2603.20157v1",
-      "published": "2026-03-20T17:31:41Z",
-      "categories": [
-        "cond-mat.stat-mech",
-        "hep-lat",
-        "nucl-th",
-        "physics.data-an"
-      ],
-      "inspire": {
-        "control_number": "3132368",
-        "inspire_url": "https://inspirehep.net/literature/3132368",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.19192v1",
-      "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
-      "summary": "The role of tetraquark operators in studying the isodoublet strange $κ$ and isovector nonstrange $a_0(980)$ scalar mesons in lattice QCD is examined using an ensemble with $m_π\\approx230$ MeV and spatial extent $L$ such that $m_πL\\approx4.4$. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the $Kη$ sub-system below the $Kη$ threshold. The implications of this on parametrizing the scattering $K$-matrix through a well-known quantization condition to extract properties of the $κ$ and $a_0(980)$ scalar meson resonances are discussed.",
-      "authors": [
-        "Andrew D. Hanlon",
-        "Daniel Darvish",
-        "Sarah Skinner",
-        "John Meneghini",
-        "Ruairí Brett",
-        "John Bulava",
-        "Jacob Fallica",
-        "Colin Morningstar",
-        "Fernando Romero-López",
-        "André Walker-Loud"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.19192v1",
-      "link": "https://arxiv.org/abs/2603.19192v1",
-      "published": "2026-03-19T17:49:16Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3131517",
-        "inspire_url": "https://inspirehep.net/literature/3131517",
         "citation_count": 0
       }
     }
