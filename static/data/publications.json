@@ -1,7 +1,88 @@
 {
-  "generated": "2026-04-01T06:55:18.099306+00:00Z",
+  "generated": "2026-04-02T07:11:54.404158+00:00Z",
   "count": 64,
   "publications": [
+    {
+      "id": "2604.01097v1",
+      "title": "Strong coupling constant from 1-loop improved static energy",
+      "summary": "The static energy is an excellent observable for extracting the strong coupling $α_s$ on the lattice. For short distances, the static energy can be calculated both on the lattice using Wilson line correlators, and with perturbation theory up to three loop accuracy with leading ultrasoft log resummation. Comparing the perturbative expression and lattice data allows for precise determination of $α_s$. We present early results for 1-loop lattice perturbation theory improvement of the Wilson loop and show how it improves the $α_s$ extraction. We present a preliminary reanalysis of the TUMQCD (2+1)-flavor QCD data.",
+      "authors": [
+        "Viljami Leino",
+        "Alexei Bazavov",
+        "Nora Brambilla",
+        "Georg von Hippel",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte",
+        "Peter Petreczky",
+        "Sipaz Sharma",
+        "Sebastian Steinbeißer",
+        "Antonio Vairo",
+        "Johannes H. Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.01097v1",
+      "link": "https://arxiv.org/abs/2604.01097v1",
+      "published": "2026-04-01T16:23:25Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3138458",
+        "inspire_url": "https://inspirehep.net/literature/3138458",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.00143v1",
+      "title": "Proton isovector helicity PDF at NNLO and the twist-3 moment $\\tilde{d}_2$ from lattice QCD at physical quark masses",
+      "summary": "We present a lattice quantum chromodynamics calculation of the $x$-dependent isovector quark helicity parton distribution function (PDF) of the proton in the large momentum effective theory (LaMET) framework. Through operator product expansion (OPE) we also extract the $\\tilde{d}_2$ moment of the twist-3 PDF $g_T(x)$ for the first time in the $\\overline{\\rm MS}$ scheme, which is proportional to the average color Lorentz force experienced by the quark in the proton. This calculation is performed on a lattice of spacing $a$ = 0.076 fm at physical quark masses. The quasi-PDF matrix elements are measured in proton states boosted to momenta $P_z=\\{0, 0.25, 1.02, 1.53\\}$ GeV. We first extract the lowest few helicity PDF moments from the renormalization-group (RG) invariant ratios of the matrix elements with OPE. Combined with the matrix elements relevant for $g_T(x)$, we obtain $\\tilde{d}_2^{u-d}(2\\ {\\rm GeV})=0.0024(46)$ at next-to-leading order in $\\overline{\\rm MS}$. Then, the helicity quasi-PDF matrix elements are renormalized in the hybrid scheme with linear renormalon resummation and Fourier transformed to the $x$-space after an asymptotic extrapolation. The quasi-PDF is perturbatively matched to the $\\overline{\\rm MS}$ PDF with RG and threshold resummations at next-to-leading power and next-to-next-to-leading logarithmic accuracies. After resummations, we determine the PDF in the region $x\\in[0.25,0.75]$ with controlled systematic uncertainties. The end-point regions are then parameterized, combined with the LaMET prediction at moderate $x$, and fitted to the short-distance matrix elements in coordinate space.",
+      "authors": [
+        "Xiang Gao",
+        "Andrew D. Hanlon",
+        "Swagato Mukherjee",
+        "Peter Petreczky",
+        "Hai-Tao Shu",
+        "Fei Yao",
+        "Rui Zhang",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.00143v1",
+      "link": "https://arxiv.org/abs/2604.00143v1",
+      "published": "2026-03-31T18:50:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3138451",
+        "inspire_url": "https://inspirehep.net/literature/3138451",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.00127v1",
+      "title": "Scattering phase shift in quantum mechanics on quantum computers: non-Hermitian systems and imaginary-time simulations",
+      "summary": "To overcome the fast oscillatory behavior of correlation functions for extracting scattering phase shift in real-time quantum simulations encountered in Ref.\\cite{Guo:2026qkx}, we propose and test two solutions in the present work. One is to simulate Hermitian systems in imaginary time, the other is to simulate non-Hermitian systems in real time. We demonstrate that both approaches lead to the problem of non-unitary quantum evolution which can be solved by combining two quantum algorithms: block encoding and Hadamard test. The combined quantum algorithm does not require mid-circuit measurements or adjustment of the input parameters of the Hamiltonian, and can be easily implemented on quantum computers. Both the size and length of quantum circuits grow linearly with evolution time. Numerical tests on quantum simulators show that both approaches agree with exact solutions for a sufficiently long time before the signal is lost in statistical fluctuations. The results bode well for using non-Hermitian and imaginary-time simulations to circumvent oscillations inherent in real-time simulation of other quantum systems.",
+      "authors": [
+        "Peng Guo",
+        "Paul LeVan",
+        "Frank X. Lee",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.00127v1",
+      "link": "https://arxiv.org/abs/2604.00127v1",
+      "published": "2026-03-31T18:31:53Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.other",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3138452",
+        "inspire_url": "https://inspirehep.net/literature/3138452",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.29091v1",
       "title": "Ether of Orbifolds",
@@ -44,80 +125,6 @@
       "inspire": {
         "control_number": "3137590",
         "inspire_url": "https://inspirehep.net/literature/3137590",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.28517v1",
-      "title": "Heavy-Meson Bag Parameters using Gradient Flow",
-      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
-      "authors": [
-        "Matthew Black",
-        "Robert V. Harlander",
-        "Jonas T. Kohnen",
-        "Fabian Lange",
-        "Antonio Rago",
-        "Andrea Shindler",
-        "Oliver Witzel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.28517v1",
-      "link": "https://arxiv.org/abs/2603.28517v1",
-      "published": "2026-03-30T14:47:45Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3137111",
-        "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.28516v1",
-      "title": "Bag Parameters for Heavy Meson Lifetimes",
-      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
-      "authors": [
-        "Matthew Black",
-        "Robert V. Harlander",
-        "Jonas T. Kohnen",
-        "Fabian Lange",
-        "Antonio Rago",
-        "Andrea Shindler",
-        "Oliver Witzel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.28516v1",
-      "link": "https://arxiv.org/abs/2603.28516v1",
-      "published": "2026-03-30T14:47:42Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3137099",
-        "inspire_url": "https://inspirehep.net/literature/3137099",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.27608v1",
-      "title": "Domain wall fermions",
-      "summary": "We introduce the formulation of domain wall fermions in the context of lattice QCD. We prove the recovery of exact chiral symmetry in the limit of an infinite fifth direction, and derive the effective four-dimensional operator satisfying the Ginsparg-Wilson relation obtained in this limit. We discuss the residual breaking of chiral symmetry for finite extent of the fifth direction, and how it is affected by spectral features of the Wilson kernel. We also discuss various improvements of domain wall fermions including notably Möbius fermions. These notes are a chapter contributed to the on-line book ``Lattice QCD at 50 years'' (LQCD@50).",
-      "authors": [
-        "Thomas Blum",
-        "Yigal Shamir"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.27608v1",
-      "link": "https://arxiv.org/abs/2603.27608v1",
-      "published": "2026-03-29T10:02:10Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3137098",
-        "inspire_url": "https://inspirehep.net/literature/3137098",
         "citation_count": 0
       }
     }
