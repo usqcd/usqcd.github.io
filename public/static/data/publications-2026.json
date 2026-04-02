@@ -1,7 +1,88 @@
 {
-  "generated": "2026-04-01T06:55:18.045727+00:00Z",
+  "generated": "2026-04-02T07:11:54.344926+00:00Z",
   "count": 64,
   "publications": [
+    {
+      "id": "2604.01097v1",
+      "title": "Strong coupling constant from 1-loop improved static energy",
+      "summary": "The static energy is an excellent observable for extracting the strong coupling $α_s$ on the lattice. For short distances, the static energy can be calculated both on the lattice using Wilson line correlators, and with perturbation theory up to three loop accuracy with leading ultrasoft log resummation. Comparing the perturbative expression and lattice data allows for precise determination of $α_s$. We present early results for 1-loop lattice perturbation theory improvement of the Wilson loop and show how it improves the $α_s$ extraction. We present a preliminary reanalysis of the TUMQCD (2+1)-flavor QCD data.",
+      "authors": [
+        "Viljami Leino",
+        "Alexei Bazavov",
+        "Nora Brambilla",
+        "Georg von Hippel",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte",
+        "Peter Petreczky",
+        "Sipaz Sharma",
+        "Sebastian Steinbeißer",
+        "Antonio Vairo",
+        "Johannes H. Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.01097v1",
+      "link": "https://arxiv.org/abs/2604.01097v1",
+      "published": "2026-04-01T16:23:25Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3138458",
+        "inspire_url": "https://inspirehep.net/literature/3138458",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.00143v1",
+      "title": "Proton isovector helicity PDF at NNLO and the twist-3 moment $\\tilde{d}_2$ from lattice QCD at physical quark masses",
+      "summary": "We present a lattice quantum chromodynamics calculation of the $x$-dependent isovector quark helicity parton distribution function (PDF) of the proton in the large momentum effective theory (LaMET) framework. Through operator product expansion (OPE) we also extract the $\\tilde{d}_2$ moment of the twist-3 PDF $g_T(x)$ for the first time in the $\\overline{\\rm MS}$ scheme, which is proportional to the average color Lorentz force experienced by the quark in the proton. This calculation is performed on a lattice of spacing $a$ = 0.076 fm at physical quark masses. The quasi-PDF matrix elements are measured in proton states boosted to momenta $P_z=\\{0, 0.25, 1.02, 1.53\\}$ GeV. We first extract the lowest few helicity PDF moments from the renormalization-group (RG) invariant ratios of the matrix elements with OPE. Combined with the matrix elements relevant for $g_T(x)$, we obtain $\\tilde{d}_2^{u-d}(2\\ {\\rm GeV})=0.0024(46)$ at next-to-leading order in $\\overline{\\rm MS}$. Then, the helicity quasi-PDF matrix elements are renormalized in the hybrid scheme with linear renormalon resummation and Fourier transformed to the $x$-space after an asymptotic extrapolation. The quasi-PDF is perturbatively matched to the $\\overline{\\rm MS}$ PDF with RG and threshold resummations at next-to-leading power and next-to-next-to-leading logarithmic accuracies. After resummations, we determine the PDF in the region $x\\in[0.25,0.75]$ with controlled systematic uncertainties. The end-point regions are then parameterized, combined with the LaMET prediction at moderate $x$, and fitted to the short-distance matrix elements in coordinate space.",
+      "authors": [
+        "Xiang Gao",
+        "Andrew D. Hanlon",
+        "Swagato Mukherjee",
+        "Peter Petreczky",
+        "Hai-Tao Shu",
+        "Fei Yao",
+        "Rui Zhang",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.00143v1",
+      "link": "https://arxiv.org/abs/2604.00143v1",
+      "published": "2026-03-31T18:50:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3138451",
+        "inspire_url": "https://inspirehep.net/literature/3138451",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.00127v1",
+      "title": "Scattering phase shift in quantum mechanics on quantum computers: non-Hermitian systems and imaginary-time simulations",
+      "summary": "To overcome the fast oscillatory behavior of correlation functions for extracting scattering phase shift in real-time quantum simulations encountered in Ref.\\cite{Guo:2026qkx}, we propose and test two solutions in the present work. One is to simulate Hermitian systems in imaginary time, the other is to simulate non-Hermitian systems in real time. We demonstrate that both approaches lead to the problem of non-unitary quantum evolution which can be solved by combining two quantum algorithms: block encoding and Hadamard test. The combined quantum algorithm does not require mid-circuit measurements or adjustment of the input parameters of the Hamiltonian, and can be easily implemented on quantum computers. Both the size and length of quantum circuits grow linearly with evolution time. Numerical tests on quantum simulators show that both approaches agree with exact solutions for a sufficiently long time before the signal is lost in statistical fluctuations. The results bode well for using non-Hermitian and imaginary-time simulations to circumvent oscillations inherent in real-time simulation of other quantum systems.",
+      "authors": [
+        "Peng Guo",
+        "Paul LeVan",
+        "Frank X. Lee",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.00127v1",
+      "link": "https://arxiv.org/abs/2604.00127v1",
+      "published": "2026-03-31T18:31:53Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.other",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3138452",
+        "inspire_url": "https://inspirehep.net/literature/3138452",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2603.29091v1",
       "title": "Ether of Orbifolds",
@@ -749,27 +830,6 @@
       }
     },
     {
-      "id": "2603.01259v1",
-      "title": "$T_{cc}$ pole trajectory",
-      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
-      "authors": [
-        "Protick Mohanta",
-        "Srijit Paul",
-        "Subhasish Basak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.01259v1",
-      "link": "https://arxiv.org/abs/2603.01259v1",
-      "published": "2026-03-01T20:31:13Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124604",
-        "inspire_url": "https://inspirehep.net/literature/3124604",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.01215v1",
       "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
       "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
@@ -1033,6 +1093,28 @@
       "inspire": {
         "control_number": "3123845",
         "inspire_url": "https://inspirehep.net/literature/3123845",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
         "citation_count": 0
       }
     },
@@ -1322,34 +1404,6 @@
       }
     },
     {
-      "id": "2601.21232v1",
-      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
-      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
-      "authors": [
-        "Joaquin Grefa",
-        "Chun Yue Tsang",
-        "Rajesh Kumar",
-        "Veronica Dexheimer",
-        "Claudia Ratti",
-        "Zhangbu Xu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21232v1",
-      "link": "https://arxiv.org/abs/2601.21232v1",
-      "published": "2026-01-29T03:49:43Z",
-      "categories": [
-        "nucl-th",
-        "hep-ex",
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3112888",
-        "inspire_url": "https://inspirehep.net/literature/3112888",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.21155v1",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -1502,61 +1556,6 @@
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.08825v1",
-      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
-      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. We examine a suite of quantum complexity measures using Matrix Product States to dissect the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
-      "authors": [
-        "Sebastian Grieninger",
-        "Martin J. Savage",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.08825v1",
-      "link": "https://arxiv.org/abs/2601.08825v1",
-      "published": "2026-01-13T18:57:53Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3103920",
-        "inspire_url": "https://inspirehep.net/literature/3103920",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.07987v1",
-      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
-      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
-      "authors": [
-        "Yumu Yang",
-        "Prachi Garella",
-        "Musa R. Khan",
-        "Tulio E. Restrepo",
-        "Joaquin Grefa",
-        "Johannes Jahan",
-        "Mauricio Hippert",
-        "Jorge Noronha",
-        "Claudia Ratti",
-        "Romulo Rougemont"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.07987v1",
-      "link": "https://arxiv.org/abs/2601.07987v1",
-      "published": "2026-01-12T20:37:09Z",
-      "categories": [
-        "nucl-th",
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3103918",
-        "inspire_url": "https://inspirehep.net/literature/3103918",
-        "citation_count": 0
       }
     },
     {
