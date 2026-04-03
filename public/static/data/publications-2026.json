@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T07:11:54.344926+00:00Z",
-  "count": 64,
+  "generated": "2026-04-03T06:48:37.563138+00:00Z",
+  "count": 68,
   "publications": [
     {
       "id": "2604.01097v1",
@@ -830,6 +830,27 @@
       }
     },
     {
+      "id": "2603.01259v1",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v1",
+      "link": "https://arxiv.org/abs/2603.01259v1",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2603.01215v1",
       "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
       "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
@@ -1404,6 +1425,34 @@
       }
     },
     {
+      "id": "2601.21232v1",
+      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
+      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
+      "authors": [
+        "Joaquin Grefa",
+        "Chun Yue Tsang",
+        "Rajesh Kumar",
+        "Veronica Dexheimer",
+        "Claudia Ratti",
+        "Zhangbu Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21232v1",
+      "link": "https://arxiv.org/abs/2601.21232v1",
+      "published": "2026-01-29T03:49:43Z",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3112888",
+        "inspire_url": "https://inspirehep.net/literature/3112888",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2601.21155v1",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -1556,6 +1605,61 @@
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.08825v1",
+      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
+      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. We examine a suite of quantum complexity measures using Matrix Product States to dissect the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
+      "authors": [
+        "Sebastian Grieninger",
+        "Martin J. Savage",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.08825v1",
+      "link": "https://arxiv.org/abs/2601.08825v1",
+      "published": "2026-01-13T18:57:53Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3103920",
+        "inspire_url": "https://inspirehep.net/literature/3103920",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.07987v1",
+      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
+      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
+      "authors": [
+        "Yumu Yang",
+        "Prachi Garella",
+        "Musa R. Khan",
+        "Tulio E. Restrepo",
+        "Joaquin Grefa",
+        "Johannes Jahan",
+        "Mauricio Hippert",
+        "Jorge Noronha",
+        "Claudia Ratti",
+        "Romulo Rougemont"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.07987v1",
+      "link": "https://arxiv.org/abs/2601.07987v1",
+      "published": "2026-01-12T20:37:09Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3103918",
+        "inspire_url": "https://inspirehep.net/literature/3103918",
+        "citation_count": 0
       }
     },
     {
