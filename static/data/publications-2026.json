@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T06:41:58.028684+00:00Z",
-  "count": 66,
+  "generated": "2026-04-05T06:44:02.779766+00:00Z",
+  "count": 68,
   "publications": [
     {
       "id": "2604.01097v1",
@@ -798,6 +798,34 @@
       "inspire": {
         "control_number": "3125285",
         "inspire_url": "https://inspirehep.net/literature/3125285",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.02739v1",
+      "title": "Tensor renormalization group approach to the $O(2)$ models via symmetry-twisted partition functions",
+      "summary": "We investigate critical phenomena in the $O(2)$ models using symmetry-twisted partition functions that can be efficiently computed within the tensor renormalization group framework. We first demonstrate, taking the three-dimensional model as an example, that symmetry-twisted partition functions detect the spontaneous breaking of global continuous symmetry. We then consider the same model in two dimensions, where the Berezinskii--Kosterlitz--Thouless (BKT) transition occurs. Since symmetry-twisted partition functions directly provide the helicity modulus at a finite twist angle, we determine the BKT transition point. These results are presented based on Ref.~\\cite{Akiyama:2026dzg}. Finally, in addition to the original paper~\\cite{Akiyama:2026dzg}, we apply this approach to the two-dimensional generalized $O(2)$ model and confirm that it successfully identifies the phase transitions between the ferromagnetic and nematic phases, as well as between the nematic and paramagnetic phases.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02739v1",
+      "link": "https://arxiv.org/abs/2603.02739v1",
+      "published": "2026-03-03T08:41:57Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125292",
+        "inspire_url": "https://inspirehep.net/literature/3125292",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -1712,6 +1740,31 @@
         "control_number": "3098334",
         "inspire_url": "https://inspirehep.net/literature/3098334",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.02681v1",
+      "title": "Tensor renormalization group approach to critical phenomena via symmetry-twisted partition functions",
+      "summary": "The locality of field theories strongly constrains the possible behaviors of symmetry-twisted partition functions, and thus they serve as order parameters to detect low-energy realizations of global symmetries, such as spontaneous symmetry breaking (SSB). We demonstrate that the tensor renormalization group (TRG) offers an efficient framework to compute the symmetry-twisted partition functions, which enables us to detect the symmetry-breaking transition and also to study associated critical phenomena. As concrete examples of SSB, we investigate the two-dimensional (2D) classical Ising model and the three-dimensional (3D) classical $O(2)$ nonlinear sigma model, and we identify their critical points solely from the twisted partition function. By employing the finite-size scaling argument, we find the critical temperature $T_c=2.2017(2)$ with the critical exponent $ν= 0.663(33)$ for the 3D $O(2)$ model. In addition, we also study the Berezinskii-Kosterlitz-Thouless (BKT) criticality of the 2D classical $O(2)$ model by extracting the helicity modulus from the twisted partition functions, and we obtain the BKT transition temperature, $T_{\\mathrm{BKT}}=0.8928(2)$.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02681v1",
+      "link": "https://arxiv.org/abs/2601.02681v1",
+      "published": "2026-01-06T03:27:16Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3097575",
+        "inspire_url": "https://inspirehep.net/literature/3097575",
+        "citation_count": 1
       }
     },
     {
