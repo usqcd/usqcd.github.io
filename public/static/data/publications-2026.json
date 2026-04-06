@@ -1,7 +1,29 @@
 {
-  "generated": "2026-04-05T06:44:02.779766+00:00Z",
-  "count": 68,
+  "generated": "2026-04-06T06:57:06.141862+00:00Z",
+  "count": 69,
   "publications": [
+    {
+      "id": "2604.02424v1",
+      "title": "Understanding the Symmetric Mass Generation in Lattice-QCD",
+      "summary": "Signatures of symmetric mass generation (SMG) have recently been reported in lattice QCD calculations employing staggered fermions. We discuss the general criteria for SMG, and demonstrate that these conditions are indeed met by the staggered fermion action, in particular by the continuum action derived by Lee and Sharpe. We propose possible RG flow around the SMG transition, guided by the numerical results. We also point out that the Goldstone tetraquark meson states provide a phenomenological signature of the \"type-II\" SMG phase.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Cenke Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.02424v1",
+      "link": "https://arxiv.org/abs/2604.02424v1",
+      "published": "2026-04-02T18:00:18Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3139140",
+        "inspire_url": "https://inspirehep.net/literature/3139140",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.01097v1",
       "title": "Strong coupling constant from 1-loop improved static energy",
@@ -49,7 +71,10 @@
       "link": "https://arxiv.org/abs/2604.00143v1",
       "published": "2026-03-31T18:50:59Z",
       "categories": [
-        "hep-lat"
+        "hep-lat",
+        "hep-ph",
+        "nucl-ex",
+        "nucl-th"
       ],
       "inspire": {
         "control_number": "3138451",
@@ -1743,7 +1768,7 @@
       }
     },
     {
-      "id": "2601.02681v1",
+      "id": "2601.02681v2",
       "title": "Tensor renormalization group approach to critical phenomena via symmetry-twisted partition functions",
       "summary": "The locality of field theories strongly constrains the possible behaviors of symmetry-twisted partition functions, and thus they serve as order parameters to detect low-energy realizations of global symmetries, such as spontaneous symmetry breaking (SSB). We demonstrate that the tensor renormalization group (TRG) offers an efficient framework to compute the symmetry-twisted partition functions, which enables us to detect the symmetry-breaking transition and also to study associated critical phenomena. As concrete examples of SSB, we investigate the two-dimensional (2D) classical Ising model and the three-dimensional (3D) classical $O(2)$ nonlinear sigma model, and we identify their critical points solely from the twisted partition function. By employing the finite-size scaling argument, we find the critical temperature $T_c=2.2017(2)$ with the critical exponent $ν= 0.663(33)$ for the 3D $O(2)$ model. In addition, we also study the Berezinskii-Kosterlitz-Thouless (BKT) criticality of the 2D classical $O(2)$ model by extracting the helicity modulus from the twisted partition functions, and we obtain the BKT transition temperature, $T_{\\mathrm{BKT}}=0.8928(2)$.",
       "authors": [
@@ -1753,8 +1778,8 @@
         "Yuya Tanizaki",
         "Judah Unmuth-Yockey"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.02681v1",
-      "link": "https://arxiv.org/abs/2601.02681v1",
+      "pdf": "https://arxiv.org/pdf/2601.02681v2",
+      "link": "https://arxiv.org/abs/2601.02681v2",
       "published": "2026-01-06T03:27:16Z",
       "categories": [
         "hep-lat",
