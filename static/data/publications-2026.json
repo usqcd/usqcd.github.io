@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T06:57:06.141862+00:00Z",
+  "generated": "2026-04-07T06:52:28.528599+00:00Z",
   "count": 69,
   "publications": [
     {
@@ -50,6 +50,9 @@
       "inspire": {
         "control_number": "3138458",
         "inspire_url": "https://inspirehep.net/literature/3138458",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -796,7 +799,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -855,7 +858,7 @@
       }
     },
     {
-      "id": "2603.01259v1",
+      "id": "2603.01259v2",
       "title": "$T_{cc}$ pole trajectory",
       "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
       "authors": [
@@ -863,8 +866,8 @@
         "Srijit Paul",
         "Subhasish Basak"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.01259v1",
-      "link": "https://arxiv.org/abs/2603.01259v1",
+      "pdf": "https://arxiv.org/pdf/2603.01259v2",
+      "link": "https://arxiv.org/abs/2603.01259v2",
       "published": "2026-03-01T20:31:13Z",
       "categories": [
         "hep-lat"
