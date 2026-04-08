@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T06:52:28.528599+00:00Z",
-  "count": 69,
+  "generated": "2026-04-08T06:53:53.725888+00:00Z",
+  "count": 68,
   "publications": [
     {
       "id": "2604.02424v1",
@@ -112,14 +112,14 @@
       }
     },
     {
-      "id": "2603.29091v1",
+      "id": "2603.29091v2",
       "title": "Ether of Orbifolds",
-      "summary": "Whose world is this? The orbifold lattice has been proposed as a bridge to practical quantum simulation of Yang--Mills theory, claiming exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding hidden costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, gauge-violating dynamics that grow as $m^2$ and worsen with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. The bridge is not built. The gap is the foundation.",
+      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
       "authors": [
         "Henry Lamm"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.29091v1",
-      "link": "https://arxiv.org/abs/2603.29091v1",
+      "pdf": "https://arxiv.org/pdf/2603.29091v2",
+      "link": "https://arxiv.org/abs/2603.29091v2",
       "published": "2026-03-31T00:11:32Z",
       "categories": [
         "hep-lat",
@@ -485,31 +485,6 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.17971v2",
-      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
-      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
-      "authors": [
-        "Omar Alsheikh",
-        "A. F. Kemper",
-        "Ermal Rrapaj",
-        "Evan J. Rule",
-        "Goksu C. Toga"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.17971v2",
-      "link": "https://arxiv.org/abs/2603.17971v2",
-      "published": "2026-03-18T17:38:05Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.stat-mech",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3130964",
-        "inspire_url": "https://inspirehep.net/literature/3130964",
         "citation_count": 0
       }
     },
