@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T06:52:28.588896+00:00Z",
-  "count": 69,
+  "generated": "2026-04-08T06:53:53.785051+00:00Z",
+  "count": 68,
   "publications": [
     {
       "id": "2604.02424v1",
@@ -112,14 +112,14 @@
       }
     },
     {
-      "id": "2603.29091v1",
+      "id": "2603.29091v2",
       "title": "Ether of Orbifolds",
-      "summary": "Whose world is this? The orbifold lattice has been proposed as a bridge to practical quantum simulation of Yang--Mills theory, claiming exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding hidden costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, gauge-violating dynamics that grow as $m^2$ and worsen with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. The bridge is not built. The gap is the foundation.",
+      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
       "authors": [
         "Henry Lamm"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.29091v1",
-      "link": "https://arxiv.org/abs/2603.29091v1",
+      "pdf": "https://arxiv.org/pdf/2603.29091v2",
+      "link": "https://arxiv.org/abs/2603.29091v2",
       "published": "2026-03-31T00:11:32Z",
       "categories": [
         "hep-lat",
