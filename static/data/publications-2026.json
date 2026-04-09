@@ -1,7 +1,44 @@
 {
-  "generated": "2026-04-08T06:53:53.725888+00:00Z",
-  "count": 68,
+  "generated": "2026-04-09T06:51:28.352090+00:00Z",
+  "count": 70,
   "publications": [
+    {
+      "id": "2604.06880v1",
+      "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
+      "summary": "We present the status of calculations of the form factors of the most relevant heavy-to-heavy and heavy-to-light decay channels. Using seven $N_f = 2+1+1$ HISQ ensembles, with lattice spacings ranging from 0.15 fm down to 0.06 fm, we calculate the form factors of the decays, including correlations among them. More than half of our ensembles feature physical pion masses, and the heavy quarks are simulated at their physical masses using the Wilson-clover action with the Fermilab interpretation. Even though we have recently seen huge qualitative and quantitative leaps in the characterization of heavy-to-heavy decays, these advances have failed to translate into improvements for the inclusive vs exclusive question, or the matter of the Lepton Flavor Universality ratios. In particular, in the $B\\to D^{\\ast}\\ellν$ channel, the current situation of the lattice-QCD form factors is far from clear. Further, the latest lattice-QCD results on the heavy-to-light form factors display unexplained tensions that must urgently be resolved. The work presented here is an attempt to address these issues.",
+      "authors": [
+        "Alejandro Vaquero",
+        "Carleton DeTar",
+        "Aida El-Khadra",
+        "Elvira Gámiz",
+        "Steve Gottlieb",
+        "William Jay",
+        "Hwancheol Jeong",
+        "Andreas S. Kronfeld",
+        "Andrew Lytle"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.06880v1",
+      "link": "https://arxiv.org/abs/2604.06880v1",
+      "published": "2026-04-08T09:39:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3141718",
+        "inspire_url": "https://inspirehep.net/literature/3141718",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "248",
+            "artid": "248",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
+      }
+    },
     {
       "id": "2604.02424v1",
       "title": "Understanding the Symmetric Mass Generation in Lattice-QCD",
@@ -485,6 +522,31 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.17971v2",
+      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
+      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
+      "authors": [
+        "Omar Alsheikh",
+        "A. F. Kemper",
+        "Ermal Rrapaj",
+        "Evan J. Rule",
+        "Goksu C. Toga"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.17971v2",
+      "link": "https://arxiv.org/abs/2603.17971v2",
+      "published": "2026-03-18T17:38:05Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
         "citation_count": 0
       }
     },
@@ -1456,7 +1518,7 @@
       }
     },
     {
-      "id": "2601.21155v1",
+      "id": "2601.21155v2",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
       "authors": [
@@ -1467,8 +1529,8 @@
         "Richard J. Hill",
         "Kevin S. McFarland"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.21155v1",
-      "link": "https://arxiv.org/abs/2601.21155v1",
+      "pdf": "https://arxiv.org/pdf/2601.21155v2",
+      "link": "https://arxiv.org/abs/2601.21155v2",
       "published": "2026-01-29T01:30:05Z",
       "categories": [
         "hep-ph",
