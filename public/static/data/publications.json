@@ -1,7 +1,44 @@
 {
-  "generated": "2026-04-08T06:53:53.785051+00:00Z",
-  "count": 68,
+  "generated": "2026-04-09T06:51:28.412213+00:00Z",
+  "count": 70,
   "publications": [
+    {
+      "id": "2604.06880v1",
+      "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
+      "summary": "We present the status of calculations of the form factors of the most relevant heavy-to-heavy and heavy-to-light decay channels. Using seven $N_f = 2+1+1$ HISQ ensembles, with lattice spacings ranging from 0.15 fm down to 0.06 fm, we calculate the form factors of the decays, including correlations among them. More than half of our ensembles feature physical pion masses, and the heavy quarks are simulated at their physical masses using the Wilson-clover action with the Fermilab interpretation. Even though we have recently seen huge qualitative and quantitative leaps in the characterization of heavy-to-heavy decays, these advances have failed to translate into improvements for the inclusive vs exclusive question, or the matter of the Lepton Flavor Universality ratios. In particular, in the $B\\to D^{\\ast}\\ellν$ channel, the current situation of the lattice-QCD form factors is far from clear. Further, the latest lattice-QCD results on the heavy-to-light form factors display unexplained tensions that must urgently be resolved. The work presented here is an attempt to address these issues.",
+      "authors": [
+        "Alejandro Vaquero",
+        "Carleton DeTar",
+        "Aida El-Khadra",
+        "Elvira Gámiz",
+        "Steve Gottlieb",
+        "William Jay",
+        "Hwancheol Jeong",
+        "Andreas S. Kronfeld",
+        "Andrew Lytle"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.06880v1",
+      "link": "https://arxiv.org/abs/2604.06880v1",
+      "published": "2026-04-08T09:39:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3141718",
+        "inspire_url": "https://inspirehep.net/literature/3141718",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "248",
+            "artid": "248",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
+      }
+    },
     {
       "id": "2604.02424v1",
       "title": "Understanding the Symmetric Mass Generation in Lattice-QCD",
@@ -108,26 +145,6 @@
       "inspire": {
         "control_number": "3138452",
         "inspire_url": "https://inspirehep.net/literature/3138452",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.29091v2",
-      "title": "Ether of Orbifolds",
-      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.29091v2",
-      "link": "https://arxiv.org/abs/2603.29091v2",
-      "published": "2026-03-31T00:11:32Z",
-      "categories": [
-        "hep-lat",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3137591",
-        "inspire_url": "https://inspirehep.net/literature/3137591",
         "citation_count": 0
       }
     }
