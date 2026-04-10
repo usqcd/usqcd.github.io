@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T06:51:28.352090+00:00Z",
+  "generated": "2026-04-10T06:55:13.285084+00:00Z",
   "count": 70,
   "publications": [
     {
@@ -33,7 +33,8 @@
             "page_start": "248",
             "artid": "248",
             "year": 2025
-          }
+          },
+          {}
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
