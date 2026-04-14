@@ -1,7 +1,28 @@
 {
-  "generated": "2026-04-13T07:23:59.157900+00:00Z",
-  "count": 68,
+  "generated": "2026-04-14T07:12:14.869909+00:00Z",
+  "count": 67,
   "publications": [
+    {
+      "id": "2604.10314v1",
+      "title": "Pion Weak Decay in a Magnetic Field",
+      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
+      "authors": [
+        "Prabal Adhikari",
+        "Brian Tiburzi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.10314v1",
+      "link": "https://arxiv.org/abs/2604.10314v1",
+      "published": "2026-04-11T18:35:15Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3144011",
+        "inspire_url": "https://inspirehep.net/literature/3144011",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.06880v1",
       "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
@@ -120,32 +141,6 @@
       "inspire": {
         "control_number": "3138451",
         "inspire_url": "https://inspirehep.net/literature/3138451",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.00127v1",
-      "title": "Scattering phase shift in quantum mechanics on quantum computers: non-Hermitian systems and imaginary-time simulations",
-      "summary": "To overcome the fast oscillatory behavior of correlation functions for extracting scattering phase shift in real-time quantum simulations encountered in Ref.\\cite{Guo:2026qkx}, we propose and test two solutions in the present work. One is to simulate Hermitian systems in imaginary time, the other is to simulate non-Hermitian systems in real time. We demonstrate that both approaches lead to the problem of non-unitary quantum evolution which can be solved by combining two quantum algorithms: block encoding and Hadamard test. The combined quantum algorithm does not require mid-circuit measurements or adjustment of the input parameters of the Hamiltonian, and can be easily implemented on quantum computers. Both the size and length of quantum circuits grow linearly with evolution time. Numerical tests on quantum simulators show that both approaches agree with exact solutions for a sufficiently long time before the signal is lost in statistical fluctuations. The results bode well for using non-Hermitian and imaginary-time simulations to circumvent oscillations inherent in real-time simulation of other quantum systems.",
-      "authors": [
-        "Peng Guo",
-        "Paul LeVan",
-        "Frank X. Lee",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.00127v1",
-      "link": "https://arxiv.org/abs/2604.00127v1",
-      "published": "2026-03-31T18:31:53Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.other",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3138452",
-        "inspire_url": "https://inspirehep.net/literature/3138452",
         "citation_count": 0
       }
     }
