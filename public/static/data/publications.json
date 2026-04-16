@@ -1,7 +1,50 @@
 {
-  "generated": "2026-04-15T06:59:45.123213+00:00Z",
-  "count": 69,
+  "generated": "2026-04-16T07:03:49.263809+00:00Z",
+  "count": 72,
   "publications": [
+    {
+      "id": "2604.14117v1",
+      "title": "Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble",
+      "summary": "Quantum Chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential ($μ_B$), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice ($16^3\\times8$) data set that we generated at $μ_B=0$ with our 4HEX staggered action. We extend the canonical ensemble to non-integer net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real $μ_B$, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g. for pressure, baryon density) directly, without relying on any extrapolation in the baryo-chemical potential. In this work we chart the phase diagram by studying bulk thermodynamic observables, which we show to be feasible up to $μ_B\\approx500$~MeV.",
+      "authors": [
+        "Alexander Adam",
+        "Szabolcs Borsányi",
+        "Zoltán Fodor",
+        "Jana N. Guenther",
+        "Ludovica Pirelli",
+        "Paolo Parotto",
+        "Attila Pásztor",
+        "Chik Him Wong"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.14117v1",
+      "link": "https://arxiv.org/abs/2604.14117v1",
+      "published": "2026-04-15T17:39:27Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3145465",
+        "inspire_url": "https://inspirehep.net/literature/3145465",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.13269v1",
+      "title": "Charged kaon electric polarizability from four-point functions in lattice QCD",
+      "summary": "We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic (Born) term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic (non-Born) term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched $24^3\\times 48$ lattices, and we compute connected diagrams as a proof of principle. From this analysis, we obtain values for the charged kaon electric polarizability of $α_E = (0.988 \\pm 0.534) \\times 10^{-4}\\;\\mathrm{fm}^3$ as well as $\\langle r_E^2\\rangle =0.3303\\pm 0.0028\\;\\mathrm{fm}^2$ for the squared kaon charge radius, after extrapolation to the physical pion mass. The study demonstrates the applicability of the four-point function framework to strange mesons, extends previous four-point function polarizability studies, and provides a foundation for future calculations with increased statistics, dynamical fermions, and improved control of systematic uncertainties.",
+      "authors": [
+        "Shayan Nadeem",
+        "Walter Wilcox",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.13269v1",
+      "link": "https://arxiv.org/abs/2604.13269v1",
+      "published": "2026-04-14T20:00:17Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex"
+      ]
+    },
     {
       "id": "2604.10314v1",
       "title": "Pion Weak Decay in a Magnetic Field",
@@ -80,67 +123,6 @@
       "inspire": {
         "control_number": "3139140",
         "inspire_url": "https://inspirehep.net/literature/3139140",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.01097v1",
-      "title": "Strong coupling constant from 1-loop improved static energy",
-      "summary": "The static energy is an excellent observable for extracting the strong coupling $α_s$ on the lattice. For short distances, the static energy can be calculated both on the lattice using Wilson line correlators, and with perturbation theory up to three loop accuracy with leading ultrasoft log resummation. Comparing the perturbative expression and lattice data allows for precise determination of $α_s$. We present early results for 1-loop lattice perturbation theory improvement of the Wilson loop and show how it improves the $α_s$ extraction. We present a preliminary reanalysis of the TUMQCD (2+1)-flavor QCD data.",
-      "authors": [
-        "Viljami Leino",
-        "Alexei Bazavov",
-        "Nora Brambilla",
-        "Georg von Hippel",
-        "Andreas S. Kronfeld",
-        "Julian Mayer-Steudte",
-        "Peter Petreczky",
-        "Sipaz Sharma",
-        "Sebastian Steinbeißer",
-        "Antonio Vairo",
-        "Johannes H. Weber"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.01097v1",
-      "link": "https://arxiv.org/abs/2604.01097v1",
-      "published": "2026-04-01T16:23:25Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3138458",
-        "inspire_url": "https://inspirehep.net/literature/3138458",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.00143v1",
-      "title": "Proton isovector helicity PDF at NNLO and the twist-3 moment $\\tilde{d}_2$ from lattice QCD at physical quark masses",
-      "summary": "We present a lattice quantum chromodynamics calculation of the $x$-dependent isovector quark helicity parton distribution function (PDF) of the proton in the large momentum effective theory (LaMET) framework. Through operator product expansion (OPE) we also extract the $\\tilde{d}_2$ moment of the twist-3 PDF $g_T(x)$ for the first time in the $\\overline{\\rm MS}$ scheme, which is proportional to the average color Lorentz force experienced by the quark in the proton. This calculation is performed on a lattice of spacing $a$ = 0.076 fm at physical quark masses. The quasi-PDF matrix elements are measured in proton states boosted to momenta $P_z=\\{0, 0.25, 1.02, 1.53\\}$ GeV. We first extract the lowest few helicity PDF moments from the renormalization-group (RG) invariant ratios of the matrix elements with OPE. Combined with the matrix elements relevant for $g_T(x)$, we obtain $\\tilde{d}_2^{u-d}(2\\ {\\rm GeV})=0.0024(46)$ at next-to-leading order in $\\overline{\\rm MS}$. Then, the helicity quasi-PDF matrix elements are renormalized in the hybrid scheme with linear renormalon resummation and Fourier transformed to the $x$-space after an asymptotic extrapolation. The quasi-PDF is perturbatively matched to the $\\overline{\\rm MS}$ PDF with RG and threshold resummations at next-to-leading power and next-to-next-to-leading logarithmic accuracies. After resummations, we determine the PDF in the region $x\\in[0.25,0.75]$ with controlled systematic uncertainties. The end-point regions are then parameterized, combined with the LaMET prediction at moderate $x$, and fitted to the short-distance matrix elements in coordinate space.",
-      "authors": [
-        "Xiang Gao",
-        "Andrew D. Hanlon",
-        "Swagato Mukherjee",
-        "Peter Petreczky",
-        "Hai-Tao Shu",
-        "Fei Yao",
-        "Rui Zhang",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.00143v1",
-      "link": "https://arxiv.org/abs/2604.00143v1",
-      "published": "2026-03-31T18:50:59Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3138451",
-        "inspire_url": "https://inspirehep.net/literature/3138451",
         "citation_count": 0
       }
     }
