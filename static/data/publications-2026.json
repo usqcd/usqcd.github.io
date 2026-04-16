@@ -1,7 +1,50 @@
 {
-  "generated": "2026-04-15T06:59:45.062899+00:00Z",
-  "count": 69,
+  "generated": "2026-04-16T07:03:49.202149+00:00Z",
+  "count": 72,
   "publications": [
+    {
+      "id": "2604.14117v1",
+      "title": "Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble",
+      "summary": "Quantum Chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential ($μ_B$), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice ($16^3\\times8$) data set that we generated at $μ_B=0$ with our 4HEX staggered action. We extend the canonical ensemble to non-integer net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real $μ_B$, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g. for pressure, baryon density) directly, without relying on any extrapolation in the baryo-chemical potential. In this work we chart the phase diagram by studying bulk thermodynamic observables, which we show to be feasible up to $μ_B\\approx500$~MeV.",
+      "authors": [
+        "Alexander Adam",
+        "Szabolcs Borsányi",
+        "Zoltán Fodor",
+        "Jana N. Guenther",
+        "Ludovica Pirelli",
+        "Paolo Parotto",
+        "Attila Pásztor",
+        "Chik Him Wong"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.14117v1",
+      "link": "https://arxiv.org/abs/2604.14117v1",
+      "published": "2026-04-15T17:39:27Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3145465",
+        "inspire_url": "https://inspirehep.net/literature/3145465",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.13269v1",
+      "title": "Charged kaon electric polarizability from four-point functions in lattice QCD",
+      "summary": "We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic (Born) term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic (non-Born) term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched $24^3\\times 48$ lattices, and we compute connected diagrams as a proof of principle. From this analysis, we obtain values for the charged kaon electric polarizability of $α_E = (0.988 \\pm 0.534) \\times 10^{-4}\\;\\mathrm{fm}^3$ as well as $\\langle r_E^2\\rangle =0.3303\\pm 0.0028\\;\\mathrm{fm}^2$ for the squared kaon charge radius, after extrapolation to the physical pion mass. The study demonstrates the applicability of the four-point function framework to strange mesons, extends previous four-point function polarizability studies, and provides a foundation for future calculations with increased statistics, dynamical fermions, and improved control of systematic uncertainties.",
+      "authors": [
+        "Shayan Nadeem",
+        "Walter Wilcox",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.13269v1",
+      "link": "https://arxiv.org/abs/2604.13269v1",
+      "published": "2026-04-14T20:00:17Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex"
+      ]
+    },
     {
       "id": "2604.10314v1",
       "title": "Pion Weak Decay in a Magnetic Field",
@@ -917,27 +960,6 @@
       }
     },
     {
-      "id": "2603.01259v2",
-      "title": "$T_{cc}$ pole trajectory",
-      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
-      "authors": [
-        "Protick Mohanta",
-        "Srijit Paul",
-        "Subhasish Basak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.01259v2",
-      "link": "https://arxiv.org/abs/2603.01259v2",
-      "published": "2026-03-01T20:31:13Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124604",
-        "inspire_url": "https://inspirehep.net/literature/3124604",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.01215v1",
       "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
       "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
@@ -1101,6 +1123,31 @@
       }
     },
     {
+      "id": "2602.23118v2",
+      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
+      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
+      "authors": [
+        "Sabarnya Mitra",
+        "Jishnu Goswami",
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.23118v2",
+      "link": "https://arxiv.org/abs/2602.23118v2",
+      "published": "2026-02-26T15:32:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123855",
+        "inspire_url": "https://inspirehep.net/literature/3123855",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2602.23002v1",
       "title": "Confinement transition to gravitational waves in the one-flavor $SU(4)$ Hyper Stealth Dark Matter theory",
       "summary": "The thermodynamics of the $SU(4)$ gauge theory with a single flavor of fundamental quarks is analyzed on the lattice with dynamical fermion simulations, which is the low-energy sector of a realistic, strongly-interacting dark matter model -- the Hyper Stealth Dark Matter. The gravitational wave spectrum from the first-order confinement transition in the early universe is further calculated, where the effect of the dark sea quarks, which decrease the interface tension in the effective potential of the Polyakov loop, is shown numerically to lower the gravitational wave amplitude.",
@@ -1176,6 +1223,28 @@
       "inspire": {
         "control_number": "3123845",
         "inspire_url": "https://inspirehep.net/literature/3123845",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
         "citation_count": 0
       }
     },
