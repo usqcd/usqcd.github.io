@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-16T07:03:49.263809+00:00Z",
-  "count": 72,
+  "generated": "2026-04-17T07:04:15.980213+00:00Z",
+  "count": 73,
   "publications": [
     {
       "id": "2604.14117v1",
@@ -43,7 +43,12 @@
       "categories": [
         "hep-lat",
         "hep-ex"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3145671",
+        "inspire_url": "https://inspirehep.net/literature/3145671",
+        "citation_count": 0
+      }
     },
     {
       "id": "2604.10314v1",
