@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-21T07:18:21.140272+00:00Z",
+  "generated": "2026-04-22T06:57:03.875682+00:00Z",
   "count": 73,
   "publications": [
     {
@@ -287,7 +287,7 @@
       "inspire": {
         "control_number": "3137111",
         "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -314,7 +314,7 @@
       "inspire": {
         "control_number": "3137099",
         "inspire_url": "https://inspirehep.net/literature/3137099",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
