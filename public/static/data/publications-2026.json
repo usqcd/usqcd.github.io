@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-24T07:14:51.200355+00:00Z",
-  "count": 73,
+  "generated": "2026-04-25T06:53:56.079667+00:00Z",
+  "count": 72,
   "publications": [
     {
       "id": "2604.21476v1",
@@ -80,27 +80,6 @@
       }
     },
     {
-      "id": "2604.10314v1",
-      "title": "Pion Weak Decay in a Magnetic Field",
-      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
-      "authors": [
-        "Prabal Adhikari",
-        "Brian Tiburzi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.10314v1",
-      "link": "https://arxiv.org/abs/2604.10314v1",
-      "published": "2026-04-11T18:35:15Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3144011",
-        "inspire_url": "https://inspirehep.net/literature/3144011",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2604.06880v1",
       "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
       "summary": "We present the status of calculations of the form factors of the most relevant heavy-to-heavy and heavy-to-light decay channels. Using seven $N_f = 2+1+1$ HISQ ensembles, with lattice spacings ranging from 0.15 fm down to 0.06 fm, we calculate the form factors of the decays, including correlations among them. More than half of our ensembles feature physical pion masses, and the heavy quarks are simulated at their physical masses using the Wilson-clover action with the Fermilab interpretation. Even though we have recently seen huge qualitative and quantitative leaps in the characterization of heavy-to-heavy decays, these advances have failed to translate into improvements for the inclusive vs exclusive question, or the matter of the Lepton Flavor Universality ratios. In particular, in the $B\\to D^{\\ast}\\ellν$ channel, the current situation of the lattice-QCD form factors is far from clear. Further, the latest lattice-QCD results on the heavy-to-light form factors display unexplained tensions that must urgently be resolved. The work presented here is an attempt to address these issues.",
@@ -136,6 +115,28 @@
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
+      }
+    },
+    {
+      "id": "2604.02424v1",
+      "title": "Understanding the Symmetric Mass Generation in Lattice-QCD",
+      "summary": "Signatures of symmetric mass generation (SMG) have recently been reported in lattice QCD calculations employing staggered fermions. We discuss the general criteria for SMG, and demonstrate that these conditions are indeed met by the staggered fermion action, in particular by the continuum action derived by Lee and Sharpe. We propose possible RG flow around the SMG transition, guided by the numerical results. We also point out that the Goldstone tetraquark meson states provide a phenomenological signature of the \"type-II\" SMG phase.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Cenke Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.02424v1",
+      "link": "https://arxiv.org/abs/2604.02424v1",
+      "published": "2026-04-02T18:00:18Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3139140",
+        "inspire_url": "https://inspirehep.net/literature/3139140",
+        "citation_count": 0
       }
     },
     {
@@ -599,31 +600,6 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.17971v2",
-      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
-      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
-      "authors": [
-        "Omar Alsheikh",
-        "A. F. Kemper",
-        "Ermal Rrapaj",
-        "Evan J. Rule",
-        "Goksu C. Toga"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.17971v2",
-      "link": "https://arxiv.org/abs/2603.17971v2",
-      "published": "2026-03-18T17:38:05Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.stat-mech",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3130964",
-        "inspire_url": "https://inspirehep.net/literature/3130964",
         "citation_count": 0
       }
     },
