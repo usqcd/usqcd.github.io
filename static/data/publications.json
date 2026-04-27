@@ -1,7 +1,83 @@
 {
-  "generated": "2026-04-26T07:04:31.963873+00:00Z",
-  "count": 72,
+  "generated": "2026-04-27T07:16:18.598714+00:00Z",
+  "count": 76,
   "publications": [
+    {
+      "id": "2604.22514v1",
+      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
+      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
+      "authors": [
+        "Jishnu Goswami",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Shoji Hashimoto",
+        "Issaku Kanamori",
+        "Takashi Kaneko",
+        "Yoshifumi Nakamura",
+        "David Ward",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22514v1",
+      "link": "https://arxiv.org/abs/2604.22514v1",
+      "published": "2026-04-24T12:54:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3148937",
+        "inspire_url": "https://inspirehep.net/literature/3148937",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.22349v1",
+      "title": "Hadronic contributions to $α(Q^{2})$ and $\\sin^{2}θ_{W}(Q^{2})$ from spectral reconstruction of lattice-QCD data",
+      "summary": "We present preliminary results from a lattice-QCD study of the hadronic contributions to the running of the electromagnetic coupling, $Δα(Q^2)$, and the electroweak mixing angle, $Δ\\sin^2θ_{W}(Q^2)$. Using $N_f = 2+1+1$ HISQ ensembles at physical quark masses, we discuss the challenges posed by strong statistical correlations in the time-momentum representation and propose a spectral-reconstruction strategy to obtain controlled continuum-extrapolated results across the full energy range.",
+      "authors": [
+        "Adrián del Pino",
+        "David A. Clarke",
+        "Carleton DeTar",
+        "Aida X. El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "Anthony V. Grebe",
+        "Leon Hostetler",
+        "William I. Jay",
+        "Andreas S. Kronfeld",
+        "Shaun Lahert",
+        "Jack Laiho",
+        "Michael Lynch",
+        "Andrew T. Lytle",
+        "Ethan T. Neil",
+        "Curtis T. Peterson",
+        "James N. Simone",
+        "Jacob W. Sitison",
+        "Ruth S. Van de Water",
+        "Alejandro Vaquero"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22349v1",
+      "link": "https://arxiv.org/abs/2604.22349v1",
+      "published": "2026-04-24T08:35:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3148934",
+        "inspire_url": "https://inspirehep.net/literature/3148934",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "518",
+            "artid": "518",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
+      }
+    },
     {
       "id": "2604.21476v1",
       "title": "Reconstructing the full kinematic dependence of GPDs from pseudo-distributions",
@@ -77,65 +153,6 @@
         "control_number": "3145671",
         "inspire_url": "https://inspirehep.net/literature/3145671",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.10314v1",
-      "title": "Pion Weak Decay in a Magnetic Field",
-      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
-      "authors": [
-        "Prabal Adhikari",
-        "Brian Tiburzi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.10314v1",
-      "link": "https://arxiv.org/abs/2604.10314v1",
-      "published": "2026-04-11T18:35:15Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3144011",
-        "inspire_url": "https://inspirehep.net/literature/3144011",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.06880v1",
-      "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
-      "summary": "We present the status of calculations of the form factors of the most relevant heavy-to-heavy and heavy-to-light decay channels. Using seven $N_f = 2+1+1$ HISQ ensembles, with lattice spacings ranging from 0.15 fm down to 0.06 fm, we calculate the form factors of the decays, including correlations among them. More than half of our ensembles feature physical pion masses, and the heavy quarks are simulated at their physical masses using the Wilson-clover action with the Fermilab interpretation. Even though we have recently seen huge qualitative and quantitative leaps in the characterization of heavy-to-heavy decays, these advances have failed to translate into improvements for the inclusive vs exclusive question, or the matter of the Lepton Flavor Universality ratios. In particular, in the $B\\to D^{\\ast}\\ellν$ channel, the current situation of the lattice-QCD form factors is far from clear. Further, the latest lattice-QCD results on the heavy-to-light form factors display unexplained tensions that must urgently be resolved. The work presented here is an attempt to address these issues.",
-      "authors": [
-        "Alejandro Vaquero",
-        "Carleton DeTar",
-        "Aida El-Khadra",
-        "Elvira Gámiz",
-        "Steve Gottlieb",
-        "William Jay",
-        "Hwancheol Jeong",
-        "Andreas S. Kronfeld",
-        "Andrew Lytle"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.06880v1",
-      "link": "https://arxiv.org/abs/2604.06880v1",
-      "published": "2026-04-08T09:39:22Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3141718",
-        "inspire_url": "https://inspirehep.net/literature/3141718",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "248",
-            "artid": "248",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
       }
     }
   ]
