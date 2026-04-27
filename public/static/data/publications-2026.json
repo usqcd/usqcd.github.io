@@ -1,7 +1,83 @@
 {
-  "generated": "2026-04-26T07:04:31.904511+00:00Z",
-  "count": 72,
+  "generated": "2026-04-27T07:16:18.536712+00:00Z",
+  "count": 76,
   "publications": [
+    {
+      "id": "2604.22514v1",
+      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
+      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
+      "authors": [
+        "Jishnu Goswami",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Shoji Hashimoto",
+        "Issaku Kanamori",
+        "Takashi Kaneko",
+        "Yoshifumi Nakamura",
+        "David Ward",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22514v1",
+      "link": "https://arxiv.org/abs/2604.22514v1",
+      "published": "2026-04-24T12:54:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3148937",
+        "inspire_url": "https://inspirehep.net/literature/3148937",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.22349v1",
+      "title": "Hadronic contributions to $α(Q^{2})$ and $\\sin^{2}θ_{W}(Q^{2})$ from spectral reconstruction of lattice-QCD data",
+      "summary": "We present preliminary results from a lattice-QCD study of the hadronic contributions to the running of the electromagnetic coupling, $Δα(Q^2)$, and the electroweak mixing angle, $Δ\\sin^2θ_{W}(Q^2)$. Using $N_f = 2+1+1$ HISQ ensembles at physical quark masses, we discuss the challenges posed by strong statistical correlations in the time-momentum representation and propose a spectral-reconstruction strategy to obtain controlled continuum-extrapolated results across the full energy range.",
+      "authors": [
+        "Adrián del Pino",
+        "David A. Clarke",
+        "Carleton DeTar",
+        "Aida X. El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "Anthony V. Grebe",
+        "Leon Hostetler",
+        "William I. Jay",
+        "Andreas S. Kronfeld",
+        "Shaun Lahert",
+        "Jack Laiho",
+        "Michael Lynch",
+        "Andrew T. Lytle",
+        "Ethan T. Neil",
+        "Curtis T. Peterson",
+        "James N. Simone",
+        "Jacob W. Sitison",
+        "Ruth S. Van de Water",
+        "Alejandro Vaquero"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22349v1",
+      "link": "https://arxiv.org/abs/2604.22349v1",
+      "published": "2026-04-24T08:35:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3148934",
+        "inspire_url": "https://inspirehep.net/literature/3148934",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "518",
+            "artid": "518",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
+      }
+    },
     {
       "id": "2604.21476v1",
       "title": "Reconstructing the full kinematic dependence of GPDs from pseudo-distributions",
@@ -817,6 +893,41 @@
       }
     },
     {
+      "id": "2603.03835v1",
+      "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
+      "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
+      "authors": [
+        "Finn M. Stokes",
+        "Michel Davier",
+        "Zoltan Fodor",
+        "Fabian Frech",
+        "Andrey Yu. Kotov",
+        "Laurent Lellouch",
+        "Bogdan Malaescu",
+        "Sophie Mutzel",
+        "Kalman K. Szabo",
+        "Balint C. Toth",
+        "Gen Wang",
+        "Zhiqing Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.03835v1",
+      "link": "https://arxiv.org/abs/2603.03835v1",
+      "published": "2026-03-04T08:35:32Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125658",
+        "inspire_url": "https://inspirehep.net/literature/3125658",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2603.03814v1",
       "title": "Lattice extraction of the Collins-Soper kernel using the auxiliary field representation of the Wilson line",
       "summary": "The Collins-Soper (CS) kernel may be obtained through the TMD soft function by formulating the Wilson line in terms of 1-dimensional auxiliary fermion fields on the lattice. Our computation takes place in the region of the lattice that corresponds to the \"spacelike\" region in Minkowski space, i.e., Collins' scheme. We explore two methods for obtaining the CS kernel. The \"ratio method\"; which would allow us to obtain the soft function as well as the CS kernel. And the \"double ratio\"; which allows us to achieve a high degree of statistical precision, but only produces the CS kernel. The matching of our result to Minkowski space is achieved through the mapping of the complex auxiliary field directional vector to the Wilson line rapidity. We present a preliminary extraction of the CS kernel using the \"double ratio\", and discuss the methodology employed.",
@@ -955,6 +1066,27 @@
         "publication_info": [
           {}
         ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.01259v2",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v2",
+      "link": "https://arxiv.org/abs/2603.01259v2",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
         "citation_count": 0
       }
     },
