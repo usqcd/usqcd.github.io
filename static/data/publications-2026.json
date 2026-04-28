@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T07:16:18.536712+00:00Z",
-  "count": 76,
+  "generated": "2026-04-28T07:27:52.887112+00:00Z",
+  "count": 75,
   "publications": [
     {
       "id": "2604.22514v1",
@@ -237,8 +237,8 @@
       }
     },
     {
-      "id": "2604.01097v1",
-      "title": "Strong coupling constant from 1-loop improved static energy",
+      "id": "2604.01097v2",
+      "title": "Strong coupling constant from the 1-loop improved static energy",
       "summary": "The static energy is an excellent observable for extracting the strong coupling $α_s$ on the lattice. For short distances, the static energy can be calculated both on the lattice using Wilson line correlators, and with perturbation theory up to three loop accuracy with leading ultrasoft log resummation. Comparing the perturbative expression and lattice data allows for precise determination of $α_s$. We present early results for 1-loop lattice perturbation theory improvement of the Wilson loop and show how it improves the $α_s$ extraction. We present a preliminary reanalysis of the TUMQCD (2+1)-flavor QCD data.",
       "authors": [
         "Viljami Leino",
@@ -253,8 +253,8 @@
         "Antonio Vairo",
         "Johannes H. Weber"
       ],
-      "pdf": "https://arxiv.org/pdf/2604.01097v1",
-      "link": "https://arxiv.org/abs/2604.01097v1",
+      "pdf": "https://arxiv.org/pdf/2604.01097v2",
+      "link": "https://arxiv.org/abs/2604.01097v2",
       "published": "2026-04-01T16:23:25Z",
       "categories": [
         "hep-lat"
@@ -1066,27 +1066,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.01259v2",
-      "title": "$T_{cc}$ pole trajectory",
-      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
-      "authors": [
-        "Protick Mohanta",
-        "Srijit Paul",
-        "Subhasish Basak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.01259v2",
-      "link": "https://arxiv.org/abs/2603.01259v2",
-      "published": "2026-03-01T20:31:13Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124604",
-        "inspire_url": "https://inspirehep.net/literature/3124604",
         "citation_count": 0
       }
     },
