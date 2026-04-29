@@ -1,7 +1,43 @@
 {
-  "generated": "2026-04-28T07:27:52.947692+00:00Z",
-  "count": 75,
+  "generated": "2026-04-29T07:17:11.133158+00:00Z",
+  "count": 77,
   "publications": [
+    {
+      "id": "2604.25802v1",
+      "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
+      "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
+      "authors": [
+        "Hao-Fei Gao",
+        "Xue-Ying Han",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        " Jin-XinTan",
+        "Ji-Hao Wang",
+        "Wei Wang",
+        "Ji Xu",
+        "Yi-Bo Yang",
+        "Fu-Wei Zhang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang",
+        "Shuai Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.25802v1",
+      "link": "https://arxiv.org/abs/2604.25802v1",
+      "published": "2026-04-28T16:11:05Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3149743",
+        "inspire_url": "https://inspirehep.net/literature/3149743",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.22514v1",
       "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
@@ -130,28 +166,6 @@
       "inspire": {
         "control_number": "3145465",
         "inspire_url": "https://inspirehep.net/literature/3145465",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.13269v1",
-      "title": "Charged kaon electric polarizability from four-point functions in lattice QCD",
-      "summary": "We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic (Born) term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic (non-Born) term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched $24^3\\times 48$ lattices, and we compute connected diagrams as a proof of principle. From this analysis, we obtain values for the charged kaon electric polarizability of $α_E = (0.988 \\pm 0.534) \\times 10^{-4}\\;\\mathrm{fm}^3$ as well as $\\langle r_E^2\\rangle =0.3303\\pm 0.0028\\;\\mathrm{fm}^2$ for the squared kaon charge radius, after extrapolation to the physical pion mass. The study demonstrates the applicability of the four-point function framework to strange mesons, extends previous four-point function polarizability studies, and provides a foundation for future calculations with increased statistics, dynamical fermions, and improved control of systematic uncertainties.",
-      "authors": [
-        "Shayan Nadeem",
-        "Walter Wilcox",
-        "Frank X. Lee"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.13269v1",
-      "link": "https://arxiv.org/abs/2604.13269v1",
-      "published": "2026-04-14T20:00:17Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex"
-      ],
-      "inspire": {
-        "control_number": "3145671",
-        "inspire_url": "https://inspirehep.net/literature/3145671",
         "citation_count": 0
       }
     }
