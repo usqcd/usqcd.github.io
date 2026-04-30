@@ -1,7 +1,30 @@
 {
-  "generated": "2026-04-29T07:17:11.133158+00:00Z",
-  "count": 77,
+  "generated": "2026-04-30T07:37:56.611177+00:00Z",
+  "count": 73,
   "publications": [
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.25802v1",
       "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
@@ -140,32 +163,6 @@
       "inspire": {
         "control_number": "3148486",
         "inspire_url": "https://inspirehep.net/literature/3148486",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.14117v1",
-      "title": "Finite density lattice QCD without extrapolation: Bulk thermodynamics with physical quark masses from the canonical ensemble",
-      "summary": "Quantum Chromodynamics (QCD) at finite density is most often formulated on the lattice as a grand canonical ensemble. Since lattice QCD has a complex action problem at finite baryo-chemical potential ($μ_B$), its results at finite density are indirect: e.g. in the form of a set of expansion coefficients. In contrast, the canonical formulation offers direct results for integer-valued net-baryon number. In this work we present for the first time results in the canonical formulation with physical quark masses. To this end we use a high statistics finite-volume lattice ($16^3\\times8$) data set that we generated at $μ_B=0$ with our 4HEX staggered action. We extend the canonical ensemble to non-integer net-baryon number and connect the results back to the grand canonical ensemble. Unlike reweighing to real $μ_B$, this method can also be used with rooted staggered quarks. For densities where the sign problem can be overcome by brute force computing power, this scheme provides lattice QCD results (e.g. for pressure, baryon density) directly, without relying on any extrapolation in the baryo-chemical potential. In this work we chart the phase diagram by studying bulk thermodynamic observables, which we show to be feasible up to $μ_B\\approx500$~MeV.",
-      "authors": [
-        "Alexander Adam",
-        "Szabolcs Borsányi",
-        "Zoltán Fodor",
-        "Jana N. Guenther",
-        "Ludovica Pirelli",
-        "Paolo Parotto",
-        "Attila Pásztor",
-        "Chik Him Wong"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.14117v1",
-      "link": "https://arxiv.org/abs/2604.14117v1",
-      "published": "2026-04-15T17:39:27Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3145465",
-        "inspire_url": "https://inspirehep.net/literature/3145465",
         "citation_count": 0
       }
     }

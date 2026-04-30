@@ -1,7 +1,30 @@
 {
-  "generated": "2026-04-29T07:17:11.073475+00:00Z",
-  "count": 77,
+  "generated": "2026-04-30T07:37:56.551501+00:00Z",
+  "count": 73,
   "publications": [
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.25802v1",
       "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
@@ -903,32 +926,6 @@
       }
     },
     {
-      "id": "2603.10255v1",
-      "title": "Topological structure of the entanglement radius of Yang-Mills flux tubes",
-      "summary": "We expand on recent work arXiv:2601.17199 demonstrating the existence of a novel entanglement radius $ξ_0$ characterizing flux tube entanglement entropy (FTE$^2$) in (2+1)D Yang-Mills theory. This physical scale corresponds to the intrinsic thickness of the flux tube that must be fully severed by an entangling region for color degrees of freedom in the flux tube to contribute non-zero FTE$^2$. We consider here geometries of the entanglement region $V$ on the lattice where the length of the region cross-cutting the flux tube is of the same magnitude as $ξ_0$. Our results further the conclusions of arXiv:2601.17199 by adding detailed new information on the topological structure of the entanglement radius of color flux tubes.",
-      "authors": [
-        "Rocco Amorosso",
-        "Sergey Syritsyn",
-        "Raju Venugopalan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.10255v1",
-      "link": "https://arxiv.org/abs/2603.10255v1",
-      "published": "2026-03-10T22:17:24Z",
-      "categories": [
-        "hep-lat",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3128414",
-        "inspire_url": "https://inspirehep.net/literature/3128414",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.03835v1",
       "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
       "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
@@ -1266,30 +1263,6 @@
       }
     },
     {
-      "id": "2602.23158v1",
-      "title": "Symmetric Mass Generation via Multicriticality in a 3D Lattice Gross-Neveu Model",
-      "summary": "We investigate a three-dimensional lattice model of two flavors of massless staggered fermions coupled through two independent four-fermion interactions, $U_I$ and $U_B$. Using large-scale fermion-bag Monte Carlo simulations, we map out the phase diagram in the $(U_I, U_B)$ parameter space and identify three distinct phases: a massless fermion phase, a symmetry-broken massive phase, and a symmetric massive phase. When one of the interactions is absent ($U_B=0$), the system undergoes a single continuous transition directly connecting the massless and symmetric massive phases, a feature previously associated with unconventional fermion mass generation. We find that turning on a nonzero $U_B$ separates this direct transition into two successive transitions with an intermediate symmetry-broken phase. The transition from the massless to the broken phase belongs to the Gross-Neveu universality class, while the transition from the broken to the symmetric massive phase falls into the three-dimensional XY universality class. Our results indicate that the special point at vanishing coupling, where the direct transition occurs, plays the role of a multicritical point organizing the surrounding phase structure. These findings provide a unified lattice perspective on conventional and unconventional mechanisms of fermion mass generation within a single model.",
-      "authors": [
-        "Sandip Maiti",
-        "Debasish Banerjee",
-        "Shailesh Chandrasekharan",
-        "Marina K. Marinkovic"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23158v1",
-      "link": "https://arxiv.org/abs/2602.23158v1",
-      "published": "2026-02-26T16:18:58Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3123887",
-        "inspire_url": "https://inspirehep.net/literature/3123887",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2602.23118v2",
       "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
       "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
@@ -1345,27 +1318,6 @@
       "inspire": {
         "control_number": "3123848",
         "inspire_url": "https://inspirehep.net/literature/3123848",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.22515v1",
-      "title": "Confined and Deconfined Phases of Qubit Regularized Lattice Gauge Theories",
-      "summary": "We construct simple qubit-regularized Hamiltonian lattice gauge theories formulated in the monomer--dimer--tensor-network (MDTN) basis that are free of sign problems in the pure gauge sector. These models naturally realize both confined and deconfined phases. Using classical Monte Carlo methods, we investigate the associated finite-temperature phase transitions and show that they exhibit the expected universality classes of conventional SU(N) lattice gauge theories in various spacetime dimensions. Furthermore, we argue that second-order quantum phase transitions separating the confined and deconfined phases are likely to exist. Such critical points would provide a nonperturbative route to defining continuum limits of qubit-regularized gauge theories, potentially allowing Yang--Mills theory and related continuum gauge theories to emerge from finite-dimensional lattice constructions.",
-      "authors": [
-        "Shailesh Chandrasekharan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.22515v1",
-      "link": "https://arxiv.org/abs/2602.22515v1",
-      "published": "2026-02-26T01:17:44Z",
-      "categories": [
-        "hep-lat",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3123852",
-        "inspire_url": "https://inspirehep.net/literature/3123852",
         "citation_count": 0
       }
     },
@@ -1437,30 +1389,6 @@
       "inspire": {
         "control_number": "3123174",
         "inspire_url": "https://inspirehep.net/literature/3123174",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2602.18360v1",
-      "title": "Phase diagram of a lattice fermion model with symmetric mass generation",
-      "summary": "We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB = 0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB = 0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross-Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase. Using the fermion-bag Monte Carlo method, we verify that the critical exponents associated with both transitions are consistent with the literature, thereby yielding a quantitative characterization of the resulting phase structure of the model.",
-      "authors": [
-        "Sandip Maiti",
-        "Debasish Banerjee",
-        "Shailesh Chandrasekharan",
-        "Marina K. Marinkovic"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.18360v1",
-      "link": "https://arxiv.org/abs/2602.18360v1",
-      "published": "2026-02-20T17:13:19Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3122082",
-        "inspire_url": "https://inspirehep.net/literature/3122082",
         "citation_count": 1
       }
     },
@@ -1754,30 +1682,6 @@
         "control_number": "3112889",
         "inspire_url": "https://inspirehep.net/literature/3112889",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2601.17199v1",
-      "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
-      "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
-      "authors": [
-        "Rocco Amorosso",
-        "Sergey Syritsyn",
-        "Raju Venugopalan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.17199v1",
-      "link": "https://arxiv.org/abs/2601.17199v1",
-      "published": "2026-01-23T22:08:30Z",
-      "categories": [
-        "hep-th",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3111342",
-        "inspire_url": "https://inspirehep.net/literature/3111342",
-        "citation_count": 1
       }
     },
     {
