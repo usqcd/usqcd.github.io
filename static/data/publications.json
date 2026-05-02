@@ -1,5 +1,170 @@
 {
-  "generated": "2026-05-01T07:27:36.247135+00:00Z",
-  "count": 0,
-  "publications": []
+  "generated": "2026-05-02T07:10:52.564532+00:00Z",
+  "count": 76,
+  "publications": [
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.25802v1",
+      "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
+      "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
+      "authors": [
+        "Hao-Fei Gao",
+        "Xue-Ying Han",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        " Jin-XinTan",
+        "Ji-Hao Wang",
+        "Wei Wang",
+        "Ji Xu",
+        "Yi-Bo Yang",
+        "Fu-Wei Zhang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang",
+        "Shuai Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.25802v1",
+      "link": "https://arxiv.org/abs/2604.25802v1",
+      "published": "2026-04-28T16:11:05Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3149743",
+        "inspire_url": "https://inspirehep.net/literature/3149743",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.22514v1",
+      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
+      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
+      "authors": [
+        "Jishnu Goswami",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Shoji Hashimoto",
+        "Issaku Kanamori",
+        "Takashi Kaneko",
+        "Yoshifumi Nakamura",
+        "David Ward",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22514v1",
+      "link": "https://arxiv.org/abs/2604.22514v1",
+      "published": "2026-04-24T12:54:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3148937",
+        "inspire_url": "https://inspirehep.net/literature/3148937",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.22349v1",
+      "title": "Hadronic contributions to $α(Q^{2})$ and $\\sin^{2}θ_{W}(Q^{2})$ from spectral reconstruction of lattice-QCD data",
+      "summary": "We present preliminary results from a lattice-QCD study of the hadronic contributions to the running of the electromagnetic coupling, $Δα(Q^2)$, and the electroweak mixing angle, $Δ\\sin^2θ_{W}(Q^2)$. Using $N_f = 2+1+1$ HISQ ensembles at physical quark masses, we discuss the challenges posed by strong statistical correlations in the time-momentum representation and propose a spectral-reconstruction strategy to obtain controlled continuum-extrapolated results across the full energy range.",
+      "authors": [
+        "Adrián del Pino",
+        "David A. Clarke",
+        "Carleton DeTar",
+        "Aida X. El-Khadra",
+        "Elvira Gámiz",
+        "Steven Gottlieb",
+        "Anthony V. Grebe",
+        "Leon Hostetler",
+        "William I. Jay",
+        "Andreas S. Kronfeld",
+        "Shaun Lahert",
+        "Jack Laiho",
+        "Michael Lynch",
+        "Andrew T. Lytle",
+        "Ethan T. Neil",
+        "Curtis T. Peterson",
+        "James N. Simone",
+        "Jacob W. Sitison",
+        "Ruth S. Van de Water",
+        "Alejandro Vaquero"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22349v1",
+      "link": "https://arxiv.org/abs/2604.22349v1",
+      "published": "2026-04-24T08:35:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3148934",
+        "inspire_url": "https://inspirehep.net/literature/3148934",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "518",
+            "artid": "518",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
+      }
+    },
+    {
+      "id": "2604.21476v1",
+      "title": "Reconstructing the full kinematic dependence of GPDs from pseudo-distributions",
+      "summary": "We propose a reconstruction of the full $(x, ξ, t)$ dependence of unpolarized isovector proton generalized parton distributions (GPDs) $H^{u-d}$ and $E^{u-d}$ from lattice QCD data in the pseudo-distribution formalism. For the first time, we extract double distributions (DDs) directly from lattice data, enforcing therefore an important property of GPDs linked to Lorentz symmetry. We use the flexible framework of multidimensional Gaussian process regression to regularize the inverse problem and present an assessment of the impact of model dependence on the systematic uncertainty. Our lattice ensemble corresponds to a pion mass $m_π= 358$~MeV and a lattice spacing $a = 0.094$~fm. We use larger hadron momenta, up to 2.7~GeV, and kinematic coverage compared to our previous computations and extract additional skewness-dependent moments of the GPD.",
+      "authors": [
+        "Hervé Dutrieux",
+        "Robert G. Edwards",
+        "Joe Karpie",
+        "Cédric Mezrag",
+        "Christopher Monahan",
+        "Kostas Orginos",
+        "Anatoly Radyushkin",
+        "David Richards",
+        "Eloy Romero",
+        "Savvas Zafeiropoulos"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.21476v1",
+      "link": "https://arxiv.org/abs/2604.21476v1",
+      "published": "2026-04-23T09:37:16Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3148486",
+        "inspire_url": "https://inspirehep.net/literature/3148486",
+        "citation_count": 0
+      }
+    }
+  ]
 }
