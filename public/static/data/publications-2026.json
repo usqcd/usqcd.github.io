@@ -1,7 +1,32 @@
 {
-  "generated": "2026-05-03T07:20:22.906757+00:00Z",
+  "generated": "2026-05-04T07:30:31.689256+00:00Z",
   "count": 78,
   "publications": [
+    {
+      "id": "2605.00339v1",
+      "title": "Evidence for Quark Confinement in the Proton",
+      "summary": "The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass.",
+      "authors": [
+        "Xiangdong Ji",
+        "Gerald A. Miller",
+        "Chen Yang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.00339v1",
+      "link": "https://arxiv.org/abs/2605.00339v1",
+      "published": "2026-05-01T01:43:06Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150807",
+        "inspire_url": "https://inspirehep.net/literature/3150807",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2604.26376v1",
       "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
@@ -131,7 +156,8 @@
             "page_start": "518",
             "artid": "518",
             "year": 2025
-          }
+          },
+          {}
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
@@ -756,7 +782,7 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -2085,31 +2111,6 @@
         "control_number": "3098236",
         "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.02331v2",
-      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
-      "summary": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
-      "authors": [
-        "Evan Budd",
-        "Adrien Florio",
-        "David Frenklakh",
-        "Swagato Mukherjee"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.02331v2",
-      "link": "https://arxiv.org/abs/2601.02331v2",
-      "published": "2026-01-05T18:23:52Z",
-      "categories": [
-        "hep-th",
-        "astro-ph.CO",
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3097885",
-        "inspire_url": "https://inspirehep.net/literature/3097885",
-        "citation_count": 0
       }
     }
   ]
