@@ -1,7 +1,57 @@
 {
-  "generated": "2026-05-04T07:30:31.689256+00:00Z",
-  "count": 78,
+  "generated": "2026-05-05T07:41:37.254319+00:00Z",
+  "count": 81,
   "publications": [
+    {
+      "id": "2605.02808v1",
+      "title": "Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD",
+      "summary": "Using forward matrix elements of local leading-twist operators, we present a determination of the isovector third Mellin moments $\\left< x^2 \\right>$ of nucleon unpolarized, polarized, and transversity parton distribution functions. Two lattice QCD ensembles at the physical pion mass are used, which were generated using a tree-level Symanzik-improved gauge action and 2+1 flavor tree-level improved Wilson Clover fermions coupling via 2-level HEX-smearing. Leveraging a wide set of operators, two extraction methods for the matrix elements, and the automatic inclusion of model uncertainties via bootstrapped model averages, we extract values of the third Mellin moments. This is the first direct calculation of these observables performed at the physical pion mass.",
+      "authors": [
+        "Emilio Taggi",
+        "Michael Engelhardt",
+        "Jeremy R. Green",
+        "Stefan Krieg",
+        "Stefan Meinel",
+        "John W. Negele",
+        "Andrew Pochinsky",
+        "Marcel Rodekamp",
+        "Sergey Syritsyn"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.02808v1",
+      "link": "https://arxiv.org/abs/2605.02808v1",
+      "published": "2026-05-04T16:46:12Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3151097",
+        "inspire_url": "https://inspirehep.net/literature/3151097",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.01757v1",
+      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
+      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
+      "authors": [
+        "Ying Chen",
+        "Long-Cheng Gui",
+        "Geng Li",
+        "Wei Sun"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.01757v1",
+      "link": "https://arxiv.org/abs/2605.01757v1",
+      "published": "2026-05-03T07:35:11Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3151091",
+        "inspire_url": "https://inspirehep.net/literature/3151091",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.00339v1",
       "title": "Evidence for Quark Confinement in the Proton",
@@ -379,7 +429,7 @@
       "inspire": {
         "control_number": "3138451",
         "inspire_url": "https://inspirehep.net/literature/3138451",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -2111,6 +2161,31 @@
         "control_number": "3098236",
         "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.02331v2",
+      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
+      "summary": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
+      "authors": [
+        "Evan Budd",
+        "Adrien Florio",
+        "David Frenklakh",
+        "Swagato Mukherjee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02331v2",
+      "link": "https://arxiv.org/abs/2601.02331v2",
+      "published": "2026-01-05T18:23:52Z",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3097885",
+        "inspire_url": "https://inspirehep.net/literature/3097885",
+        "citation_count": 0
       }
     }
   ]
