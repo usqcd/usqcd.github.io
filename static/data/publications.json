@@ -1,7 +1,57 @@
 {
-  "generated": "2026-05-04T07:30:31.748501+00:00Z",
-  "count": 78,
+  "generated": "2026-05-05T07:41:37.314057+00:00Z",
+  "count": 81,
   "publications": [
+    {
+      "id": "2605.02808v1",
+      "title": "Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD",
+      "summary": "Using forward matrix elements of local leading-twist operators, we present a determination of the isovector third Mellin moments $\\left< x^2 \\right>$ of nucleon unpolarized, polarized, and transversity parton distribution functions. Two lattice QCD ensembles at the physical pion mass are used, which were generated using a tree-level Symanzik-improved gauge action and 2+1 flavor tree-level improved Wilson Clover fermions coupling via 2-level HEX-smearing. Leveraging a wide set of operators, two extraction methods for the matrix elements, and the automatic inclusion of model uncertainties via bootstrapped model averages, we extract values of the third Mellin moments. This is the first direct calculation of these observables performed at the physical pion mass.",
+      "authors": [
+        "Emilio Taggi",
+        "Michael Engelhardt",
+        "Jeremy R. Green",
+        "Stefan Krieg",
+        "Stefan Meinel",
+        "John W. Negele",
+        "Andrew Pochinsky",
+        "Marcel Rodekamp",
+        "Sergey Syritsyn"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.02808v1",
+      "link": "https://arxiv.org/abs/2605.02808v1",
+      "published": "2026-05-04T16:46:12Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3151097",
+        "inspire_url": "https://inspirehep.net/literature/3151097",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.01757v1",
+      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
+      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
+      "authors": [
+        "Ying Chen",
+        "Long-Cheng Gui",
+        "Geng Li",
+        "Wei Sun"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.01757v1",
+      "link": "https://arxiv.org/abs/2605.01757v1",
+      "published": "2026-05-03T07:35:11Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3151091",
+        "inspire_url": "https://inspirehep.net/literature/3151091",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.00339v1",
       "title": "Evidence for Quark Confinement in the Proton",
@@ -84,83 +134,6 @@
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.22514v1",
-      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
-      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
-      "authors": [
-        "Jishnu Goswami",
-        "Yasumichi Aoki",
-        "Hidenori Fukaya",
-        "Shoji Hashimoto",
-        "Issaku Kanamori",
-        "Takashi Kaneko",
-        "Yoshifumi Nakamura",
-        "David Ward",
-        "Yu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.22514v1",
-      "link": "https://arxiv.org/abs/2604.22514v1",
-      "published": "2026-04-24T12:54:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3148937",
-        "inspire_url": "https://inspirehep.net/literature/3148937",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.22349v1",
-      "title": "Hadronic contributions to $α(Q^{2})$ and $\\sin^{2}θ_{W}(Q^{2})$ from spectral reconstruction of lattice-QCD data",
-      "summary": "We present preliminary results from a lattice-QCD study of the hadronic contributions to the running of the electromagnetic coupling, $Δα(Q^2)$, and the electroweak mixing angle, $Δ\\sin^2θ_{W}(Q^2)$. Using $N_f = 2+1+1$ HISQ ensembles at physical quark masses, we discuss the challenges posed by strong statistical correlations in the time-momentum representation and propose a spectral-reconstruction strategy to obtain controlled continuum-extrapolated results across the full energy range.",
-      "authors": [
-        "Adrián del Pino",
-        "David A. Clarke",
-        "Carleton DeTar",
-        "Aida X. El-Khadra",
-        "Elvira Gámiz",
-        "Steven Gottlieb",
-        "Anthony V. Grebe",
-        "Leon Hostetler",
-        "William I. Jay",
-        "Andreas S. Kronfeld",
-        "Shaun Lahert",
-        "Jack Laiho",
-        "Michael Lynch",
-        "Andrew T. Lytle",
-        "Ethan T. Neil",
-        "Curtis T. Peterson",
-        "James N. Simone",
-        "Jacob W. Sitison",
-        "Ruth S. Van de Water",
-        "Alejandro Vaquero"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.22349v1",
-      "link": "https://arxiv.org/abs/2604.22349v1",
-      "published": "2026-04-24T08:35:22Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3148934",
-        "inspire_url": "https://inspirehep.net/literature/3148934",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "518",
-            "artid": "518",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
       }
     }
   ]
