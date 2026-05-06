@@ -1,7 +1,32 @@
 {
-  "generated": "2026-05-05T07:41:37.314057+00:00Z",
-  "count": 81,
+  "generated": "2026-05-06T07:22:25.737255+00:00Z",
+  "count": 80,
   "publications": [
+    {
+      "id": "2605.03234v1",
+      "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
+      "summary": "The universality of the large momentum expansion allows computing parton distribution functions (PDFs) starting from any Euclidean correlator with appropriate large momentum Fourier Components. Here we consider current-current correlators which have been used in short-distance expansion to obtain moments of PDFs. The advantage of such correlators is that they have simple renormalization properties and do not have linear power divergences as in quasi-PDF. However, in lattice calculations, four-point functions are needed. Here we present an expansion formula with current-current correlators up to the next-to-leading order, and preliminary numerical calculations with four-point functions.",
+      "authors": [
+        "Jialu Zhang",
+        "Xiangdong Ji",
+        "Andreas Schäfer",
+        "Rui Zhang",
+        "Christian Zimmermann"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.03234v1",
+      "link": "https://arxiv.org/abs/2605.03234v1",
+      "published": "2026-05-04T23:55:20Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3151975",
+        "inspire_url": "https://inspirehep.net/literature/3151975",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.02808v1",
       "title": "Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD",
@@ -97,42 +122,6 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.25802v1",
-      "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
-      "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
-      "authors": [
-        "Hao-Fei Gao",
-        "Xue-Ying Han",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        " Jin-XinTan",
-        "Ji-Hao Wang",
-        "Wei Wang",
-        "Ji Xu",
-        "Yi-Bo Yang",
-        "Fu-Wei Zhang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Mu-Hua Zhang",
-        "Qi-An Zhang",
-        "Shuai Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.25802v1",
-      "link": "https://arxiv.org/abs/2604.25802v1",
-      "published": "2026-04-28T16:11:05Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3149743",
-        "inspire_url": "https://inspirehep.net/literature/3149743",
         "citation_count": 0
       }
     }
