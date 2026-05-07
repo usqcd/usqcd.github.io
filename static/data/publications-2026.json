@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T07:22:25.676777+00:00Z",
-  "count": 80,
+  "generated": "2026-05-07T07:54:50.107270+00:00Z",
+  "count": 76,
   "publications": [
     {
       "id": "2605.03234v1",
@@ -103,29 +103,6 @@
       }
     },
     {
-      "id": "2604.26376v1",
-      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
-      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
-      "authors": [
-        "Caroline E. P. Robin",
-        "Martin J. Savage"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.26376v1",
-      "link": "https://arxiv.org/abs/2604.26376v1",
-      "published": "2026-04-29T07:39:25Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3150112",
-        "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2604.25802v1",
       "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
       "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
@@ -158,34 +135,6 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.22514v1",
-      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
-      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
-      "authors": [
-        "Jishnu Goswami",
-        "Yasumichi Aoki",
-        "Hidenori Fukaya",
-        "Shoji Hashimoto",
-        "Issaku Kanamori",
-        "Takashi Kaneko",
-        "Yoshifumi Nakamura",
-        "David Ward",
-        "Yu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.22514v1",
-      "link": "https://arxiv.org/abs/2604.22514v1",
-      "published": "2026-04-24T12:54:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3148937",
-        "inspire_url": "https://inspirehep.net/literature/3148937",
         "citation_count": 0
       }
     },
@@ -529,15 +478,69 @@
       }
     },
     {
-      "id": "2603.27608v2",
+      "id": "2603.28517v1",
+      "title": "Heavy-Meson Bag Parameters using Gradient Flow",
+      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28517v1",
+      "link": "https://arxiv.org/abs/2603.28517v1",
+      "published": "2026-03-30T14:47:45Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3137111",
+        "inspire_url": "https://inspirehep.net/literature/3137111",
+        "citation_count": 2
+      }
+    },
+    {
+      "id": "2603.28516v1",
+      "title": "Bag Parameters for Heavy Meson Lifetimes",
+      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28516v1",
+      "link": "https://arxiv.org/abs/2603.28516v1",
+      "published": "2026-03-30T14:47:42Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3137099",
+        "inspire_url": "https://inspirehep.net/literature/3137099",
+        "citation_count": 3
+      }
+    },
+    {
+      "id": "2603.27608v3",
       "title": "Domain wall fermions",
       "summary": "We introduce the formulation of domain wall fermions in the context of lattice QCD. We prove the recovery of exact chiral symmetry in the limit of an infinite fifth direction, and derive the effective four-dimensional operator satisfying the Ginsparg-Wilson relation obtained in this limit. We discuss the residual breaking of chiral symmetry for finite extent of the fifth direction, and how it is affected by spectral features of the Wilson kernel. We also discuss various improvements of domain wall fermions including notably Möbius fermions. These notes are a chapter contributed to the on-line book ``Lattice QCD at 50 years'' (LQCD@50).",
       "authors": [
         "Thomas Blum",
         "Yigal Shamir"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.27608v2",
-      "link": "https://arxiv.org/abs/2603.27608v2",
+      "pdf": "https://arxiv.org/pdf/2603.27608v3",
+      "link": "https://arxiv.org/abs/2603.27608v3",
       "published": "2026-03-29T10:02:10Z",
       "categories": [
         "hep-lat"
@@ -603,33 +606,6 @@
       "inspire": {
         "control_number": "3134068",
         "inspire_url": "https://inspirehep.net/literature/3134068",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.23022v1",
-      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
-      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
-      "authors": [
-        "Issaku Kanamori",
-        "Yasumichi Aoki",
-        "Hidenori Fukaya",
-        "Jishnu Goswami",
-        "Shoji Hashimotod",
-        "Yu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.23022v1",
-      "link": "https://arxiv.org/abs/2603.23022v1",
-      "published": "2026-03-24T10:05:00Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3133766",
-        "inspire_url": "https://inspirehep.net/literature/3133766",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     },
@@ -720,39 +696,6 @@
       "inspire": {
         "control_number": "3132368",
         "inspire_url": "https://inspirehep.net/literature/3132368",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.19960v1",
-      "title": "Real radiative decays of heavy pseudoscalar mesons",
-      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
-      "authors": [
-        "Teseo San Jose",
-        "Yasumichi Aoki",
-        "Matteo Di Carlo",
-        "Felix Erben",
-        "Vera Gülpers",
-        "Maxwell T. Hansen",
-        "Shoji Hashimoto",
-        "Nils Hermansson-Truedsson",
-        "Ryan Hill",
-        "Takashi Kaneko",
-        "Antonin Portelli",
-        "Justus Tobias Tsang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.19960v1",
-      "link": "https://arxiv.org/abs/2603.19960v1",
-      "published": "2026-03-20T14:01:29Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3132388",
-        "inspire_url": "https://inspirehep.net/literature/3132388",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     },
@@ -887,37 +830,6 @@
           {}
         ],
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2603.13101v1",
-      "title": "Recent update of nucleon axial-vector charge with the PACS10 superfine lattice",
-      "summary": "We update the results of the nucleon axial-vector charge with the third ensemble of the PACS10 gauge configurations, which are generated by the PACS Collaboration at the physical point with lattice volume larger than $(10\\;{\\rm fm})^4$ and three different lattice spacings, 0.085 fm (coarse), 0.063 fm (fine) and 0.041 fm (superfine). Although the results of the first two ensembles generated at the coarse and fine lattice spacings are published, our study using the third one generated at the superfine lattice spacing is still underway. In this work, the low-energy relations arising from the partially conserved axial-vector current (PCAC) relation are also examined in terms of the nucleon three-point functions to verify whether the lattice QCD data correctly reproduces the physics in the continuum within the statistical accuracy.",
-      "authors": [
-        "Masato Nagatsuka",
-        "Yasumichi Aoki",
-        "Ken-Ichi Ishikawa",
-        "Yoshinobu Kuramashi",
-        "Shoichi Sasaki",
-        "Kohei Sato",
-        "Eigo Shintani",
-        "Ryutaro Tsuji",
-        "Hiromasa Watanabe",
-        "Takeshi Yamazaki"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.13101v1",
-      "link": "https://arxiv.org/abs/2603.13101v1",
-      "published": "2026-03-13T15:54:33Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129083",
-        "inspire_url": "https://inspirehep.net/literature/3129083",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
       }
     },
     {
@@ -1950,31 +1862,6 @@
       "inspire": {
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.08825v2",
-      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
-      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
-      "authors": [
-        "Sebastian Grieninger",
-        "Martin J. Savage",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.08825v2",
-      "link": "https://arxiv.org/abs/2601.08825v2",
-      "published": "2026-01-13T18:57:53Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3103920",
-        "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
       }
     },
