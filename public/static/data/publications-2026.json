@@ -1,7 +1,63 @@
 {
-  "generated": "2026-05-07T07:54:50.107270+00:00Z",
-  "count": 76,
+  "generated": "2026-05-08T07:44:42.658254+00:00Z",
+  "count": 79,
   "publications": [
+    {
+      "id": "2605.06560v1",
+      "title": "$F_K/F_π$ as a precision test of a new four flavor Domain Wall Fermion action",
+      "summary": "We present a new set of lattice QCD ensembles with four flavors of smeared Möbius Domain Wall Fermions with good chiral symmetry and small fifth-dimensional extent. A modest amount of computing resources was sufficient to generate 30 publicly-available ensembles spanning five lattice spacings and a broad range of pion masses down to physical. To scrutinize our action we determine $F_{K^{\\pm}}/F_{π^{\\pm}} = 1.1962(34)$, a key quantity for precision CKM unitarity tests, heralding a future of inexpensive high-precision calculations of hadronic observables with chiral fermions.",
+      "authors": [
+        "Renwick J. Hudspith",
+        "Nicolas Garron",
+        "Zack Hall",
+        "Andrew Hanlon",
+        "Henry Monge-Camacho",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Dimitra A. Pefkou",
+        "Thomas R. Richardson",
+        "Fernando Romero-López",
+        "Miguel Salg",
+        "Wyatt A. Smith",
+        "Pavlos Vranas",
+        "André Walker-Loud",
+        "Bigeng Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.06560v1",
+      "link": "https://arxiv.org/abs/2605.06560v1",
+      "published": "2026-05-07T16:54:26Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3152691",
+        "inspire_url": "https://inspirehep.net/literature/3152691",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.04163v1",
+      "title": "Pressure-Energy Equations of State of the Nucleon",
+      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parameterize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. There are two distinct components in the pressure and energy densities. The static pressure distribution arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 1/3 $T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as resulting from the depletion of the gluon and quark condensates through the stress-volume relation. This trace-anomaly and sigma-term induced pressure plays a fundamental role in the confinement dynamics of QCD. In contrast, the dynamic pressure distribution from the traceless part of the spatial stress tensor equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. The total pressure is balanced by these two components of the pressure. We point out that the same pressure-energy relations also hold for vortices in type-II superconductors, where the static pressure-energy relation arises from the depletion of the Cooper-pair condensate. Furthermore, these equations of state are identical to those in the $Λ$CDM model of cosmology, where the static pressure-energy relation arises from the cosmological constant.",
+      "authors": [
+        "Keh-Fei Liu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.04163v1",
+      "link": "https://arxiv.org/abs/2605.04163v1",
+      "published": "2026-05-05T18:01:23Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3152352",
+        "inspire_url": "https://inspirehep.net/literature/3152352",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.03234v1",
       "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
@@ -55,29 +111,6 @@
       }
     },
     {
-      "id": "2605.01757v1",
-      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
-      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
-      "authors": [
-        "Ying Chen",
-        "Long-Cheng Gui",
-        "Geng Li",
-        "Wei Sun"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.01757v1",
-      "link": "https://arxiv.org/abs/2605.01757v1",
-      "published": "2026-05-03T07:35:11Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3151091",
-        "inspire_url": "https://inspirehep.net/literature/3151091",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2605.00339v1",
       "title": "Evidence for Quark Confinement in the Proton",
       "summary": "The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass.",
@@ -100,6 +133,29 @@
         "control_number": "3150807",
         "inspire_url": "https://inspirehep.net/literature/3150807",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 1
       }
     },
     {
@@ -501,7 +557,7 @@
       "inspire": {
         "control_number": "3137111",
         "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -528,7 +584,7 @@
       "inspire": {
         "control_number": "3137099",
         "inspire_url": "https://inspirehep.net/literature/3137099",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1605,7 +1661,7 @@
       }
     },
     {
-      "id": "2602.02436v1",
+      "id": "2602.02436v2",
       "title": "Wilson loops with neural networks",
       "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
       "authors": [
@@ -1614,8 +1670,8 @@
         "Andreas S. Kronfeld",
         "Julian Mayer-Steudte"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.02436v1",
-      "link": "https://arxiv.org/abs/2602.02436v1",
+      "pdf": "https://arxiv.org/pdf/2602.02436v2",
+      "link": "https://arxiv.org/abs/2602.02436v2",
       "published": "2026-02-02T18:33:56Z",
       "categories": [
         "hep-lat",
@@ -1862,6 +1918,31 @@
       "inspire": {
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.08825v2",
+      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
+      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
+      "authors": [
+        "Sebastian Grieninger",
+        "Martin J. Savage",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.08825v2",
+      "link": "https://arxiv.org/abs/2601.08825v2",
+      "published": "2026-01-13T18:57:53Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3103920",
+        "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
       }
     },
