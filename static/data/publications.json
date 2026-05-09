@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T07:44:42.717513+00:00Z",
-  "count": 79,
+  "generated": "2026-05-09T07:32:45.427108+00:00Z",
+  "count": 82,
   "publications": [
     {
       "id": "2605.06560v1",
@@ -111,27 +111,25 @@
       }
     },
     {
-      "id": "2605.00339v1",
-      "title": "Evidence for Quark Confinement in the Proton",
-      "summary": "The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass.",
+      "id": "2605.01757v1",
+      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
+      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
       "authors": [
-        "Xiangdong Ji",
-        "Gerald A. Miller",
-        "Chen Yang"
+        "Ying Chen",
+        "Long-Cheng Gui",
+        "Geng Li",
+        "Wei Sun"
       ],
-      "pdf": "https://arxiv.org/pdf/2605.00339v1",
-      "link": "https://arxiv.org/abs/2605.00339v1",
-      "published": "2026-05-01T01:43:06Z",
+      "pdf": "https://arxiv.org/pdf/2605.01757v1",
+      "link": "https://arxiv.org/abs/2605.01757v1",
+      "published": "2026-05-03T07:35:11Z",
       "categories": [
         "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
+        "hep-lat"
       ],
       "inspire": {
-        "control_number": "3150807",
-        "inspire_url": "https://inspirehep.net/literature/3150807",
+        "control_number": "3151091",
+        "inspire_url": "https://inspirehep.net/literature/3151091",
         "citation_count": 0
       }
     }
