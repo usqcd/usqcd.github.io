@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-10T07:24:28.664784+00:00Z",
-  "count": 84,
+  "generated": "2026-05-11T08:38:15.833972+00:00Z",
+  "count": 75,
   "publications": [
+    {
+      "id": "2605.07262v1",
+      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
+      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
+      "authors": [
+        "Reinhold Kaiser",
+        "Frithjof Karsch",
+        "Jan Philipp Klinger",
+        "Owe Philipsen",
+        "Christian Schmidt",
+        "Simran Singh"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.07262v1",
+      "link": "https://arxiv.org/abs/2605.07262v1",
+      "published": "2026-05-08T05:27:26Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3153498",
+        "inspire_url": "https://inspirehep.net/literature/3153498",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.06560v1",
       "title": "$F_K/F_π$ as a precision test of a new four flavor Domain Wall Fermion action",
@@ -107,29 +131,6 @@
       "inspire": {
         "control_number": "3151097",
         "inspire_url": "https://inspirehep.net/literature/3151097",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.01757v1",
-      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
-      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
-      "authors": [
-        "Ying Chen",
-        "Long-Cheng Gui",
-        "Geng Li",
-        "Wei Sun"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.01757v1",
-      "link": "https://arxiv.org/abs/2605.01757v1",
-      "published": "2026-05-03T07:35:11Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3151091",
-        "inspire_url": "https://inspirehep.net/literature/3151091",
         "citation_count": 0
       }
     }
