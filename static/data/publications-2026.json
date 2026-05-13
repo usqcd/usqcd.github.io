@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T07:49:22.270820+00:00Z",
-  "count": 81,
+  "generated": "2026-05-13T07:43:07.282883+00:00Z",
+  "count": 82,
   "publications": [
     {
       "id": "2605.07262v1",
@@ -183,6 +183,43 @@
       }
     },
     {
+      "id": "2605.10946v1",
+      "title": "Continuum-Limit HQET LCDAs from Lattice QCD for Tightening B Decay Uncertainties",
+      "summary": "Heavy meson HQET light-cone distribution amplitudes (LCDAs) are critical for precision predictions of $B$ meson weak decays, but currently are one of dominant theoretical uncertainties that obscure interpretations of $B$ anomalies and CP-violating measurements. Building on the established HQLaMET framework, supplemented by lattice QCD calculations of the OPE moments, we present a precise lattice QCD calculation of HQET LCDAs by employing multi-ensemble simulations for continuum and physical pion mass extrapolation, quantifying comprehensive systematic errors, and validating results through OPE moment cross-validation. Details of the lattice calculations are provided in a companion paper \\cite{HeavymesonDA_long_paper}. Our final results for key inverse moments (at $μ=1$ GeV) are $λ_B=0.340(20)$ GeV and $σ_B^{(1)}=1.685(63)$, with the total uncertainty reduced by a factor of three relative to the previous analysis. These results can greatly reduce the uncertainty in the $B \\to K^*$ form factors in the large-recoil region. This work resolves the long-standing bottleneck in first-principles predictions of heavy meson LCDAs, advancing precision flavor physics to new frontiers.",
+      "authors": [
+        "Xue-Ying Han",
+        "Hao-Fei Gao",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        "Jin-Xin Tan",
+        "Ji-Hao Wang",
+        "Wei Wang",
+        "Ji Xu",
+        "Yi-Bo Yang",
+        "Fu-Wei Zhang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang",
+        "Shuai Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.10946v1",
+      "link": "https://arxiv.org/abs/2605.10946v1",
+      "published": "2026-04-29T09:50:53Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3154615",
+        "inspire_url": "https://inspirehep.net/literature/3154615",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2604.26376v1",
       "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
       "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
@@ -286,7 +323,7 @@
           },
           {}
         ],
-        "citation_count": 0,
+        "citation_count": 1,
         "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
       }
     },
