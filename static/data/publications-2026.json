@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-13T07:43:07.282883+00:00Z",
-  "count": 82,
+  "generated": "2026-05-14T07:48:19.264325+00:00Z",
+  "count": 85,
   "publications": [
     {
       "id": "2605.07262v1",
@@ -58,27 +58,6 @@
       "inspire": {
         "control_number": "3152691",
         "inspire_url": "https://inspirehep.net/literature/3152691",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.04163v1",
-      "title": "Pressure-Energy Equations of State of the Nucleon",
-      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parameterize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. There are two distinct components in the pressure and energy densities. The static pressure distribution arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 1/3 $T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as resulting from the depletion of the gluon and quark condensates through the stress-volume relation. This trace-anomaly and sigma-term induced pressure plays a fundamental role in the confinement dynamics of QCD. In contrast, the dynamic pressure distribution from the traceless part of the spatial stress tensor equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. The total pressure is balanced by these two components of the pressure. We point out that the same pressure-energy relations also hold for vortices in type-II superconductors, where the static pressure-energy relation arises from the depletion of the Cooper-pair condensate. Furthermore, these equations of state are identical to those in the $Λ$CDM model of cosmology, where the static pressure-energy relation arises from the cosmological constant.",
-      "authors": [
-        "Keh-Fei Liu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.04163v1",
-      "link": "https://arxiv.org/abs/2605.04163v1",
-      "published": "2026-05-05T18:01:23Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3152352",
-        "inspire_url": "https://inspirehep.net/literature/3152352",
         "citation_count": 0
       }
     },
@@ -275,6 +254,34 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.22514v1",
+      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
+      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
+      "authors": [
+        "Jishnu Goswami",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Shoji Hashimoto",
+        "Issaku Kanamori",
+        "Takashi Kaneko",
+        "Yoshifumi Nakamura",
+        "David Ward",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.22514v1",
+      "link": "https://arxiv.org/abs/2604.22514v1",
+      "published": "2026-04-24T12:54:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3148937",
+        "inspire_url": "https://inspirehep.net/literature/3148937",
         "citation_count": 0
       }
     },
@@ -750,6 +757,33 @@
       }
     },
     {
+      "id": "2603.23022v1",
+      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
+      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
+      "authors": [
+        "Issaku Kanamori",
+        "Yasumichi Aoki",
+        "Hidenori Fukaya",
+        "Jishnu Goswami",
+        "Shoji Hashimotod",
+        "Yu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.23022v1",
+      "link": "https://arxiv.org/abs/2603.23022v1",
+      "published": "2026-03-24T10:05:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133766",
+        "inspire_url": "https://inspirehep.net/literature/3133766",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2603.22422v1",
       "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
       "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
@@ -836,6 +870,39 @@
       "inspire": {
         "control_number": "3132368",
         "inspire_url": "https://inspirehep.net/literature/3132368",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.19960v1",
+      "title": "Real radiative decays of heavy pseudoscalar mesons",
+      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
+      "authors": [
+        "Teseo San Jose",
+        "Yasumichi Aoki",
+        "Matteo Di Carlo",
+        "Felix Erben",
+        "Vera Gülpers",
+        "Maxwell T. Hansen",
+        "Shoji Hashimoto",
+        "Nils Hermansson-Truedsson",
+        "Ryan Hill",
+        "Takashi Kaneko",
+        "Antonin Portelli",
+        "Justus Tobias Tsang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.19960v1",
+      "link": "https://arxiv.org/abs/2603.19960v1",
+      "published": "2026-03-20T14:01:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3132388",
+        "inspire_url": "https://inspirehep.net/literature/3132388",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -970,6 +1037,37 @@
           {}
         ],
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2603.13101v1",
+      "title": "Recent update of nucleon axial-vector charge with the PACS10 superfine lattice",
+      "summary": "We update the results of the nucleon axial-vector charge with the third ensemble of the PACS10 gauge configurations, which are generated by the PACS Collaboration at the physical point with lattice volume larger than $(10\\;{\\rm fm})^4$ and three different lattice spacings, 0.085 fm (coarse), 0.063 fm (fine) and 0.041 fm (superfine). Although the results of the first two ensembles generated at the coarse and fine lattice spacings are published, our study using the third one generated at the superfine lattice spacing is still underway. In this work, the low-energy relations arising from the partially conserved axial-vector current (PCAC) relation are also examined in terms of the nucleon three-point functions to verify whether the lattice QCD data correctly reproduces the physics in the continuum within the statistical accuracy.",
+      "authors": [
+        "Masato Nagatsuka",
+        "Yasumichi Aoki",
+        "Ken-Ichi Ishikawa",
+        "Yoshinobu Kuramashi",
+        "Shoichi Sasaki",
+        "Kohei Sato",
+        "Eigo Shintani",
+        "Ryutaro Tsuji",
+        "Hiromasa Watanabe",
+        "Takeshi Yamazaki"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.13101v1",
+      "link": "https://arxiv.org/abs/2603.13101v1",
+      "published": "2026-03-13T15:54:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3129083",
+        "inspire_url": "https://inspirehep.net/literature/3129083",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
       }
     },
     {
