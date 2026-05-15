@@ -1,7 +1,59 @@
 {
-  "generated": "2026-05-14T07:48:19.324409+00:00Z",
-  "count": 85,
+  "generated": "2026-05-15T08:54:24.694626+00:00Z",
+  "count": 81,
   "publications": [
+    {
+      "id": "2605.15076v1",
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
+      "authors": [
+        "Zoë Webb-Mack",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.15076v1",
+      "link": "https://arxiv.org/abs/2605.15076v1",
+      "published": "2026-05-14T17:01:35Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3155356",
+        "inspire_url": "https://inspirehep.net/literature/3155356",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.14554v1",
+      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
+      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
+      "authors": [
+        "Ivan Horváth"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.14554v1",
+      "link": "https://arxiv.org/abs/2605.14554v1",
+      "published": "2026-05-14T08:31:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3155354",
+        "inspire_url": "https://inspirehep.net/literature/3155354",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2025
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
+      }
+    },
     {
       "id": "2605.07262v1",
       "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
@@ -62,77 +114,23 @@
       }
     },
     {
-      "id": "2605.03234v1",
-      "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
-      "summary": "The universality of the large momentum expansion allows computing parton distribution functions (PDFs) starting from any Euclidean correlator with appropriate large momentum Fourier Components. Here we consider current-current correlators which have been used in short-distance expansion to obtain moments of PDFs. The advantage of such correlators is that they have simple renormalization properties and do not have linear power divergences as in quasi-PDF. However, in lattice calculations, four-point functions are needed. Here we present an expansion formula with current-current correlators up to the next-to-leading order, and preliminary numerical calculations with four-point functions.",
+      "id": "2605.04163v1",
+      "title": "Pressure-Energy Equations of State of the Nucleon",
+      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parameterize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. There are two distinct components in the pressure and energy densities. The static pressure distribution arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 1/3 $T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as resulting from the depletion of the gluon and quark condensates through the stress-volume relation. This trace-anomaly and sigma-term induced pressure plays a fundamental role in the confinement dynamics of QCD. In contrast, the dynamic pressure distribution from the traceless part of the spatial stress tensor equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. The total pressure is balanced by these two components of the pressure. We point out that the same pressure-energy relations also hold for vortices in type-II superconductors, where the static pressure-energy relation arises from the depletion of the Cooper-pair condensate. Furthermore, these equations of state are identical to those in the $Λ$CDM model of cosmology, where the static pressure-energy relation arises from the cosmological constant.",
       "authors": [
-        "Jialu Zhang",
-        "Xiangdong Ji",
-        "Andreas Schäfer",
-        "Rui Zhang",
-        "Christian Zimmermann"
+        "Keh-Fei Liu"
       ],
-      "pdf": "https://arxiv.org/pdf/2605.03234v1",
-      "link": "https://arxiv.org/abs/2605.03234v1",
-      "published": "2026-05-04T23:55:20Z",
+      "pdf": "https://arxiv.org/pdf/2605.04163v1",
+      "link": "https://arxiv.org/abs/2605.04163v1",
+      "published": "2026-05-05T18:01:23Z",
       "categories": [
         "hep-ph",
         "hep-lat",
-        "nucl-th"
+        "hep-th"
       ],
       "inspire": {
-        "control_number": "3151975",
-        "inspire_url": "https://inspirehep.net/literature/3151975",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.02808v1",
-      "title": "Third moments of nucleon unpolarized, polarized, and transversity parton distribution functions from physical-point lattice QCD",
-      "summary": "Using forward matrix elements of local leading-twist operators, we present a determination of the isovector third Mellin moments $\\left< x^2 \\right>$ of nucleon unpolarized, polarized, and transversity parton distribution functions. Two lattice QCD ensembles at the physical pion mass are used, which were generated using a tree-level Symanzik-improved gauge action and 2+1 flavor tree-level improved Wilson Clover fermions coupling via 2-level HEX-smearing. Leveraging a wide set of operators, two extraction methods for the matrix elements, and the automatic inclusion of model uncertainties via bootstrapped model averages, we extract values of the third Mellin moments. This is the first direct calculation of these observables performed at the physical pion mass.",
-      "authors": [
-        "Emilio Taggi",
-        "Michael Engelhardt",
-        "Jeremy R. Green",
-        "Stefan Krieg",
-        "Stefan Meinel",
-        "John W. Negele",
-        "Andrew Pochinsky",
-        "Marcel Rodekamp",
-        "Sergey Syritsyn"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.02808v1",
-      "link": "https://arxiv.org/abs/2605.02808v1",
-      "published": "2026-05-04T16:46:12Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3151097",
-        "inspire_url": "https://inspirehep.net/literature/3151097",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.01757v1",
-      "title": "Production Rate of Glueball-like $X(2370)$ in $J/ψ$ Radiative Decay",
-      "summary": "$X(2370)$ falls in the mass region of the lowest pseudoscalar glueball predicted by lattice QCD studies and its decay properties are similar to those of $η_c$. A previous lattice QCD study finds that the pseudoscalar glueball ($G_{0^-}$) and the lowest pseudoscalar charmonium ($c\\bar{c}(0^-)$) can mix with a small mixing angle $\\sinθ$. It is therefore possible that $X(2370)$ and $η_c$ are admixtures of $G_{0^-}$ and $c\\bar{c}(0^-)$. In this picture, although $\\mathrm{Br}(J/ψ\\toγη_c)$ is insensitive to the small $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be enlarged drastically by the mixing due to the much larger kinematic factor for $J/ψ\\to γX(2370)$ and the much larger transition form factor for $J/ψ\\to γ(c\\bar{c}(0^{-}))$. Depending on the value of $\\sinθ$, $\\mathrm{Br}(J/ψ\\to γX(2370))$ can be much larger than that of the pure pseudoscalar glueball, namely, $2.3(8)\\times 10^{-4}$ that is predicted by a quenched lattice QCD calculation. Present results by BESIII favor a small mixing angle of $\\mathcal{O}(1^\\circ)$, which can be further constrained by more measurements of $X(2370)$ decays if the mixing picture applies here.",
-      "authors": [
-        "Ying Chen",
-        "Long-Cheng Gui",
-        "Geng Li",
-        "Wei Sun"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.01757v1",
-      "link": "https://arxiv.org/abs/2605.01757v1",
-      "published": "2026-05-03T07:35:11Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3151091",
-        "inspire_url": "https://inspirehep.net/literature/3151091",
+        "control_number": "3152352",
+        "inspire_url": "https://inspirehep.net/literature/3152352",
         "citation_count": 0
       }
     }
