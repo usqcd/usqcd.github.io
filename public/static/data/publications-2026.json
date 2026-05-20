@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-19T07:41:56.123252+00:00Z",
-  "count": 87,
+  "generated": "2026-05-20T07:39:23.244688+00:00Z",
+  "count": 89,
   "publications": [
+    {
+      "id": "2605.20034v1",
+      "title": "Charmonium properties at high temperatures from lattice QCD",
+      "summary": "We study charmonium properties at non-zero temperature in the temperature range 153 MeV $<T<$ 305 MeV using lattice QCD. We use HISQ action for dynamical quarks and Wilson clover action for valence charm quarks and calculate the correlation function of extended meson operators. Our lattice QCD results are consistent with the existence of all charmonium states below the open charm threshold in this temperature region. However, charmonium states acquire sizable thermal width, which increases with increasing temperature. The size of the thermal width follows the hierarchy of charmonium sizes, i.e. the smaller ground state charmonium has a smaller thermal width than the larger excited charmonia.",
+      "authors": [
+        "Rasmus Normann Larsen",
+        "Peter Petreczky",
+        "Jorge Luis Dasilva Golan",
+        "Johannes H. Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20034v1",
+      "link": "https://arxiv.org/abs/2605.20034v1",
+      "published": "2026-05-19T15:54:40Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3157708",
+        "inspire_url": "https://inspirehep.net/literature/3157708",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.15076v1",
       "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
@@ -231,7 +255,7 @@
       "inspire": {
         "control_number": "3150807",
         "inspire_url": "https://inspirehep.net/literature/3150807",
-        "citation_count": 1
+        "citation_count": 0
       }
     },
     {
@@ -459,7 +483,7 @@
       "inspire": {
         "control_number": "3145465",
         "inspire_url": "https://inspirehep.net/literature/3145465",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1215,6 +1239,41 @@
       "inspire": {
         "control_number": "3128414",
         "inspire_url": "https://inspirehep.net/literature/3128414",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.03835v1",
+      "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
+      "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
+      "authors": [
+        "Finn M. Stokes",
+        "Michel Davier",
+        "Zoltan Fodor",
+        "Fabian Frech",
+        "Andrey Yu. Kotov",
+        "Laurent Lellouch",
+        "Bogdan Malaescu",
+        "Sophie Mutzel",
+        "Kalman K. Szabo",
+        "Balint C. Toth",
+        "Gen Wang",
+        "Zhiqing Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.03835v1",
+      "link": "https://arxiv.org/abs/2603.03835v1",
+      "published": "2026-03-04T08:35:32Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125658",
+        "inspire_url": "https://inspirehep.net/literature/3125658",
         "publication_info": [
           {}
         ],
