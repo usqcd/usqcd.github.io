@@ -1,7 +1,31 @@
 {
-  "generated": "2026-05-19T07:41:56.170590+00:00Z",
-  "count": 87,
+  "generated": "2026-05-20T07:39:23.307434+00:00Z",
+  "count": 89,
   "publications": [
+    {
+      "id": "2605.20034v1",
+      "title": "Charmonium properties at high temperatures from lattice QCD",
+      "summary": "We study charmonium properties at non-zero temperature in the temperature range 153 MeV $<T<$ 305 MeV using lattice QCD. We use HISQ action for dynamical quarks and Wilson clover action for valence charm quarks and calculate the correlation function of extended meson operators. Our lattice QCD results are consistent with the existence of all charmonium states below the open charm threshold in this temperature region. However, charmonium states acquire sizable thermal width, which increases with increasing temperature. The size of the thermal width follows the hierarchy of charmonium sizes, i.e. the smaller ground state charmonium has a smaller thermal width than the larger excited charmonia.",
+      "authors": [
+        "Rasmus Normann Larsen",
+        "Peter Petreczky",
+        "Jorge Luis Dasilva Golan",
+        "Johannes H. Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20034v1",
+      "link": "https://arxiv.org/abs/2605.20034v1",
+      "published": "2026-05-19T15:54:40Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3157708",
+        "inspire_url": "https://inspirehep.net/literature/3157708",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.15076v1",
       "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
@@ -110,27 +134,6 @@
       "inspire": {
         "control_number": "3152691",
         "inspire_url": "https://inspirehep.net/literature/3152691",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.04163v1",
-      "title": "Pressure-Energy Equations of State of the Nucleon",
-      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parameterize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. There are two distinct components in the pressure and energy densities. The static pressure distribution arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 1/3 $T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as resulting from the depletion of the gluon and quark condensates through the stress-volume relation. This trace-anomaly and sigma-term induced pressure plays a fundamental role in the confinement dynamics of QCD. In contrast, the dynamic pressure distribution from the traceless part of the spatial stress tensor equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. The total pressure is balanced by these two components of the pressure. We point out that the same pressure-energy relations also hold for vortices in type-II superconductors, where the static pressure-energy relation arises from the depletion of the Cooper-pair condensate. Furthermore, these equations of state are identical to those in the $Λ$CDM model of cosmology, where the static pressure-energy relation arises from the cosmological constant.",
-      "authors": [
-        "Keh-Fei Liu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.04163v1",
-      "link": "https://arxiv.org/abs/2605.04163v1",
-      "published": "2026-05-05T18:01:23Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3152352",
-        "inspire_url": "https://inspirehep.net/literature/3152352",
         "citation_count": 0
       }
     }
