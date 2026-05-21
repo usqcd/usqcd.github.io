@@ -1,7 +1,57 @@
 {
-  "generated": "2026-05-20T07:39:23.307434+00:00Z",
-  "count": 89,
+  "generated": "2026-05-21T07:58:59.954489+00:00Z",
+  "count": 82,
   "publications": [
+    {
+      "id": "2605.20509v1",
+      "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
+      "summary": "This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite non-perturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna--Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.",
+      "authors": [
+        "Ryan Abbott",
+        "Sarah Fields",
+        "William I. Jay",
+        "Patrick Oare",
+        "Matteo Saccardi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20509v1",
+      "link": "https://arxiv.org/abs/2605.20509v1",
+      "published": "2026-05-19T21:25:12Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3158070",
+        "inspire_url": "https://inspirehep.net/literature/3158070",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.20417v1",
+      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
+      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
+      "authors": [
+        "Zohreh Davoudi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20417v1",
+      "link": "https://arxiv.org/abs/2605.20417v1",
+      "published": "2026-05-19T19:12:11Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3158071",
+        "inspire_url": "https://inspirehep.net/literature/3158071",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.20034v1",
       "title": "Charmonium properties at high temperatures from lattice QCD",
@@ -76,65 +126,6 @@
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
-      }
-    },
-    {
-      "id": "2605.07262v1",
-      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
-      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
-      "authors": [
-        "Reinhold Kaiser",
-        "Frithjof Karsch",
-        "Jan Philipp Klinger",
-        "Owe Philipsen",
-        "Christian Schmidt",
-        "Simran Singh"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.07262v1",
-      "link": "https://arxiv.org/abs/2605.07262v1",
-      "published": "2026-05-08T05:27:26Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3153498",
-        "inspire_url": "https://inspirehep.net/literature/3153498",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.06560v1",
-      "title": "$F_K/F_π$ as a precision test of a new four flavor Domain Wall Fermion action",
-      "summary": "We present a new set of lattice QCD ensembles with four flavors of smeared Möbius Domain Wall Fermions with good chiral symmetry and small fifth-dimensional extent. A modest amount of computing resources was sufficient to generate 30 publicly-available ensembles spanning five lattice spacings and a broad range of pion masses down to physical. To scrutinize our action we determine $F_{K^{\\pm}}/F_{π^{\\pm}} = 1.1962(34)$, a key quantity for precision CKM unitarity tests, heralding a future of inexpensive high-precision calculations of hadronic observables with chiral fermions.",
-      "authors": [
-        "Renwick J. Hudspith",
-        "Nicolas Garron",
-        "Zack Hall",
-        "Andrew Hanlon",
-        "Henry Monge-Camacho",
-        "Colin Morningstar",
-        "Amy Nicholson",
-        "Dimitra A. Pefkou",
-        "Thomas R. Richardson",
-        "Fernando Romero-López",
-        "Miguel Salg",
-        "Wyatt A. Smith",
-        "Pavlos Vranas",
-        "André Walker-Loud",
-        "Bigeng Wang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.06560v1",
-      "link": "https://arxiv.org/abs/2605.06560v1",
-      "published": "2026-05-07T16:54:26Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3152691",
-        "inspire_url": "https://inspirehep.net/literature/3152691",
-        "citation_count": 0
       }
     }
   ]
