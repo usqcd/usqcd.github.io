@@ -1,7 +1,57 @@
 {
-  "generated": "2026-05-20T07:39:23.244688+00:00Z",
-  "count": 89,
+  "generated": "2026-05-21T07:58:59.893321+00:00Z",
+  "count": 82,
   "publications": [
+    {
+      "id": "2605.20509v1",
+      "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
+      "summary": "This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite non-perturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna--Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.",
+      "authors": [
+        "Ryan Abbott",
+        "Sarah Fields",
+        "William I. Jay",
+        "Patrick Oare",
+        "Matteo Saccardi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20509v1",
+      "link": "https://arxiv.org/abs/2605.20509v1",
+      "published": "2026-05-19T21:25:12Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3158070",
+        "inspire_url": "https://inspirehep.net/literature/3158070",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.20417v1",
+      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
+      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
+      "authors": [
+        "Zohreh Davoudi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20417v1",
+      "link": "https://arxiv.org/abs/2605.20417v1",
+      "published": "2026-05-19T19:12:11Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3158071",
+        "inspire_url": "https://inspirehep.net/literature/3158071",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.20034v1",
       "title": "Charmonium properties at high temperatures from lattice QCD",
@@ -296,29 +346,6 @@
       }
     },
     {
-      "id": "2604.26376v1",
-      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
-      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
-      "authors": [
-        "Caroline E. P. Robin",
-        "Martin J. Savage"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.26376v1",
-      "link": "https://arxiv.org/abs/2604.26376v1",
-      "published": "2026-04-29T07:39:25Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3150112",
-        "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 1
-      }
-    },
-    {
       "id": "2604.25802v1",
       "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
       "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
@@ -351,34 +378,6 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.22514v1",
-      "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
-      "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
-      "authors": [
-        "Jishnu Goswami",
-        "Yasumichi Aoki",
-        "Hidenori Fukaya",
-        "Shoji Hashimoto",
-        "Issaku Kanamori",
-        "Takashi Kaneko",
-        "Yoshifumi Nakamura",
-        "David Ward",
-        "Yu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.22514v1",
-      "link": "https://arxiv.org/abs/2604.22514v1",
-      "published": "2026-04-24T12:54:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3148937",
-        "inspire_url": "https://inspirehep.net/literature/3148937",
         "citation_count": 0
       }
     },
@@ -854,33 +853,6 @@
       }
     },
     {
-      "id": "2603.23022v1",
-      "title": "Topological susceptibility and QCD phase transition with 2+1 flavor Möbius domain wall fermion at finite temperature",
-      "summary": "The topological susceptibility is one of the quantities that has a large discretization error, and the error can be sensitive to the choice of fermion action. We report on our results from physical point simulations with 2+1 flavor Möbius domain wall fermion at finite temperature. We also present the chiral condensate and disconnected susceptibility. The temporal lattice size is Nt=12 and 16, and the temperature range is around 140 MeV to 250 MeV for the chiral condensate and susceptibility. A coarse lattice with Nt = 10 covers up to 500 MeV to measure the topological susceptibility.",
-      "authors": [
-        "Issaku Kanamori",
-        "Yasumichi Aoki",
-        "Hidenori Fukaya",
-        "Jishnu Goswami",
-        "Shoji Hashimotod",
-        "Yu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.23022v1",
-      "link": "https://arxiv.org/abs/2603.23022v1",
-      "published": "2026-03-24T10:05:00Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3133766",
-        "inspire_url": "https://inspirehep.net/literature/3133766",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.22422v1",
       "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
       "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
@@ -971,39 +943,6 @@
       }
     },
     {
-      "id": "2603.19960v1",
-      "title": "Real radiative decays of heavy pseudoscalar mesons",
-      "summary": "We report our ongoing lattice QCD study of radiative leptonic decays of the charged pseudoscalar mesons $D$, $D_s$, $B$, and $B_c \\to \\ell ν_\\ell γ$. We carry out our analysis on a single JLQCD ensemble with lattice spacing $a=0.044~\\text{fm}$. This work is a step towards a complete QCD+QED lattice calculation of these modes, aimed at reducing theoretical uncertainties in the extraction of $|V_{cd}|$ and $|V_{cs}|$ and providing first-principles estimates of the corresponding form factors in the $B$ sector.",
-      "authors": [
-        "Teseo San Jose",
-        "Yasumichi Aoki",
-        "Matteo Di Carlo",
-        "Felix Erben",
-        "Vera Gülpers",
-        "Maxwell T. Hansen",
-        "Shoji Hashimoto",
-        "Nils Hermansson-Truedsson",
-        "Ryan Hill",
-        "Takashi Kaneko",
-        "Antonin Portelli",
-        "Justus Tobias Tsang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.19960v1",
-      "link": "https://arxiv.org/abs/2603.19960v1",
-      "published": "2026-03-20T14:01:29Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3132388",
-        "inspire_url": "https://inspirehep.net/literature/3132388",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.19192v1",
       "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
       "summary": "The role of tetraquark operators in studying the isodoublet strange $κ$ and isovector nonstrange $a_0(980)$ scalar mesons in lattice QCD is examined using an ensemble with $m_π\\approx230$ MeV and spatial extent $L$ such that $m_πL\\approx4.4$. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the $Kη$ sub-system below the $Kη$ threshold. The implications of this on parametrizing the scattering $K$-matrix through a well-known quantization condition to extract properties of the $κ$ and $a_0(980)$ scalar meson resonances are discussed.",
@@ -1029,28 +968,6 @@
         "control_number": "3131517",
         "inspire_url": "https://inspirehep.net/literature/3131517",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.18438v1",
-      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
-      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
-      "authors": [
-        "Callum Farrell",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.18438v1",
-      "link": "https://arxiv.org/abs/2603.18438v1",
-      "published": "2026-03-19T02:56:21Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3131487",
-        "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 1
       }
     },
     {
@@ -1133,89 +1050,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2603.13101v1",
-      "title": "Recent update of nucleon axial-vector charge with the PACS10 superfine lattice",
-      "summary": "We update the results of the nucleon axial-vector charge with the third ensemble of the PACS10 gauge configurations, which are generated by the PACS Collaboration at the physical point with lattice volume larger than $(10\\;{\\rm fm})^4$ and three different lattice spacings, 0.085 fm (coarse), 0.063 fm (fine) and 0.041 fm (superfine). Although the results of the first two ensembles generated at the coarse and fine lattice spacings are published, our study using the third one generated at the superfine lattice spacing is still underway. In this work, the low-energy relations arising from the partially conserved axial-vector current (PCAC) relation are also examined in terms of the nucleon three-point functions to verify whether the lattice QCD data correctly reproduces the physics in the continuum within the statistical accuracy.",
-      "authors": [
-        "Masato Nagatsuka",
-        "Yasumichi Aoki",
-        "Ken-Ichi Ishikawa",
-        "Yoshinobu Kuramashi",
-        "Shoichi Sasaki",
-        "Kohei Sato",
-        "Eigo Shintani",
-        "Ryutaro Tsuji",
-        "Hiromasa Watanabe",
-        "Takeshi Yamazaki"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.13101v1",
-      "link": "https://arxiv.org/abs/2603.13101v1",
-      "published": "2026-03-13T15:54:33Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129083",
-        "inspire_url": "https://inspirehep.net/literature/3129083",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.12418v2",
-      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
-      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-79 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
-      "authors": [
-        "Jakob Hoffmann",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12418v2",
-      "link": "https://arxiv.org/abs/2603.12418v2",
-      "published": "2026-03-12T19:59:18Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3129046",
-        "inspire_url": "https://inspirehep.net/literature/3129046",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.12391v1",
-      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
-      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
-      "authors": [
-        "Muhammad Asaduzzaman",
-        "Rayleigh W. Parker",
-        "Noah Goss",
-        "Ahmed I. Mohamed",
-        "Max Neiderbach",
-        "Zane Ozzello",
-        "Ravi K. Naik",
-        "Alexander F. Kemper",
-        "Irfan Siddiqi",
-        "Yannick Meurice",
-        "Machiel S. Blok"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12391v1",
-      "link": "https://arxiv.org/abs/2603.12391v1",
-      "published": "2026-03-12T19:10:16Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129090",
-        "inspire_url": "https://inspirehep.net/literature/3129090",
         "citation_count": 1
       }
     },
@@ -2197,31 +2031,6 @@
       "inspire": {
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.08825v2",
-      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
-      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
-      "authors": [
-        "Sebastian Grieninger",
-        "Martin J. Savage",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.08825v2",
-      "link": "https://arxiv.org/abs/2601.08825v2",
-      "published": "2026-01-13T18:57:53Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3103920",
-        "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
       }
     },
