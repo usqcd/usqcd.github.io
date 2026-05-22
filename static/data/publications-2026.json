@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T07:58:59.893321+00:00Z",
+  "generated": "2026-05-22T08:25:22.540879+00:00Z",
   "count": 82,
   "publications": [
     {
@@ -122,7 +122,8 @@
             "page_start": "165",
             "artid": "165",
             "year": 2025
-          }
+          },
+          {}
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
@@ -775,26 +776,6 @@
       }
     },
     {
-      "id": "2603.27608v4",
-      "title": "Domain wall fermions",
-      "summary": "We introduce the formulation of domain wall fermions in the context of lattice QCD. We prove the recovery of exact chiral symmetry in the limit of an infinite fifth direction, and derive the effective four-dimensional operator satisfying the Ginsparg-Wilson relation obtained in this limit. We discuss the residual breaking of chiral symmetry for finite extent of the fifth direction, and how it is affected by spectral features of the Wilson kernel. We also discuss various improvements of domain wall fermions including notably Möbius fermions. These notes are a chapter contributed to the on-line book ``Lattice QCD at 50 years'' (LQCD@50).",
-      "authors": [
-        "Thomas Blum",
-        "Yigal Shamir"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.27608v4",
-      "link": "https://arxiv.org/abs/2603.27608v4",
-      "published": "2026-03-29T10:02:10Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3137098",
-        "inspire_url": "https://inspirehep.net/literature/3137098",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2603.24698v1",
       "title": "String-breaking statics and dynamics in a (1+1)D SU(2) lattice gauge theory",
       "summary": "String breaking is at the core of hadronization models of relevance to particle colliders. Yet, studies of string-breaking dynamics rooted in quantum chromodynamics remain fundamentally challenging. Tensor networks enable sign-problem-free studies of static and dynamical properties of lattice gauge theories. In this work, we develop and apply a tensor-network toolkit based on the loop-string-hadron formulation of an SU(2) lattice gauge theory in 1+1 dimensions with dynamical fermions. We apply this toolkit to study static and dynamical aspects of strings and their breaking in this theory. The simple, gauge-invariant, and local structure of the loop-string-hadron states and constraints removes the need to impose non-Abelian constraints in the algorithm, and allows for a systematic computation of observables at increasingly large bosonic cutoffs, and toward the infinite-volume and continuum limits. Our study of static strings yields a determination of the string tension in the continuum and thermodynamic limits. Our study of dynamical string breaking, performed at a fixed lattice spacing and system size, illuminates underlying processes at play during the quench dynamics of a string. The loop, string, and hadron description offers a systematic and intuitive way to diagnose these processes, including string expansion and contraction, endpoint splitting and particle shower, chain scattering events, and inelastic processes resulting from string dissociation and recombination, and particle production. We relate these processes to several features of the dynamics, such as energy transport, entanglement-entropy production, and correlation spreading. This work opens the way to future tensor-network studies of string breaking and particle production in increasingly complex lattice gauge theories.",
@@ -971,6 +952,28 @@
       }
     },
     {
+      "id": "2603.18438v1",
+      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
+      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
+      "authors": [
+        "Callum Farrell",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.18438v1",
+      "link": "https://arxiv.org/abs/2603.18438v1",
+      "published": "2026-03-19T02:56:21Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3131487",
+        "inspire_url": "https://inspirehep.net/literature/3131487",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2603.17971v2",
       "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
       "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
@@ -992,37 +995,6 @@
       "inspire": {
         "control_number": "3130964",
         "inspire_url": "https://inspirehep.net/literature/3130964",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.17900v1",
-      "title": "$K π$ scattering as a step towards $B \\to K^* \\ell^+ \\ell^-$ from Lattice QCD",
-      "summary": "Rare $b\\to s\\ell^+\\ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B\\to K^*\\ell^+\\ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new exploratory lattice calculation that combines a variational determination of finite-volume $Kπ$ states with the $1+J\\to2$ finite-volume formalism to access the relevant matrix elements. The computation is carried out on an RBC/UKQCD domain-wall fermion ensemble with $a^{-1} \\approx 2.7\\,\\mathrm{GeV}$ and employs a dual heavy-quark strategy, using both a relativistic heavy-quark action tuned to the physical $b$ mass and domain-wall heavy masses extrapolating from charm. All correlation functions are computed using (stochastic) distillation, providing a versatile setup that supports a broad range of heavy-to-light transitions into resonant final states. We show first two-point results for the $K^*\\leftrightarrow Kπ$ system and discuss the accessible kinematic region, which allows for a controlled study at high $q^2$. The outlook for extending the calculation to lower $q^2$ and for incorporating effects from charmonium resonances is outlined.",
-      "authors": [
-        "Felix Erben",
-        "Matthew Black",
-        "Peter Boyle",
-        "Matteo Di Carlo",
-        "Vera Gülpers",
-        "Maxwell T. Hansen",
-        "Nelson Pitanga Lachini",
-        "Rajnandini Mukherjee",
-        "Antonin Portelli",
-        "J. Tobias Tsang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.17900v1",
-      "link": "https://arxiv.org/abs/2603.17900v1",
-      "published": "2026-03-18T16:33:43Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3130955",
-        "inspire_url": "https://inspirehep.net/literature/3130955",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     },
@@ -1050,6 +1022,58 @@
         "publication_info": [
           {}
         ],
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2603.12418v2",
+      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
+      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-79 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
+      "authors": [
+        "Jakob Hoffmann",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12418v2",
+      "link": "https://arxiv.org/abs/2603.12418v2",
+      "published": "2026-03-12T19:59:18Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3129046",
+        "inspire_url": "https://inspirehep.net/literature/3129046",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.12391v1",
+      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
+      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
+      "authors": [
+        "Muhammad Asaduzzaman",
+        "Rayleigh W. Parker",
+        "Noah Goss",
+        "Ahmed I. Mohamed",
+        "Max Neiderbach",
+        "Zane Ozzello",
+        "Ravi K. Naik",
+        "Alexander F. Kemper",
+        "Irfan Siddiqi",
+        "Yannick Meurice",
+        "Machiel S. Blok"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12391v1",
+      "link": "https://arxiv.org/abs/2603.12391v1",
+      "published": "2026-03-12T19:10:16Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3129090",
+        "inspire_url": "https://inspirehep.net/literature/3129090",
         "citation_count": 1
       }
     },
@@ -1225,7 +1249,7 @@
       "inspire": {
         "control_number": "3125285",
         "inspire_url": "https://inspirehep.net/literature/3125285",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -2091,31 +2115,6 @@
       "inspire": {
         "control_number": "3098805",
         "inspire_url": "https://inspirehep.net/literature/3098805",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.04147v2",
-      "title": "Three-particle scattering amplitudes from lattice QCD",
-      "summary": "I review recent progress in calculating scattering amplitudes and resonance properties involving three particles using results from lattice QCD. The necessary input is the finite-volume spectrum, and the outputs -- via solutions of integral equations -- are scattering amplitudes that can be continued into the complex plane to search for resonance poles. I describe the outlook for future extensions and applications of this work.",
-      "authors": [
-        "Stephen R. Sharpe"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.04147v2",
-      "link": "https://arxiv.org/abs/2601.04147v2",
-      "published": "2026-01-07T18:00:39Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3098337",
-        "inspire_url": "https://inspirehep.net/literature/3098337",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 1
       }
     },
