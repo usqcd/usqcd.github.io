@@ -1,7 +1,33 @@
 {
-  "generated": "2026-05-24T07:25:16.504618+00:00Z",
+  "generated": "2026-05-25T08:12:08.499715+00:00Z",
   "count": 91,
   "publications": [
+    {
+      "id": "2605.22957v1",
+      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
+      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
+      "authors": [
+        "Arkaitz Rodas",
+        "Lin Qiu",
+        "César Fernández-Ramírez",
+        "Vincent Mathieu",
+        "Glòria Montaña",
+        "Alessandro Pilloni",
+        "Adam P. Szczepaniak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.22957v1",
+      "link": "https://arxiv.org/abs/2605.22957v1",
+      "published": "2026-05-21T18:43:53Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3158986",
+        "inspire_url": "https://inspirehep.net/literature/3158986",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.20509v1",
       "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
@@ -96,37 +122,6 @@
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.14554v1",
-      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
-      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
-      "authors": [
-        "Ivan Horváth"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.14554v1",
-      "link": "https://arxiv.org/abs/2605.14554v1",
-      "published": "2026-05-14T08:31:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3155354",
-        "inspire_url": "https://inspirehep.net/literature/3155354",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "165",
-            "artid": "165",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     }
   ]
