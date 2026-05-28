@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T08:36:26.496379+00:00Z",
-  "count": 88,
+  "generated": "2026-05-28T09:41:20.318339+00:00Z",
+  "count": 86,
   "publications": [
     {
       "id": "2605.22957v1",
@@ -54,31 +54,6 @@
       }
     },
     {
-      "id": "2605.20417v1",
-      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
-      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
-      "authors": [
-        "Zohreh Davoudi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.20417v1",
-      "link": "https://arxiv.org/abs/2605.20417v1",
-      "published": "2026-05-19T19:12:11Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3158071",
-        "inspire_url": "https://inspirehep.net/literature/3158071",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2605.20034v1",
       "title": "Charmonium properties at high temperatures from lattice QCD",
       "summary": "We study charmonium properties at non-zero temperature in the temperature range 153 MeV $<T<$ 305 MeV using lattice QCD. We use HISQ action for dynamical quarks and Wilson clover action for valence charm quarks and calculate the correlation function of extended meson operators. Our lattice QCD results are consistent with the existence of all charmonium states below the open charm threshold in this temperature region. However, charmonium states acquire sizable thermal width, which increases with increasing temperature. The size of the thermal width follows the hierarchy of charmonium sizes, i.e. the smaller ground state charmonium has a smaller thermal width than the larger excited charmonia.",
@@ -122,6 +97,37 @@
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.14554v1",
+      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
+      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
+      "authors": [
+        "Ivan Horváth"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.14554v1",
+      "link": "https://arxiv.org/abs/2605.14554v1",
+      "published": "2026-05-14T08:31:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3155354",
+        "inspire_url": "https://inspirehep.net/literature/3155354",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     }
   ]
