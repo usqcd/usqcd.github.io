@@ -1,7 +1,32 @@
 {
-  "generated": "2026-05-28T09:41:20.318339+00:00Z",
-  "count": 86,
+  "generated": "2026-05-29T12:11:53.931970+00:00Z",
+  "count": 64,
   "publications": [
+    {
+      "id": "2605.30193v1",
+      "title": "Mellin Moments of the Unpolarized Gluon PDF in the Proton from Nonlocal Operators in Lattice QCD",
+      "summary": "We present a lattice QCD determination of the Mellin moments of the unpolarized gluon parton distribution function in the proton. The analysis is based on matrix elements of nonlocal gluon operators coupled to momentum-boosted proton states. The calculation relies on an $N_f=2+1+1$ ensemble of maximally twisted mass fermions with clover improvement and the Iwasaki-improved gauge action, at a pion mass of approximately 260 MeV. Working within the short-distance operator product expansion (OPE) of the reduced gluon Ioffe-time distribution, we extract ratios of higher-order gluon moments, $\\langle x^n\\rangle$ with $n>1$, to the gluon momentum fraction, $\\langle x\\rangle$. We investigate systematic effects associated with the truncation of the order of moment in the OPE, the choice of minimum and maximum Wilson-line separations entering the analysis, and the treatment of mixing with the quark-singlet under perturbative matching. The stability of the extracted moments is further studied under scale evolution using DGLAP equations, allowing us to assess uncertainties related to perturbative truncation by varying the scale. Our work provides a determination of the ratio $\\langle x^3\\rangle_g/\\langle x\\rangle_g$ at a scale of 2 GeV, with uncertainties that account for both statistical and the dominant theoretical systematic uncertainties.",
+      "authors": [
+        "Joseph Delmar",
+        "Krzysztof Cichy",
+        "Martha Constantinou",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.30193v1",
+      "link": "https://arxiv.org/abs/2605.30193v1",
+      "published": "2026-05-28T16:33:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3162360",
+        "inspire_url": "https://inspirehep.net/literature/3162360",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2605.22957v1",
       "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
@@ -54,6 +79,31 @@
       }
     },
     {
+      "id": "2605.20417v1",
+      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
+      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
+      "authors": [
+        "Zohreh Davoudi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.20417v1",
+      "link": "https://arxiv.org/abs/2605.20417v1",
+      "published": "2026-05-19T19:12:11Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3158071",
+        "inspire_url": "https://inspirehep.net/literature/3158071",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2605.20034v1",
       "title": "Charmonium properties at high temperatures from lattice QCD",
       "summary": "We study charmonium properties at non-zero temperature in the temperature range 153 MeV $<T<$ 305 MeV using lattice QCD. We use HISQ action for dynamical quarks and Wilson clover action for valence charm quarks and calculate the correlation function of extended meson operators. Our lattice QCD results are consistent with the existence of all charmonium states below the open charm threshold in this temperature region. However, charmonium states acquire sizable thermal width, which increases with increasing temperature. The size of the thermal width follows the hierarchy of charmonium sizes, i.e. the smaller ground state charmonium has a smaller thermal width than the larger excited charmonia.",
@@ -75,59 +125,6 @@
         "control_number": "3157708",
         "inspire_url": "https://inspirehep.net/literature/3157708",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.15076v1",
-      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
-      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
-      "authors": [
-        "Zoë Webb-Mack",
-        "Natalie Klco"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.15076v1",
-      "link": "https://arxiv.org/abs/2605.15076v1",
-      "published": "2026-05-14T17:01:35Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3155356",
-        "inspire_url": "https://inspirehep.net/literature/3155356",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.14554v1",
-      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
-      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
-      "authors": [
-        "Ivan Horváth"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.14554v1",
-      "link": "https://arxiv.org/abs/2605.14554v1",
-      "published": "2026-05-14T08:31:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3155354",
-        "inspire_url": "https://inspirehep.net/literature/3155354",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "165",
-            "artid": "165",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     }
   ]
