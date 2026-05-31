@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T07:20:13.968169+00:00Z",
-  "count": 93,
+  "generated": "2026-05-31T07:42:57.308802+00:00Z",
+  "count": 91,
   "publications": [
     {
       "id": "2605.30193v1",
@@ -147,37 +147,6 @@
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.14554v1",
-      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
-      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
-      "authors": [
-        "Ivan Horváth"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.14554v1",
-      "link": "https://arxiv.org/abs/2605.14554v1",
-      "published": "2026-05-14T08:31:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3155354",
-        "inspire_url": "https://inspirehep.net/literature/3155354",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "165",
-            "artid": "165",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     },
     {
@@ -607,27 +576,6 @@
       "inspire": {
         "control_number": "3145671",
         "inspire_url": "https://inspirehep.net/literature/3145671",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.10314v1",
-      "title": "Pion Weak Decay in a Magnetic Field",
-      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
-      "authors": [
-        "Prabal Adhikari",
-        "Brian Tiburzi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.10314v1",
-      "link": "https://arxiv.org/abs/2604.10314v1",
-      "published": "2026-04-11T18:35:15Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3144011",
-        "inspire_url": "https://inspirehep.net/literature/3144011",
         "citation_count": 0
       }
     },
