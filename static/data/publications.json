@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T07:42:57.370987+00:00Z",
-  "count": 91,
+  "generated": "2026-06-01T10:13:56.427001+00:00Z",
+  "count": 75,
   "publications": [
     {
       "id": "2605.30193v1",
@@ -79,31 +79,6 @@
       }
     },
     {
-      "id": "2605.20417v1",
-      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
-      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
-      "authors": [
-        "Zohreh Davoudi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.20417v1",
-      "link": "https://arxiv.org/abs/2605.20417v1",
-      "published": "2026-05-19T19:12:11Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3158071",
-        "inspire_url": "https://inspirehep.net/literature/3158071",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2605.20034v1",
       "title": "Charmonium properties at high temperatures from lattice QCD",
       "summary": "We study charmonium properties at non-zero temperature in the temperature range 153 MeV $<T<$ 305 MeV using lattice QCD. We use HISQ action for dynamical quarks and Wilson clover action for valence charm quarks and calculate the correlation function of extended meson operators. Our lattice QCD results are consistent with the existence of all charmonium states below the open charm threshold in this temperature region. However, charmonium states acquire sizable thermal width, which increases with increasing temperature. The size of the thermal width follows the hierarchy of charmonium sizes, i.e. the smaller ground state charmonium has a smaller thermal width than the larger excited charmonia.",
@@ -124,6 +99,28 @@
       "inspire": {
         "control_number": "3157708",
         "inspire_url": "https://inspirehep.net/literature/3157708",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.15076v1",
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
+      "authors": [
+        "Zoë Webb-Mack",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.15076v1",
+      "link": "https://arxiv.org/abs/2605.15076v1",
+      "published": "2026-05-14T17:01:35Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3155356",
+        "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 0
       }
     }
