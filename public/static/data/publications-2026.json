@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T12:37:26.952563+00:00Z",
-  "count": 61,
+  "generated": "2026-06-05T07:52:30.806104+00:00Z",
+  "count": 94,
   "publications": [
     {
       "id": "2606.02447v1",
@@ -151,6 +151,59 @@
       }
     },
     {
+      "id": "2605.15076v1",
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
+      "authors": [
+        "Zoë Webb-Mack",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.15076v1",
+      "link": "https://arxiv.org/abs/2605.15076v1",
+      "published": "2026-05-14T17:01:35Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3155356",
+        "inspire_url": "https://inspirehep.net/literature/3155356",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2605.14554v1",
+      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
+      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
+      "authors": [
+        "Ivan Horváth"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.14554v1",
+      "link": "https://arxiv.org/abs/2605.14554v1",
+      "published": "2026-05-14T08:31:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3155354",
+        "inspire_url": "https://inspirehep.net/literature/3155354",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
+      }
+    },
+    {
       "id": "2605.07262v1",
       "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
       "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
@@ -206,6 +259,27 @@
       "inspire": {
         "control_number": "3152691",
         "inspire_url": "https://inspirehep.net/literature/3152691",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.04163v1",
+      "title": "Pressure-Energy Equations of State of the Nucleon",
+      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parameterize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. There are two distinct components in the pressure and energy densities. The static pressure distribution arising from the Lorentz trace part of the EMT, as manifested in the spatial stress 1/3 $T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as resulting from the depletion of the gluon and quark condensates through the stress-volume relation. This trace-anomaly and sigma-term induced pressure plays a fundamental role in the confinement dynamics of QCD. In contrast, the dynamic pressure distribution from the traceless part of the spatial stress tensor equals 1/d of the corresponding traceless part of the energy density, where d is the spatial dimension. The total pressure is balanced by these two components of the pressure. We point out that the same pressure-energy relations also hold for vortices in type-II superconductors, where the static pressure-energy relation arises from the depletion of the Cooper-pair condensate. Furthermore, these equations of state are identical to those in the $Λ$CDM model of cosmology, where the static pressure-energy relation arises from the cosmological constant.",
+      "authors": [
+        "Keh-Fei Liu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.04163v1",
+      "link": "https://arxiv.org/abs/2605.04163v1",
+      "published": "2026-05-05T18:01:23Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3152352",
+        "inspire_url": "https://inspirehep.net/literature/3152352",
         "citation_count": 0
       }
     },
@@ -282,6 +356,127 @@
         "control_number": "3151091",
         "inspire_url": "https://inspirehep.net/literature/3151091",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.00339v1",
+      "title": "Evidence for Quark Confinement in the Proton",
+      "summary": "The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass.",
+      "authors": [
+        "Xiangdong Ji",
+        "Gerald A. Miller",
+        "Chen Yang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.00339v1",
+      "link": "https://arxiv.org/abs/2605.00339v1",
+      "published": "2026-05-01T01:43:06Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150807",
+        "inspire_url": "https://inspirehep.net/literature/3150807",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.10946v1",
+      "title": "Continuum-Limit HQET LCDAs from Lattice QCD for Tightening B Decay Uncertainties",
+      "summary": "Heavy meson HQET light-cone distribution amplitudes (LCDAs) are critical for precision predictions of $B$ meson weak decays, but currently are one of dominant theoretical uncertainties that obscure interpretations of $B$ anomalies and CP-violating measurements. Building on the established HQLaMET framework, supplemented by lattice QCD calculations of the OPE moments, we present a precise lattice QCD calculation of HQET LCDAs by employing multi-ensemble simulations for continuum and physical pion mass extrapolation, quantifying comprehensive systematic errors, and validating results through OPE moment cross-validation. Details of the lattice calculations are provided in a companion paper \\cite{HeavymesonDA_long_paper}. Our final results for key inverse moments (at $μ=1$ GeV) are $λ_B=0.340(20)$ GeV and $σ_B^{(1)}=1.685(63)$, with the total uncertainty reduced by a factor of three relative to the previous analysis. These results can greatly reduce the uncertainty in the $B \\to K^*$ form factors in the large-recoil region. This work resolves the long-standing bottleneck in first-principles predictions of heavy meson LCDAs, advancing precision flavor physics to new frontiers.",
+      "authors": [
+        "Xue-Ying Han",
+        "Hao-Fei Gao",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        "Jin-Xin Tan",
+        "Ji-Hao Wang",
+        "Wei Wang",
+        "Ji Xu",
+        "Yi-Bo Yang",
+        "Fu-Wei Zhang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang",
+        "Shuai Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.10946v1",
+      "link": "https://arxiv.org/abs/2605.10946v1",
+      "published": "2026-04-29T09:50:53Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3154615",
+        "inspire_url": "https://inspirehep.net/literature/3154615",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 4
+      }
+    },
+    {
+      "id": "2604.25802v1",
+      "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
+      "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
+      "authors": [
+        "Hao-Fei Gao",
+        "Xue-Ying Han",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        " Jin-XinTan",
+        "Ji-Hao Wang",
+        "Wei Wang",
+        "Ji Xu",
+        "Yi-Bo Yang",
+        "Fu-Wei Zhang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang",
+        "Shuai Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.25802v1",
+      "link": "https://arxiv.org/abs/2604.25802v1",
+      "published": "2026-04-28T16:11:05Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3149743",
+        "inspire_url": "https://inspirehep.net/literature/3149743",
+        "citation_count": 1
       }
     },
     {
@@ -439,6 +634,27 @@
       }
     },
     {
+      "id": "2604.10314v2",
+      "title": "Pion Weak Decay in a Magnetic Field",
+      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
+      "authors": [
+        "Prabal Adhikari",
+        "Brian C. Tiburzi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.10314v2",
+      "link": "https://arxiv.org/abs/2604.10314v2",
+      "published": "2026-04-11T18:35:15Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3144011",
+        "inspire_url": "https://inspirehep.net/literature/3144011",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2604.06880v1",
       "title": "Untangling the heavy-flavor mess: status of the Fermilab-MILC calculation of the $B_{(s)}\\to D^{(\\ast)}_{(s)}\\ellν$ form factors",
       "summary": "We present the status of calculations of the form factors of the most relevant heavy-to-heavy and heavy-to-light decay channels. Using seven $N_f = 2+1+1$ HISQ ensembles, with lattice spacings ranging from 0.15 fm down to 0.06 fm, we calculate the form factors of the decays, including correlations among them. More than half of our ensembles feature physical pion masses, and the heavy quarks are simulated at their physical masses using the Wilson-clover action with the Fermilab interpretation. Even though we have recently seen huge qualitative and quantitative leaps in the characterization of heavy-to-heavy decays, these advances have failed to translate into improvements for the inclusive vs exclusive question, or the matter of the Lepton Flavor Universality ratios. In particular, in the $B\\to D^{\\ast}\\ellν$ channel, the current situation of the lattice-QCD form factors is far from clear. Further, the latest lattice-QCD results on the heavy-to-light form factors display unexplained tensions that must urgently be resolved. The work presented here is an attempt to address these issues.",
@@ -586,6 +802,26 @@
       }
     },
     {
+      "id": "2603.29091v3",
+      "title": "Ether of Orbifolds",
+      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.29091v3",
+      "link": "https://arxiv.org/abs/2603.29091v3",
+      "published": "2026-03-31T00:11:32Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3137591",
+        "inspire_url": "https://inspirehep.net/literature/3137591",
+        "citation_count": 2
+      }
+    },
+    {
       "id": "2603.28872v1",
       "title": "Quark-Mass Dependence of Light-Nuclei Masses from Lattice QCD and Trace-Anomaly Contributions to Nuclear Bindings",
       "summary": "We present lattice QCD calculations of the masses of the deuteron, dineutron, Helium-3 and Helium-4 with physical sea quarks and valence quark masses corresponding to pion masses between 140 and 700 MeV. At the physical point, the lowest finite-volume two-nucleon energy levels exhibit the qualitative pattern of a bound deuteron and an unbound dineutron within uncertainties, while at heavier quark masses they indicate the presence of deeply bound states. Compared with expectations from low-energy effective field theories, the observed mass dependence of the binding energies provides first-principles constraints on the quark-mass dependence of two- and three-nucleon interactions. From the quark-mass variation of the nuclear energies, we determine nuclear sigma terms and quantify the response of light-nuclear masses to changes in the light-quark mass. Using the QCD trace anomaly relation, we decompose the nuclear binding energy into quark-mass and gluonic contributions around the deuteron mass scale of $μ=2$ GeV. We find that the quark-mass contribution to the binding energy is small and approximately additive in nucleon number within current precision, whereas the gluonic component provides the dominant contribution and show milder increases with mass number.",
@@ -608,6 +844,60 @@
         "control_number": "3137590",
         "inspire_url": "https://inspirehep.net/literature/3137590",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.28517v1",
+      "title": "Heavy-Meson Bag Parameters using Gradient Flow",
+      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28517v1",
+      "link": "https://arxiv.org/abs/2603.28517v1",
+      "published": "2026-03-30T14:47:45Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3137111",
+        "inspire_url": "https://inspirehep.net/literature/3137111",
+        "citation_count": 4
+      }
+    },
+    {
+      "id": "2603.28516v1",
+      "title": "Bag Parameters for Heavy Meson Lifetimes",
+      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28516v1",
+      "link": "https://arxiv.org/abs/2603.28516v1",
+      "published": "2026-03-30T14:47:42Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3137099",
+        "inspire_url": "https://inspirehep.net/literature/3137099",
+        "citation_count": 5
       }
     },
     {
@@ -716,6 +1006,27 @@
       }
     },
     {
+      "id": "2603.22422v1",
+      "title": "Preparing Fermions via Classical Sampling and Linear Combinations of Unitaries",
+      "summary": "We present an extension of the Evolving density matrices on Qubits (E$ρ$OQ) framework that enables efficient fault-tolerant preparation of fermionic quantum states. The original method circumvents state preparation by stochastic sampling, but faces a sign problem in fermionic systems leading to a large number of circuits necessary. We resolve this by combining classical stochastic sampling with a linear combination of unitaries method that avoids the exponential circuit scaling that plagued naïve implementations. The resulting algorithm requires $\\mathcal{O}(M^2)$ $R_Z$ rotations for circuit preparation, where $M$ is the number of retained basis states. We validate the method for ground and excited states in the Thirring model, including by computing two-point correlation functions relevant to scattering. In this model for fixed accuracy $\\varepsilon$, $M$ is found to scale empirically as $M \\propto \\frac{1}{mg}\\log(1/g)\\log(1/m)$.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.22422v1",
+      "link": "https://arxiv.org/abs/2603.22422v1",
+      "published": "2026-03-23T18:01:03Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3133770",
+        "inspire_url": "https://inspirehep.net/literature/3133770",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2603.21059v1",
       "title": "Towards determination of the strong coupling $α_s(m_Z)$ from four-flavor lattice QCD using the continuous $β$-function method",
       "summary": "The precise value of the strong coupling $α_s(m_{Z})$ at the $Z$-boson mass $m_{Z}$ is essential for high-energy phenomenology and precision tests of quantum chromodynamics (QCD). We present the status of a program targeting a $\\sim 0.3\\%$ determination of $α_s(m_{Z})$ using the renormalization group $β$-function in the infinite volume gradient flow scheme based on lattice QCD simulations of degenerate four-flavor highly improved staggered quark (HISQ) ensembles. In particular, we analyze both tree-level cutoff effects and finite-mass effects. We also outline the next steps of the analysis, including the infinite-volume and continuum extrapolations required for a precise determination of $α_s(m_Z)$.",
@@ -818,6 +1129,81 @@
       }
     },
     {
+      "id": "2603.19192v1",
+      "title": "Investigating the role of tetraquark operators in lattice QCD studies of the $a_0(980)$ and $κ$ resonances",
+      "summary": "The role of tetraquark operators in studying the isodoublet strange $κ$ and isovector nonstrange $a_0(980)$ scalar mesons in lattice QCD is examined using an ensemble with $m_π\\approx230$ MeV and spatial extent $L$ such that $m_πL\\approx4.4$. Hermitian correlation matrices using both single-meson, meson-meson, and tetraquark interpolating operators are used to extract the spectrum of finite-volume stationary states in the appropriate symmetry channels. Hundreds of local and extended tetraquark operators are explored. Determinations of the spectrum in each channel are found to be unreliable without the inclusion of at least one tetraquark operator. For example, the inclusion of tetraquark operators with isospin 1/2 and strangeness 1 quantum numbers reveals the existence of an additional energy level in the $Kη$ sub-system below the $Kη$ threshold. The implications of this on parametrizing the scattering $K$-matrix through a well-known quantization condition to extract properties of the $κ$ and $a_0(980)$ scalar meson resonances are discussed.",
+      "authors": [
+        "Andrew D. Hanlon",
+        "Daniel Darvish",
+        "Sarah Skinner",
+        "John Meneghini",
+        "Ruairí Brett",
+        "John Bulava",
+        "Jacob Fallica",
+        "Colin Morningstar",
+        "Fernando Romero-López",
+        "André Walker-Loud"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.19192v1",
+      "link": "https://arxiv.org/abs/2603.19192v1",
+      "published": "2026-03-19T17:49:16Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3131517",
+        "inspire_url": "https://inspirehep.net/literature/3131517",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.18438v2",
+      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
+      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
+      "authors": [
+        "Callum Farrell",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.18438v2",
+      "link": "https://arxiv.org/abs/2603.18438v2",
+      "published": "2026-03-19T02:56:21Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3131487",
+        "inspire_url": "https://inspirehep.net/literature/3131487",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2603.17971v2",
+      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
+      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
+      "authors": [
+        "Omar Alsheikh",
+        "A. F. Kemper",
+        "Ermal Rrapaj",
+        "Evan J. Rule",
+        "Goksu C. Toga"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.17971v2",
+      "link": "https://arxiv.org/abs/2603.17971v2",
+      "published": "2026-03-18T17:38:05Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2603.17900v1",
       "title": "$K π$ scattering as a step towards $B \\to K^* \\ell^+ \\ell^-$ from Lattice QCD",
       "summary": "Rare $b\\to s\\ell^+\\ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B\\to K^*\\ell^+\\ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new exploratory lattice calculation that combines a variational determination of finite-volume $Kπ$ states with the $1+J\\to2$ finite-volume formalism to access the relevant matrix elements. The computation is carried out on an RBC/UKQCD domain-wall fermion ensemble with $a^{-1} \\approx 2.7\\,\\mathrm{GeV}$ and employs a dual heavy-quark strategy, using both a relativistic heavy-quark action tuned to the physical $b$ mass and domain-wall heavy masses extrapolating from charm. All correlation functions are computed using (stochastic) distillation, providing a versatile setup that supports a broad range of heavy-to-light transitions into resonant final states. We show first two-point results for the $K^*\\leftrightarrow Kπ$ system and discuss the accessible kinematic region, which allows for a controlled study at high $q^2$. The outlook for extending the calculation to lower $q^2$ and for incorporating effects from charmonium resonances is outlined.",
@@ -904,6 +1290,58 @@
           {}
         ],
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.12418v3",
+      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
+      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-76 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
+      "authors": [
+        "Jakob Hoffmann",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12418v3",
+      "link": "https://arxiv.org/abs/2603.12418v3",
+      "published": "2026-03-12T19:59:18Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3129046",
+        "inspire_url": "https://inspirehep.net/literature/3129046",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.12391v1",
+      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
+      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
+      "authors": [
+        "Muhammad Asaduzzaman",
+        "Rayleigh W. Parker",
+        "Noah Goss",
+        "Ahmed I. Mohamed",
+        "Max Neiderbach",
+        "Zane Ozzello",
+        "Ravi K. Naik",
+        "Alexander F. Kemper",
+        "Irfan Siddiqi",
+        "Yannick Meurice",
+        "Machiel S. Blok"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12391v1",
+      "link": "https://arxiv.org/abs/2603.12391v1",
+      "published": "2026-03-12T19:10:16Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3129090",
+        "inspire_url": "https://inspirehep.net/literature/3129090",
+        "citation_count": 1
       }
     },
     {
@@ -1082,6 +1520,55 @@
       }
     },
     {
+      "id": "2603.02739v1",
+      "title": "Tensor renormalization group approach to the $O(2)$ models via symmetry-twisted partition functions",
+      "summary": "We investigate critical phenomena in the $O(2)$ models using symmetry-twisted partition functions that can be efficiently computed within the tensor renormalization group framework. We first demonstrate, taking the three-dimensional model as an example, that symmetry-twisted partition functions detect the spontaneous breaking of global continuous symmetry. We then consider the same model in two dimensions, where the Berezinskii--Kosterlitz--Thouless (BKT) transition occurs. Since symmetry-twisted partition functions directly provide the helicity modulus at a finite twist angle, we determine the BKT transition point. These results are presented based on Ref.~\\cite{Akiyama:2026dzg}. Finally, in addition to the original paper~\\cite{Akiyama:2026dzg}, we apply this approach to the two-dimensional generalized $O(2)$ model and confirm that it successfully identifies the phase transitions between the ferromagnetic and nematic phases, as well as between the nematic and paramagnetic phases.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.02739v1",
+      "link": "https://arxiv.org/abs/2603.02739v1",
+      "published": "2026-03-03T08:41:57Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3125292",
+        "inspire_url": "https://inspirehep.net/literature/3125292",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.01259v2",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v2",
+      "link": "https://arxiv.org/abs/2603.01259v2",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2603.01215v1",
       "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
       "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
@@ -1104,6 +1591,58 @@
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2603.00946v1",
+      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
+      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00946v1",
+      "link": "https://arxiv.org/abs/2603.00946v1",
+      "published": "2026-03-01T06:33:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
+        "citation_count": 2
+      }
+    },
+    {
+      "id": "2603.00698v1",
+      "title": "Preliminary study of the $H$ dibaryon in $N_{\\rm f}=2+1$ lattice QCD",
+      "summary": "We present preliminary results on the $I=0$, $S=-2$ $H$ dibaryon in $N_{\\rm f}=2+1$ QCD. The calculation is performed with heavier-than-physical quarks ($m_π\\approx 280$ MeV) on a single CLS ensemble. Correlation matrices are constructed using the distillation technique and the three relevant channels, $ΛΛ$, $NΞ$, $ΣΣ$, are investigated to determine the interacting spectrum relevant for $S$-wave across multiple momentum frames. The scattering amplitude is determined by solving the corresponding two-body quantization condition. These preliminary results are part of the ongoing efforts to determine the properties of di-hyperons and to establish whether the $H$ dibaryon exists down to physical quark masses.",
+      "authors": [
+        "André Baião Raposo",
+        "John Bulava",
+        "Jeremy R. Green",
+        "Andrew D. Hanlon",
+        "Davide Laudicina",
+        "Malcolm Lazarow",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Fernando Romero-López",
+        "Miguel Salg",
+        "André Walker-Loud",
+        "Hartmut Wittig"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00698v1",
+      "link": "https://arxiv.org/abs/2603.00698v1",
+      "published": "2026-02-28T15:13:21Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124603",
+        "inspire_url": "https://inspirehep.net/literature/3124603",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
       }
     },
     {
@@ -1297,6 +1836,28 @@
       }
     },
     {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2602.20373v2",
       "title": "Resolving the structure of bound states using lattice quantum field theories",
       "summary": "This work presents the first lattice calculation of a two-to-two particle matrix element of a local current. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteron-like bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, $\\2+\\Jc \\to \\2$. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-volume form factor. By varying over a range of values of the coupling of the theory, we explore the effects of this analysis for deep-bound states and shallow-bound states. We reproduce the expected result that for deep bound states, the finite-volume formalism is largely unnecessary, while for shallow bound states, it is absolutely critical to obtain a sensible result. We present a detailed outline of the analysis of this class of matrix elements, including the determination of the charge radius of the bound state. In the shallow bound state limit, we find good agreement with the prediction stemming from the anomalous threshold.",
@@ -1369,6 +1930,37 @@
       }
     },
     {
+      "id": "2602.17204v1",
+      "title": "Three-body study of the $T_{cc}(3875)^+$ from lattice QCD",
+      "summary": "We discuss an ongoing first lattice study of the doubly-charmed tetraquark $T_{cc}^+$(3875) via a three-body approach. We investigate the $DDπ$ system in the $I=0$, $C=2$ sector, where the $T_{cc}^+$ appears as a pole in the $J^P = 1^+$ $DDπ$ elastic scattering amplitude. The approach automatically incorporates two-body $DD^*$ and three-body $DDπ$ effects and treats left-hand cuts due to single $π$ exchanges. Two CLS ensembles, X252 and X253, with pion mass $M_π\\approx 280$ MeV, are used, and an operator set comprised of two- and three-hadron and tetraquark operators is employed to extract finite-volume energies. Additional inputs are required for the three-body finite-volume analysis, in the form of amplitudes for the $I=1$ $DD$ and $I=1/2$ $Dπ$ two-body subsystems. We present preliminary results for these subchannels and perform exploratory three-body spectra determinations for simple choices of the three-particle K-matrix $\\mathcal{K}_{\\text{df}, 3}$, allowing a first comparison to the lattice spectrum.",
+      "authors": [
+        "Herzallah Alharazin",
+        "André Baião Raposo",
+        "John Bulava",
+        "Sebastian Dawid",
+        "Jeremy R. Green",
+        "Colin Morningstar",
+        "Fernando Romero-López",
+        "Miguel Salg",
+        "Stephen R. Sharpe",
+        "Andres Stump"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.17204v1",
+      "link": "https://arxiv.org/abs/2602.17204v1",
+      "published": "2026-02-19T09:51:23Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3121572",
+        "inspire_url": "https://inspirehep.net/literature/3121572",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2602.14260v1",
       "title": "Accessing the Gluon Momentum Fraction of Nucleons through the Gradient Flow",
       "summary": "We calculate the gluon momentum fraction of the nucleon using lattice quantum chromodynamics (QCD), with a nonperturbative renormalization technique based on the gradient flow. The gluon momentum fraction is determined on a single Wilson-clover ensemble using Nf = 2+1 flavors with pion mass 358 MeV and lattice spacing 0.094 fm. We employ the variational method to reduce excited-state contamination and apply the distillation framework to ensure a large operator basis. To reduce systematic uncertainties, we apply Bayesian model averaging to all fit procedures. We apply matching coefficients to the flow-time dependent lattice results to recover the gluon momentum fraction in the MS-scheme at 2 GeV. Our final result is <x>_g(μ= 2 GeV) = 0.482(35), where we quote only statistical uncertainties.",
@@ -1422,6 +2014,31 @@
         "control_number": "3118925",
         "inspire_url": "https://inspirehep.net/literature/3118925",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2602.11260v1",
+      "title": "Moment Problems and Spectral Functions",
+      "summary": "Nevanlinna-Pick interpolation and moment problems use the analytic structures provided by causality in order to provide rigorous bounds on smeared spectral functions. This proceedings discusses Nevanlinna-Pick interpolation and moment problems and reviews some useful results, including a simple proof that the space of causal data in Nevanlinna--Pick interpolation is convex.",
+      "authors": [
+        "Ryan Abbott",
+        "William Jay",
+        "Patrick Oare"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.11260v1",
+      "link": "https://arxiv.org/abs/2602.11260v1",
+      "published": "2026-02-11T19:00:01Z",
+      "categories": [
+        "hep-lat",
+        "math.CV"
+      ],
+      "inspire": {
+        "control_number": "3118915",
+        "inspire_url": "https://inspirehep.net/literature/3118915",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
       }
     },
     {
@@ -1526,6 +2143,62 @@
       }
     },
     {
+      "id": "2601.21232v1",
+      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
+      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
+      "authors": [
+        "Joaquin Grefa",
+        "Chun Yue Tsang",
+        "Rajesh Kumar",
+        "Veronica Dexheimer",
+        "Claudia Ratti",
+        "Zhangbu Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21232v1",
+      "link": "https://arxiv.org/abs/2601.21232v1",
+      "published": "2026-01-29T03:49:43Z",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3112888",
+        "inspire_url": "https://inspirehep.net/literature/3112888",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.21155v2",
+      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
+      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
+      "authors": [
+        "Oleksandr Tomalak",
+        "Aaron S. Meyer",
+        "Clarence Wret",
+        "Tejin Cai",
+        "Richard J. Hill",
+        "Kevin S. McFarland"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21155v2",
+      "link": "https://arxiv.org/abs/2601.21155v2",
+      "published": "2026-01-29T01:30:05Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3112889",
+        "inspire_url": "https://inspirehep.net/literature/3112889",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2601.17199v1",
       "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
       "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
@@ -1601,6 +2274,30 @@
       }
     },
     {
+      "id": "2601.12189v1",
+      "title": "Asymptotic Long-Distance Expansion of Euclidean Correlators in Lattice Parton Applications",
+      "summary": "Bilinear Euclidean quark and gluon correlators with Wilson links have been used widely for applications of large-momentum effective field theories to computing non-perturbative collinear and soft parton physics. Due to color confinement, these correlators decay exponentially at large spatial distances, a behavior crucial for computing momentum-space Fourier transformations with controlled errors from lattice QCD data. Using heavy-quark effective theory reduction, dispersive analysis, Lorentz symmetry, and heavy-flavor spectra, we determine the leading and next-to-leading asymptotic behaviors and relate the expansion parameters to binding energies of heavy-flavor hadrons. We demonstrate the results through two-loop calculations in $φ^3$ theory and from the perspective of locality and analyticity. We also study the impact of the asymptotic analysis on realistic lattice QCD data and demonstrate reliable error estimates.",
+      "authors": [
+        "Xiangdong Ji",
+        "Yizhuang Liu",
+        "Yushan Su"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.12189v1",
+      "link": "https://arxiv.org/abs/2601.12189v1",
+      "published": "2026-01-17T22:39:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3109203",
+        "inspire_url": "https://inspirehep.net/literature/3109203",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2601.10857v1",
       "title": "The Spectrum and Scale Setting on 2+1-flavor NME Lattices",
       "summary": "This paper describes the thirteen ensembles, named NME, generated with 2+1-flavor Wilson-clover fermions by the JLab/W\\&M/LANL/MIT/Marseille collaborations, and presents an analysis of the meson and baryon spectrum, decay constants $f_π$ and $f_K$, flow scales $t_0$ and $w_0$, and time histories of the $Θ$ and Weinberg operators under gradient flow. Using these quantities, the physical point values of the two flow scales, ${t_0^{\\rm Phy}}$ and ${w_0^{\\rm Phy}}$, and the ratio $\\mathop{f_K / f_π}^{\\rm Phy}$ are determined. The masses of the octet and decuplet baryons are analyzed using both the next-to-leading order (NLO) and the next-next-to-leading order (NNLO) ansatz from heavy baryon chiral perturbation theory (HB$χ$PT). The NNLO fit to the octet baryons, $M_N$, $M_Σ$, $M_Λ$ and $M_Ξ$, is preferred while the corresponding fits to the decuplet Omega mass, $M_Ω$, are not distinguished. We also present a study of the autocorrelations in the data and show that there is no evidence, even at large flow time, of the freezing of the topological charge or the Weinberg three-gluon operator.",
@@ -1626,6 +2323,61 @@
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.08825v2",
+      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
+      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
+      "authors": [
+        "Sebastian Grieninger",
+        "Martin J. Savage",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.08825v2",
+      "link": "https://arxiv.org/abs/2601.08825v2",
+      "published": "2026-01-13T18:57:53Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3103920",
+        "inspire_url": "https://inspirehep.net/literature/3103920",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.07987v1",
+      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
+      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
+      "authors": [
+        "Yumu Yang",
+        "Prachi Garella",
+        "Musa R. Khan",
+        "Tulio E. Restrepo",
+        "Joaquin Grefa",
+        "Johannes Jahan",
+        "Mauricio Hippert",
+        "Jorge Noronha",
+        "Claudia Ratti",
+        "Romulo Rougemont"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.07987v1",
+      "link": "https://arxiv.org/abs/2601.07987v1",
+      "published": "2026-01-12T20:37:09Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3103918",
+        "inspire_url": "https://inspirehep.net/literature/3103918",
+        "citation_count": 0
       }
     },
     {
@@ -1659,6 +2411,31 @@
       }
     },
     {
+      "id": "2601.04147v2",
+      "title": "Three-particle scattering amplitudes from lattice QCD",
+      "summary": "I review recent progress in calculating scattering amplitudes and resonance properties involving three particles using results from lattice QCD. The necessary input is the finite-volume spectrum, and the outputs -- via solutions of integral equations -- are scattering amplitudes that can be continued into the complex plane to search for resonance poles. I describe the outlook for future extensions and applications of this work.",
+      "authors": [
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.04147v2",
+      "link": "https://arxiv.org/abs/2601.04147v2",
+      "published": "2026-01-07T18:00:39Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3098337",
+        "inspire_url": "https://inspirehep.net/literature/3098337",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2601.04092v2",
       "title": "Scattering phase shift in quantum mechanics on quantum computers",
       "summary": "We investigate the feasibility of extracting infinite volume scattering phase shift on quantum computers in a simple one-dimensional quantum mechanical model, using the formalism established in Ref.~\\cite{Guo:2023ecc} that relates the integrated correlation functions (ICF) for a trapped system to the infinite volume scattering phase shifts through a weighted integral. The system is first discretized in a finite box with periodic boundary conditions, and the formalism in real time is verified by employing a contact interaction potential with exact solutions. Quantum circuits are then designed and constructed to implement the formalism on current quantum computing architectures. To overcome the fast oscillatory behavior of the integrated correlation functions in real-time simulation, different methods of post-data analysis are proposed and discussed. Test results on IBM hardware show that good agreement can be achieved with two qubits, but complete failure ensues with three qubits due to two-qubit gate operation errors and thermal relaxation errors.",
@@ -1680,6 +2457,77 @@
       "inspire": {
         "control_number": "3098334",
         "inspire_url": "https://inspirehep.net/literature/3098334",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.02681v2",
+      "title": "Tensor renormalization group approach to critical phenomena via symmetry-twisted partition functions",
+      "summary": "The locality of field theories strongly constrains the possible behaviors of symmetry-twisted partition functions, and thus they serve as order parameters to detect low-energy realizations of global symmetries, such as spontaneous symmetry breaking (SSB). We demonstrate that the tensor renormalization group (TRG) offers an efficient framework to compute the symmetry-twisted partition functions, which enables us to detect the symmetry-breaking transition and also to study associated critical phenomena. As concrete examples of SSB, we investigate the two-dimensional (2D) classical Ising model and the three-dimensional (3D) classical $O(2)$ nonlinear sigma model, and we identify their critical points solely from the twisted partition function. By employing the finite-size scaling argument, we find the critical temperature $T_c=2.2017(2)$ with the critical exponent $ν= 0.663(33)$ for the 3D $O(2)$ model. In addition, we also study the Berezinskii-Kosterlitz-Thouless (BKT) criticality of the 2D classical $O(2)$ model by extracting the helicity modulus from the twisted partition functions, and we obtain the BKT transition temperature, $T_{\\mathrm{BKT}}=0.8928(2)$.",
+      "authors": [
+        "Shinichiro Akiyama",
+        "Raghav G. Jha",
+        "Jun Maeda",
+        "Yuya Tanizaki",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02681v2",
+      "link": "https://arxiv.org/abs/2601.02681v2",
+      "published": "2026-01-06T03:27:16Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3097575",
+        "inspire_url": "https://inspirehep.net/literature/3097575",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.02676v1",
+      "title": "The Nucleon Axial Form Factor from Averaging Lattice QCD Results",
+      "summary": "Flagship neutrino oscillation experiments depend on precise and accurate theoretical knowledge of neutrino-nucleon cross sections across a variety of energies and interaction mechanisms. Key ingredients to the amplitudes that make up these cross sections are parameterized form factors. The axial form factor describing a weak interaction with a nucleon is part of one of the primary neutrino-nucleon interaction mechanisms, quasielastic scattering, yet this form factor is uncertain and its precision is limited by the availability of data for a neutrino scattering with nucleons or small nuclear targets. Lattice Quantum Chromodynamics (LQCD) now offers another approach for obtaining mathematically rigorous constraints of the axial form factor from theoretical calculations with complete systematic error budgets. In this work, strategies for averaging LQCD results are explored, including both a random sampling of form factor values across momentum transfers as well as an averaging strategy based on analytic calculations of form factor derivatives. Fits to z expansion parameterizations are reported and compared against neutrino-hydrogen and neutrino-deuterium scattering data.",
+      "authors": [
+        "Aaron S. Meyer"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02676v1",
+      "link": "https://arxiv.org/abs/2601.02676v1",
+      "published": "2026-01-06T03:21:59Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3098236",
+        "inspire_url": "https://inspirehep.net/literature/3098236",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.02331v2",
+      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
+      "summary": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
+      "authors": [
+        "Evan Budd",
+        "Adrien Florio",
+        "David Frenklakh",
+        "Swagato Mukherjee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02331v2",
+      "link": "https://arxiv.org/abs/2601.02331v2",
+      "published": "2026-01-05T18:23:52Z",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3097885",
+        "inspire_url": "https://inspirehep.net/literature/3097885",
         "citation_count": 0
       }
     }
