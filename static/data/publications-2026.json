@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-08T08:03:47.180290+00:00Z",
+  "generated": "2026-06-09T07:39:52.463296+00:00Z",
   "count": 94,
   "publications": [
+    {
+      "id": "2606.09757v1",
+      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
+      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
+      "authors": [
+        "Jonathan Gonzales",
+        "Alejandro Florez",
+        "Johannes Jahan",
+        "Angel R. Nava Acuna",
+        "Naman Mehndiratta",
+        "Claudia Ratti"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09757v1",
+      "link": "https://arxiv.org/abs/2606.09757v1",
+      "published": "2026-06-08T17:17:05Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3166306",
+        "inspire_url": "https://inspirehep.net/literature/3166306",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.02447v1",
       "title": "Kinematic enhancement for nucleon interpolators",
@@ -98,7 +124,7 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -440,7 +466,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -582,7 +608,7 @@
       "inspire": {
         "control_number": "3148486",
         "inspire_url": "https://inspirehep.net/literature/3148486",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -693,15 +719,15 @@
       }
     },
     {
-      "id": "2604.02424v1",
-      "title": "Understanding the Symmetric Mass Generation in Lattice-QCD",
-      "summary": "Signatures of symmetric mass generation (SMG) have recently been reported in lattice QCD calculations employing staggered fermions. We discuss the general criteria for SMG, and demonstrate that these conditions are indeed met by the staggered fermion action, in particular by the continuum action derived by Lee and Sharpe. We propose possible RG flow around the SMG transition, guided by the numerical results. We also point out that the Goldstone tetraquark meson states provide a phenomenological signature of the \"type-II\" SMG phase.",
+      "id": "2604.02424v2",
+      "title": "A Guide to Symmetric Mass Generation in Lattice-QCD",
+      "summary": "Symmetric mass generation (SMG) has attracted growing interest in both condensed matter theory and lattice-QCD communities. Here we formulate general criteria for SMG and examine their compatibility with lattice-QCD. We propose possible RG-flow scenarios near the SMG transition, and argue that meson mass ratio can serve as a probe of the SMG transition viewed as a UV fixed point. We further identify Goldstone tetraquark meson states as phenomenological signatures of the \"type-II'' SMG phase.",
       "authors": [
         "Anna Hasenfratz",
         "Cenke Xu"
       ],
-      "pdf": "https://arxiv.org/pdf/2604.02424v1",
-      "link": "https://arxiv.org/abs/2604.02424v1",
+      "pdf": "https://arxiv.org/pdf/2604.02424v2",
+      "link": "https://arxiv.org/abs/2604.02424v2",
       "published": "2026-04-02T18:00:18Z",
       "categories": [
         "hep-lat",
@@ -2014,31 +2040,6 @@
         "control_number": "3118925",
         "inspire_url": "https://inspirehep.net/literature/3118925",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2602.11260v1",
-      "title": "Moment Problems and Spectral Functions",
-      "summary": "Nevanlinna-Pick interpolation and moment problems use the analytic structures provided by causality in order to provide rigorous bounds on smeared spectral functions. This proceedings discusses Nevanlinna-Pick interpolation and moment problems and reviews some useful results, including a simple proof that the space of causal data in Nevanlinna--Pick interpolation is convex.",
-      "authors": [
-        "Ryan Abbott",
-        "William Jay",
-        "Patrick Oare"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.11260v1",
-      "link": "https://arxiv.org/abs/2602.11260v1",
-      "published": "2026-02-11T19:00:01Z",
-      "categories": [
-        "hep-lat",
-        "math.CV"
-      ],
-      "inspire": {
-        "control_number": "3118915",
-        "inspire_url": "https://inspirehep.net/literature/3118915",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
       }
     },
     {
