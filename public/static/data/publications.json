@@ -1,7 +1,33 @@
 {
-  "generated": "2026-06-08T08:03:47.240428+00:00Z",
+  "generated": "2026-06-09T07:39:52.527664+00:00Z",
   "count": 94,
   "publications": [
+    {
+      "id": "2606.09757v1",
+      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
+      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
+      "authors": [
+        "Jonathan Gonzales",
+        "Alejandro Florez",
+        "Johannes Jahan",
+        "Angel R. Nava Acuna",
+        "Naman Mehndiratta",
+        "Claudia Ratti"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09757v1",
+      "link": "https://arxiv.org/abs/2606.09757v1",
+      "published": "2026-06-08T17:17:05Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3166306",
+        "inspire_url": "https://inspirehep.net/literature/3166306",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.02447v1",
       "title": "Kinematic enhancement for nucleon interpolators",
@@ -98,32 +124,7 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.20417v1",
-      "title": "Quantum Simulation of Gauge Theories for Particle and Nuclear Physics",
-      "summary": "Lattice field theory, along with its algorithmic and hardware ecosystems, has been at the forefront of computational particle and nuclear physics. It continues to deliver impressive results on the hadronic spectrum, structure, decays, and reactions. Yet, this vigorous campaign has fallen short in addressing a range of problems involving dense matter and general dynamical phenomena. The reason is that such problems require an exponential scaling of computing time and space in system size. Quantum simulation, enabled by quantum-computing algorithms and hardware technology, promises a way forward by offering several polynomially efficient algorithms compared with their inefficient classical counterparts. Lattice gauge theorists have engaged in a multi-pronged program to leverage such new possibilities, and have steadily advanced the state of theory, algorithm, and hardware implementations and co-design. In this talk, I motivate the quantum-computational lattice-field-theory program; introduce the questions such a program is expected to address and the strategies it involves; report on recent progress; and end with a note on challenges and opportunities ahead.",
-      "authors": [
-        "Zohreh Davoudi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.20417v1",
-      "link": "https://arxiv.org/abs/2605.20417v1",
-      "published": "2026-05-19T19:12:11Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3158071",
-        "inspire_url": "https://inspirehep.net/literature/3158071",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 0
+        "citation_count": 1
       }
     }
   ]
