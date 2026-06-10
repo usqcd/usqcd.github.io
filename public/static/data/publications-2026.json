@@ -1,7 +1,32 @@
 {
-  "generated": "2026-06-09T07:39:52.463296+00:00Z",
-  "count": 94,
+  "generated": "2026-06-10T07:56:26.718317+00:00Z",
+  "count": 95,
   "publications": [
+    {
+      "id": "2606.09971v1",
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
+      "authors": [
+        "Raghav G. Jha",
+        "Goksu C. Toga",
+        "Jaber I. Taher",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09971v1",
+      "link": "https://arxiv.org/abs/2606.09971v1",
+      "published": "2026-06-08T18:00:00Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.09757v1",
       "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
@@ -196,37 +221,6 @@
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2605.14554v1",
-      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
-      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
-      "authors": [
-        "Ivan Horváth"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.14554v1",
-      "link": "https://arxiv.org/abs/2605.14554v1",
-      "published": "2026-05-14T08:31:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3155354",
-        "inspire_url": "https://inspirehep.net/literature/3155354",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "165",
-            "artid": "165",
-            "year": 2025
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     },
     {
@@ -972,7 +966,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2040,6 +2034,31 @@
         "control_number": "3118925",
         "inspire_url": "https://inspirehep.net/literature/3118925",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2602.11260v1",
+      "title": "Moment Problems and Spectral Functions",
+      "summary": "Nevanlinna-Pick interpolation and moment problems use the analytic structures provided by causality in order to provide rigorous bounds on smeared spectral functions. This proceedings discusses Nevanlinna-Pick interpolation and moment problems and reviews some useful results, including a simple proof that the space of causal data in Nevanlinna--Pick interpolation is convex.",
+      "authors": [
+        "Ryan Abbott",
+        "William Jay",
+        "Patrick Oare"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.11260v1",
+      "link": "https://arxiv.org/abs/2602.11260v1",
+      "published": "2026-02-11T19:00:01Z",
+      "categories": [
+        "hep-lat",
+        "math.CV"
+      ],
+      "inspire": {
+        "control_number": "3118915",
+        "inspire_url": "https://inspirehep.net/literature/3118915",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
       }
     },
     {
