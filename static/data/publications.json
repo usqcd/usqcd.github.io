@@ -1,7 +1,32 @@
 {
-  "generated": "2026-06-09T07:39:52.527664+00:00Z",
-  "count": 94,
+  "generated": "2026-06-10T07:56:26.778555+00:00Z",
+  "count": 95,
   "publications": [
+    {
+      "id": "2606.09971v1",
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
+      "authors": [
+        "Raghav G. Jha",
+        "Goksu C. Toga",
+        "Jaber I. Taher",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09971v1",
+      "link": "https://arxiv.org/abs/2606.09971v1",
+      "published": "2026-06-08T18:00:00Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.09757v1",
       "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
@@ -100,31 +125,6 @@
         "control_number": "3158986",
         "inspire_url": "https://inspirehep.net/literature/3158986",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.20509v1",
-      "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
-      "summary": "This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite non-perturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna--Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.",
-      "authors": [
-        "Ryan Abbott",
-        "Sarah Fields",
-        "William I. Jay",
-        "Patrick Oare",
-        "Matteo Saccardi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.20509v1",
-      "link": "https://arxiv.org/abs/2605.20509v1",
-      "published": "2026-05-19T21:25:12Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3158070",
-        "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 1
       }
     }
   ]
