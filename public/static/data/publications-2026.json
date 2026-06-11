@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-10T07:56:26.718317+00:00Z",
-  "count": 95,
+  "generated": "2026-06-11T08:01:40.963232+00:00Z",
+  "count": 96,
   "publications": [
     {
       "id": "2606.09971v1",
@@ -221,6 +221,37 @@
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2605.14554v1",
+      "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
+      "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
+      "authors": [
+        "Ivan Horváth"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.14554v1",
+      "link": "https://arxiv.org/abs/2605.14554v1",
+      "published": "2026-05-14T08:31:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3155354",
+        "inspire_url": "https://inspirehep.net/literature/3155354",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
       }
     },
     {
