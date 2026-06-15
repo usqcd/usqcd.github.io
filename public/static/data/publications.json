@@ -1,7 +1,59 @@
 {
-  "generated": "2026-06-14T07:59:00.162282+00:00Z",
+  "generated": "2026-06-15T08:31:34.399584+00:00Z",
   "count": 94,
   "publications": [
+    {
+      "id": "2606.14491v1",
+      "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
+      "summary": "Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.",
+      "authors": [
+        "Szabolcs Borsányi",
+        "Zoltán Fodor",
+        "Jana N. Guenther",
+        "Paolo Parotto",
+        "Attila Pásztor",
+        "Claudia Ratti",
+        "Volodymyr Vovchenko",
+        "Chik Him Wong"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.14491v1",
+      "link": "https://arxiv.org/abs/2606.14491v1",
+      "published": "2026-06-12T14:27:40Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3168328",
+        "inspire_url": "https://inspirehep.net/literature/3168328",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.09971v1",
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
+      "authors": [
+        "Raghav G. Jha",
+        "Goksu C. Toga",
+        "Jaber I. Taher",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09971v1",
+      "link": "https://arxiv.org/abs/2606.09971v1",
+      "published": "2026-06-08T18:00:00Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.09757v1",
       "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
@@ -25,7 +77,7 @@
       "inspire": {
         "control_number": "3166306",
         "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -74,57 +126,6 @@
         "control_number": "3162360",
         "inspire_url": "https://inspirehep.net/literature/3162360",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.22957v1",
-      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
-      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
-      "authors": [
-        "Arkaitz Rodas",
-        "Lin Qiu",
-        "César Fernández-Ramírez",
-        "Vincent Mathieu",
-        "Glòria Montaña",
-        "Alessandro Pilloni",
-        "Adam P. Szczepaniak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.22957v1",
-      "link": "https://arxiv.org/abs/2605.22957v1",
-      "published": "2026-05-21T18:43:53Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3158986",
-        "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.20509v1",
-      "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
-      "summary": "This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite non-perturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna--Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.",
-      "authors": [
-        "Ryan Abbott",
-        "Sarah Fields",
-        "William I. Jay",
-        "Patrick Oare",
-        "Matteo Saccardi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.20509v1",
-      "link": "https://arxiv.org/abs/2605.20509v1",
-      "published": "2026-05-19T21:25:12Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3158070",
-        "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 1
       }
     }
   ]

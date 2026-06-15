@@ -1,7 +1,59 @@
 {
-  "generated": "2026-06-14T07:59:00.101200+00:00Z",
+  "generated": "2026-06-15T08:31:34.338815+00:00Z",
   "count": 94,
   "publications": [
+    {
+      "id": "2606.14491v1",
+      "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
+      "summary": "Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.",
+      "authors": [
+        "Szabolcs Borsányi",
+        "Zoltán Fodor",
+        "Jana N. Guenther",
+        "Paolo Parotto",
+        "Attila Pásztor",
+        "Claudia Ratti",
+        "Volodymyr Vovchenko",
+        "Chik Him Wong"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.14491v1",
+      "link": "https://arxiv.org/abs/2606.14491v1",
+      "published": "2026-06-12T14:27:40Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3168328",
+        "inspire_url": "https://inspirehep.net/literature/3168328",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.09971v1",
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
+      "authors": [
+        "Raghav G. Jha",
+        "Goksu C. Toga",
+        "Jaber I. Taher",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09971v1",
+      "link": "https://arxiv.org/abs/2606.09971v1",
+      "published": "2026-06-08T18:00:00Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.09757v1",
       "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
@@ -25,7 +77,7 @@
       "inspire": {
         "control_number": "3166306",
         "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -530,7 +582,7 @@
       "inspire": {
         "control_number": "3148937",
         "inspire_url": "https://inspirehep.net/literature/3148937",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1183,25 +1235,28 @@
       }
     },
     {
-      "id": "2603.18438v2",
-      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
-      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
+      "id": "2603.17971v2",
+      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
+      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
       "authors": [
-        "Callum Farrell",
-        "Stefan Meinel"
+        "Omar Alsheikh",
+        "A. F. Kemper",
+        "Ermal Rrapaj",
+        "Evan J. Rule",
+        "Goksu C. Toga"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.18438v2",
-      "link": "https://arxiv.org/abs/2603.18438v2",
-      "published": "2026-03-19T02:56:21Z",
+      "pdf": "https://arxiv.org/pdf/2603.17971v2",
+      "link": "https://arxiv.org/abs/2603.17971v2",
+      "published": "2026-03-18T17:38:05Z",
       "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-lat"
       ],
       "inspire": {
-        "control_number": "3131487",
-        "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 1
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
+        "citation_count": 0
       }
     },
     {
@@ -1291,58 +1346,6 @@
           {}
         ],
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.12418v3",
-      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
-      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-76 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
-      "authors": [
-        "Jakob Hoffmann",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12418v3",
-      "link": "https://arxiv.org/abs/2603.12418v3",
-      "published": "2026-03-12T19:59:18Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3129046",
-        "inspire_url": "https://inspirehep.net/literature/3129046",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.12391v1",
-      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
-      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
-      "authors": [
-        "Muhammad Asaduzzaman",
-        "Rayleigh W. Parker",
-        "Noah Goss",
-        "Ahmed I. Mohamed",
-        "Max Neiderbach",
-        "Zane Ozzello",
-        "Ravi K. Naik",
-        "Alexander F. Kemper",
-        "Irfan Siddiqi",
-        "Yannick Meurice",
-        "Machiel S. Blok"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12391v1",
-      "link": "https://arxiv.org/abs/2603.12391v1",
-      "published": "2026-03-12T19:10:16Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129090",
-        "inspire_url": "https://inspirehep.net/literature/3129090",
-        "citation_count": 1
       }
     },
     {
