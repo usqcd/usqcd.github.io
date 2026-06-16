@@ -1,7 +1,100 @@
 {
-  "generated": "2026-06-15T08:31:34.399584+00:00Z",
-  "count": 94,
+  "generated": "2026-06-16T08:21:59.802745+00:00Z",
+  "count": 100,
   "publications": [
+    {
+      "id": "2606.16877v1",
+      "title": "Direct calculation of parton distributions in momentum space from lattice QCD",
+      "summary": "Coulomb-gauge quasi-parton distributions can be computed directly in momentum space on a finite lattice, enabled by the commutativity of their renormalization and Fourier transform. This approach removes the formal inverse problem in coordinate-space methods. Our momentum-space pion quasi-distributions agree with coordinate-space results Fourier transformed with asymptotic extrapolation, indicating that the formal inverse problem in the latter is not a concern at this volume. We further extend the framework to higher dimensions and obtain the first 3D image of the pion directly from lattice QCD.",
+      "authors": [
+        "Anthony V. Grebe",
+        "Daniel C. Hackett",
+        "Michael L. Wagman",
+        "Rui Zhang",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.16877v1",
+      "link": "https://arxiv.org/abs/2606.16877v1",
+      "published": "2026-06-15T15:51:14Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3168686",
+        "inspire_url": "https://inspirehep.net/literature/3168686",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.15986v1",
+      "title": "Learning the generating functional for variance reduction in lattice QCD",
+      "summary": "The generating functional in quantum field theory provides the natural framework for constructing correlation functions as derivatives with respect to source operators. We present a methodology that leverages machine-learned normalizing flows to reduce the variance of arbitrary $N$-point correlation functions of bosonic operators in lattice gauge field theory calculations by encoding a representation of the generating functional. We show that it is possible to systematically approach noiseless estimators of correlation functions in this framework. We demonstrate this methodology with applications to calculations of glueball correlation functions and Wilson loops in Quantum Chromodynamics and Yang-Mills theory. The results show up to three orders of magnitude variance reduction.",
+      "authors": [
+        "Ryan Abbott",
+        "Yang Fu",
+        "Daniel C. Hackett",
+        "Gurtej Kanwar",
+        "Fernando Romero-López",
+        "Phiala E. Shanahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.15986v1",
+      "link": "https://arxiv.org/abs/2606.15986v1",
+      "published": "2026-06-14T19:24:19Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG"
+      ],
+      "inspire": {
+        "control_number": "3168689",
+        "inspire_url": "https://inspirehep.net/literature/3168689",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.15564v1",
+      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
+      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
+      "authors": [
+        "Vishal Rao",
+        "Peter Petreczky",
+        "Prasad Hegde"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.15564v1",
+      "link": "https://arxiv.org/abs/2606.15564v1",
+      "published": "2026-06-14T02:59:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3168685",
+        "inspire_url": "https://inspirehep.net/literature/3168685",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.14642v1",
+      "title": "Zeros of the partition function for 12 flavor QCD",
+      "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
+      "authors": [
+        "Anas Saleh",
+        "Michael Hite",
+        "Diego Floor",
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.14642v1",
+      "link": "https://arxiv.org/abs/2606.14642v1",
+      "published": "2026-06-12T17:05:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3168353",
+        "inspire_url": "https://inspirehep.net/literature/3168353",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.14491v1",
       "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
@@ -26,105 +119,6 @@
       "inspire": {
         "control_number": "3168328",
         "inspire_url": "https://inspirehep.net/literature/3168328",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.09971v1",
-      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
-      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
-      "authors": [
-        "Raghav G. Jha",
-        "Goksu C. Toga",
-        "Jaber I. Taher",
-        "Bojko N. Bakalov",
-        "Alexander F. Kemper"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.09971v1",
-      "link": "https://arxiv.org/abs/2606.09971v1",
-      "published": "2026-06-08T18:00:00Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3167073",
-        "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.09757v1",
-      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
-      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
-      "authors": [
-        "Jonathan Gonzales",
-        "Alejandro Florez",
-        "Johannes Jahan",
-        "Angel R. Nava Acuna",
-        "Naman Mehndiratta",
-        "Claudia Ratti"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.09757v1",
-      "link": "https://arxiv.org/abs/2606.09757v1",
-      "published": "2026-06-08T17:17:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3166306",
-        "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2606.02447v1",
-      "title": "Kinematic enhancement for nucleon interpolators",
-      "summary": "The reliable treatment of highly boosted hadrons is crucial for many lattice QCD applications. For all these cases the kinematically enhanced interpolators promise very significant improvements and are, therefore, ever more often used in recent calculations, especially for highly boosted mesons like the pion. Motivated by, e.g., the physics program of the future Electron-Ion Collider (EIC) in the US and Electron-Ion collider in China (EIcC), we systematically benchmark our code for the unpolarized isovector nucleon quark matrix elements extracted at large source-sink separations, where excited state artifacts are significantly suppressed. We find that the precision of the renormalized nucleon matrix elements is typically improved by an order of magnitude at momentum $P_z\\sim2.5$ GeV. By comparing the results from three CLS ensembles with different lattice spacings $a$ but the same pion mass, we observe no statistically significant dependence on $a$ in the renormalized matrix elements at nearly identical values of $P_z$. These encouraging results suggest that the use of kinematically improved operators is highly advantageous for parton physics calculations and can be extended to a broader class of baryon observables, making them a promising candidate for a standard component of modern lattice QCD.",
-      "authors": [
-        "Daniel Reitinger",
-        "Tobias Sizmann",
-        "Andreas Schäfer",
-        "Rui Zhang",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.02447v1",
-      "link": "https://arxiv.org/abs/2606.02447v1",
-      "published": "2026-06-01T16:17:44Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3164198",
-        "inspire_url": "https://inspirehep.net/literature/3164198",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2605.30193v1",
-      "title": "Mellin Moments of the Unpolarized Gluon PDF in the Proton from Nonlocal Operators in Lattice QCD",
-      "summary": "We present a lattice QCD determination of the Mellin moments of the unpolarized gluon parton distribution function in the proton. The analysis is based on matrix elements of nonlocal gluon operators coupled to momentum-boosted proton states. The calculation relies on an $N_f=2+1+1$ ensemble of maximally twisted mass fermions with clover improvement and the Iwasaki-improved gauge action, at a pion mass of approximately 260 MeV. Working within the short-distance operator product expansion (OPE) of the reduced gluon Ioffe-time distribution, we extract ratios of higher-order gluon moments, $\\langle x^n\\rangle$ with $n>1$, to the gluon momentum fraction, $\\langle x\\rangle$. We investigate systematic effects associated with the truncation of the order of moment in the OPE, the choice of minimum and maximum Wilson-line separations entering the analysis, and the treatment of mixing with the quark-singlet under perturbative matching. The stability of the extracted moments is further studied under scale evolution using DGLAP equations, allowing us to assess uncertainties related to perturbative truncation by varying the scale. Our work provides a determination of the ratio $\\langle x^3\\rangle_g/\\langle x\\rangle_g$ at a scale of 2 GeV, with uncertainties that account for both statistical and the dominant theoretical systematic uncertainties.",
-      "authors": [
-        "Joseph Delmar",
-        "Krzysztof Cichy",
-        "Martha Constantinou",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.30193v1",
-      "link": "https://arxiv.org/abs/2605.30193v1",
-      "published": "2026-05-28T16:33:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3162360",
-        "inspire_url": "https://inspirehep.net/literature/3162360",
         "citation_count": 0
       }
     }
