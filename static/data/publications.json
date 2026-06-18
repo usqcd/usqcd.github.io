@@ -1,7 +1,31 @@
 {
-  "generated": "2026-06-17T08:17:12.608517+00:00Z",
-  "count": 101,
+  "generated": "2026-06-18T08:04:42.761301+00:00Z",
+  "count": 100,
   "publications": [
+    {
+      "id": "2606.19221v1",
+      "title": "The Collins-Soper kernel from a vacuum soft function",
+      "summary": "The Collins-Soper kernel is calculated from a vacuum soft function using space-like Wilson lines with complex-directional vectors on the Euclidean lattice. Our pure gauge calculations with this method achieve high statistical precision in computing the soft function, whose rapidity dependence is well described by Collins-Soper evolution across a wide range of rapidity differences. The extracted kernel contains errors comparable to those achieved in state-of-the-art lattice calculations based on hadronic observables, but exhibits saturated behavior at large transverse Wilson-line separations.",
+      "authors": [
+        "Anthony Francis",
+        "C. -J. David Lin",
+        "Wayne Morris",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.19221v1",
+      "link": "https://arxiv.org/abs/2606.19221v1",
+      "published": "2026-06-17T15:58:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3169537",
+        "inspire_url": "https://inspirehep.net/literature/3169537",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.16877v1",
       "title": "Direct calculation of parton distributions in momentum space from lattice QCD",
@@ -92,33 +116,6 @@
       "inspire": {
         "control_number": "3168353",
         "inspire_url": "https://inspirehep.net/literature/3168353",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.14491v1",
-      "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
-      "summary": "Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.",
-      "authors": [
-        "Szabolcs Borsányi",
-        "Zoltán Fodor",
-        "Jana N. Guenther",
-        "Paolo Parotto",
-        "Attila Pásztor",
-        "Claudia Ratti",
-        "Volodymyr Vovchenko",
-        "Chik Him Wong"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.14491v1",
-      "link": "https://arxiv.org/abs/2606.14491v1",
-      "published": "2026-06-12T14:27:40Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3168328",
-        "inspire_url": "https://inspirehep.net/literature/3168328",
         "citation_count": 0
       }
     }
