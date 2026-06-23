@@ -1,7 +1,55 @@
 {
-  "generated": "2026-06-22T08:29:20.098081+00:00Z",
-  "count": 103,
+  "generated": "2026-06-23T07:41:33.012155+00:00Z",
+  "count": 105,
   "publications": [
+    {
+      "id": "2606.22224v1",
+      "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
+      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF in the physical limits is consistent with global fittings within $\\sim1σ$. This provides compelling evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
+      "authors": [
+        "Xiangdong Ji",
+        "Yushan Su"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.22224v1",
+      "link": "https://arxiv.org/abs/2606.22224v1",
+      "published": "2026-06-20T20:58:34Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3170827",
+        "inspire_url": "https://inspirehep.net/literature/3170827",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.20791v1",
+      "title": "Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom",
+      "summary": "We present a variational approach to quantum field theory based on wavefunctions parameterized by neural networks. While variational methods have a celebrated history across many fields, their application to quantum field theory has been limited by well-known challenges. We show that neural-network wavefunctions, combined with modern machine-learning techniques, enable competitive variational calculations in nontrivial field theories. As a demonstration, we reproduce the essential features of the two-dimensional nonlinear $σ$-model: asymptotic freedom, dynamical mass generation and the model's step-scaling function.",
+      "authors": [
+        "Paulo F. Bedaque",
+        "Hersh Kumar",
+        "Suryansh Rajawat",
+        "Gregory Ridgway"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.20791v1",
+      "link": "https://arxiv.org/abs/2606.20791v1",
+      "published": "2026-06-18T18:00:01Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3170820",
+        "inspire_url": "https://inspirehep.net/literature/3170820",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.19503v1",
       "title": "Kernel transformations and bounds for smeared spectral functions",
@@ -114,11 +162,14 @@
       "inspire": {
         "control_number": "3168685",
         "inspire_url": "https://inspirehep.net/literature/3168685",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
     {
-      "id": "2606.14642v1",
+      "id": "2606.14642v2",
       "title": "Zeros of the partition function for 12 flavor QCD",
       "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
       "authors": [
@@ -127,8 +178,8 @@
         "Diego Floor",
         "Yannick Meurice"
       ],
-      "pdf": "https://arxiv.org/pdf/2606.14642v1",
-      "link": "https://arxiv.org/abs/2606.14642v1",
+      "pdf": "https://arxiv.org/pdf/2606.14642v2",
+      "link": "https://arxiv.org/abs/2606.14642v2",
       "published": "2026-06-12T17:05:55Z",
       "categories": [
         "hep-lat"
@@ -188,7 +239,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -218,7 +269,7 @@
       }
     },
     {
-      "id": "2606.02447v1",
+      "id": "2606.02447v2",
       "title": "Kinematic enhancement for nucleon interpolators",
       "summary": "The reliable treatment of highly boosted hadrons is crucial for many lattice QCD applications. For all these cases the kinematically enhanced interpolators promise very significant improvements and are, therefore, ever more often used in recent calculations, especially for highly boosted mesons like the pion. Motivated by, e.g., the physics program of the future Electron-Ion Collider (EIC) in the US and Electron-Ion collider in China (EIcC), we systematically benchmark our code for the unpolarized isovector nucleon quark matrix elements extracted at large source-sink separations, where excited state artifacts are significantly suppressed. We find that the precision of the renormalized nucleon matrix elements is typically improved by an order of magnitude at momentum $P_z\\sim2.5$ GeV. By comparing the results from three CLS ensembles with different lattice spacings $a$ but the same pion mass, we observe no statistically significant dependence on $a$ in the renormalized matrix elements at nearly identical values of $P_z$. These encouraging results suggest that the use of kinematically improved operators is highly advantageous for parton physics calculations and can be extended to a broader class of baryon observables, making them a promising candidate for a standard component of modern lattice QCD.",
       "authors": [
@@ -228,8 +279,8 @@
         "Rui Zhang",
         "Yong Zhao"
       ],
-      "pdf": "https://arxiv.org/pdf/2606.02447v1",
-      "link": "https://arxiv.org/abs/2606.02447v1",
+      "pdf": "https://arxiv.org/pdf/2606.02447v2",
+      "link": "https://arxiv.org/abs/2606.02447v2",
       "published": "2026-06-01T16:17:44Z",
       "categories": [
         "hep-lat"
@@ -362,7 +413,7 @@
       "inspire": {
         "control_number": "3157708",
         "inspire_url": "https://inspirehep.net/literature/3157708",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -384,7 +435,7 @@
       "inspire": {
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1390,7 +1441,18 @@
       "inspire": {
         "control_number": "3131487",
         "inspire_url": "https://inspirehep.net/literature/3131487",
-        "citation_count": 1
+        "doi": "10.1103/4rg4-sd18",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "113",
+            "artid": "114521",
+            "year": 2026,
+            "journal_issue": "11"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
       }
     },
     {
