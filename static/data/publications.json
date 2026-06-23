@@ -1,7 +1,55 @@
 {
-  "generated": "2026-06-22T08:29:20.158505+00:00Z",
-  "count": 103,
+  "generated": "2026-06-23T07:41:33.073654+00:00Z",
+  "count": 105,
   "publications": [
+    {
+      "id": "2606.22224v1",
+      "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
+      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF in the physical limits is consistent with global fittings within $\\sim1σ$. This provides compelling evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
+      "authors": [
+        "Xiangdong Ji",
+        "Yushan Su"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.22224v1",
+      "link": "https://arxiv.org/abs/2606.22224v1",
+      "published": "2026-06-20T20:58:34Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3170827",
+        "inspire_url": "https://inspirehep.net/literature/3170827",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.20791v1",
+      "title": "Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom",
+      "summary": "We present a variational approach to quantum field theory based on wavefunctions parameterized by neural networks. While variational methods have a celebrated history across many fields, their application to quantum field theory has been limited by well-known challenges. We show that neural-network wavefunctions, combined with modern machine-learning techniques, enable competitive variational calculations in nontrivial field theories. As a demonstration, we reproduce the essential features of the two-dimensional nonlinear $σ$-model: asymptotic freedom, dynamical mass generation and the model's step-scaling function.",
+      "authors": [
+        "Paulo F. Bedaque",
+        "Hersh Kumar",
+        "Suryansh Rajawat",
+        "Gregory Ridgway"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.20791v1",
+      "link": "https://arxiv.org/abs/2606.20791v1",
+      "published": "2026-06-18T18:00:01Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3170820",
+        "inspire_url": "https://inspirehep.net/literature/3170820",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.19503v1",
       "title": "Kernel transformations and bounds for smeared spectral functions",
@@ -68,52 +116,6 @@
       "inspire": {
         "control_number": "3168686",
         "inspire_url": "https://inspirehep.net/literature/3168686",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.15986v1",
-      "title": "Learning the generating functional for variance reduction in lattice QCD",
-      "summary": "The generating functional in quantum field theory provides the natural framework for constructing correlation functions as derivatives with respect to source operators. We present a methodology that leverages machine-learned normalizing flows to reduce the variance of arbitrary $N$-point correlation functions of bosonic operators in lattice gauge field theory calculations by encoding a representation of the generating functional. We show that it is possible to systematically approach noiseless estimators of correlation functions in this framework. We demonstrate this methodology with applications to calculations of glueball correlation functions and Wilson loops in Quantum Chromodynamics and Yang-Mills theory. The results show up to three orders of magnitude variance reduction.",
-      "authors": [
-        "Ryan Abbott",
-        "Yang Fu",
-        "Daniel C. Hackett",
-        "Gurtej Kanwar",
-        "Fernando Romero-López",
-        "Phiala E. Shanahan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.15986v1",
-      "link": "https://arxiv.org/abs/2606.15986v1",
-      "published": "2026-06-14T19:24:19Z",
-      "categories": [
-        "hep-lat",
-        "cs.LG"
-      ],
-      "inspire": {
-        "control_number": "3168689",
-        "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.15564v1",
-      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
-      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
-      "authors": [
-        "Vishal Rao",
-        "Peter Petreczky",
-        "Prasad Hegde"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.15564v1",
-      "link": "https://arxiv.org/abs/2606.15564v1",
-      "published": "2026-06-14T02:59:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168685",
-        "inspire_url": "https://inspirehep.net/literature/3168685",
         "citation_count": 0
       }
     }
