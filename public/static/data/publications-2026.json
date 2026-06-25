@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T07:42:48.738254+00:00Z",
-  "count": 102,
+  "generated": "2026-06-25T07:31:36.025805+00:00Z",
+  "count": 105,
   "publications": [
     {
       "id": "2606.22224v1",
@@ -17,7 +17,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170827",
+        "inspire_url": "https://inspirehep.net/literature/3170827",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.20791v1",
@@ -38,7 +43,12 @@
         "hep-th",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170820",
+        "inspire_url": "https://inspirehep.net/literature/3170820",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.19503v1",
@@ -53,7 +63,12 @@
       "published": "2026-06-17T18:40:46Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170330",
+        "inspire_url": "https://inspirehep.net/literature/3170330",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.19221v1",
@@ -72,7 +87,12 @@
         "hep-lat",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3169537",
+        "inspire_url": "https://inspirehep.net/literature/3169537",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.16877v1",
@@ -92,7 +112,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168686",
+        "inspire_url": "https://inspirehep.net/literature/3168686",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.15986v1",
@@ -112,7 +137,12 @@
       "categories": [
         "hep-lat",
         "cs.LG"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168689",
+        "inspire_url": "https://inspirehep.net/literature/3168689",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.15564v1",
@@ -128,7 +158,15 @@
       "published": "2026-06-14T02:59:55Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168685",
+        "inspire_url": "https://inspirehep.net/literature/3168685",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.14642v2",
@@ -145,7 +183,12 @@
       "published": "2026-06-12T17:05:55Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168353",
+        "inspire_url": "https://inspirehep.net/literature/3168353",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.14491v1",
@@ -167,7 +210,12 @@
       "categories": [
         "hep-lat",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168328",
+        "inspire_url": "https://inspirehep.net/literature/3168328",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.09971v1",
@@ -187,7 +235,12 @@
         "quant-ph",
         "hep-lat",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 2
+      }
     },
     {
       "id": "2606.09757v1",
@@ -208,7 +261,12 @@
         "hep-ph",
         "hep-lat",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3166306",
+        "inspire_url": "https://inspirehep.net/literature/3166306",
+        "citation_count": 1
+      }
     },
     {
       "id": "2606.02447v2",
@@ -226,7 +284,12 @@
       "published": "2026-06-01T16:17:44Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3164198",
+        "inspire_url": "https://inspirehep.net/literature/3164198",
+        "citation_count": 1
+      }
     },
     {
       "id": "2605.30193v1",
@@ -246,7 +309,12 @@
         "hep-ph",
         "hep-th",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3162360",
+        "inspire_url": "https://inspirehep.net/literature/3162360",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.22957v1",
@@ -267,7 +335,12 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3158986",
+        "inspire_url": "https://inspirehep.net/literature/3158986",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.20509v1",
@@ -287,7 +360,12 @@
         "hep-lat",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3158070",
+        "inspire_url": "https://inspirehep.net/literature/3158070",
+        "citation_count": 2
+      }
     },
     {
       "id": "2605.20417v1",
@@ -304,7 +382,15 @@
         "hep-ph",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3158071",
+        "inspire_url": "https://inspirehep.net/literature/3158071",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.20034v1",
@@ -323,7 +409,34 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3157708",
+        "inspire_url": "https://inspirehep.net/literature/3157708",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2605.15076v1",
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
+      "authors": [
+        "Zoë Webb-Mack",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.15076v1",
+      "link": "https://arxiv.org/abs/2605.15076v1",
+      "published": "2026-05-14T17:01:35Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3155356",
+        "inspire_url": "https://inspirehep.net/literature/3155356",
+        "citation_count": 2
+      }
     },
     {
       "id": "2605.14554v1",
@@ -338,7 +451,23 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3155354",
+        "inspire_url": "https://inspirehep.net/literature/3155354",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
+      }
     },
     {
       "id": "2605.07262v1",
@@ -357,7 +486,12 @@
       "published": "2026-05-08T05:27:26Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3153498",
+        "inspire_url": "https://inspirehep.net/literature/3153498",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.06560v1",
@@ -387,7 +521,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3152691",
+        "inspire_url": "https://inspirehep.net/literature/3152691",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.04163v1",
@@ -403,7 +542,12 @@
         "hep-ph",
         "hep-lat",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3152352",
+        "inspire_url": "https://inspirehep.net/literature/3152352",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.03234v1",
@@ -423,7 +567,12 @@
         "hep-ph",
         "hep-lat",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3151975",
+        "inspire_url": "https://inspirehep.net/literature/3151975",
+        "citation_count": 1
+      }
     },
     {
       "id": "2605.02808v1",
@@ -445,7 +594,12 @@
       "published": "2026-05-04T16:46:12Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3151097",
+        "inspire_url": "https://inspirehep.net/literature/3151097",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.01757v1",
@@ -463,7 +617,12 @@
       "categories": [
         "hep-ph",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3151091",
+        "inspire_url": "https://inspirehep.net/literature/3151091",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.00339v1",
@@ -483,7 +642,12 @@
         "hep-lat",
         "nucl-ex",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3150807",
+        "inspire_url": "https://inspirehep.net/literature/3150807",
+        "citation_count": 0
+      }
     },
     {
       "id": "2605.10946v1",
@@ -515,7 +679,12 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3154615",
+        "inspire_url": "https://inspirehep.net/literature/3154615",
+        "citation_count": 1
+      }
     },
     {
       "id": "2604.26376v1",
@@ -533,7 +702,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 7
+      }
     },
     {
       "id": "2604.25802v1",
@@ -564,7 +738,12 @@
       "published": "2026-04-28T16:11:05Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3149743",
+        "inspire_url": "https://inspirehep.net/literature/3149743",
+        "citation_count": 2
+      }
     },
     {
       "id": "2604.22514v1",
@@ -587,7 +766,12 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3148937",
+        "inspire_url": "https://inspirehep.net/literature/3148937",
+        "citation_count": 2
+      }
     },
     {
       "id": "2604.22349v1",
@@ -620,7 +804,23 @@
       "published": "2026-04-24T08:35:22Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3148934",
+        "inspire_url": "https://inspirehep.net/literature/3148934",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "518",
+            "artid": "518",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 1,
+        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
+      }
     },
     {
       "id": "2604.21476v1",
@@ -644,7 +844,12 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3148486",
+        "inspire_url": "https://inspirehep.net/literature/3148486",
+        "citation_count": 1
+      }
     },
     {
       "id": "2604.14117v1",
@@ -665,7 +870,12 @@
       "published": "2026-04-15T17:39:27Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3145465",
+        "inspire_url": "https://inspirehep.net/literature/3145465",
+        "citation_count": 1
+      }
     },
     {
       "id": "2604.13269v1",
@@ -682,7 +892,12 @@
       "categories": [
         "hep-lat",
         "hep-ex"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3145671",
+        "inspire_url": "https://inspirehep.net/literature/3145671",
+        "citation_count": 0
+      }
     },
     {
       "id": "2604.10314v2",
@@ -698,7 +913,12 @@
       "categories": [
         "hep-ph",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3144011",
+        "inspire_url": "https://inspirehep.net/literature/3144011",
+        "citation_count": 0
+      }
     },
     {
       "id": "2604.06880v1",
@@ -720,7 +940,23 @@
       "published": "2026-04-08T09:39:22Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3141718",
+        "inspire_url": "https://inspirehep.net/literature/3141718",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "248",
+            "artid": "248",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
+      }
     },
     {
       "id": "2604.02424v2",
@@ -737,7 +973,12 @@
         "hep-lat",
         "cond-mat.str-el",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3139140",
+        "inspire_url": "https://inspirehep.net/literature/3139140",
+        "citation_count": 0
+      }
     },
     {
       "id": "2604.01097v2",
@@ -761,7 +1002,15 @@
       "published": "2026-04-01T16:23:25Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3138458",
+        "inspire_url": "https://inspirehep.net/literature/3138458",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2604.00143v1",
@@ -785,7 +1034,12 @@
         "hep-ph",
         "nucl-ex",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3138451",
+        "inspire_url": "https://inspirehep.net/literature/3138451",
+        "citation_count": 1
+      }
     },
     {
       "id": "2604.00127v1",
@@ -806,7 +1060,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3138452",
+        "inspire_url": "https://inspirehep.net/literature/3138452",
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.29091v3",
@@ -821,7 +1080,12 @@
       "categories": [
         "hep-lat",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3137591",
+        "inspire_url": "https://inspirehep.net/literature/3137591",
+        "citation_count": 2
+      }
     },
     {
       "id": "2603.28872v1",
@@ -841,7 +1105,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3137590",
+        "inspire_url": "https://inspirehep.net/literature/3137590",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.28517v1",
@@ -863,7 +1132,12 @@
         "hep-lat",
         "hep-ex",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3137111",
+        "inspire_url": "https://inspirehep.net/literature/3137111",
+        "citation_count": 4
+      }
     },
     {
       "id": "2603.28516v1",
@@ -885,7 +1159,12 @@
         "hep-ph",
         "hep-ex",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3137099",
+        "inspire_url": "https://inspirehep.net/literature/3137099",
+        "citation_count": 5
+      }
     },
     {
       "id": "2603.27608v4",
@@ -900,7 +1179,12 @@
       "published": "2026-03-29T10:02:10Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3137098",
+        "inspire_url": "https://inspirehep.net/literature/3137098",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.24698v1",
@@ -924,7 +1208,12 @@
         "hep-ph",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3136536",
+        "inspire_url": "https://inspirehep.net/literature/3136536",
+        "citation_count": 4
+      }
     },
     {
       "id": "2603.23702v2",
@@ -948,7 +1237,12 @@
       "published": "2026-03-24T20:43:08Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3134068",
+        "inspire_url": "https://inspirehep.net/literature/3134068",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.23022v1",
@@ -967,7 +1261,15 @@
       "published": "2026-03-24T10:05:00Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3133766",
+        "inspire_url": "https://inspirehep.net/literature/3133766",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.22422v1",
@@ -983,7 +1285,12 @@
       "categories": [
         "quant-ph",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3133770",
+        "inspire_url": "https://inspirehep.net/literature/3133770",
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.21059v1",
@@ -1009,7 +1316,23 @@
       "published": "2026-03-22T05:01:02Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3132761",
+        "inspire_url": "https://inspirehep.net/literature/3132761",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "207",
+            "artid": "207",
+            "year": 2025
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2025"
+      }
     },
     {
       "id": "2603.20157v2",
@@ -1031,7 +1354,12 @@
         "hep-lat",
         "nucl-th",
         "physics.data-an"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3132368",
+        "inspire_url": "https://inspirehep.net/literature/3132368",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.19960v1",
@@ -1056,7 +1384,15 @@
       "published": "2026-03-20T14:01:29Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3132388",
+        "inspire_url": "https://inspirehep.net/literature/3132388",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.19192v1",
@@ -1079,7 +1415,12 @@
       "published": "2026-03-19T17:49:16Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3131517",
+        "inspire_url": "https://inspirehep.net/literature/3131517",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.18438v2",
@@ -1096,7 +1437,23 @@
         "hep-lat",
         "hep-ex",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3131487",
+        "inspire_url": "https://inspirehep.net/literature/3131487",
+        "doi": "10.1103/4rg4-sd18",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "113",
+            "artid": "114521",
+            "year": 2026,
+            "journal_issue": "11"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
+      }
     },
     {
       "id": "2603.17971v2",
@@ -1116,7 +1473,12 @@
         "quant-ph",
         "cond-mat.stat-mech",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.17900v1",
@@ -1139,7 +1501,15 @@
       "published": "2026-03-18T16:33:43Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3130955",
+        "inspire_url": "https://inspirehep.net/literature/3130955",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.15231v1",
@@ -1158,7 +1528,15 @@
       "published": "2026-03-16T13:07:10Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3129855",
+        "inspire_url": "https://inspirehep.net/literature/3129855",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.13101v1",
@@ -1181,7 +1559,15 @@
       "published": "2026-03-13T15:54:33Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3129083",
+        "inspire_url": "https://inspirehep.net/literature/3129083",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.12418v3",
@@ -1198,7 +1584,23 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3129046",
+        "inspire_url": "https://inspirehep.net/literature/3129046",
+        "doi": "10.1103/j29k-6rx5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "113",
+            "artid": "114516",
+            "year": 2026,
+            "journal_issue": "11"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Phys.Rev.D, 113, artid 114516, 2026"
+      }
     },
     {
       "id": "2603.12391v1",
@@ -1223,7 +1625,12 @@
       "categories": [
         "quant-ph",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3129090",
+        "inspire_url": "https://inspirehep.net/literature/3129090",
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.10255v1",
@@ -1241,7 +1648,15 @@
         "hep-lat",
         "hep-th",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3128414",
+        "inspire_url": "https://inspirehep.net/literature/3128414",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.03835v1",
@@ -1268,7 +1683,15 @@
         "hep-lat",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125658",
+        "inspire_url": "https://inspirehep.net/literature/3125658",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.03814v1",
@@ -1288,7 +1711,12 @@
         "hep-ph",
         "hep-th",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125654",
+        "inspire_url": "https://inspirehep.net/literature/3125654",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.03688v1",
@@ -1309,7 +1737,15 @@
       "published": "2026-03-04T03:31:42Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125649",
+        "inspire_url": "https://inspirehep.net/literature/3125649",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.02994v1",
@@ -1334,7 +1770,15 @@
       "published": "2026-03-03T13:46:15Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125287",
+        "inspire_url": "https://inspirehep.net/literature/3125287",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.02984v1",
@@ -1356,7 +1800,12 @@
       "categories": [
         "hep-lat",
         "cs.LG"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125285",
+        "inspire_url": "https://inspirehep.net/literature/3125285",
+        "citation_count": 4
+      }
     },
     {
       "id": "2603.02739v1",
@@ -1376,7 +1825,15 @@
         "hep-lat",
         "cond-mat.stat-mech",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3125292",
+        "inspire_url": "https://inspirehep.net/literature/3125292",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.01259v2",
@@ -1392,7 +1849,12 @@
       "published": "2026-03-01T20:31:13Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
+        "citation_count": 0
+      }
     },
     {
       "id": "2603.01215v1",
@@ -1412,7 +1874,12 @@
         "hep-th",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3124607",
+        "inspire_url": "https://inspirehep.net/literature/3124607",
+        "citation_count": 1
+      }
     },
     {
       "id": "2603.00946v1",
@@ -1426,7 +1893,12 @@
       "published": "2026-03-01T06:33:31Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
+        "citation_count": 2
+      }
     },
     {
       "id": "2603.00698v1",
@@ -1451,7 +1923,15 @@
       "published": "2026-02-28T15:13:21Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3124603",
+        "inspire_url": "https://inspirehep.net/literature/3124603",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2602.24200v1",
@@ -1470,7 +1950,23 @@
       "published": "2026-02-27T17:27:00Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "2870801",
+        "inspire_url": "https://inspirehep.net/literature/2870801",
+        "doi": "10.22323/1.466.0247",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2024",
+            "page_start": "247",
+            "artid": "247",
+            "year": 2025
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "PoS, LATTICE2024, artid 247, p. 247, 2025"
+      }
     },
     {
       "id": "2602.24190v1",
@@ -1489,7 +1985,15 @@
       "published": "2026-02-27T17:13:39Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3124242",
+        "inspire_url": "https://inspirehep.net/literature/3124242",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
     },
     {
       "id": "2602.23158v1",
@@ -1616,6 +2120,28 @@
       "inspire": {
         "control_number": "3123845",
         "inspire_url": "https://inspirehep.net/literature/3123845",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
         "citation_count": 0
       }
     },
@@ -1823,6 +2349,30 @@
       "inspire": {
         "control_number": "3118097",
         "inspire_url": "https://inspirehep.net/literature/3118097",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.02436v2",
+      "title": "Wilson loops with neural networks",
+      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
+      "authors": [
+        "Verena Bellscheidt",
+        "Nora Brambilla",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.02436v2",
+      "link": "https://arxiv.org/abs/2602.02436v2",
+      "published": "2026-02-02T18:33:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113673",
+        "inspire_url": "https://inspirehep.net/literature/3113673",
         "citation_count": 0
       }
     },

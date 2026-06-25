@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-24T07:42:48.795946+00:00Z",
-  "count": 102,
+  "generated": "2026-06-25T07:31:36.086256+00:00Z",
+  "count": 105,
   "publications": [
     {
       "id": "2606.22224v1",
@@ -17,7 +17,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170827",
+        "inspire_url": "https://inspirehep.net/literature/3170827",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.20791v1",
@@ -38,7 +43,12 @@
         "hep-th",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170820",
+        "inspire_url": "https://inspirehep.net/literature/3170820",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.19503v1",
@@ -53,7 +63,12 @@
       "published": "2026-06-17T18:40:46Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3170330",
+        "inspire_url": "https://inspirehep.net/literature/3170330",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.19221v1",
@@ -72,7 +87,12 @@
         "hep-lat",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3169537",
+        "inspire_url": "https://inspirehep.net/literature/3169537",
+        "citation_count": 0
+      }
     },
     {
       "id": "2606.16877v1",
@@ -92,7 +112,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3168686",
+        "inspire_url": "https://inspirehep.net/literature/3168686",
+        "citation_count": 0
+      }
     }
   ]
 }
