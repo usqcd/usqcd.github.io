@@ -1,7 +1,28 @@
 {
-  "generated": "2026-06-25T07:31:36.086256+00:00Z",
+  "generated": "2026-06-26T07:39:56.390962+00:00Z",
   "count": 105,
   "publications": [
+    {
+      "id": "2606.26336v1",
+      "title": "Isospin breaking corrections to a lattice QCD calculation of $\\varepsilon'$",
+      "summary": "Because of the $ΔI = 1/2$ rule, the effects of electromagnetism and the isospin-breaking light quark mass difference on the direct CP violation parameter $\\varepsilon'$ may be as large as 25\\% and are consequently of immediate interest. In a lattice QCD calculation the effects of isospin breaking on the various features of kaon decay can be clearly distinguished and those effects enhanced by the $ΔI=1/2$ rule on $\\varepsilon'$ explicitly identified. We show that all such enhanced effects can be captured in a QCD + QED lattice calculation in which the exchanged photon has an energy in an accessible, intermediate range between 0.5-2.0 GeV. Short-distance effects ($2.0 \\mathrm{\\ GeV} \\lesssim E_γ$), usually treated in QCD and electroweak perturbation theory, are not enhanced by the $ΔI=1/2$ rule, beyond the well-understood contribution of the two electroweak penguin operators. Infrared photons do not contribute to $\\varepsilon'$ while low-energy photons ($E_γ\\lesssim 0.5$ GeV) are not $ΔI=1/2$ rule enhanced or are suppressed by one order in chiral perturbation theory (ChPT). An explicit ChPT estimate of this low-energy-photon contribution, a contribution that is difficult to determine in a finite-volume lattice calculation, suggests that the effect on $\\varepsilon'$ is on the order of 0.5\\%.",
+      "authors": [
+        "Norman H. Christ",
+        "Erik Lundstrum"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.26336v1",
+      "link": "https://arxiv.org/abs/2606.26336v1",
+      "published": "2026-06-24T19:25:36Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3172961",
+        "inspire_url": "https://inspirehep.net/literature/3172961",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.22224v1",
       "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
@@ -91,31 +112,6 @@
       "inspire": {
         "control_number": "3169537",
         "inspire_url": "https://inspirehep.net/literature/3169537",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.16877v1",
-      "title": "Direct calculation of parton distributions in momentum space from lattice QCD",
-      "summary": "Coulomb-gauge quasi-parton distributions can be computed directly in momentum space on a finite lattice, enabled by the commutativity of their renormalization and Fourier transform. This approach removes the formal inverse problem in coordinate-space methods. Our momentum-space pion quasi-distributions agree with coordinate-space results Fourier transformed with asymptotic extrapolation, indicating that the formal inverse problem in the latter is not a concern at this volume. We further extend the framework to higher dimensions and obtain the first 3D image of the pion directly from lattice QCD.",
-      "authors": [
-        "Anthony V. Grebe",
-        "Daniel C. Hackett",
-        "Michael L. Wagman",
-        "Rui Zhang",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.16877v1",
-      "link": "https://arxiv.org/abs/2606.16877v1",
-      "published": "2026-06-15T15:51:14Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3168686",
-        "inspire_url": "https://inspirehep.net/literature/3168686",
         "citation_count": 0
       }
     }
