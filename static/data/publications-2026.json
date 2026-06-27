@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T07:39:56.330461+00:00Z",
-  "count": 105,
+  "generated": "2026-06-27T07:27:34.048091+00:00Z",
+  "count": 100,
   "publications": [
     {
       "id": "2606.26336v1",
@@ -186,28 +186,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.14642v2",
-      "title": "Zeros of the partition function for 12 flavor QCD",
-      "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
-      "authors": [
-        "Anas Saleh",
-        "Michael Hite",
-        "Diego Floor",
-        "Yannick Meurice"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.14642v2",
-      "link": "https://arxiv.org/abs/2606.14642v2",
-      "published": "2026-06-12T17:05:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168353",
-        "inspire_url": "https://inspirehep.net/literature/3168353",
         "citation_count": 0
       }
     },
@@ -1444,39 +1422,6 @@
       }
     },
     {
-      "id": "2603.18438v2",
-      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
-      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
-      "authors": [
-        "Callum Farrell",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.18438v2",
-      "link": "https://arxiv.org/abs/2603.18438v2",
-      "published": "2026-03-19T02:56:21Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3131487",
-        "inspire_url": "https://inspirehep.net/literature/3131487",
-        "doi": "10.1103/4rg4-sd18",
-        "publication_info": [
-          {
-            "journal_title": "Phys.Rev.D",
-            "journal_volume": "113",
-            "artid": "114521",
-            "year": 2026,
-            "journal_issue": "11"
-          }
-        ],
-        "citation_count": 1,
-        "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
-      }
-    },
-    {
       "id": "2603.17971v2",
       "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
       "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
@@ -1588,69 +1533,6 @@
           {}
         ],
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2603.12418v3",
-      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
-      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-76 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
-      "authors": [
-        "Jakob Hoffmann",
-        "Stefan Meinel"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12418v3",
-      "link": "https://arxiv.org/abs/2603.12418v3",
-      "published": "2026-03-12T19:59:18Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3129046",
-        "inspire_url": "https://inspirehep.net/literature/3129046",
-        "doi": "10.1103/j29k-6rx5",
-        "publication_info": [
-          {
-            "journal_title": "Phys.Rev.D",
-            "journal_volume": "113",
-            "artid": "114516",
-            "year": 2026,
-            "journal_issue": "11"
-          }
-        ],
-        "citation_count": 0,
-        "journal_ref": "Phys.Rev.D, 113, artid 114516, 2026"
-      }
-    },
-    {
-      "id": "2603.12391v1",
-      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
-      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
-      "authors": [
-        "Muhammad Asaduzzaman",
-        "Rayleigh W. Parker",
-        "Noah Goss",
-        "Ahmed I. Mohamed",
-        "Max Neiderbach",
-        "Zane Ozzello",
-        "Ravi K. Naik",
-        "Alexander F. Kemper",
-        "Irfan Siddiqi",
-        "Yannick Meurice",
-        "Machiel S. Blok"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12391v1",
-      "link": "https://arxiv.org/abs/2603.12391v1",
-      "published": "2026-03-12T19:10:16Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129090",
-        "inspire_url": "https://inspirehep.net/literature/3129090",
-        "citation_count": 1
       }
     },
     {
@@ -1853,6 +1735,27 @@
         "publication_info": [
           {}
         ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.01259v2",
+      "title": "$T_{cc}$ pole trajectory",
+      "summary": "We investigate the spectrum of doubly charmed tetraquark $T_{cc}$ with quantum number $I(J^P) = 0(1^+)$ using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at two lattice spacings. We have included diquark-antidiquark operator together with molecular and scattering operators in our analysis and varied both the heavy and light quark masses. We employ the anisotropic Clover action for heavy quarks, and $O(a)$-improved Wilson--Clover action for the light (up/down) quarks. In order to handle the non-analyticity near the Left Hand Cut we use modified Lüschers method when close to it.",
+      "authors": [
+        "Protick Mohanta",
+        "Srijit Paul",
+        "Subhasish Basak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.01259v2",
+      "link": "https://arxiv.org/abs/2603.01259v2",
+      "published": "2026-03-01T20:31:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124604",
+        "inspire_url": "https://inspirehep.net/literature/3124604",
         "citation_count": 0
       }
     },
@@ -2459,34 +2362,6 @@
       }
     },
     {
-      "id": "2601.21155v2",
-      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
-      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
-      "authors": [
-        "Oleksandr Tomalak",
-        "Aaron S. Meyer",
-        "Clarence Wret",
-        "Tejin Cai",
-        "Richard J. Hill",
-        "Kevin S. McFarland"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21155v2",
-      "link": "https://arxiv.org/abs/2601.21155v2",
-      "published": "2026-01-29T01:30:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3112889",
-        "inspire_url": "https://inspirehep.net/literature/3112889",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.17199v1",
       "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
       "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
@@ -2770,27 +2645,6 @@
       "inspire": {
         "control_number": "3097575",
         "inspire_url": "https://inspirehep.net/literature/3097575",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.02676v1",
-      "title": "The Nucleon Axial Form Factor from Averaging Lattice QCD Results",
-      "summary": "Flagship neutrino oscillation experiments depend on precise and accurate theoretical knowledge of neutrino-nucleon cross sections across a variety of energies and interaction mechanisms. Key ingredients to the amplitudes that make up these cross sections are parameterized form factors. The axial form factor describing a weak interaction with a nucleon is part of one of the primary neutrino-nucleon interaction mechanisms, quasielastic scattering, yet this form factor is uncertain and its precision is limited by the availability of data for a neutrino scattering with nucleons or small nuclear targets. Lattice Quantum Chromodynamics (LQCD) now offers another approach for obtaining mathematically rigorous constraints of the axial form factor from theoretical calculations with complete systematic error budgets. In this work, strategies for averaging LQCD results are explored, including both a random sampling of form factor values across momentum transfers as well as an averaging strategy based on analytic calculations of form factor derivatives. Fits to z expansion parameterizations are reported and compared against neutrino-hydrogen and neutrino-deuterium scattering data.",
-      "authors": [
-        "Aaron S. Meyer"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.02676v1",
-      "link": "https://arxiv.org/abs/2601.02676v1",
-      "published": "2026-01-06T03:21:59Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3098236",
-        "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
       }
     },
