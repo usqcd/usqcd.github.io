@@ -1,7 +1,106 @@
 {
-  "generated": "2026-06-28T07:46:31.080736+00:00Z",
-  "count": 106,
+  "generated": "2026-06-29T08:11:13.724635+00:00Z",
+  "count": 108,
   "publications": [
+    {
+      "id": "2606.28167v1",
+      "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
+      "summary": "Spectral densities link experimental measurements to dynamical properties of a quantum field theory which, in turn, can be resolved non-perturbatively from the Euclidean time-dependence of correlation functions. By making extensive use of integral transforms, we present analytic formulae to carry out the inverse Laplace transform so as to extract spectral densities from either the continuum or the discrete sampling of correlation functions in the Euclidean time. Formulae extend to regulated and/or smeared spectral densities as well. We explicitly show that the proposed lattice solution tends to its continuum counterpart up to $O(a^2)$ effects in the lattice spacing $a$ if the lattice correlator is $O(a)$-improved. In practical computations, lattices have necessarily a finite Euclidean temporal extent, a lack of knowledge which suggests to introduce incomplete integral transforms and the corresponding incomplete smeared spectral densities. The contribution from the unknowns to a smeared spectral density can then be rigorously bound and kept under control if the integral transform of the smearing function decays fast enough with the conjugate variable. Conversely, the bound can be used to plan lattices so as to achieve a given target precision on the reconstructed spectral density of interest. The formulae presented here in the context of lattice field theory can be easily applied or extended to other areas of research.",
+      "authors": [
+        "Leonardo Giusti",
+        "Matteo Saccardi",
+        "Diego Toniolo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28167v1",
+      "link": "https://arxiv.org/abs/2606.28167v1",
+      "published": "2026-06-26T15:01:16Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3174081",
+        "inspire_url": "https://inspirehep.net/literature/3174081",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.28102v1",
+      "title": "Mellin Moments of Pion and Kaon Unpolarized PDFs from Nonlocal Operators in Lattice QCD",
+      "summary": "We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on an $N_f=2+1+1$ ensemble of maximally twisted-mass fermions with a clover term, with lattice volume $32^3\\times64$, lattice spacing $a=0.0934$ fm, and pion mass $m_π=260$ MeV. Matrix elements are computed for hadron momenta $P_3=0$, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate the dependence of the extracted moments on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined fits in $(P_3,z)$ space at next-to-next-to-leading-order and are quoted at $μ=2$ GeV. We also study the SU(3) symmetry-breaking effect and reconstruct the valence PDFs from the moments.",
+      "authors": [
+        "Joshua Miller",
+        "Joseph Torsiello",
+        "Krzysztof Cichy",
+        "Martha Constantinou",
+        "Joseph Delmar"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28102v1",
+      "link": "https://arxiv.org/abs/2606.28102v1",
+      "published": "2026-06-26T13:59:12Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3174067",
+        "inspire_url": "https://inspirehep.net/literature/3174067",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.28086v1",
+      "title": "The QCD phase diagram for three-flavor Möbius domain-wall fermions",
+      "summary": "We investigate the phase transition of Quantum Chromodynamics (QCD) with three degenerate quark flavors at zero baryon chemical potential. Using Möbius domain-wall fermions as the lattice fermion formulation, we ensure excellent chiral symmetry preservation. Our simulations are performed at three different temporal lattice extents, $N_{t}=6, 8, 12$, with a fixed lattice spacing $a=0.1361(20)$ fm, corresponding to temperatures of 242(4), 181(3), and 121(2) MeV, respectively. We explore a range of quark masses and spatial volumes with aspect ratios $N_{s}/N_{t}$ spanning from 2 to 4. By analyzing the mass and volume dependencies of the plaquette, plaquette susceptibility, chiral condensate, chiral susceptibilities, and Binder cumulant, we identify the pseudocritical transition quark masses from our largest lattice volumes. For $N_t=6$, this is 184(10) MeV (determined from the plaquette susceptibility). For $N_t=8$ and 12, the transition points vary slightly depending on whether the total or disconnected chiral susceptibility is used, yielding ranges of 36(1)-39.1(9) MeV and 3.5(3)-3.7(2) MeV, respectively, in the $\\overline{\\text{MS}}$ scheme at a scale of $μ=2$ GeV. The negligible volume dependence at $N_t=6$ and 8, combined with finite-size scaling analysis at $N_t=12$ revealing volume growth significantly weaker than expected for a first- or second-order phase transition, points to a continuous crossover at these specific quark mass points. Additionally, we study the effects of residual chiral symmetry breaking on the chiral condensate and chiral susceptibilities using two different values of $L_s$.",
+      "authors": [
+        "Yu Zhang",
+        "Yasumichi Aoki",
+        "Jishnu Goswami",
+        "Shoji Hashimoto",
+        "Issaku Kanamori",
+        "Takashi Kaneko",
+        "Yoshifumi Nakamura"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28086v1",
+      "link": "https://arxiv.org/abs/2606.28086v1",
+      "published": "2026-06-26T13:49:31Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3174060",
+        "inspire_url": "https://inspirehep.net/literature/3174060",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.27481v1",
+      "title": "Sampling the Schwinger Model with Gauge-Equivariant Diffusion",
+      "summary": "We present a first study of a diffusion-based approach to accelerated sampling of the $N_f = 2$ lattice Schwinger model. Our work is inspired by recent and growing successes in developing such generative models for ensemble generation in LFT to overcome the well-known critical slowing down problem. We train a U(1)-equivariant score-based generative model to sample gauge link configurations from the marginal Schwinger model. By computing model likelihoods, we obtain unbiased estimates for observables that closely match those produced by MCMC simulations. We also demonstrate improvement over HMC as measured qualitatively by a reduction in topological freezing near critical parameters.",
+      "authors": [
+        "Octavio Vega",
+        "Aida X. El-Khadra"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.27481v1",
+      "link": "https://arxiv.org/abs/2606.27481v1",
+      "published": "2026-06-25T19:00:56Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "cs.LG"
+      ],
+      "inspire": {
+        "control_number": "3174058",
+        "inspire_url": "https://inspirehep.net/literature/3174058",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.26336v1",
       "title": "Isospin breaking corrections to a lattice QCD calculation of $\\varepsilon'$",
@@ -20,98 +119,6 @@
       "inspire": {
         "control_number": "3172961",
         "inspire_url": "https://inspirehep.net/literature/3172961",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.22224v1",
-      "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
-      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF in the physical limits is consistent with global fittings within $\\sim1σ$. This provides compelling evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
-      "authors": [
-        "Xiangdong Ji",
-        "Yushan Su"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.22224v1",
-      "link": "https://arxiv.org/abs/2606.22224v1",
-      "published": "2026-06-20T20:58:34Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3170827",
-        "inspire_url": "https://inspirehep.net/literature/3170827",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.20791v1",
-      "title": "Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom",
-      "summary": "We present a variational approach to quantum field theory based on wavefunctions parameterized by neural networks. While variational methods have a celebrated history across many fields, their application to quantum field theory has been limited by well-known challenges. We show that neural-network wavefunctions, combined with modern machine-learning techniques, enable competitive variational calculations in nontrivial field theories. As a demonstration, we reproduce the essential features of the two-dimensional nonlinear $σ$-model: asymptotic freedom, dynamical mass generation and the model's step-scaling function.",
-      "authors": [
-        "Paulo F. Bedaque",
-        "Hersh Kumar",
-        "Suryansh Rajawat",
-        "Gregory Ridgway"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.20791v1",
-      "link": "https://arxiv.org/abs/2606.20791v1",
-      "published": "2026-06-18T18:00:01Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3170820",
-        "inspire_url": "https://inspirehep.net/literature/3170820",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.19503v1",
-      "title": "Kernel transformations and bounds for smeared spectral functions",
-      "summary": "This work develops a framework for transforming between smeared spectral functions computed using different smearing kernels. The kernel-transformation problem naturally arises when information is available for one family of energy-smeared observables, while phenomenology or comparison with other calculations require a different smearing. For exact transformations, analytic conditions are established for the maps to exist and converge without arbitrary regularization. Explicit expressions are provided for several kernel classes of interest, including Cauchy-to-Gaussian transformations and Gaussian-to-Cauchy width mixtures. When exact transformations are unavailable, the inverse problem is tackled through regulated maps paired with bounds on the associated systematic error, directly computable from the given input data. Errors on the input smeared spectral functions, either statistical or in the form of pointwise rigorous bounds, are then propagated to the target observables. Enforcing spectral positivity can be used to tighten the bounds.",
-      "authors": [
-        "William I. Jay",
-        "Matteo Saccardi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.19503v1",
-      "link": "https://arxiv.org/abs/2606.19503v1",
-      "published": "2026-06-17T18:40:46Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3170330",
-        "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.19221v1",
-      "title": "The Collins-Soper kernel from a vacuum soft function",
-      "summary": "The Collins-Soper kernel is calculated from a vacuum soft function using space-like Wilson lines with complex-directional vectors on the Euclidean lattice. Our pure gauge calculations with this method achieve high statistical precision in computing the soft function, whose rapidity dependence is well described by Collins-Soper evolution across a wide range of rapidity differences. The extracted kernel contains errors comparable to those achieved in state-of-the-art lattice calculations based on hadronic observables, but exhibits saturated behavior at large transverse Wilson-line separations.",
-      "authors": [
-        "Anthony Francis",
-        "C. -J. David Lin",
-        "Wayne Morris",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.19221v1",
-      "link": "https://arxiv.org/abs/2606.19221v1",
-      "published": "2026-06-17T15:58:37Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3169537",
-        "inspire_url": "https://inspirehep.net/literature/3169537",
         "citation_count": 0
       }
     }
