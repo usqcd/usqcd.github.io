@@ -1,7 +1,94 @@
 {
-  "generated": "2026-06-29T08:11:13.724635+00:00Z",
-  "count": 108,
+  "generated": "2026-06-30T07:44:24.098932+00:00Z",
+  "count": 111,
   "publications": [
+    {
+      "id": "2606.30387v1",
+      "title": "Baryon Light-Cone Distribution Amplitudes from Lattice QCD: Formalism, Renormalization, Extrapolation, and Matching",
+      "summary": "Baryon light-cone distribution amplitudes (LCDAs) are inherently multidimensional objects parametrized by two independent longitudinal momentum fractions, making their first-principles determination substantially more challenging than that of meson LCDAs. We present a systematic large-momentum effective theory (LaMET) framework for determining baryon leading-twist LCDAs from lattice QCD. The framework covers the complete path from equal-time three-quark quasi-distribution amplitudes to physical baryon LCDAs. We formulate the leading-twist $V$, $A$, and $T$ quasi-DAs and analyze their spin-flavor and coordinate-space symmetries, including antisymmetric amplitudes with vanishing local limits. We develop a hybrid renormalization prescription on the $(z_1,z_2)$ plane, introduce a newly developed large-$λ$ extrapolation strategy based on the asymptotic large-distance behavior of Euclidean correlators, and derive the corresponding one-loop LaMET matching relation in the hybrid renormalization scheme. As a demonstration, we apply the complete analysis pipeline to the $Λ$-baryon $A$-structure quasi-DAs using seven $2+1$--flavor lattice ensembles, and use this amplitude to examine the impact of large-distance extrapolation, perturbative matching, and extrapolation to the continuum, physical-pion-mass, and infinite-momentum limits, together with the associated systematic uncertainties. This work provides the formalism, renormalization, extrapolation, and matching infrastructure for first-principles determinations of $x$-dependent baryon LCDAs.",
+      "authors": [
+        "Mu-Hua Zhang",
+        "Haoyang Bai",
+        "Min-Huan Chu",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Jian Liang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        "Wei Wang",
+        "Yi-Bo Yang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Qi-An Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.30387v1",
+      "link": "https://arxiv.org/abs/2606.30387v1",
+      "published": "2026-06-29T14:42:52Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3174420",
+        "inspire_url": "https://inspirehep.net/literature/3174420",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2606.29597v1",
+      "title": "Complete Access to Leading-Twist $Λ$-Baryon Light-Cone Distribution Amplitudes from Lattice QCD",
+      "summary": "We report the first complete lattice-QCD determination of the leading-twist light-cone distribution amplitudes (LCDAs) of the $Λ$ baryon, obtained as full two-dimensional functions of the valence-quark momentum fractions. The calculation employs large-momentum effective theory to relate the light-cone amplitudes to equal-time nonlocal three-quark matrix elements of boosted $Λ$ baryons. Controlled physical extrapolations to the continuum, physical pion mass, and infinite momentum, together with hybrid renormalization, large-$λ$ extrapolation, and perturbative matching, yield the three leading-twist LCDAs $V$, $A$, and $T$. Using the lattice-determined LCDAs in place of the asymptotic form, we find an $\\mathcal{O}(10\\%)$ shift in the $Λ$ electromagnetic form factor at perturbative scales, demonstrating that the full two-dimensional LCDAs, rather than only their asymptotic shapes or lowest moments, are required for precision baryonic phenomenology. This work, together with the companion paper [1] detailing the baryon-LaMET framework, provides the first complete multi-dimensional $x$-dependent baryon LCDAs from first principles and establishes a benchmark for lattice access to multi-dimensional baryon structure.",
+      "authors": [
+        "Mu-Hua Zhang",
+        "Haoyang Bai",
+        "Min-Huan Chu",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Xiangyu Jiang",
+        "Jian Liang",
+        "Cai-Dian Lü",
+        "Andreas Schäfer",
+        "Wei Wang",
+        "Yi-Bo Yang",
+        "Jian-Hui Zhang",
+        "Jia-Lu Zhang",
+        "Qi-An Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.29597v1",
+      "link": "https://arxiv.org/abs/2606.29597v1",
+      "published": "2026-06-28T20:44:23Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3174411",
+        "inspire_url": "https://inspirehep.net/literature/3174411",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2606.28543v1",
+      "title": "Highly improved staggered quarks on anisotropic lattices",
+      "summary": "We present a study of tuning of the anisotropic highly improved staggered quark (aHISQ) action on pure gauge ensembles with the renormalized anisotropy ranging from 1 to 8. We discuss multiple gradient flow schemes for tuning the gauge anisotropy and comment on what scheme may be optimal for anisotropic simulations. Next, we compare tuning of the fermion anisotropy for the naive staggered and aHISQ actions. Finally, we study the dependence of the staggered pion taste mass splittings on anisotropy for the two actions and develop an empirical model that captures the main features of the aHISQ spectrum. We observe qualitatively different behavior of the naive and aHISQ taste spectrum with anisotropy.",
+      "authors": [
+        "Alexei Bazavov",
+        "Yannis Trimis",
+        "Johannes Heinrich Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28543v1",
+      "link": "https://arxiv.org/abs/2606.28543v1",
+      "published": "2026-06-26T18:55:40Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3174406",
+        "inspire_url": "https://inspirehep.net/literature/3174406",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.28167v1",
       "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
@@ -48,77 +135,6 @@
       "inspire": {
         "control_number": "3174067",
         "inspire_url": "https://inspirehep.net/literature/3174067",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.28086v1",
-      "title": "The QCD phase diagram for three-flavor Möbius domain-wall fermions",
-      "summary": "We investigate the phase transition of Quantum Chromodynamics (QCD) with three degenerate quark flavors at zero baryon chemical potential. Using Möbius domain-wall fermions as the lattice fermion formulation, we ensure excellent chiral symmetry preservation. Our simulations are performed at three different temporal lattice extents, $N_{t}=6, 8, 12$, with a fixed lattice spacing $a=0.1361(20)$ fm, corresponding to temperatures of 242(4), 181(3), and 121(2) MeV, respectively. We explore a range of quark masses and spatial volumes with aspect ratios $N_{s}/N_{t}$ spanning from 2 to 4. By analyzing the mass and volume dependencies of the plaquette, plaquette susceptibility, chiral condensate, chiral susceptibilities, and Binder cumulant, we identify the pseudocritical transition quark masses from our largest lattice volumes. For $N_t=6$, this is 184(10) MeV (determined from the plaquette susceptibility). For $N_t=8$ and 12, the transition points vary slightly depending on whether the total or disconnected chiral susceptibility is used, yielding ranges of 36(1)-39.1(9) MeV and 3.5(3)-3.7(2) MeV, respectively, in the $\\overline{\\text{MS}}$ scheme at a scale of $μ=2$ GeV. The negligible volume dependence at $N_t=6$ and 8, combined with finite-size scaling analysis at $N_t=12$ revealing volume growth significantly weaker than expected for a first- or second-order phase transition, points to a continuous crossover at these specific quark mass points. Additionally, we study the effects of residual chiral symmetry breaking on the chiral condensate and chiral susceptibilities using two different values of $L_s$.",
-      "authors": [
-        "Yu Zhang",
-        "Yasumichi Aoki",
-        "Jishnu Goswami",
-        "Shoji Hashimoto",
-        "Issaku Kanamori",
-        "Takashi Kaneko",
-        "Yoshifumi Nakamura"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.28086v1",
-      "link": "https://arxiv.org/abs/2606.28086v1",
-      "published": "2026-06-26T13:49:31Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3174060",
-        "inspire_url": "https://inspirehep.net/literature/3174060",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.27481v1",
-      "title": "Sampling the Schwinger Model with Gauge-Equivariant Diffusion",
-      "summary": "We present a first study of a diffusion-based approach to accelerated sampling of the $N_f = 2$ lattice Schwinger model. Our work is inspired by recent and growing successes in developing such generative models for ensemble generation in LFT to overcome the well-known critical slowing down problem. We train a U(1)-equivariant score-based generative model to sample gauge link configurations from the marginal Schwinger model. By computing model likelihoods, we obtain unbiased estimates for observables that closely match those produced by MCMC simulations. We also demonstrate improvement over HMC as measured qualitatively by a reduction in topological freezing near critical parameters.",
-      "authors": [
-        "Octavio Vega",
-        "Aida X. El-Khadra"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.27481v1",
-      "link": "https://arxiv.org/abs/2606.27481v1",
-      "published": "2026-06-25T19:00:56Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "cs.LG"
-      ],
-      "inspire": {
-        "control_number": "3174058",
-        "inspire_url": "https://inspirehep.net/literature/3174058",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.26336v1",
-      "title": "Isospin breaking corrections to a lattice QCD calculation of $\\varepsilon'$",
-      "summary": "Because of the $ΔI = 1/2$ rule, the effects of electromagnetism and the isospin-breaking light quark mass difference on the direct CP violation parameter $\\varepsilon'$ may be as large as 25\\% and are consequently of immediate interest. In a lattice QCD calculation the effects of isospin breaking on the various features of kaon decay can be clearly distinguished and those effects enhanced by the $ΔI=1/2$ rule on $\\varepsilon'$ explicitly identified. We show that all such enhanced effects can be captured in a QCD + QED lattice calculation in which the exchanged photon has an energy in an accessible, intermediate range between 0.5-2.0 GeV. Short-distance effects ($2.0 \\mathrm{\\ GeV} \\lesssim E_γ$), usually treated in QCD and electroweak perturbation theory, are not enhanced by the $ΔI=1/2$ rule, beyond the well-understood contribution of the two electroweak penguin operators. Infrared photons do not contribute to $\\varepsilon'$ while low-energy photons ($E_γ\\lesssim 0.5$ GeV) are not $ΔI=1/2$ rule enhanced or are suppressed by one order in chiral perturbation theory (ChPT). An explicit ChPT estimate of this low-energy-photon contribution, a contribution that is difficult to determine in a finite-volume lattice calculation, suggests that the effect on $\\varepsilon'$ is on the order of 0.5\\%.",
-      "authors": [
-        "Norman H. Christ",
-        "Erik Lundstrum"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.26336v1",
-      "link": "https://arxiv.org/abs/2606.26336v1",
-      "published": "2026-06-24T19:25:36Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3172961",
-        "inspire_url": "https://inspirehep.net/literature/3172961",
         "citation_count": 0
       }
     }
