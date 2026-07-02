@@ -1,7 +1,54 @@
 {
-  "generated": "2026-07-01T07:56:35.075045+00:00Z",
-  "count": 111,
+  "generated": "2026-07-02T07:30:08.196977+00:00Z",
+  "count": 115,
   "publications": [
+    {
+      "id": "2607.00564v1",
+      "title": "Isospin-breaking effects in inclusive hadronic $τ$ data for the muon $(g-2)$ from first principles",
+      "summary": "The knowledge of isospin-breaking effects in hadronic $τ$ decays is required for a high-precision determination of the Hadronic-Vacuum-Polarization contribution to $(g-2)_μ$ from experimental $τ$ data. In this work we present a strategy for their calculation in a fully inclusive setup from first-principles Lattice QCD+QED simulations. We separate radiative corrections in three infrared safe classes, which we study individually. We provide analytic expressions for their effects in the initial state and propose a strategy for final-state corrections directly in Euclidean space. We also examine the non-factorizable contributions and highlight the challenges associated with their analytic continuation from Euclidean to Minkowski space. By studying short-distance corrections in the context of momentum schemes, we provide a prescription for the renormalization of the individual terms at first order in the ispospin-breaking parameters.",
+      "authors": [
+        "Mattia Bruno",
+        "Taku Izubuchi",
+        "Christoph Lehner",
+        "Aaron S. Meyer",
+        "Julian Parrino",
+        "Xin-Yu Tuo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.00564v1",
+      "link": "https://arxiv.org/abs/2607.00564v1",
+      "published": "2026-07-01T07:51:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3176196",
+        "inspire_url": "https://inspirehep.net/literature/3176196",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.00493v1",
+      "title": "Gradient Flow Renormalization Schemes for Composite Fermion Operators",
+      "summary": "We introduce gradient flow (GF) normalization prescriptions for fermionic composite operators in which the flowed fermion wavefunction renormalization factor is fixed nonperturbatively using either the partially conserved axial charge or the conserved vector current. The resulting $A$ and $V$ schemes are defined through standard flowed two-point correlation functions and therefore avoid the backward-flow construction required by local ringed-scheme definitions. In the short-flow-time limit, the $A$ and $V$ schemes can be matched to $\\overline{\\mathrm{MS}}$ using known ringed-scheme short-flow-time expansion (SFTX) coefficients. We show how these schemes can be implemented through ratios of two-point correlation functions, leading to simple nonperturbative determinations of renormalization factors, anomalous dimensions, and evolution factors which connect lattice-accessible flow times to shorter flow times where perturbative matching is reliable. We illustrate the method with RBC-UKQCD domain-wall fermion ensembles, including a GF determination of the ratio of matching factors $Z_V/Z_A$, and a new GF determination of the renormalized strange quark mass.",
+      "authors": [
+        "Matthew Black",
+        "Anna Hasenfratz",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.00493v1",
+      "link": "https://arxiv.org/abs/2607.00493v1",
+      "published": "2026-07-01T06:20:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3176174",
+        "inspire_url": "https://inspirehep.net/literature/3176174",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.30387v1",
       "title": "Baryon Light-Cone Distribution Amplitudes from Lattice QCD: Formalism, Renormalization, Extrapolation, and Matching",
@@ -109,7 +156,7 @@
       "inspire": {
         "control_number": "3174081",
         "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -232,7 +279,7 @@
       }
     },
     {
-      "id": "2606.20791v1",
+      "id": "2606.20791v2",
       "title": "Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom",
       "summary": "We present a variational approach to quantum field theory based on wavefunctions parameterized by neural networks. While variational methods have a celebrated history across many fields, their application to quantum field theory has been limited by well-known challenges. We show that neural-network wavefunctions, combined with modern machine-learning techniques, enable competitive variational calculations in nontrivial field theories. As a demonstration, we reproduce the essential features of the two-dimensional nonlinear $σ$-model: asymptotic freedom, dynamical mass generation and the model's step-scaling function.",
       "authors": [
@@ -241,8 +288,8 @@
         "Suryansh Rajawat",
         "Gregory Ridgway"
       ],
-      "pdf": "https://arxiv.org/pdf/2606.20791v1",
-      "link": "https://arxiv.org/abs/2606.20791v1",
+      "pdf": "https://arxiv.org/pdf/2606.20791v2",
+      "link": "https://arxiv.org/abs/2606.20791v2",
       "published": "2026-06-18T18:00:01Z",
       "categories": [
         "hep-lat",
@@ -274,7 +321,7 @@
       "inspire": {
         "control_number": "3170330",
         "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -376,7 +423,7 @@
       }
     },
     {
-      "id": "2606.14642v2",
+      "id": "2606.14642v3",
       "title": "Zeros of the partition function for 12 flavor QCD",
       "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
       "authors": [
@@ -385,8 +432,8 @@
         "Diego Floor",
         "Yannick Meurice"
       ],
-      "pdf": "https://arxiv.org/pdf/2606.14642v2",
-      "link": "https://arxiv.org/abs/2606.14642v2",
+      "pdf": "https://arxiv.org/pdf/2606.14642v3",
+      "link": "https://arxiv.org/abs/2606.14642v3",
       "published": "2026-06-12T17:05:55Z",
       "categories": [
         "hep-lat"
@@ -571,7 +618,7 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -596,7 +643,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -677,6 +724,30 @@
       }
     },
     {
+      "id": "2605.07262v1",
+      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
+      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
+      "authors": [
+        "Reinhold Kaiser",
+        "Frithjof Karsch",
+        "Jan Philipp Klinger",
+        "Owe Philipsen",
+        "Christian Schmidt",
+        "Simran Singh"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.07262v1",
+      "link": "https://arxiv.org/abs/2605.07262v1",
+      "published": "2026-05-08T05:27:26Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3153498",
+        "inspire_url": "https://inspirehep.net/literature/3153498",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2605.06560v1",
       "title": "$F_K/F_π$ as a precision test of a new four flavor Domain Wall Fermion action",
       "summary": "We present a new set of lattice QCD ensembles with four flavors of smeared Möbius Domain Wall Fermions with good chiral symmetry and small fifth-dimensional extent. A modest amount of computing resources was sufficient to generate 30 publicly-available ensembles spanning five lattice spacings and a broad range of pion masses down to physical. To scrutinize our action we determine $F_{K^{\\pm}}/F_{π^{\\pm}} = 1.1962(34)$, a key quantity for precision CKM unitarity tests, heralding a future of inexpensive high-precision calculations of hadronic observables with chiral fermions.",
@@ -729,7 +800,7 @@
       "inspire": {
         "control_number": "3152352",
         "inspire_url": "https://inspirehep.net/literature/3152352",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1319,7 +1390,7 @@
       "inspire": {
         "control_number": "3137111",
         "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1346,7 +1417,7 @@
       "inspire": {
         "control_number": "3137099",
         "inspire_url": "https://inspirehep.net/literature/3137099",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2199,6 +2270,31 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.23118v2",
+      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
+      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
+      "authors": [
+        "Sabarnya Mitra",
+        "Jishnu Goswami",
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.23118v2",
+      "link": "https://arxiv.org/abs/2602.23118v2",
+      "published": "2026-02-26T15:32:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123855",
+        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
