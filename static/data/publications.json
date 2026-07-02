@@ -1,7 +1,54 @@
 {
-  "generated": "2026-07-01T07:56:35.135559+00:00Z",
-  "count": 111,
+  "generated": "2026-07-02T07:30:08.257589+00:00Z",
+  "count": 115,
   "publications": [
+    {
+      "id": "2607.00564v1",
+      "title": "Isospin-breaking effects in inclusive hadronic $τ$ data for the muon $(g-2)$ from first principles",
+      "summary": "The knowledge of isospin-breaking effects in hadronic $τ$ decays is required for a high-precision determination of the Hadronic-Vacuum-Polarization contribution to $(g-2)_μ$ from experimental $τ$ data. In this work we present a strategy for their calculation in a fully inclusive setup from first-principles Lattice QCD+QED simulations. We separate radiative corrections in three infrared safe classes, which we study individually. We provide analytic expressions for their effects in the initial state and propose a strategy for final-state corrections directly in Euclidean space. We also examine the non-factorizable contributions and highlight the challenges associated with their analytic continuation from Euclidean to Minkowski space. By studying short-distance corrections in the context of momentum schemes, we provide a prescription for the renormalization of the individual terms at first order in the ispospin-breaking parameters.",
+      "authors": [
+        "Mattia Bruno",
+        "Taku Izubuchi",
+        "Christoph Lehner",
+        "Aaron S. Meyer",
+        "Julian Parrino",
+        "Xin-Yu Tuo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.00564v1",
+      "link": "https://arxiv.org/abs/2607.00564v1",
+      "published": "2026-07-01T07:51:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3176196",
+        "inspire_url": "https://inspirehep.net/literature/3176196",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.00493v1",
+      "title": "Gradient Flow Renormalization Schemes for Composite Fermion Operators",
+      "summary": "We introduce gradient flow (GF) normalization prescriptions for fermionic composite operators in which the flowed fermion wavefunction renormalization factor is fixed nonperturbatively using either the partially conserved axial charge or the conserved vector current. The resulting $A$ and $V$ schemes are defined through standard flowed two-point correlation functions and therefore avoid the backward-flow construction required by local ringed-scheme definitions. In the short-flow-time limit, the $A$ and $V$ schemes can be matched to $\\overline{\\mathrm{MS}}$ using known ringed-scheme short-flow-time expansion (SFTX) coefficients. We show how these schemes can be implemented through ratios of two-point correlation functions, leading to simple nonperturbative determinations of renormalization factors, anomalous dimensions, and evolution factors which connect lattice-accessible flow times to shorter flow times where perturbative matching is reliable. We illustrate the method with RBC-UKQCD domain-wall fermion ensembles, including a GF determination of the ratio of matching factors $Z_V/Z_A$, and a new GF determination of the renormalized strange quark mass.",
+      "authors": [
+        "Matthew Black",
+        "Anna Hasenfratz",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.00493v1",
+      "link": "https://arxiv.org/abs/2607.00493v1",
+      "published": "2026-07-01T06:20:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3176174",
+        "inspire_url": "https://inspirehep.net/literature/3176174",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2606.30387v1",
       "title": "Baryon Light-Cone Distribution Amplitudes from Lattice QCD: Formalism, Renormalization, Extrapolation, and Matching",
@@ -86,55 +133,6 @@
       "inspire": {
         "control_number": "3174406",
         "inspire_url": "https://inspirehep.net/literature/3174406",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.28167v1",
-      "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
-      "summary": "Spectral densities link experimental measurements to dynamical properties of a quantum field theory which, in turn, can be resolved non-perturbatively from the Euclidean time-dependence of correlation functions. By making extensive use of integral transforms, we present analytic formulae to carry out the inverse Laplace transform so as to extract spectral densities from either the continuum or the discrete sampling of correlation functions in the Euclidean time. Formulae extend to regulated and/or smeared spectral densities as well. We explicitly show that the proposed lattice solution tends to its continuum counterpart up to $O(a^2)$ effects in the lattice spacing $a$ if the lattice correlator is $O(a)$-improved. In practical computations, lattices have necessarily a finite Euclidean temporal extent, a lack of knowledge which suggests to introduce incomplete integral transforms and the corresponding incomplete smeared spectral densities. The contribution from the unknowns to a smeared spectral density can then be rigorously bound and kept under control if the integral transform of the smearing function decays fast enough with the conjugate variable. Conversely, the bound can be used to plan lattices so as to achieve a given target precision on the reconstructed spectral density of interest. The formulae presented here in the context of lattice field theory can be easily applied or extended to other areas of research.",
-      "authors": [
-        "Leonardo Giusti",
-        "Matteo Saccardi",
-        "Diego Toniolo"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.28167v1",
-      "link": "https://arxiv.org/abs/2606.28167v1",
-      "published": "2026-06-26T15:01:16Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3174081",
-        "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.28102v1",
-      "title": "Mellin Moments of Pion and Kaon Unpolarized PDFs from Nonlocal Operators in Lattice QCD",
-      "summary": "We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on an $N_f=2+1+1$ ensemble of maximally twisted-mass fermions with a clover term, with lattice volume $32^3\\times64$, lattice spacing $a=0.0934$ fm, and pion mass $m_π=260$ MeV. Matrix elements are computed for hadron momenta $P_3=0$, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate the dependence of the extracted moments on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined fits in $(P_3,z)$ space at next-to-next-to-leading-order and are quoted at $μ=2$ GeV. We also study the SU(3) symmetry-breaking effect and reconstruct the valence PDFs from the moments.",
-      "authors": [
-        "Joshua Miller",
-        "Joseph Torsiello",
-        "Krzysztof Cichy",
-        "Martha Constantinou",
-        "Joseph Delmar"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.28102v1",
-      "link": "https://arxiv.org/abs/2606.28102v1",
-      "published": "2026-06-26T13:59:12Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3174067",
-        "inspire_url": "https://inspirehep.net/literature/3174067",
         "citation_count": 0
       }
     }
