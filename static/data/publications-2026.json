@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-06T10:37:51.506769+00:00Z",
-  "count": 115,
+  "generated": "2026-07-07T09:56:13.963056+00:00Z",
+  "count": 116,
   "publications": [
+    {
+      "id": "2607.03458v1",
+      "title": "The nucleon unpolarized generalized form factors and Mellin moments up to fourth order",
+      "summary": "Nucleon Mellin moments of parton distribution are computed up to the fourth order in lattice QCD. The computation is performed using one ensemble of twisted mass fermions at the physical pion mass point. We employ boosted frames to access the higher-order Mellin moments of generalized parton distributions. We also extract the forward-limit Mellin moments $\\langle x^{n-1}\\rangle$ for $n=2,3,4$. These Mellin moments are used to construct unpolarized parton distribution functions and compare to phenomenological extractions.",
+      "authors": [
+        "Constantia Alexandrou",
+        "Simone Bacchio",
+        "Martha Constantinou",
+        "Christian Kummer",
+        "Yan Li",
+        "Gregoris Spanoudes"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.03458v1",
+      "link": "https://arxiv.org/abs/2607.03458v1",
+      "published": "2026-07-03T16:15:42Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3177387",
+        "inspire_url": "https://inspirehep.net/literature/3177387",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.00564v1",
       "title": "Isospin-breaking effects in inclusive hadronic $τ$ data for the muon $(g-2)$ from first principles",
@@ -156,7 +180,7 @@
       "inspire": {
         "control_number": "3174081",
         "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -232,6 +256,10 @@
       "inspire": {
         "control_number": "3174058",
         "inspire_url": "https://inspirehep.net/literature/3174058",
+        "doi": "10.5281/zenodo.21007460",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -321,7 +349,7 @@
       "inspire": {
         "control_number": "3170330",
         "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -618,7 +646,7 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -852,7 +880,7 @@
       "inspire": {
         "control_number": "3151097",
         "inspire_url": "https://inspirehep.net/literature/3151097",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1913,14 +1941,16 @@
       }
     },
     {
-      "id": "2603.03835v1",
+      "id": "2603.03835v2",
       "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
       "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
       "authors": [
         "Finn M. Stokes",
+        "Alessandro Cotellucci",
         "Michel Davier",
         "Zoltan Fodor",
         "Fabian Frech",
+        "Davide Giusti",
         "Andrey Yu. Kotov",
         "Laurent Lellouch",
         "Bogdan Malaescu",
@@ -1930,8 +1960,8 @@
         "Gen Wang",
         "Zhiqing Zhang"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.03835v1",
-      "link": "https://arxiv.org/abs/2603.03835v1",
+      "pdf": "https://arxiv.org/pdf/2603.03835v2",
+      "link": "https://arxiv.org/abs/2603.03835v2",
       "published": "2026-03-04T08:35:32Z",
       "categories": [
         "hep-lat",
