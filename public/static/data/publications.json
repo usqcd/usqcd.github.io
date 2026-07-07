@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-06T10:37:51.569250+00:00Z",
-  "count": 115,
+  "generated": "2026-07-07T09:56:14.023878+00:00Z",
+  "count": 116,
   "publications": [
+    {
+      "id": "2607.03458v1",
+      "title": "The nucleon unpolarized generalized form factors and Mellin moments up to fourth order",
+      "summary": "Nucleon Mellin moments of parton distribution are computed up to the fourth order in lattice QCD. The computation is performed using one ensemble of twisted mass fermions at the physical pion mass point. We employ boosted frames to access the higher-order Mellin moments of generalized parton distributions. We also extract the forward-limit Mellin moments $\\langle x^{n-1}\\rangle$ for $n=2,3,4$. These Mellin moments are used to construct unpolarized parton distribution functions and compare to phenomenological extractions.",
+      "authors": [
+        "Constantia Alexandrou",
+        "Simone Bacchio",
+        "Martha Constantinou",
+        "Christian Kummer",
+        "Yan Li",
+        "Gregoris Spanoudes"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.03458v1",
+      "link": "https://arxiv.org/abs/2607.03458v1",
+      "published": "2026-07-03T16:15:42Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3177387",
+        "inspire_url": "https://inspirehep.net/literature/3177387",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.00564v1",
       "title": "Isospin-breaking effects in inclusive hadronic $τ$ data for the muon $(g-2)$ from first principles",
@@ -113,27 +137,6 @@
         "control_number": "3174411",
         "inspire_url": "https://inspirehep.net/literature/3174411",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2606.28543v1",
-      "title": "Highly improved staggered quarks on anisotropic lattices",
-      "summary": "We present a study of tuning of the anisotropic highly improved staggered quark (aHISQ) action on pure gauge ensembles with the renormalized anisotropy ranging from 1 to 8. We discuss multiple gradient flow schemes for tuning the gauge anisotropy and comment on what scheme may be optimal for anisotropic simulations. Next, we compare tuning of the fermion anisotropy for the naive staggered and aHISQ actions. Finally, we study the dependence of the staggered pion taste mass splittings on anisotropy for the two actions and develop an empirical model that captures the main features of the aHISQ spectrum. We observe qualitatively different behavior of the naive and aHISQ taste spectrum with anisotropy.",
-      "authors": [
-        "Alexei Bazavov",
-        "Yannis Trimis",
-        "Johannes Heinrich Weber"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.28543v1",
-      "link": "https://arxiv.org/abs/2606.28543v1",
-      "published": "2026-06-26T18:55:40Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3174406",
-        "inspire_url": "https://inspirehep.net/literature/3174406",
-        "citation_count": 0
       }
     }
   ]
