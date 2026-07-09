@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-08T08:50:37.558527+00:00Z",
-  "count": 114,
+  "generated": "2026-07-09T10:01:25.625505+00:00Z",
+  "count": 115,
   "publications": [
+    {
+      "id": "2607.07176v1",
+      "title": "The large-$N$ Yang--Mills $Λ$-parameter from step scaling",
+      "summary": "We use the step-scaling method and results obtained at $N = 3, 5$ and $8$ to determine the $N$-dependence of the dynamically generated scale $Λ$ of $\\mathrm{SU}(N)$ Yang--Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-$N$ volume independence, and on a coupling defined through the gradient flow. In the $\\overline{\\mathrm{MS}}$ scheme, we obtain the following values in terms of the gradient flow scale $t_0$: $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}} = 0.577(23)$, $0.632(32)$, and $0.611(43)$ for $N=3,5$ and $8$, respectively. They extrapolate to a large-$N$ value of: $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}} (N=\\infty) = 0.639(36)$, and the $N$-dependence is given by $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}}(N)=0.639(36)[1-0.85(62)/N^2+\\mathcal{O}(1/N^4)]$. This work represents the first calculation of the Yang--Mills $Λ$-parameter in the large-$N$ limit that does not rely on asymptotic scaling strategies.",
+      "authors": [
+        "Claudio Bonanno",
+        "Jorge Luis Dasilva Golán",
+        "Margarita García Pérez",
+        "Andrea Giorgieri"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.07176v1",
+      "link": "https://arxiv.org/abs/2607.07176v1",
+      "published": "2026-07-08T09:11:10Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3178391",
+        "inspire_url": "https://inspirehep.net/literature/3178391",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.03458v1",
       "title": "The nucleon unpolarized generalized form factors and Mellin moments up to fourth order",
@@ -103,39 +125,6 @@
       "inspire": {
         "control_number": "3174420",
         "inspire_url": "https://inspirehep.net/literature/3174420",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2606.29597v1",
-      "title": "Complete Access to Leading-Twist $Λ$-Baryon Light-Cone Distribution Amplitudes from Lattice QCD",
-      "summary": "We report the first complete lattice-QCD determination of the leading-twist light-cone distribution amplitudes (LCDAs) of the $Λ$ baryon, obtained as full two-dimensional functions of the valence-quark momentum fractions. The calculation employs large-momentum effective theory to relate the light-cone amplitudes to equal-time nonlocal three-quark matrix elements of boosted $Λ$ baryons. Controlled physical extrapolations to the continuum, physical pion mass, and infinite momentum, together with hybrid renormalization, large-$λ$ extrapolation, and perturbative matching, yield the three leading-twist LCDAs $V$, $A$, and $T$. Using the lattice-determined LCDAs in place of the asymptotic form, we find an $\\mathcal{O}(10\\%)$ shift in the $Λ$ electromagnetic form factor at perturbative scales, demonstrating that the full two-dimensional LCDAs, rather than only their asymptotic shapes or lowest moments, are required for precision baryonic phenomenology. This work, together with the companion paper [1] detailing the baryon-LaMET framework, provides the first complete multi-dimensional $x$-dependent baryon LCDAs from first principles and establishes a benchmark for lattice access to multi-dimensional baryon structure.",
-      "authors": [
-        "Mu-Hua Zhang",
-        "Haoyang Bai",
-        "Min-Huan Chu",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Jian Liang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        "Wei Wang",
-        "Yi-Bo Yang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Qi-An Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.29597v1",
-      "link": "https://arxiv.org/abs/2606.29597v1",
-      "published": "2026-06-28T20:44:23Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3174411",
-        "inspire_url": "https://inspirehep.net/literature/3174411",
         "citation_count": 1
       }
     }
