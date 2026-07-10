@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T10:01:25.554356+00:00Z",
-  "count": 115,
+  "generated": "2026-07-10T09:50:11.471528+00:00Z",
+  "count": 117,
   "publications": [
     {
       "id": "2607.07176v1",
@@ -180,6 +180,29 @@
         "control_number": "3174406",
         "inspire_url": "https://inspirehep.net/literature/3174406",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2606.28167v1",
+      "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
+      "summary": "Spectral densities link experimental measurements to dynamical properties of a quantum field theory which, in turn, can be resolved non-perturbatively from the Euclidean time-dependence of correlation functions. By making extensive use of integral transforms, we present analytic formulae to carry out the inverse Laplace transform so as to extract spectral densities from either the continuum or the discrete sampling of correlation functions in the Euclidean time. Formulae extend to regulated and/or smeared spectral densities as well. We explicitly show that the proposed lattice solution tends to its continuum counterpart up to $O(a^2)$ effects in the lattice spacing $a$ if the lattice correlator is $O(a)$-improved. In practical computations, lattices have necessarily a finite Euclidean temporal extent, a lack of knowledge which suggests to introduce incomplete integral transforms and the corresponding incomplete smeared spectral densities. The contribution from the unknowns to a smeared spectral density can then be rigorously bound and kept under control if the integral transform of the smearing function decays fast enough with the conjugate variable. Conversely, the bound can be used to plan lattices so as to achieve a given target precision on the reconstructed spectral density of interest. The formulae presented here in the context of lattice field theory can be easily applied or extended to other areas of research.",
+      "authors": [
+        "Leonardo Giusti",
+        "Matteo Saccardi",
+        "Diego Toniolo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28167v1",
+      "link": "https://arxiv.org/abs/2606.28167v1",
+      "published": "2026-06-26T15:01:16Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3174081",
+        "inspire_url": "https://inspirehep.net/literature/3174081",
+        "citation_count": 2
       }
     },
     {
@@ -594,6 +617,32 @@
       "inspire": {
         "control_number": "3162360",
         "inspire_url": "https://inspirehep.net/literature/3162360",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2605.22957v1",
+      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
+      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
+      "authors": [
+        "Arkaitz Rodas",
+        "Lin Qiu",
+        "César Fernández-Ramírez",
+        "Vincent Mathieu",
+        "Glòria Montaña",
+        "Alessandro Pilloni",
+        "Adam P. Szczepaniak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.22957v1",
+      "link": "https://arxiv.org/abs/2605.22957v1",
+      "published": "2026-05-21T18:43:53Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3158986",
+        "inspire_url": "https://inspirehep.net/literature/3158986",
         "citation_count": 0
       }
     },
@@ -1268,7 +1317,7 @@
       }
     },
     {
-      "id": "2604.00143v1",
+      "id": "2604.00143v2",
       "title": "Proton isovector helicity PDF at NNLO and the twist-3 moment $\\tilde{d}_2$ from lattice QCD at physical quark masses",
       "summary": "We present a lattice quantum chromodynamics calculation of the $x$-dependent isovector quark helicity parton distribution function (PDF) of the proton in the large momentum effective theory (LaMET) framework. Through operator product expansion (OPE) we also extract the $\\tilde{d}_2$ moment of the twist-3 PDF $g_T(x)$ for the first time in the $\\overline{\\rm MS}$ scheme, which is proportional to the average color Lorentz force experienced by the quark in the proton. This calculation is performed on a lattice of spacing $a$ = 0.076 fm at physical quark masses. The quasi-PDF matrix elements are measured in proton states boosted to momenta $P_z=\\{0, 0.25, 1.02, 1.53\\}$ GeV. We first extract the lowest few helicity PDF moments from the renormalization-group (RG) invariant ratios of the matrix elements with OPE. Combined with the matrix elements relevant for $g_T(x)$, we obtain $\\tilde{d}_2^{u-d}(2\\ {\\rm GeV})=0.0024(46)$ at next-to-leading order in $\\overline{\\rm MS}$. Then, the helicity quasi-PDF matrix elements are renormalized in the hybrid scheme with linear renormalon resummation and Fourier transformed to the $x$-space after an asymptotic extrapolation. The quasi-PDF is perturbatively matched to the $\\overline{\\rm MS}$ PDF with RG and threshold resummations at next-to-leading power and next-to-next-to-leading logarithmic accuracies. After resummations, we determine the PDF in the region $x\\in[0.25,0.75]$ with controlled systematic uncertainties. The end-point regions are then parameterized, combined with the LaMET prediction at moderate $x$, and fitted to the short-distance matrix elements in coordinate space.",
       "authors": [
@@ -1281,8 +1330,8 @@
         "Rui Zhang",
         "Yong Zhao"
       ],
-      "pdf": "https://arxiv.org/pdf/2604.00143v1",
-      "link": "https://arxiv.org/abs/2604.00143v1",
+      "pdf": "https://arxiv.org/pdf/2604.00143v2",
+      "link": "https://arxiv.org/abs/2604.00143v2",
       "published": "2026-03-31T18:50:59Z",
       "categories": [
         "hep-lat",
@@ -1298,13 +1347,14 @@
           {
             "journal_title": "Phys.Rev.D",
             "journal_volume": "114",
+            "page_start": "1",
             "artid": "014505",
             "year": 2026,
             "journal_issue": "1"
           }
         ],
         "citation_count": 2,
-        "journal_ref": "Phys.Rev.D, 114, artid 014505, 2026"
+        "journal_ref": "Phys.Rev.D, 114, artid 014505, p. 1, 2026"
       }
     },
     {
