@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T09:50:11.471528+00:00Z",
-  "count": 117,
+  "generated": "2026-07-11T08:12:44.241251+00:00Z",
+  "count": 116,
   "publications": [
     {
       "id": "2607.07176v1",
@@ -445,30 +445,6 @@
       "inspire": {
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.15564v1",
-      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
-      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
-      "authors": [
-        "Vishal Rao",
-        "Peter Petreczky",
-        "Prasad Hegde"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.15564v1",
-      "link": "https://arxiv.org/abs/2606.15564v1",
-      "published": "2026-06-14T02:59:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168685",
-        "inspire_url": "https://inspirehep.net/literature/3168685",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     },
