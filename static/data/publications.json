@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-12T08:37:31.120727+00:00Z",
-  "count": 114,
+  "generated": "2026-07-13T09:44:53.003812+00:00Z",
+  "count": 118,
   "publications": [
+    {
+      "id": "2607.08817v1",
+      "title": "Renormalon subtracted nonrelativistic QCD for heavy hadron systems",
+      "summary": "We present a renormalon-subtracted formulation of potential nonrelativistic QCD (pNRQCD) for precision spectroscopy of heavy hadron systems, combining variational and Green's function Monte Carlo (VMC/GFMC) methods with NNLO static two- and three-body potentials. Minimal renormalon subtraction (MRS) systematically sums leading factorially growing terms, thereby stabilizing perturbative convergence and reducing renormalization-scale dependence. We tune charm and bottom quark masses to spin-averaged $1S$ quarkonium states and predict $Ω_{ccc}$, $Ω_{ccb}$, $Ω_{cbb}$, and $Ω_{bbb}$ baryon masses, as well as QCD-stable baryons containing top quarks. NNLO MRS results undershoot lattice QCD by 125--175~MeV, with fractional differences decreasing as $\\sim 1/m_Q$, consistent with neglected $\\mathcal{O}(1/m_Q)$ corrections. Applying these methods to unequal-mass fully-heavy tetraquarks, we determine the critical heavy-to-light mass ratio for binding and compute binding energies across the mass-ratio landscape.",
+      "authors": [
+        "Benoît Assi",
+        "Andreas S. Kronfeld",
+        "Simon Vaiva",
+        "Michael L. Wagman"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.08817v1",
+      "link": "https://arxiv.org/abs/2607.08817v1",
+      "published": "2026-07-09T18:00:00Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3179592",
+        "inspire_url": "https://inspirehep.net/literature/3179592",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.07176v1",
       "title": "The large-$N$ Yang--Mills $Λ$-parameter from step scaling",
@@ -93,39 +117,6 @@
         "control_number": "3176174",
         "inspire_url": "https://inspirehep.net/literature/3176174",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2606.30387v1",
-      "title": "Baryon Light-Cone Distribution Amplitudes from Lattice QCD: Formalism, Renormalization, Extrapolation, and Matching",
-      "summary": "Baryon light-cone distribution amplitudes (LCDAs) are inherently multidimensional objects parametrized by two independent longitudinal momentum fractions, making their first-principles determination substantially more challenging than that of meson LCDAs. We present a systematic large-momentum effective theory (LaMET) framework for determining baryon leading-twist LCDAs from lattice QCD. The framework covers the complete path from equal-time three-quark quasi-distribution amplitudes to physical baryon LCDAs. We formulate the leading-twist $V$, $A$, and $T$ quasi-DAs and analyze their spin-flavor and coordinate-space symmetries, including antisymmetric amplitudes with vanishing local limits. We develop a hybrid renormalization prescription on the $(z_1,z_2)$ plane, introduce a newly developed large-$λ$ extrapolation strategy based on the asymptotic large-distance behavior of Euclidean correlators, and derive the corresponding one-loop LaMET matching relation in the hybrid renormalization scheme. As a demonstration, we apply the complete analysis pipeline to the $Λ$-baryon $A$-structure quasi-DAs using seven $2+1$--flavor lattice ensembles, and use this amplitude to examine the impact of large-distance extrapolation, perturbative matching, and extrapolation to the continuum, physical-pion-mass, and infinite-momentum limits, together with the associated systematic uncertainties. This work provides the formalism, renormalization, extrapolation, and matching infrastructure for first-principles determinations of $x$-dependent baryon LCDAs.",
-      "authors": [
-        "Mu-Hua Zhang",
-        "Haoyang Bai",
-        "Min-Huan Chu",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Jian Liang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        "Wei Wang",
-        "Yi-Bo Yang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Qi-An Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.30387v1",
-      "link": "https://arxiv.org/abs/2606.30387v1",
-      "published": "2026-06-29T14:42:52Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3174420",
-        "inspire_url": "https://inspirehep.net/literature/3174420",
-        "citation_count": 1
       }
     }
   ]
