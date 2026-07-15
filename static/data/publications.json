@@ -1,7 +1,30 @@
 {
-  "generated": "2026-07-14T08:28:25.452155+00:00Z",
-  "count": 115,
+  "generated": "2026-07-15T08:24:35.541998+00:00Z",
+  "count": 120,
   "publications": [
+    {
+      "id": "2607.13024v1",
+      "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
+      "summary": "Inclusive hadronic decay widths remain a long-standing challenge for first-principles QCD. We present a framework combining lattice QCD with strongly-coupled potential nonrelativistic QCD (pNRQCD) to compute inclusive P-wave heavy quarkonium decays to light hadrons. At leading order in the velocity expansion, all nonperturbative effects, apart from the square of the derivative of the wavefunction at the origin, are encoded in a single universal moment of the two-point chromoelectric correlator, which we determine for the first time from a quenched lattice QCD calculation matched to $\\overline{\\mathrm{MS}}$ via the gradient flow. Combined with perturbative short-distance coefficients and the square of the derivative of the wavefunction at the origin, our result reproduces the observed $χ_{cJ}(1P)$ widths and, at the same time, provides predictions for the unmeasured $χ_{bJ}(nP)$ widths. The framework extends naturally to inclusive decays and production of ordinary and exotic hadrons.",
+      "authors": [
+        "Nora Brambilla",
+        "Viljami Leino",
+        "Julian Mayer-Steudte",
+        "Panayiotis Panayiotou",
+        "Andrea Shindler",
+        "Antonio Vairo",
+        "Xiang-Peng Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.13024v1",
+      "link": "https://arxiv.org/abs/2607.13024v1",
+      "published": "2026-07-14T17:58:27Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ]
+    },
     {
       "id": "2607.10606v1",
       "title": "The Neutron Electric Dipole Moment from Lattice QCD using a Background Electric Field",
@@ -95,31 +118,6 @@
       "inspire": {
         "control_number": "3177387",
         "inspire_url": "https://inspirehep.net/literature/3177387",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.00564v1",
-      "title": "Isospin-breaking effects in inclusive hadronic $τ$ data for the muon $(g-2)$ from first principles",
-      "summary": "The knowledge of isospin-breaking effects in hadronic $τ$ decays is required for a high-precision determination of the Hadronic-Vacuum-Polarization contribution to $(g-2)_μ$ from experimental $τ$ data. In this work we present a strategy for their calculation in a fully inclusive setup from first-principles Lattice QCD+QED simulations. We separate radiative corrections in three infrared safe classes, which we study individually. We provide analytic expressions for their effects in the initial state and propose a strategy for final-state corrections directly in Euclidean space. We also examine the non-factorizable contributions and highlight the challenges associated with their analytic continuation from Euclidean to Minkowski space. By studying short-distance corrections in the context of momentum schemes, we provide a prescription for the renormalization of the individual terms at first order in the ispospin-breaking parameters.",
-      "authors": [
-        "Mattia Bruno",
-        "Taku Izubuchi",
-        "Christoph Lehner",
-        "Aaron S. Meyer",
-        "Julian Parrino",
-        "Xin-Yu Tuo"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.00564v1",
-      "link": "https://arxiv.org/abs/2607.00564v1",
-      "published": "2026-07-01T07:51:30Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3176196",
-        "inspire_url": "https://inspirehep.net/literature/3176196",
         "citation_count": 0
       }
     }
