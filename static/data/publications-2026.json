@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-15T08:24:35.478428+00:00Z",
-  "count": 120,
+  "generated": "2026-07-16T08:28:09.336224+00:00Z",
+  "count": 121,
   "publications": [
+    {
+      "id": "2607.14077v1",
+      "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
+      "summary": "The Standard Model prediction for the rare $K_L\\toμ^+μ^-$ decay depends critically on the long-distance contribution coming from the exchange of two photons. Such a contribution can be computed using lattice QCD and an effective three-flavor theory including only the $u$, $d$ and $s$ quarks, provided terms falling as the inverse square of the omitted charm quark mass, $1/m_c^2$ are neglected. Because of the missing Glashow-Iliopoulos-Maiani cancelation, this three-flavor theory contains additional low-energy constants that depend on $m_c$. Here we show how these constants can be determined from a practical four-flavor lattice QCD calculation performed on a small volume with $u$ and $d$ quark masses that are heavier than physical.",
+      "authors": [
+        "En-Hung Chao",
+        "Norman Christ",
+        "Ceran Hu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.14077v1",
+      "link": "https://arxiv.org/abs/2607.14077v1",
+      "published": "2026-07-15T17:49:14Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3180700",
+        "inspire_url": "https://inspirehep.net/literature/3180700",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.13024v1",
       "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
@@ -23,7 +45,12 @@
         "hep-ex",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3180567",
+        "inspire_url": "https://inspirehep.net/literature/3180567",
+        "citation_count": 0
+      }
     },
     {
       "id": "2607.10606v1",
@@ -143,7 +170,7 @@
       "inspire": {
         "control_number": "3176196",
         "inspire_url": "https://inspirehep.net/literature/3176196",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -616,7 +643,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1060,7 +1087,7 @@
       "inspire": {
         "control_number": "3154615",
         "inspire_url": "https://inspirehep.net/literature/3154615",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1083,7 +1110,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 9
+        "citation_count": 10
       }
     },
     {
@@ -2207,7 +2234,7 @@
       "inspire": {
         "control_number": "3125285",
         "inspire_url": "https://inspirehep.net/literature/3125285",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {

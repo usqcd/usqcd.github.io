@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-15T08:24:35.541998+00:00Z",
-  "count": 120,
+  "generated": "2026-07-16T08:28:09.397107+00:00Z",
+  "count": 121,
   "publications": [
+    {
+      "id": "2607.14077v1",
+      "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
+      "summary": "The Standard Model prediction for the rare $K_L\\toμ^+μ^-$ decay depends critically on the long-distance contribution coming from the exchange of two photons. Such a contribution can be computed using lattice QCD and an effective three-flavor theory including only the $u$, $d$ and $s$ quarks, provided terms falling as the inverse square of the omitted charm quark mass, $1/m_c^2$ are neglected. Because of the missing Glashow-Iliopoulos-Maiani cancelation, this three-flavor theory contains additional low-energy constants that depend on $m_c$. Here we show how these constants can be determined from a practical four-flavor lattice QCD calculation performed on a small volume with $u$ and $d$ quark masses that are heavier than physical.",
+      "authors": [
+        "En-Hung Chao",
+        "Norman Christ",
+        "Ceran Hu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.14077v1",
+      "link": "https://arxiv.org/abs/2607.14077v1",
+      "published": "2026-07-15T17:49:14Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3180700",
+        "inspire_url": "https://inspirehep.net/literature/3180700",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.13024v1",
       "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
@@ -23,7 +45,12 @@
         "hep-ex",
         "hep-ph",
         "hep-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3180567",
+        "inspire_url": "https://inspirehep.net/literature/3180567",
+        "citation_count": 0
+      }
     },
     {
       "id": "2607.10606v1",
@@ -94,30 +121,6 @@
       "inspire": {
         "control_number": "3178391",
         "inspire_url": "https://inspirehep.net/literature/3178391",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.03458v1",
-      "title": "The nucleon unpolarized generalized form factors and Mellin moments up to fourth order",
-      "summary": "Nucleon Mellin moments of parton distribution are computed up to the fourth order in lattice QCD. The computation is performed using one ensemble of twisted mass fermions at the physical pion mass point. We employ boosted frames to access the higher-order Mellin moments of generalized parton distributions. We also extract the forward-limit Mellin moments $\\langle x^{n-1}\\rangle$ for $n=2,3,4$. These Mellin moments are used to construct unpolarized parton distribution functions and compare to phenomenological extractions.",
-      "authors": [
-        "Constantia Alexandrou",
-        "Simone Bacchio",
-        "Martha Constantinou",
-        "Christian Kummer",
-        "Yan Li",
-        "Gregoris Spanoudes"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.03458v1",
-      "link": "https://arxiv.org/abs/2607.03458v1",
-      "published": "2026-07-03T16:15:42Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3177387",
-        "inspire_url": "https://inspirehep.net/literature/3177387",
         "citation_count": 0
       }
     }
