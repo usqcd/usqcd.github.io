@@ -1,7 +1,33 @@
 {
-  "generated": "2026-07-20T09:27:56.189281+00:00Z",
-  "count": 121,
+  "generated": "2026-07-21T08:46:05.720700+00:00Z",
+  "count": 120,
   "publications": [
+    {
+      "id": "2607.17294v1",
+      "title": "Scalar glueball-$s\\bar{s}$ mixing in one flavor lattice QCD",
+      "summary": "We investigate the mixing between the lowest-lying scalar glueball and the $s\\overline{s}$ meson in $N_f=1$ lattice quantum chromodynamics (QCD) utilizing an anisotropic $16^3 \\times 128$ lattice ensemble at a lattice spacing $a_s\\approx 0.148\\,\\rm{fm}$. By solving a generalized eigenvalue problem (GEVP) for the optimized glueball and $s\\overline{s}$ scalar operators in the $J^\\text{PC} = 0^{++}$ channel, the masses of the two lowest-lying eigenstates are determined to be $m_1 = 1.290(20)\\,\\mathrm{GeV}$ and $m_2 = 1.777(49)\\,\\mathrm{GeV}$. By extracting the couplings of these mass eigenstates to the glueball and $s\\bar{s}$ operators, we determine a substantial mixing angle $|θ| \\approx 40.7(2.7)^\\circ$ and a large mixing energy $x_s = 239(24)$ MeV. These results indicate a strong glueball-$s\\bar{s}$ mixing in the scalar sector, providing important non-perturbative inputs for understanding the nature of the experimental isoscalar scalar mesons. The continuum limit of the mixing energy and its quark mass dependence need to be investigated in the future.",
+      "authors": [
+        "Long-Cheng Gui",
+        "Wei Sun",
+        "Ying Chen",
+        "Ming Gong",
+        "Geng Li",
+        "Zhaofeng Liu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.17294v1",
+      "link": "https://arxiv.org/abs/2607.17294v1",
+      "published": "2026-07-19T15:25:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3181795",
+        "inspire_url": "https://inspirehep.net/literature/3181795",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.14077v1",
       "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
@@ -99,28 +125,6 @@
       "inspire": {
         "control_number": "3179592",
         "inspire_url": "https://inspirehep.net/literature/3179592",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.07176v1",
-      "title": "The large-$N$ Yang--Mills $Λ$-parameter from step scaling",
-      "summary": "We use the step-scaling method and results obtained at $N = 3, 5$ and $8$ to determine the $N$-dependence of the dynamically generated scale $Λ$ of $\\mathrm{SU}(N)$ Yang--Mills theories. We implement the step-scaling method in a suitable finite-volume renormalization scheme based on twisted boundary conditions, introduced to effectively achieve large-$N$ volume independence, and on a coupling defined through the gradient flow. In the $\\overline{\\mathrm{MS}}$ scheme, we obtain the following values in terms of the gradient flow scale $t_0$: $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}} = 0.577(23)$, $0.632(32)$, and $0.611(43)$ for $N=3,5$ and $8$, respectively. They extrapolate to a large-$N$ value of: $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}} (N=\\infty) = 0.639(36)$, and the $N$-dependence is given by $\\sqrt{8t_0}Λ_{\\scriptscriptstyle{\\overline{\\mathrm{MS}}}}(N)=0.639(36)[1-0.85(62)/N^2+\\mathcal{O}(1/N^4)]$. This work represents the first calculation of the Yang--Mills $Λ$-parameter in the large-$N$ limit that does not rely on asymptotic scaling strategies.",
-      "authors": [
-        "Claudio Bonanno",
-        "Jorge Luis Dasilva Golán",
-        "Margarita García Pérez",
-        "Andrea Giorgieri"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.07176v1",
-      "link": "https://arxiv.org/abs/2607.07176v1",
-      "published": "2026-07-08T09:11:10Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3178391",
-        "inspire_url": "https://inspirehep.net/literature/3178391",
         "citation_count": 0
       }
     }
