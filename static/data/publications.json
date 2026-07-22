@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-21T08:46:05.720700+00:00Z",
-  "count": 120,
+  "generated": "2026-07-22T08:49:13.927476+00:00Z",
+  "count": 122,
   "publications": [
+    {
+      "id": "2607.19009v1",
+      "title": "Resolving the $T_{cc}^+$ with $π$ Exchange from Lattice QCD",
+      "summary": "We revisit the lattice QCD description of the doubly charmed tetraquark $T_{cc}^+$ using a finite-volume scattering formalism that incorporates one-pion exchange nonperturbatively, thereby making the nearest left-hand cut explicit while respecting unitarity and analyticity. We simultaneously determine the $D D^\\star π$ coupling and the isoscalar $DD^\\star$ scattering amplitude by reanalyzing the previously computed finite-volume $DD^\\star$ spectrum below the $D^\\star D^\\star$ threshold, on lattices with pion mass $m_π\\approx391~{\\rm MeV}$. We find that the inclusion of pion exchange changes the $T_{cc}^+$ from a real-valued to a complex-valued pole in the second sheet of the $J^P=1^+$, $DD^\\star$ amplitude below threshold. We further predict that the $T_{cc}^+$ pole will move closer to the real-energy axis as the pion mass approaches its physical value.",
+      "authors": [
+        "Nelson Pitanga Lachini",
+        "Raúl A. Briceño"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.19009v1",
+      "link": "https://arxiv.org/abs/2607.19009v1",
+      "published": "2026-07-21T11:49:59Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3182164",
+        "inspire_url": "https://inspirehep.net/literature/3182164",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.17294v1",
       "title": "Scalar glueball-$s\\bar{s}$ mixing in one flavor lattice QCD",
@@ -101,30 +123,6 @@
       "inspire": {
         "control_number": "3179855",
         "inspire_url": "https://inspirehep.net/literature/3179855",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.08817v1",
-      "title": "Renormalon subtracted nonrelativistic QCD for heavy hadron systems",
-      "summary": "We present a renormalon-subtracted formulation of potential nonrelativistic QCD (pNRQCD) for precision spectroscopy of heavy hadron systems, combining variational and Green's function Monte Carlo (VMC/GFMC) methods with NNLO static two- and three-body potentials. Minimal renormalon subtraction (MRS) systematically sums leading factorially growing terms, thereby stabilizing perturbative convergence and reducing renormalization-scale dependence. We tune charm and bottom quark masses to spin-averaged $1S$ quarkonium states and predict $Ω_{ccc}$, $Ω_{ccb}$, $Ω_{cbb}$, and $Ω_{bbb}$ baryon masses, as well as QCD-stable baryons containing top quarks. NNLO MRS results undershoot lattice QCD by 125--175~MeV, with fractional differences decreasing as $\\sim 1/m_Q$, consistent with neglected $\\mathcal{O}(1/m_Q)$ corrections. Applying these methods to unequal-mass fully-heavy tetraquarks, we determine the critical heavy-to-light mass ratio for binding and compute binding energies across the mass-ratio landscape.",
-      "authors": [
-        "Benoît Assi",
-        "Andreas S. Kronfeld",
-        "Simon Vaiva",
-        "Michael L. Wagman"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.08817v1",
-      "link": "https://arxiv.org/abs/2607.08817v1",
-      "published": "2026-07-09T18:00:00Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3179592",
-        "inspire_url": "https://inspirehep.net/literature/3179592",
         "citation_count": 0
       }
     }
