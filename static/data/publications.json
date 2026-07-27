@@ -1,7 +1,33 @@
 {
-  "generated": "2026-07-26T08:39:41.957912+00:00Z",
-  "count": 123,
+  "generated": "2026-07-27T10:17:42.071058+00:00Z",
+  "count": 122,
   "publications": [
+    {
+      "id": "2607.22358v1",
+      "title": "First Lattice QCD Determination of Lepton-Flavor-Universality Ratios in Light-Meson Leptonic Decays",
+      "summary": "The ratio of electronic to muonic leptonic decay widths, $R_{e/μ}$, for the light mesons $π$ and $K$, provides a clean test of lepton flavor universality (LFU) and a sensitive probe of physics beyond the Standard Model. Its Standard-Model prediction is exceptionally precise, with the leading uncertainty associated with the structure-dependent (SD) radiative correction of $O(0.1\\%)$. As experiments such as PIONEER and NA62 aim for unprecedented precision, this SD correction has become an essential ingredient in precision experiment--theory comparisons. We present the first lattice QCD$+$QED calculation of this SD correction at the physical pion mass and in the continuum limit. We employ the infinite-volume reconstruction (IVR) method with Coulomb-gauge photons, significantly reducing both statistical errors and finite-volume effects. We obtain the Standard-Model predictions, $R_{e/μ}=1.23501(10)\\times10^{-4}$ for $π$ and $R_{e/μ}=2.47653(34)\\times10^{-5}$ for $K$. Our results reduce the hadronic uncertainty in $R_{e/μ}$, provide the most precise Standard-Model predictions to date, and establish first-principles benchmarks for future high-precision tests of LFU.",
+      "authors": [
+        "Peter Boyle",
+        "Norman H. Christ",
+        "Xu Feng",
+        "Taku Izubuchi",
+        "Luchang Jin",
+        "Christopher T. Sachrajda",
+        "Xin-Yu Tuo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.22358v1",
+      "link": "https://arxiv.org/abs/2607.22358v1",
+      "published": "2026-07-24T14:39:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3183123",
+        "inspire_url": "https://inspirehep.net/literature/3183123",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.19009v1",
       "title": "Resolving the $T_{cc}^+$ with $π$ Exchange from Lattice QCD",
@@ -97,32 +123,6 @@
       "inspire": {
         "control_number": "3180567",
         "inspire_url": "https://inspirehep.net/literature/3180567",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.10606v1",
-      "title": "The Neutron Electric Dipole Moment from Lattice QCD using a Background Electric Field",
-      "summary": "We present the calculation of the neutron electric dipole moment (nEDM) $d_n$ using 2+1 flavor domain wall fermion ensembles with fixed lattice spacing $a\\approx 0.11\\,\\text{fm}$ and pion masses of 340, 420, and 576 MeV. We show that the neutron electric dipole moment can be extracted from the energy shift induced by a static uniform external background electric field in the presence of the CP-violating QCD theta-term, $\\barθQ_{top}$. Motivated by the Feynman-Hellmann theorem, we employ sampling of the topological charge $q_\\text{top}(t)$ on a single time-slice rather than the global topological charge $Q_\\text{top}=\\int q_\\text{top}(t) \\, dt$, which dramatically improves the statistical precision of the $θ$-induced nEDM. Key to our method is to calculate the forward matrix element of the topological charge density in the nucleon deformed by a background electric field. We find that calculation with the traditional positive parity-projected nucleon operator is subject to large excited-state contamination. To remove the contamination, we construct the ground state of the deformed nucleon by solving a non-Hermitian generalized eigenvalue problem. With this approach, we find consistent values for the nEDM when using different nucleon interpolating operators, regardless of whether they are covariant or non-covariant under chiral transformations. Finally, after extrapolating to the physical point, we obtain $d_n=-0.0050(4)^\\text{stat}(8)^\\text{sys}\\barθ$ $e$ fm, where the systematic uncertainty includes excited-state effects estimated as variation with the Euclidean-time fits and the dependence on the strength of the electric field applied to the neutron. Conventional systematic errors like discretization, finite-volume, and chiral extrapolation effects will be addressed in future work.",
-      "authors": [
-        "Thomas Blum",
-        "Fangcheng He",
-        "Taku Izubuchi",
-        "Luchang Jin",
-        "Hiroshi Ohki",
-        "Sergey Syritsyn"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.10606v1",
-      "link": "https://arxiv.org/abs/2607.10606v1",
-      "published": "2026-07-12T07:02:05Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3179855",
-        "inspire_url": "https://inspirehep.net/literature/3179855",
         "citation_count": 0
       }
     }

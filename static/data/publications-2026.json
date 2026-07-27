@@ -1,7 +1,33 @@
 {
-  "generated": "2026-07-26T08:39:41.896158+00:00Z",
-  "count": 123,
+  "generated": "2026-07-27T10:17:42.008508+00:00Z",
+  "count": 122,
   "publications": [
+    {
+      "id": "2607.22358v1",
+      "title": "First Lattice QCD Determination of Lepton-Flavor-Universality Ratios in Light-Meson Leptonic Decays",
+      "summary": "The ratio of electronic to muonic leptonic decay widths, $R_{e/μ}$, for the light mesons $π$ and $K$, provides a clean test of lepton flavor universality (LFU) and a sensitive probe of physics beyond the Standard Model. Its Standard-Model prediction is exceptionally precise, with the leading uncertainty associated with the structure-dependent (SD) radiative correction of $O(0.1\\%)$. As experiments such as PIONEER and NA62 aim for unprecedented precision, this SD correction has become an essential ingredient in precision experiment--theory comparisons. We present the first lattice QCD$+$QED calculation of this SD correction at the physical pion mass and in the continuum limit. We employ the infinite-volume reconstruction (IVR) method with Coulomb-gauge photons, significantly reducing both statistical errors and finite-volume effects. We obtain the Standard-Model predictions, $R_{e/μ}=1.23501(10)\\times10^{-4}$ for $π$ and $R_{e/μ}=2.47653(34)\\times10^{-5}$ for $K$. Our results reduce the hadronic uncertainty in $R_{e/μ}$, provide the most precise Standard-Model predictions to date, and establish first-principles benchmarks for future high-precision tests of LFU.",
+      "authors": [
+        "Peter Boyle",
+        "Norman H. Christ",
+        "Xu Feng",
+        "Taku Izubuchi",
+        "Luchang Jin",
+        "Christopher T. Sachrajda",
+        "Xin-Yu Tuo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.22358v1",
+      "link": "https://arxiv.org/abs/2607.22358v1",
+      "published": "2026-07-24T14:39:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3183123",
+        "inspire_url": "https://inspirehep.net/literature/3183123",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.19009v1",
       "title": "Resolving the $T_{cc}^+$ with $π$ Exchange from Lattice QCD",
@@ -1098,7 +1124,7 @@
       "inspire": {
         "control_number": "3150807",
         "inspire_url": "https://inspirehep.net/literature/3150807",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1541,26 +1567,6 @@
         "control_number": "3138452",
         "inspire_url": "https://inspirehep.net/literature/3138452",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2603.29091v3",
-      "title": "Ether of Orbifolds",
-      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.29091v3",
-      "link": "https://arxiv.org/abs/2603.29091v3",
-      "published": "2026-03-31T00:11:32Z",
-      "categories": [
-        "hep-lat",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3137591",
-        "inspire_url": "https://inspirehep.net/literature/3137591",
-        "citation_count": 2
       }
     },
     {
@@ -2379,25 +2385,6 @@
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
         "citation_count": 3
-      }
-    },
-    {
-      "id": "2603.00946v1",
-      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
-      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.00946v1",
-      "link": "https://arxiv.org/abs/2603.00946v1",
-      "published": "2026-03-01T06:33:31Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124602",
-        "inspire_url": "https://inspirehep.net/literature/3124602",
-        "citation_count": 2
       }
     },
     {
