@@ -1,7 +1,82 @@
 {
-  "generated": "2026-07-28T08:47:21.435370+00:00Z",
-  "count": 126,
+  "generated": "2026-07-29T08:54:41.859226+00:00Z",
+  "count": 129,
   "publications": [
+    {
+      "id": "2607.25707v1",
+      "title": "Radiative decays of the $h_c$ meson from lattice QCD",
+      "summary": "We explore, for the first time in lattice QCD, the radiative decays to $γη$ and $γη'$ of the $J^{PC}=1^{+-}$ charmonium state, $h_c$. This work expands upon a previous calculation of $J/ψ$ decays to the same final states, incorporating novel technology to access the $h_c$ where it is an excited state and to separate the independent electric dipole and longitudinal form--factors. Results for the radiative decay rates, computed on three-flavor lattices with $m_π\\sim $ 391 MeV show a suppression relative to experiment that is similar to that observed in the prior calculation of $J/ψ\\to γη^{(\\prime)}$. The timelike $Q^2$ dependence of both form--factors together influence the Dalitz decays, $h_c \\to \\ell^+ \\ell^- η^{(\\prime)}$, which are as yet unmeasured experimentally.",
+      "authors": [
+        "Mischa Batelaan",
+        "Jozef J. Dudek",
+        "Robert G. Edwards"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.25707v1",
+      "link": "https://arxiv.org/abs/2607.25707v1",
+      "published": "2026-07-28T13:30:44Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3184099",
+        "inspire_url": "https://inspirehep.net/literature/3184099",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.25282v1",
+      "title": "Normalizing Flows to Reconstruct Pseudo-PDFs",
+      "summary": "We investigate a normalizing-flow approach for reconstructing parton distribution functions (PDFs) from synthetic matrix-element data. Our framework combines Gaussian Process priors with invertible neural networks to learn a posterior distribution over PDFs consistent with limited Ioffe-time data. We demonstrate that the architecture preserves physical constraints and extrapolation properties.",
+      "authors": [
+        "Yamil Cahuana Medrano",
+        "Kostas Orginos"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.25282v1",
+      "link": "https://arxiv.org/abs/2607.25282v1",
+      "published": "2026-07-28T04:40:25Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3183843",
+        "inspire_url": "https://inspirehep.net/literature/3183843",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.24947v1",
+      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
+      "summary": "Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of the Ising model in 1+1D and 2+1D outperform their unencoded counterparts in estimating local observables. To represent 42 logical qubits on the heavy-hex quantum processor, 21 blocks of the [[4, 2, 2]] Iceberg code and up to 136 physical qubits are used. By pairing fault-tolerant syndrome extraction with non-fault-tolerant logical operations, this scheme preserves many of the benefits of error detection while avoiding the overhead typically required for a fully fault-tolerant logical gate set. The encoding's square logical connectivity, together with the freedom to place logical qubits within each block, enables simulations of a 2D spatial lattice with lower circuit depth than the unencoded implementation requires. We introduce Observable-Ranked Postselection, a selective-filtering technique based on syndrome correlations that recovers reliable results without the prohibitive shot loss of full syndrome postselection. Under the cumulative effect of device errors, this encoding improves local-observable accuracy over the unencoded baseline by 2-6% at intermediate times in 1+1D simulations, growing with circuit depth to over 200% in 2+1D at the latest times studied.",
+      "authors": [
+        "Henry Froland",
+        "Dorota M. Grabowska",
+        "Sebastian Grieninger",
+        "Jeremy Hartse",
+        "Anne L. Lashbrook",
+        "Zhiyao Li",
+        "Ziyuan Li",
+        "Sarah J. M. Powell",
+        "Martin J. Savage",
+        "Xiaojun Yao",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.24947v1",
+      "link": "https://arxiv.org/abs/2607.24947v1",
+      "published": "2026-07-27T18:01:39Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3183932",
+        "inspire_url": "https://inspirehep.net/literature/3183932",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.24648v1",
       "title": "Analytic decomposition of two-body electroweak processes with left-hand cuts",
@@ -49,80 +124,6 @@
       "inspire": {
         "control_number": "3183666",
         "inspire_url": "https://inspirehep.net/literature/3183666",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.22358v1",
-      "title": "First Lattice QCD Determination of Lepton-Flavor-Universality Ratios in Light-Meson Leptonic Decays",
-      "summary": "The ratio of electronic to muonic leptonic decay widths, $R_{e/μ}$, for the light mesons $π$ and $K$, provides a clean test of lepton flavor universality (LFU) and a sensitive probe of physics beyond the Standard Model. Its Standard-Model prediction is exceptionally precise, with the leading uncertainty associated with the structure-dependent (SD) radiative correction of $O(0.1\\%)$. As experiments such as PIONEER and NA62 aim for unprecedented precision, this SD correction has become an essential ingredient in precision experiment--theory comparisons. We present the first lattice QCD$+$QED calculation of this SD correction at the physical pion mass and in the continuum limit. We employ the infinite-volume reconstruction (IVR) method with Coulomb-gauge photons, significantly reducing both statistical errors and finite-volume effects. We obtain the Standard-Model predictions, $R_{e/μ}=1.23501(10)\\times10^{-4}$ for $π$ and $R_{e/μ}=2.47653(34)\\times10^{-5}$ for $K$. Our results reduce the hadronic uncertainty in $R_{e/μ}$, provide the most precise Standard-Model predictions to date, and establish first-principles benchmarks for future high-precision tests of LFU.",
-      "authors": [
-        "Peter Boyle",
-        "Norman H. Christ",
-        "Xu Feng",
-        "Taku Izubuchi",
-        "Luchang Jin",
-        "Christopher T. Sachrajda",
-        "Xin-Yu Tuo"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.22358v1",
-      "link": "https://arxiv.org/abs/2607.22358v1",
-      "published": "2026-07-24T14:39:37Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3183123",
-        "inspire_url": "https://inspirehep.net/literature/3183123",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.19009v1",
-      "title": "Resolving the $T_{cc}^+$ with $π$ Exchange from Lattice QCD",
-      "summary": "We revisit the lattice QCD description of the doubly charmed tetraquark $T_{cc}^+$ using a finite-volume scattering formalism that incorporates one-pion exchange nonperturbatively, thereby making the nearest left-hand cut explicit while respecting unitarity and analyticity. We simultaneously determine the $D D^\\star π$ coupling and the isoscalar $DD^\\star$ scattering amplitude by reanalyzing the previously computed finite-volume $DD^\\star$ spectrum below the $D^\\star D^\\star$ threshold, on lattices with pion mass $m_π\\approx391~{\\rm MeV}$. We find that the inclusion of pion exchange changes the $T_{cc}^+$ from a real-valued to a complex-valued pole in the second sheet of the $J^P=1^+$, $DD^\\star$ amplitude below threshold. We further predict that the $T_{cc}^+$ pole will move closer to the real-energy axis as the pion mass approaches its physical value.",
-      "authors": [
-        "Nelson Pitanga Lachini",
-        "Raúl A. Briceño"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.19009v1",
-      "link": "https://arxiv.org/abs/2607.19009v1",
-      "published": "2026-07-21T11:49:59Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3182164",
-        "inspire_url": "https://inspirehep.net/literature/3182164",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2607.17294v1",
-      "title": "Scalar glueball-$s\\bar{s}$ mixing in one flavor lattice QCD",
-      "summary": "We investigate the mixing between the lowest-lying scalar glueball and the $s\\overline{s}$ meson in $N_f=1$ lattice quantum chromodynamics (QCD) utilizing an anisotropic $16^3 \\times 128$ lattice ensemble at a lattice spacing $a_s\\approx 0.148\\,\\rm{fm}$. By solving a generalized eigenvalue problem (GEVP) for the optimized glueball and $s\\overline{s}$ scalar operators in the $J^\\text{PC} = 0^{++}$ channel, the masses of the two lowest-lying eigenstates are determined to be $m_1 = 1.290(20)\\,\\mathrm{GeV}$ and $m_2 = 1.777(49)\\,\\mathrm{GeV}$. By extracting the couplings of these mass eigenstates to the glueball and $s\\bar{s}$ operators, we determine a substantial mixing angle $|θ| \\approx 40.7(2.7)^\\circ$ and a large mixing energy $x_s = 239(24)$ MeV. These results indicate a strong glueball-$s\\bar{s}$ mixing in the scalar sector, providing important non-perturbative inputs for understanding the nature of the experimental isoscalar scalar mesons. The continuum limit of the mixing energy and its quark mass dependence need to be investigated in the future.",
-      "authors": [
-        "Long-Cheng Gui",
-        "Wei Sun",
-        "Ying Chen",
-        "Ming Gong",
-        "Geng Li",
-        "Zhaofeng Liu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.17294v1",
-      "link": "https://arxiv.org/abs/2607.17294v1",
-      "published": "2026-07-19T15:25:05Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3181795",
-        "inspire_url": "https://inspirehep.net/literature/3181795",
         "citation_count": 0
       }
     }
