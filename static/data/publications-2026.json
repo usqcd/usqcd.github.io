@@ -1,7 +1,29 @@
 {
-  "generated": "2026-07-29T08:54:41.822247+00:00Z",
-  "count": 129,
+  "generated": "2026-07-30T08:40:27.579047+00:00Z",
+  "count": 130,
   "publications": [
+    {
+      "id": "2607.27013v1",
+      "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
+      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function resembling the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to some low enough value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum.",
+      "authors": [
+        "Zane Ozzello",
+        "Avi Kaufman",
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27013v1",
+      "link": "https://arxiv.org/abs/2607.27013v1",
+      "published": "2026-07-29T15:13:40Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3184452",
+        "inspire_url": "https://inspirehep.net/literature/3184452",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.25707v1",
       "title": "Radiative decays of the $h_c$ meson from lattice QCD",
@@ -1309,7 +1331,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 10
+        "citation_count": 11
       }
     },
     {
@@ -1839,7 +1861,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1985,7 +2007,17 @@
       "inspire": {
         "control_number": "3132368",
         "inspire_url": "https://inspirehep.net/literature/3132368",
-        "citation_count": 0
+        "doi": "10.1103/h8n4-94g4",
+        "publication_info": [
+          {
+            "journal_title": "APS Open Science",
+            "journal_volume": "1",
+            "artid": "000072",
+            "year": 2026
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "APS Open Science, 1, artid 000072, 2026"
       }
     },
     {
