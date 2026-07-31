@@ -1,7 +1,54 @@
 {
-  "generated": "2026-07-30T08:40:27.579047+00:00Z",
-  "count": 130,
+  "generated": "2026-07-31T09:03:03.242122+00:00Z",
+  "count": 132,
   "publications": [
+    {
+      "id": "2607.28524v1",
+      "title": "Exact chiral symmetry with quantum signal processing",
+      "summary": "We give a quantum signal processing (QSP) algorithm for the overlap fermion Hamiltonian which preserves the Ginsparg-Wilson relation up to a controllable error $ε_e$. Quantum simulations of Dirac fermions with exact chiral symmetry are thus nearly free: applying the overlap Hamiltonian costs only a factor logarithmic in $ε_e$ more than the Wilson-Dirac Hamiltonian. Comparing to domain-wall fermions, a mild overhead is found in circuit complexity while reducing qubit costs. We show how QSP effectively constructs an extra dimension when simulating the overlap operator, illustrating that the scaling of quantum algorithms reflects the deeper physics of overlap fermions arising at the boundary of domain-wall fermions.",
+      "authors": [
+        "Henry Lamm",
+        "Alessandro Roggero",
+        "Hersh Singh",
+        "Luca Spagnoli"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.28524v1",
+      "link": "https://arxiv.org/abs/2607.28524v1",
+      "published": "2026-07-30T17:00:58Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184910",
+        "inspire_url": "https://inspirehep.net/literature/3184910",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.27550v1",
+      "title": "Confinement and String Breaking in the Compact Abelian Higgs Model",
+      "summary": "While real-time simulation of Quantum Chromodynamics remains technologically out of reach, simplified models for studying elements of QCD phenomenology abound. This work presents a simple model, a spin-1 truncation of the Compact Abelian Higgs Model simulated on qutrit sites, in which confinement and string breaking is accessible to current simulation methods. In the low-energy regime of 1+1D scalar electrodynamics, the heavy modes are integrated out, producing a spin chain effective Hamiltonian in which Gauss' law is implicitly satisfied. We study the spectrum of string-like excitations using DMRG methods on the order of 100 sites. We demonstrate that an added, local chemical potential, playing a role analogous to external charges, permits parameter-dependent measurements of physical features of interest like the string tension and effective meson mass. Varying the chemical potential also permits a characterization of string stability not assessed in prior studies of confining lattice models.",
+      "authors": [
+        "Blake Senseman",
+        "Zane Ozzello",
+        "Yannick Meurice",
+        "Stephen Mrenna"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27550v1",
+      "link": "https://arxiv.org/abs/2607.27550v1",
+      "published": "2026-07-30T00:50:25Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184776",
+        "inspire_url": "https://inspirehep.net/literature/3184776",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.27013v1",
       "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
@@ -1861,7 +1908,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2299,7 +2346,7 @@
       "inspire": {
         "control_number": "3129090",
         "inspire_url": "https://inspirehep.net/literature/3129090",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
