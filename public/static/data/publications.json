@@ -1,7 +1,54 @@
 {
-  "generated": "2026-07-30T08:40:27.636103+00:00Z",
-  "count": 130,
+  "generated": "2026-07-31T09:03:03.297350+00:00Z",
+  "count": 132,
   "publications": [
+    {
+      "id": "2607.28524v1",
+      "title": "Exact chiral symmetry with quantum signal processing",
+      "summary": "We give a quantum signal processing (QSP) algorithm for the overlap fermion Hamiltonian which preserves the Ginsparg-Wilson relation up to a controllable error $ε_e$. Quantum simulations of Dirac fermions with exact chiral symmetry are thus nearly free: applying the overlap Hamiltonian costs only a factor logarithmic in $ε_e$ more than the Wilson-Dirac Hamiltonian. Comparing to domain-wall fermions, a mild overhead is found in circuit complexity while reducing qubit costs. We show how QSP effectively constructs an extra dimension when simulating the overlap operator, illustrating that the scaling of quantum algorithms reflects the deeper physics of overlap fermions arising at the boundary of domain-wall fermions.",
+      "authors": [
+        "Henry Lamm",
+        "Alessandro Roggero",
+        "Hersh Singh",
+        "Luca Spagnoli"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.28524v1",
+      "link": "https://arxiv.org/abs/2607.28524v1",
+      "published": "2026-07-30T17:00:58Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184910",
+        "inspire_url": "https://inspirehep.net/literature/3184910",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.27550v1",
+      "title": "Confinement and String Breaking in the Compact Abelian Higgs Model",
+      "summary": "While real-time simulation of Quantum Chromodynamics remains technologically out of reach, simplified models for studying elements of QCD phenomenology abound. This work presents a simple model, a spin-1 truncation of the Compact Abelian Higgs Model simulated on qutrit sites, in which confinement and string breaking is accessible to current simulation methods. In the low-energy regime of 1+1D scalar electrodynamics, the heavy modes are integrated out, producing a spin chain effective Hamiltonian in which Gauss' law is implicitly satisfied. We study the spectrum of string-like excitations using DMRG methods on the order of 100 sites. We demonstrate that an added, local chemical potential, playing a role analogous to external charges, permits parameter-dependent measurements of physical features of interest like the string tension and effective meson mass. Varying the chemical potential also permits a characterization of string stability not assessed in prior studies of confining lattice models.",
+      "authors": [
+        "Blake Senseman",
+        "Zane Ozzello",
+        "Yannick Meurice",
+        "Stephen Mrenna"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27550v1",
+      "link": "https://arxiv.org/abs/2607.27550v1",
+      "published": "2026-07-30T00:50:25Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184776",
+        "inspire_url": "https://inspirehep.net/literature/3184776",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2607.27013v1",
       "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
@@ -64,63 +111,6 @@
       "inspire": {
         "control_number": "3183843",
         "inspire_url": "https://inspirehep.net/literature/3183843",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.24947v1",
-      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
-      "summary": "Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of the Ising model in 1+1D and 2+1D outperform their unencoded counterparts in estimating local observables. To represent 42 logical qubits on the heavy-hex quantum processor, 21 blocks of the [[4, 2, 2]] Iceberg code and up to 136 physical qubits are used. By pairing fault-tolerant syndrome extraction with non-fault-tolerant logical operations, this scheme preserves many of the benefits of error detection while avoiding the overhead typically required for a fully fault-tolerant logical gate set. The encoding's square logical connectivity, together with the freedom to place logical qubits within each block, enables simulations of a 2D spatial lattice with lower circuit depth than the unencoded implementation requires. We introduce Observable-Ranked Postselection, a selective-filtering technique based on syndrome correlations that recovers reliable results without the prohibitive shot loss of full syndrome postselection. Under the cumulative effect of device errors, this encoding improves local-observable accuracy over the unencoded baseline by 2-6% at intermediate times in 1+1D simulations, growing with circuit depth to over 200% in 2+1D at the latest times studied.",
-      "authors": [
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Jeremy Hartse",
-        "Anne L. Lashbrook",
-        "Zhiyao Li",
-        "Ziyuan Li",
-        "Sarah J. M. Powell",
-        "Martin J. Savage",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.24947v1",
-      "link": "https://arxiv.org/abs/2607.24947v1",
-      "published": "2026-07-27T18:01:39Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3183932",
-        "inspire_url": "https://inspirehep.net/literature/3183932",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.24648v1",
-      "title": "Analytic decomposition of two-body electroweak processes with left-hand cuts",
-      "summary": "We derive an on-shell representation for electroweak $2+J\\to2$ transition amplitudes involving two hadrons in both the initial and final state for systems where there are left-hand singularities generated by light-particle exchange, e.g. one-pion exchange. The derivation treats the insertion of the electroweak current perturbatively, keeping only the leading-order contribution in the external field, while the hadronic interactions are treated to all orders, including one-particle exchange effects. We find that, in such processes, the amplitude can have logarithmic singularities, as well as one-particle pole singularities, due to these exchanges. We isolate those contributions, as well as previously identified triangle singularities. The result is expressed in terms of the purely hadronic amplitude, exchange-current kernels, triangle functions, and a class of short-distance transition functions that are real and smooth below unaccounted-for thresholds. While we consider only transitions with spinless particles, this work is an important step toward constraining form factors of systems involving nucleons or vector mesons in the heavy quark sector, where the one-pion-exchange singularity is quite close to threshold.",
-      "authors": [
-        "André Baião-Raposo",
-        "Raúl A. Briceño",
-        "Nicolas Lang",
-        "Felipe G. Ortega-Gama",
-        "Bianca Pol"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.24648v1",
-      "link": "https://arxiv.org/abs/2607.24648v1",
-      "published": "2026-07-27T16:46:35Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3183711",
-        "inspire_url": "https://inspirehep.net/literature/3183711",
         "citation_count": 0
       }
     }
