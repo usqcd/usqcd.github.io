@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T08:40:01.066381+00:00Z",
-  "count": 128,
+  "generated": "2026-08-02T08:40:33.878022+00:00Z",
+  "count": 129,
   "publications": [
     {
       "id": "2607.28524v1",
@@ -111,6 +111,38 @@
       "inspire": {
         "control_number": "3183843",
         "inspire_url": "https://inspirehep.net/literature/3183843",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.24947v1",
+      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
+      "summary": "Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of the Ising model in 1+1D and 2+1D outperform their unencoded counterparts in estimating local observables. To represent 42 logical qubits on the heavy-hex quantum processor, 21 blocks of the [[4, 2, 2]] Iceberg code and up to 136 physical qubits are used. By pairing fault-tolerant syndrome extraction with non-fault-tolerant logical operations, this scheme preserves many of the benefits of error detection while avoiding the overhead typically required for a fully fault-tolerant logical gate set. The encoding's square logical connectivity, together with the freedom to place logical qubits within each block, enables simulations of a 2D spatial lattice with lower circuit depth than the unencoded implementation requires. We introduce Observable-Ranked Postselection, a selective-filtering technique based on syndrome correlations that recovers reliable results without the prohibitive shot loss of full syndrome postselection. Under the cumulative effect of device errors, this encoding improves local-observable accuracy over the unencoded baseline by 2-6% at intermediate times in 1+1D simulations, growing with circuit depth to over 200% in 2+1D at the latest times studied.",
+      "authors": [
+        "Henry Froland",
+        "Dorota M. Grabowska",
+        "Sebastian Grieninger",
+        "Jeremy Hartse",
+        "Anne L. Lashbrook",
+        "Zhiyao Li",
+        "Ziyuan Li",
+        "Sarah J. M. Powell",
+        "Martin J. Savage",
+        "Xiaojun Yao",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.24947v1",
+      "link": "https://arxiv.org/abs/2607.24947v1",
+      "published": "2026-07-27T18:01:39Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3183932",
+        "inspire_url": "https://inspirehep.net/literature/3183932",
         "citation_count": 0
       }
     },
@@ -519,6 +551,29 @@
       }
     },
     {
+      "id": "2606.28167v1",
+      "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
+      "summary": "Spectral densities link experimental measurements to dynamical properties of a quantum field theory which, in turn, can be resolved non-perturbatively from the Euclidean time-dependence of correlation functions. By making extensive use of integral transforms, we present analytic formulae to carry out the inverse Laplace transform so as to extract spectral densities from either the continuum or the discrete sampling of correlation functions in the Euclidean time. Formulae extend to regulated and/or smeared spectral densities as well. We explicitly show that the proposed lattice solution tends to its continuum counterpart up to $O(a^2)$ effects in the lattice spacing $a$ if the lattice correlator is $O(a)$-improved. In practical computations, lattices have necessarily a finite Euclidean temporal extent, a lack of knowledge which suggests to introduce incomplete integral transforms and the corresponding incomplete smeared spectral densities. The contribution from the unknowns to a smeared spectral density can then be rigorously bound and kept under control if the integral transform of the smearing function decays fast enough with the conjugate variable. Conversely, the bound can be used to plan lattices so as to achieve a given target precision on the reconstructed spectral density of interest. The formulae presented here in the context of lattice field theory can be easily applied or extended to other areas of research.",
+      "authors": [
+        "Leonardo Giusti",
+        "Matteo Saccardi",
+        "Diego Toniolo"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.28167v1",
+      "link": "https://arxiv.org/abs/2606.28167v1",
+      "published": "2026-06-26T15:01:16Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3174081",
+        "inspire_url": "https://inspirehep.net/literature/3174081",
+        "citation_count": 2
+      }
+    },
+    {
       "id": "2606.28102v1",
       "title": "Mellin Moments of Pion and Kaon Unpolarized PDFs from Nonlocal Operators in Lattice QCD",
       "summary": "We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on an $N_f=2+1+1$ ensemble of maximally twisted-mass fermions with a clover term, with lattice volume $32^3\\times64$, lattice spacing $a=0.0934$ fm, and pion mass $m_π=260$ MeV. Matrix elements are computed for hadron momenta $P_3=0$, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate the dependence of the extracted moments on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined fits in $(P_3,z)$ space at next-to-next-to-leading-order and are quoted at $μ=2$ GeV. We also study the SU(3) symmetry-breaking effect and reconstruct the valence PDFs from the moments.",
@@ -857,32 +912,6 @@
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
         "citation_count": 3
-      }
-    },
-    {
-      "id": "2606.09757v1",
-      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
-      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
-      "authors": [
-        "Jonathan Gonzales",
-        "Alejandro Florez",
-        "Johannes Jahan",
-        "Angel R. Nava Acuna",
-        "Naman Mehndiratta",
-        "Claudia Ratti"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.09757v1",
-      "link": "https://arxiv.org/abs/2606.09757v1",
-      "published": "2026-06-08T17:17:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3166306",
-        "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 2
       }
     },
     {
@@ -1301,6 +1330,29 @@
         "control_number": "3154615",
         "inspire_url": "https://inspirehep.net/literature/3154615",
         "citation_count": 4
+      }
+    },
+    {
+      "id": "2604.26376v1",
+      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
+      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
+      "authors": [
+        "Caroline E. P. Robin",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.26376v1",
+      "link": "https://arxiv.org/abs/2604.26376v1",
+      "published": "2026-04-29T07:39:25Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3150112",
+        "inspire_url": "https://inspirehep.net/literature/3150112",
+        "citation_count": 11
       }
     },
     {
@@ -3083,34 +3135,6 @@
       }
     },
     {
-      "id": "2601.21232v1",
-      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
-      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
-      "authors": [
-        "Joaquin Grefa",
-        "Chun Yue Tsang",
-        "Rajesh Kumar",
-        "Veronica Dexheimer",
-        "Claudia Ratti",
-        "Zhangbu Xu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21232v1",
-      "link": "https://arxiv.org/abs/2601.21232v1",
-      "published": "2026-01-29T03:49:43Z",
-      "categories": [
-        "nucl-th",
-        "hep-ex",
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3112888",
-        "inspire_url": "https://inspirehep.net/literature/3112888",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.21155v2",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -3266,33 +3290,28 @@
       }
     },
     {
-      "id": "2601.07987v1",
-      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
-      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
+      "id": "2601.08825v2",
+      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
+      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
       "authors": [
-        "Yumu Yang",
-        "Prachi Garella",
-        "Musa R. Khan",
-        "Tulio E. Restrepo",
-        "Joaquin Grefa",
-        "Johannes Jahan",
-        "Mauricio Hippert",
-        "Jorge Noronha",
-        "Claudia Ratti",
-        "Romulo Rougemont"
+        "Sebastian Grieninger",
+        "Martin J. Savage",
+        "Nikita A. Zemlevskiy"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.07987v1",
-      "link": "https://arxiv.org/abs/2601.07987v1",
-      "published": "2026-01-12T20:37:09Z",
+      "pdf": "https://arxiv.org/pdf/2601.08825v2",
+      "link": "https://arxiv.org/abs/2601.08825v2",
+      "published": "2026-01-13T18:57:53Z",
       "categories": [
-        "nucl-th",
+        "hep-ph",
         "hep-lat",
-        "hep-ph"
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
       ],
       "inspire": {
-        "control_number": "3103918",
-        "inspire_url": "https://inspirehep.net/literature/3103918",
-        "citation_count": 0
+        "control_number": "3103920",
+        "inspire_url": "https://inspirehep.net/literature/3103920",
+        "citation_count": 1
       }
     },
     {
