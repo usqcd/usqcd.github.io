@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-03T10:03:57.020199+00:00Z",
-  "count": 127,
+  "generated": "2026-08-04T08:51:53.330275+00:00Z",
+  "count": 134,
   "publications": [
+    {
+      "id": "2608.00251v1",
+      "title": "Parton distribution functions from lattice QCD",
+      "summary": "Parton distribution functions (PDFs) provide one of the most direct ways to describe the partonic structure of hadrons in QCD. They encode nonperturbative information about quarks, antiquarks, and gluons as functions of the partonic momentum fraction $x$, and they connect this microscopic structure to experimentally measurable high-energy scattering processes through QCD factorization. This makes PDFs interesting to pursue with lattice QCD, which provides a first-principles formulation of the strong interaction. The challenge is that PDFs are defined through light-cone correlations, while lattice QCD is formulated in Euclidean spacetime.\n  This chapter introduces the theoretical foundations and current status of lattice-QCD calculations of PDFs, with emphasis on modern approaches based on spatially nonlocal matrix elements. We first review the light-cone definitions of quark and gluon PDFs, their Mellin moments, and the connection to QCD factorization. We then explain how large-momentum effective theory, short-distance factorization, and the short-distance operator product expansion make it possible to relate Euclidean lattice observables to light-cone partonic structure. Particular attention is given to the elements that have improved over the last five years: renormalization of Wilson-line operators, perturbative matching, finite-momentum and finite-distance effects, reconstruction of the $x$ dependence, and systematic uncertainties.\n  We summarize selected lattice results for proton quark PDFs, pion and kaon PDFs, gluon PDFs, and twist-3 distributions, highlighting both recent progress and remaining challenges. As will be demonstrated, lattice QCD is moving from proof-of-principle calculations toward systematically improvable determinations that can complement experimental data and global QCD analyses in mapping the partonic structure of hadrons.",
+      "authors": [
+        "Martha Constantinou",
+        "Krzysztof Cichy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.00251v1",
+      "link": "https://arxiv.org/abs/2608.00251v1",
+      "published": "2026-07-31T19:46:36Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ]
+    },
     {
       "id": "2607.29574v1",
       "title": "Generalized parton distributions from lattice QCD",
@@ -46,6 +64,51 @@
       "inspire": {
         "control_number": "3184910",
         "inspire_url": "https://inspirehep.net/literature/3184910",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.27550v1",
+      "title": "Confinement and String Breaking in the Compact Abelian Higgs Model",
+      "summary": "While real-time simulation of Quantum Chromodynamics remains technologically out of reach, simplified models for studying elements of QCD phenomenology abound. This work presents a simple model, a spin-1 truncation of the Compact Abelian Higgs Model simulated on qutrit sites, in which confinement and string breaking is accessible to current simulation methods. In the low-energy regime of 1+1D scalar electrodynamics, the heavy modes are integrated out, producing a spin chain effective Hamiltonian in which Gauss' law is implicitly satisfied. We study the spectrum of string-like excitations using DMRG methods on the order of 100 sites. We demonstrate that an added, local chemical potential, playing a role analogous to external charges, permits parameter-dependent measurements of physical features of interest like the string tension and effective meson mass. Varying the chemical potential also permits a characterization of string stability not assessed in prior studies of confining lattice models.",
+      "authors": [
+        "Blake Senseman",
+        "Zane Ozzello",
+        "Yannick Meurice",
+        "Stephen Mrenna"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27550v1",
+      "link": "https://arxiv.org/abs/2607.27550v1",
+      "published": "2026-07-30T00:50:25Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184776",
+        "inspire_url": "https://inspirehep.net/literature/3184776",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.27013v1",
+      "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
+      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function resembling the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to some low enough value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum.",
+      "authors": [
+        "Zane Ozzello",
+        "Avi Kaufman",
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27013v1",
+      "link": "https://arxiv.org/abs/2607.27013v1",
+      "published": "2026-07-29T15:13:40Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3184452",
+        "inspire_url": "https://inspirehep.net/literature/3184452",
         "citation_count": 0
       }
     },
@@ -819,6 +882,28 @@
       }
     },
     {
+      "id": "2606.14642v3",
+      "title": "Zeros of the partition function for 12 flavor QCD",
+      "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
+      "authors": [
+        "Anas Saleh",
+        "Michael Hite",
+        "Diego Floor",
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.14642v3",
+      "link": "https://arxiv.org/abs/2606.14642v3",
+      "published": "2026-06-12T17:05:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3168353",
+        "inspire_url": "https://inspirehep.net/literature/3168353",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2606.14491v1",
       "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
       "summary": "Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.",
@@ -1174,7 +1259,7 @@
       "inspire": {
         "control_number": "3152352",
         "inspire_url": "https://inspirehep.net/literature/3152352",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1274,7 +1359,7 @@
       "inspire": {
         "control_number": "3150807",
         "inspire_url": "https://inspirehep.net/literature/3150807",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -2096,6 +2181,39 @@
       }
     },
     {
+      "id": "2603.18438v2",
+      "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
+      "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
+      "authors": [
+        "Callum Farrell",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.18438v2",
+      "link": "https://arxiv.org/abs/2603.18438v2",
+      "published": "2026-03-19T02:56:21Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3131487",
+        "inspire_url": "https://inspirehep.net/literature/3131487",
+        "doi": "10.1103/4rg4-sd18",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "113",
+            "artid": "114521",
+            "year": 2026,
+            "journal_issue": "11"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
+      }
+    },
+    {
       "id": "2603.17971v2",
       "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
       "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
@@ -2207,6 +2325,69 @@
           {}
         ],
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2603.12418v3",
+      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
+      "summary": "We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-76 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only.",
+      "authors": [
+        "Jakob Hoffmann",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12418v3",
+      "link": "https://arxiv.org/abs/2603.12418v3",
+      "published": "2026-03-12T19:59:18Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3129046",
+        "inspire_url": "https://inspirehep.net/literature/3129046",
+        "doi": "10.1103/j29k-6rx5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "113",
+            "artid": "114516",
+            "year": 2026,
+            "journal_issue": "11"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Phys.Rev.D, 113, artid 114516, 2026"
+      }
+    },
+    {
+      "id": "2603.12391v1",
+      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
+      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
+      "authors": [
+        "Muhammad Asaduzzaman",
+        "Rayleigh W. Parker",
+        "Noah Goss",
+        "Ahmed I. Mohamed",
+        "Max Neiderbach",
+        "Zane Ozzello",
+        "Ravi K. Naik",
+        "Alexander F. Kemper",
+        "Irfan Siddiqi",
+        "Yannick Meurice",
+        "Machiel S. Blok"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.12391v1",
+      "link": "https://arxiv.org/abs/2603.12391v1",
+      "published": "2026-03-12T19:10:16Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3129090",
+        "inspire_url": "https://inspirehep.net/literature/3129090",
+        "citation_count": 2
       }
     },
     {
