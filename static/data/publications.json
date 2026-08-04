@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-03T10:03:57.080736+00:00Z",
-  "count": 127,
+  "generated": "2026-08-04T08:51:53.390983+00:00Z",
+  "count": 134,
   "publications": [
+    {
+      "id": "2608.00251v1",
+      "title": "Parton distribution functions from lattice QCD",
+      "summary": "Parton distribution functions (PDFs) provide one of the most direct ways to describe the partonic structure of hadrons in QCD. They encode nonperturbative information about quarks, antiquarks, and gluons as functions of the partonic momentum fraction $x$, and they connect this microscopic structure to experimentally measurable high-energy scattering processes through QCD factorization. This makes PDFs interesting to pursue with lattice QCD, which provides a first-principles formulation of the strong interaction. The challenge is that PDFs are defined through light-cone correlations, while lattice QCD is formulated in Euclidean spacetime.\n  This chapter introduces the theoretical foundations and current status of lattice-QCD calculations of PDFs, with emphasis on modern approaches based on spatially nonlocal matrix elements. We first review the light-cone definitions of quark and gluon PDFs, their Mellin moments, and the connection to QCD factorization. We then explain how large-momentum effective theory, short-distance factorization, and the short-distance operator product expansion make it possible to relate Euclidean lattice observables to light-cone partonic structure. Particular attention is given to the elements that have improved over the last five years: renormalization of Wilson-line operators, perturbative matching, finite-momentum and finite-distance effects, reconstruction of the $x$ dependence, and systematic uncertainties.\n  We summarize selected lattice results for proton quark PDFs, pion and kaon PDFs, gluon PDFs, and twist-3 distributions, highlighting both recent progress and remaining challenges. As will be demonstrated, lattice QCD is moving from proof-of-principle calculations toward systematically improvable determinations that can complement experimental data and global QCD analyses in mapping the partonic structure of hadrons.",
+      "authors": [
+        "Martha Constantinou",
+        "Krzysztof Cichy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.00251v1",
+      "link": "https://arxiv.org/abs/2608.00251v1",
+      "published": "2026-07-31T19:46:36Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ]
+    },
     {
       "id": "2607.29574v1",
       "title": "Generalized parton distributions from lattice QCD",
@@ -50,77 +68,47 @@
       }
     },
     {
-      "id": "2607.25707v1",
-      "title": "Radiative decays of the $h_c$ meson from lattice QCD",
-      "summary": "We explore, for the first time in lattice QCD, the radiative decays to $γη$ and $γη'$ of the $J^{PC}=1^{+-}$ charmonium state, $h_c$. This work expands upon a previous calculation of $J/ψ$ decays to the same final states, incorporating novel technology to access the $h_c$ where it is an excited state and to separate the independent electric dipole and longitudinal form--factors. Results for the radiative decay rates, computed on three-flavor lattices with $m_π\\sim $ 391 MeV show a suppression relative to experiment that is similar to that observed in the prior calculation of $J/ψ\\to γη^{(\\prime)}$. The timelike $Q^2$ dependence of both form--factors together influence the Dalitz decays, $h_c \\to \\ell^+ \\ell^- η^{(\\prime)}$, which are as yet unmeasured experimentally.",
+      "id": "2607.27550v1",
+      "title": "Confinement and String Breaking in the Compact Abelian Higgs Model",
+      "summary": "While real-time simulation of Quantum Chromodynamics remains technologically out of reach, simplified models for studying elements of QCD phenomenology abound. This work presents a simple model, a spin-1 truncation of the Compact Abelian Higgs Model simulated on qutrit sites, in which confinement and string breaking is accessible to current simulation methods. In the low-energy regime of 1+1D scalar electrodynamics, the heavy modes are integrated out, producing a spin chain effective Hamiltonian in which Gauss' law is implicitly satisfied. We study the spectrum of string-like excitations using DMRG methods on the order of 100 sites. We demonstrate that an added, local chemical potential, playing a role analogous to external charges, permits parameter-dependent measurements of physical features of interest like the string tension and effective meson mass. Varying the chemical potential also permits a characterization of string stability not assessed in prior studies of confining lattice models.",
       "authors": [
-        "Mischa Batelaan",
-        "Jozef J. Dudek",
-        "Robert G. Edwards"
+        "Blake Senseman",
+        "Zane Ozzello",
+        "Yannick Meurice",
+        "Stephen Mrenna"
       ],
-      "pdf": "https://arxiv.org/pdf/2607.25707v1",
-      "link": "https://arxiv.org/abs/2607.25707v1",
-      "published": "2026-07-28T13:30:44Z",
+      "pdf": "https://arxiv.org/pdf/2607.27550v1",
+      "link": "https://arxiv.org/abs/2607.27550v1",
+      "published": "2026-07-30T00:50:25Z",
       "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184776",
+        "inspire_url": "https://inspirehep.net/literature/3184776",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2607.27013v1",
+      "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
+      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function resembling the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to some low enough value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum.",
+      "authors": [
+        "Zane Ozzello",
+        "Avi Kaufman",
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.27013v1",
+      "link": "https://arxiv.org/abs/2607.27013v1",
+      "published": "2026-07-29T15:13:40Z",
+      "categories": [
+        "quant-ph",
         "hep-lat"
       ],
       "inspire": {
-        "control_number": "3184099",
-        "inspire_url": "https://inspirehep.net/literature/3184099",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.25282v1",
-      "title": "Normalizing Flows to Reconstruct Pseudo-PDFs",
-      "summary": "We investigate a normalizing-flow approach for reconstructing parton distribution functions (PDFs) from synthetic matrix-element data. Our framework combines Gaussian Process priors with invertible neural networks to learn a posterior distribution over PDFs consistent with limited Ioffe-time data. We demonstrate that the architecture preserves physical constraints and extrapolation properties.",
-      "authors": [
-        "Yamil Cahuana Medrano",
-        "Kostas Orginos"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.25282v1",
-      "link": "https://arxiv.org/abs/2607.25282v1",
-      "published": "2026-07-28T04:40:25Z",
-      "categories": [
-        "hep-lat",
-        "cs.LG",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3183843",
-        "inspire_url": "https://inspirehep.net/literature/3183843",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.24947v1",
-      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
-      "summary": "Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of the Ising model in 1+1D and 2+1D outperform their unencoded counterparts in estimating local observables. To represent 42 logical qubits on the heavy-hex quantum processor, 21 blocks of the [[4, 2, 2]] Iceberg code and up to 136 physical qubits are used. By pairing fault-tolerant syndrome extraction with non-fault-tolerant logical operations, this scheme preserves many of the benefits of error detection while avoiding the overhead typically required for a fully fault-tolerant logical gate set. The encoding's square logical connectivity, together with the freedom to place logical qubits within each block, enables simulations of a 2D spatial lattice with lower circuit depth than the unencoded implementation requires. We introduce Observable-Ranked Postselection, a selective-filtering technique based on syndrome correlations that recovers reliable results without the prohibitive shot loss of full syndrome postselection. Under the cumulative effect of device errors, this encoding improves local-observable accuracy over the unencoded baseline by 2-6% at intermediate times in 1+1D simulations, growing with circuit depth to over 200% in 2+1D at the latest times studied.",
-      "authors": [
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Jeremy Hartse",
-        "Anne L. Lashbrook",
-        "Zhiyao Li",
-        "Ziyuan Li",
-        "Sarah J. M. Powell",
-        "Martin J. Savage",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.24947v1",
-      "link": "https://arxiv.org/abs/2607.24947v1",
-      "published": "2026-07-27T18:01:39Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3183932",
-        "inspire_url": "https://inspirehep.net/literature/3183932",
+        "control_number": "3184452",
+        "inspire_url": "https://inspirehep.net/literature/3184452",
         "citation_count": 0
       }
     }
