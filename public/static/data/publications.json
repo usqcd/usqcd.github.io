@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T08:52:39.234944+00:00Z",
-  "count": 136,
+  "generated": "2026-08-06T08:55:08.269874+00:00Z",
+  "count": 134,
   "publications": [
     {
       "id": "2608.02944v1",
@@ -124,7 +124,12 @@
         "hep-lat",
         "nucl-th",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3184910",
+        "inspire_url": "https://inspirehep.net/literature/3184910",
+        "citation_count": 0
+      }
     }
   ]
 }
