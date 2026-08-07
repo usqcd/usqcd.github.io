@@ -1,7 +1,32 @@
 {
-  "generated": "2026-08-06T08:55:08.269874+00:00Z",
-  "count": 134,
+  "generated": "2026-08-07T07:28:45.579921+00:00Z",
+  "count": 137,
   "publications": [
+    {
+      "id": "2608.05752v1",
+      "title": "QCD Chiral Crossover Line from Lee-Yang Edge Singularities",
+      "summary": "We propose a universality-based reconstruction of the QCD chiral crossover line from Lee-Yang edge singularities in the complex baryon chemical potential plane. The framework maps lattice-extracted complex Lee-Yang-zero estimates, treated as proxies for edge singularities, to the universal chiral Lee-Yang edge and thereby determines the $μ_B$ dependence of both the chiral critical line in the light-quark chiral limit and the pseudo-critical crossover line at physical quark masses. As an illustration, we apply the framework to Lee-Yang-zero estimates recently obtained by the Wuppertal-Budapest collaboration from high-statistics lattice QCD simulations. Without imposing the previously determined small-$μ_B$ expansion of the crossover line as input, the reconstructed curvature is consistent with existing continuum lattice-QCD results at small $μ_B$. The fitted chiral-limit transition temperature is also compatible with existing chiral-scaling analyses. These results demonstrate that lattice information on Lee-Yang singularities, combined with universal chiral scaling, provides a quantitatively consistent constraint on the QCD crossover line within the present temperature window and establishes a framework that can be systematically improved with future Lee-Yang-zero determinations.",
+      "authors": [
+        "Heng-Tong Ding",
+        "Swagato Mukherjee",
+        "Peter Petreczky",
+        "Kai-Fan Ye"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.05752v1",
+      "link": "https://arxiv.org/abs/2608.05752v1",
+      "published": "2026-08-06T08:37:17Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3188145",
+        "inspire_url": "https://inspirehep.net/literature/3188145",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.02944v1",
       "title": "The Utility of Sparse Error Detection in Quantum Simulations",
@@ -104,30 +129,6 @@
       "inspire": {
         "control_number": "3185267",
         "inspire_url": "https://inspirehep.net/literature/3185267",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.28524v1",
-      "title": "Exact chiral symmetry with quantum signal processing",
-      "summary": "We give a quantum signal processing (QSP) algorithm for the overlap fermion Hamiltonian which preserves the Ginsparg-Wilson relation up to a controllable error $ε_e$. Quantum simulations of Dirac fermions with exact chiral symmetry are thus nearly free: applying the overlap Hamiltonian costs only a factor logarithmic in $ε_e$ more than the Wilson-Dirac Hamiltonian. Comparing to domain-wall fermions, a mild overhead is found in circuit complexity while reducing qubit costs. We show how QSP effectively constructs an extra dimension when simulating the overlap operator, illustrating that the scaling of quantum algorithms reflects the deeper physics of overlap fermions arising at the boundary of domain-wall fermions.",
-      "authors": [
-        "Henry Lamm",
-        "Alessandro Roggero",
-        "Hersh Singh",
-        "Luca Spagnoli"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.28524v1",
-      "link": "https://arxiv.org/abs/2607.28524v1",
-      "published": "2026-07-30T17:00:58Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3184910",
-        "inspire_url": "https://inspirehep.net/literature/3184910",
         "citation_count": 0
       }
     }
