@@ -15,10 +15,11 @@
   "scientific_program_committee": [
     { "name": "Stefan Meinel", "role": "Chair" },
     { "name": "Zohreh Davoudi", "role": "Member" },
-    { "name": "Christopher Kelly", "role": "Member" },
+    { "name": "Luchang Jin", "role": "Member" },
+    { "name": "Joseph Karpie", "role": "Member" },
     { "name": "Christopher Monahan", "role": "Member" },
     { "name": "Peter Petreczky", "role": "Member" },
-    { "name": "James Simone", "role": "Member" }
+    { "name": "Michael Wagman", "role": "Member" }
   ],
   "source": {
     "url": "https://www.usqcd.org/collaboration.html",
