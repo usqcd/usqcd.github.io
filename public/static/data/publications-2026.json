@@ -1,7 +1,30 @@
 {
-  "generated": "2026-08-10T07:57:11.080123+00:00Z",
-  "count": 137,
+  "generated": "2026-08-11T07:20:32.876109+00:00Z",
+  "count": 138,
   "publications": [
+    {
+      "id": "2608.08181v1",
+      "title": "Hamiltonian spectra in quantum computers through the generalized eigenvalue method",
+      "summary": "Quantum computers can generate real-time correlators of field theories. By adapting the generalized eigenvalue problem to these correlators, energy eigenvalues can be extracted directly. The method is tested using both classical simulations and quantum hardware, successfully resolving several low-lying energy levels in agreement with exact diagonalization. Comparison with an alternative spectrum determination based on the Fourier transform of correlators shows that the proposed approach is substantially more efficient.",
+      "authors": [
+        "Valery Simonyan",
+        "Greg Ridgway",
+        "Paulo Bedaque"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.08181v1",
+      "link": "https://arxiv.org/abs/2608.08181v1",
+      "published": "2026-08-08T15:18:08Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3189091",
+        "inspire_url": "https://inspirehep.net/literature/3189091",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.05752v1",
       "title": "QCD Chiral Crossover Line from Lee-Yang Edge Singularities",
@@ -726,7 +749,7 @@
       "inspire": {
         "control_number": "3174067",
         "inspire_url": "https://inspirehep.net/literature/3174067",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2281,15 +2304,15 @@
       }
     },
     {
-      "id": "2603.18438v2",
+      "id": "2603.18438v3",
       "title": "$Ξ_b \\to Ξ$ form factors from lattice QCD and Standard-Model predictions for $Ξ_b \\to Ξμ^+μ^-$ and $Ξ_b \\to Ξγ$ decays",
       "summary": "We present the first lattice QCD determination of the $Ξ_b \\to Ξ$ vector, axial-vector, and tensor form factors, which are relevant for the theory of rare decays including $Ξ_b \\to Ξ\\ell^+\\ell^-$ and $Ξ_b \\to Ξγ$. The calculation is performed with 2+1 flavors of domain-wall fermions at three different lattice spacings and pion masses in the range from approximately 430 to 230 MeV. The bottom quark is implemented using an anisotropic clover action. Three-point functions with a wide range of source-sink separations and model averaging are used to extract the ground-state contributions. We fit the dependence of the form factors on the momentum transfer, the pion mass, and the lattice spacing using modified $z$ expansions that account for subthreshold branch cuts, and apply dispersive bounds and asymptotic-behavior constraints to achieve controlled uncertainties in the full semileptonic kinematic region. Using our form factor results, we present Standard-Model predictions for the $Ξ_b^- \\to Ξ^- γ$ and $Ξ_b^- \\to Ξ^- μ^+μ^-$ branching fractions and two angular observables.",
       "authors": [
         "Callum Farrell",
         "Stefan Meinel"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.18438v2",
-      "link": "https://arxiv.org/abs/2603.18438v2",
+      "pdf": "https://arxiv.org/pdf/2603.18438v3",
+      "link": "https://arxiv.org/abs/2603.18438v3",
       "published": "2026-03-19T02:56:21Z",
       "categories": [
         "hep-lat",
@@ -2641,7 +2664,7 @@
       }
     },
     {
-      "id": "2603.02984v1",
+      "id": "2603.02984v2",
       "title": "Variance reduction in lattice QCD observables via normalizing flows",
       "summary": "Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor Quantum Chromodynamics (QCD) in four space-time dimensions. Variance reduction by factors of $10$-$60$ is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so that volume transfer can be utilized to minimize training costs.",
       "authors": [
@@ -2654,8 +2677,8 @@
         "Phiala E. Shanahan",
         "Julian M. Urban"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.02984v1",
-      "link": "https://arxiv.org/abs/2603.02984v1",
+      "pdf": "https://arxiv.org/pdf/2603.02984v2",
+      "link": "https://arxiv.org/abs/2603.02984v2",
       "published": "2026-03-03T13:36:29Z",
       "categories": [
         "hep-lat",
@@ -3408,7 +3431,7 @@
       }
     },
     {
-      "id": "2601.13070v1",
+      "id": "2601.13070v2",
       "title": "Lattice-QCD validation of hadron mass and trace-anomaly decomposition sum rules",
       "summary": "We present the first lattice-QCD validation of multiple sum rules associated with quark-gluon decomposition of hadron mass by computing all components from first principles. We achieve this through nonperturbative renormalization of the QCD energy-momentum tensor, including its trace, in a gradient-flow scheme, followed by continuum extrapolations, two-loop matching to the $\\overline{\\mathrm{MS}}$ scheme, and zero-flow-time extrapolations. These ingredients enable a direct and simultaneous verification, in a common renormalization scheme and scale, of multiple energy-density-based and trace-based mass decomposition sum rules proposed in the literature. We demonstrate the framework for the $η_c$ and $J/ψ$ charmonia using three fine lattice spacings with a physical strange-quark and near-physical up- and down-quark masses. We present the first lattice-QCD results for the gravitational form factor $\\bar{C}$. We find sizable gluonic contributions to charmonia masses at the hadronic scale, $\\sim 15\\%$ in the Lorcé and Metz-Pasquini-Rodini decompositions. The trace-anomaly contribution in the Ji sum rule is $\\sim 6\\%$, while the gluonic component of the trace anomaly in the Hatta-Rajan-Tanaka sum rule is $\\sim 35\\%$. The method is general and can be straightforwardly adopted for lattice-QCD calculations of mass and spin decompositions as well as gravitational form factors of other hadrons and nuclei.",
       "authors": [
@@ -3418,8 +3441,8 @@
         "Ran Luo",
         "Swagato Mukherjee"
       ],
-      "pdf": "https://arxiv.org/pdf/2601.13070v1",
-      "link": "https://arxiv.org/abs/2601.13070v1",
+      "pdf": "https://arxiv.org/pdf/2601.13070v2",
+      "link": "https://arxiv.org/abs/2601.13070v2",
       "published": "2026-01-19T14:02:52Z",
       "categories": [
         "hep-lat",
