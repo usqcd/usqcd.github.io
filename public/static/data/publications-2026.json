@@ -1,7 +1,48 @@
 {
-  "generated": "2026-08-11T07:20:32.876109+00:00Z",
-  "count": 138,
+  "generated": "2026-08-12T07:37:59.745797+00:00Z",
+  "count": 140,
   "publications": [
+    {
+      "id": "2608.11144v1",
+      "title": "QCD Vacuum in an Inhomogeneous Magnetic Field",
+      "summary": "The effect of an inhomogeneous magnetic field on the QCD vacuum is addressed using the framework of chiral perturbation theory. The magnetic field is chosen to be localized along one spatial direction, with a profile for which the underlying quantum mechanical problem is exactly solvable. Particular attention is paid to regularization and renormalization using dimensional regularization. While the non-vanishing gradient of the magnetic field requires additional operators in chiral perturbation theory, their effect occurs at next-to-next-to-leading order in the chiral expansion. Consequently, the magnetic field dependence of equilibrium vacuum observables can be determined at next-to-leading order without undetermined parameters. We compute the zero-temperature free energy and chiral condensate for the inhomogeneous background, both as integrated quantities as well as spatially resolved local observables. Comparison with locally constant approximations enables a direct probe of the spatial response and nonlocal structure of the magnetized QCD vacuum. We additionally derive the induced vacuum current associated with the inhomogeneity of the magnetic field.",
+      "authors": [
+        "Prabal Adhikari",
+        "Brian C. Tiburzi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.11144v1",
+      "link": "https://arxiv.org/abs/2608.11144v1",
+      "published": "2026-08-11T17:03:58Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3190078",
+        "inspire_url": "https://inspirehep.net/literature/3190078",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.10457v1",
+      "title": "Vacuum polarization in QED with an electromagnetic background from the lattice",
+      "summary": "We propose a framework to determine the vacuum polarization functions in QED in the presence of an electromagnetic background field in the spacelike region on the lattice. This method consists in reweighting lattice Monte Carlo data generated without the background with the fermion determinant ratio evaluated in the continuous spacetime using worldline formalism. This proposal can be further extended to other applications in lattice gauge theory, such as QCD in finite chemical potential.",
+      "authors": [
+        "En-Hung Chao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.10457v1",
+      "link": "https://arxiv.org/abs/2608.10457v1",
+      "published": "2026-08-11T04:12:16Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3190009",
+        "inspire_url": "https://inspirehep.net/literature/3190009",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.08181v1",
       "title": "Hamiltonian spectra in quantum computers through the generalized eigenvalue method",
