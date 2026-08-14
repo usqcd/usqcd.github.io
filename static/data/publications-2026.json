@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T07:47:26.885366+00:00Z",
+  "generated": "2026-08-14T07:40:19.060801+00:00Z",
   "count": 140,
   "publications": [
     {
@@ -1522,7 +1522,7 @@
             "year": 2026
           }
         ],
-        "citation_count": 3,
+        "citation_count": 4,
         "journal_ref": "Research, 9, artid 1369, p. 1369, 2026"
       }
     },
@@ -2262,14 +2262,14 @@
         "doi": "10.1103/h8n4-94g4",
         "publication_info": [
           {
-            "journal_title": "APS Open Science",
+            "journal_title": "APS Open Sci.",
             "journal_volume": "1",
             "artid": "000072",
             "year": 2026
           }
         ],
         "citation_count": 0,
-        "journal_ref": "APS Open Science, 1, artid 000072, 2026"
+        "journal_ref": "APS Open Sci., 1, artid 000072, 2026"
       }
     },
     {
