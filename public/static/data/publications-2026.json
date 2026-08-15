@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T07:40:19.060801+00:00Z",
+  "generated": "2026-08-15T06:54:40.927801+00:00Z",
   "count": 140,
   "publications": [
     {
@@ -1965,7 +1965,17 @@
       "inspire": {
         "control_number": "3138452",
         "inspire_url": "https://inspirehep.net/literature/3138452",
-        "citation_count": 1
+        "doi": "10.1103/hgxq-8c8h",
+        "publication_info": [
+          {
+            "journal_title": "APS Open Sci.",
+            "journal_volume": "1",
+            "artid": "000094",
+            "year": 2026
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "APS Open Sci., 1, artid 000094, 2026"
       }
     },
     {
