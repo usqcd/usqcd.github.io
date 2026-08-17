@@ -1,29 +1,7 @@
 {
-  "generated": "2026-08-16T07:00:05.580699+00:00Z",
-  "count": 140,
+  "generated": "2026-08-17T07:14:09.204794+00:00Z",
+  "count": 137,
   "publications": [
-    {
-      "id": "2608.11144v1",
-      "title": "QCD Vacuum in an Inhomogeneous Magnetic Field",
-      "summary": "The effect of an inhomogeneous magnetic field on the QCD vacuum is addressed using the framework of chiral perturbation theory. The magnetic field is chosen to be localized along one spatial direction, with a profile for which the underlying quantum mechanical problem is exactly solvable. Particular attention is paid to regularization and renormalization using dimensional regularization. While the non-vanishing gradient of the magnetic field requires additional operators in chiral perturbation theory, their effect occurs at next-to-next-to-leading order in the chiral expansion. Consequently, the magnetic field dependence of equilibrium vacuum observables can be determined at next-to-leading order without undetermined parameters. We compute the zero-temperature free energy and chiral condensate for the inhomogeneous background, both as integrated quantities as well as spatially resolved local observables. Comparison with locally constant approximations enables a direct probe of the spatial response and nonlocal structure of the magnetized QCD vacuum. We additionally derive the induced vacuum current associated with the inhomogeneity of the magnetic field.",
-      "authors": [
-        "Prabal Adhikari",
-        "Brian C. Tiburzi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.11144v1",
-      "link": "https://arxiv.org/abs/2608.11144v1",
-      "published": "2026-08-11T17:03:58Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3190078",
-        "inspire_url": "https://inspirehep.net/literature/3190078",
-        "citation_count": 0
-      }
-    },
     {
       "id": "2608.10457v1",
       "title": "Vacuum polarization in QED with an electromagnetic background from the lattice",
@@ -1560,7 +1538,7 @@
       "inspire": {
         "control_number": "3154615",
         "inspire_url": "https://inspirehep.net/literature/3154615",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1619,7 +1597,7 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -1774,39 +1752,6 @@
         "control_number": "3145671",
         "inspire_url": "https://inspirehep.net/literature/3145671",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2604.10314v2",
-      "title": "Pion Weak Decay in a Magnetic Field",
-      "summary": "Pion decay width in a uniform magnetic background, constructed within chiral perturbation theory, is compared with lattice QCD for which results are available in the muon channel. While the results are consistent for large magnetic fields, the discrepancy observed for weak magnetic fields is largely due to differences in the pion decay constants.",
-      "authors": [
-        "Prabal Adhikari",
-        "Brian C. Tiburzi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.10314v2",
-      "link": "https://arxiv.org/abs/2604.10314v2",
-      "published": "2026-04-11T18:35:15Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3144011",
-        "inspire_url": "https://inspirehep.net/literature/3144011",
-        "doi": "10.5506/APhysPolBSupp.19.4-A1",
-        "publication_info": [
-          {
-            "journal_title": "Acta Phys.Polon.Supp.",
-            "journal_volume": "19",
-            "page_start": "4",
-            "year": 2026,
-            "journal_issue": "4",
-            "page_end": "A1"
-          }
-        ],
-        "citation_count": 0,
-        "journal_ref": "Acta Phys.Polon.Supp., 19, p. 4, 2026"
       }
     },
     {
@@ -3294,30 +3239,6 @@
       "inspire": {
         "control_number": "3118097",
         "inspire_url": "https://inspirehep.net/literature/3118097",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.02436v2",
-      "title": "Wilson loops with neural networks",
-      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
-      "authors": [
-        "Verena Bellscheidt",
-        "Nora Brambilla",
-        "Andreas S. Kronfeld",
-        "Julian Mayer-Steudte"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.02436v2",
-      "link": "https://arxiv.org/abs/2602.02436v2",
-      "published": "2026-02-02T18:33:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3113673",
-        "inspire_url": "https://inspirehep.net/literature/3113673",
         "citation_count": 0
       }
     },
