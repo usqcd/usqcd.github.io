@@ -1,7 +1,50 @@
 {
-  "generated": "2026-08-17T07:14:09.260738+00:00Z",
-  "count": 137,
+  "generated": "2026-08-18T06:57:11.673811+00:00Z",
+  "count": 141,
   "publications": [
+    {
+      "id": "2608.16784v1",
+      "title": "Exotics with gluonic excitations",
+      "summary": "That the gluons of quantum chromodynamics self-interact with a strong coupling suggests the possibility of hadrons in which the gluonic field plays an essential role: Glueballs in which gluons stick together to produce a hadron in which no quarks are required, and hybrids in which an excited gluonic field couples to quarks. This chapter presents our contemporary theoretical understanding of such states, and the challenges associated with definitively identifying their presence within the experimental spectrum of hadrons.",
+      "authors": [
+        "Jozef J. Dudek"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.16784v1",
+      "link": "https://arxiv.org/abs/2608.16784v1",
+      "published": "2026-08-17T16:37:33Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3191798",
+        "inspire_url": "https://inspirehep.net/literature/3191798",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.11144v1",
+      "title": "QCD Vacuum in an Inhomogeneous Magnetic Field",
+      "summary": "The effect of an inhomogeneous magnetic field on the QCD vacuum is addressed using the framework of chiral perturbation theory. The magnetic field is chosen to be localized along one spatial direction, with a profile for which the underlying quantum mechanical problem is exactly solvable. Particular attention is paid to regularization and renormalization using dimensional regularization. While the non-vanishing gradient of the magnetic field requires additional operators in chiral perturbation theory, their effect occurs at next-to-next-to-leading order in the chiral expansion. Consequently, the magnetic field dependence of equilibrium vacuum observables can be determined at next-to-leading order without undetermined parameters. We compute the zero-temperature free energy and chiral condensate for the inhomogeneous background, both as integrated quantities as well as spatially resolved local observables. Comparison with locally constant approximations enables a direct probe of the spatial response and nonlocal structure of the magnetized QCD vacuum. We additionally derive the induced vacuum current associated with the inhomogeneity of the magnetic field.",
+      "authors": [
+        "Prabal Adhikari",
+        "Brian C. Tiburzi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.11144v1",
+      "link": "https://arxiv.org/abs/2608.11144v1",
+      "published": "2026-08-11T17:03:58Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3190078",
+        "inspire_url": "https://inspirehep.net/literature/3190078",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.10457v1",
       "title": "Vacuum polarization in QED with an electromagnetic background from the lattice",
@@ -66,65 +109,6 @@
       "inspire": {
         "control_number": "3188145",
         "inspire_url": "https://inspirehep.net/literature/3188145",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.02944v1",
-      "title": "The Utility of Sparse Error Detection in Quantum Simulations",
-      "summary": "The recent success of error detecting codes points toward their potential application to fault-tolerant simulations of nature. In this work, we examine the utility of sparse error detection for simulating lattice gauge theories using quantum computers. In particular, we study the time evolution of the lattice Schwinger model embedded into the Iceberg code family, $[[N+2, N, 2]]$, as well as the Hypercube code family, $[[2^N, N, 2]]$. The lattice of electrons and positrons in the axial gauge is embedded into a single code block or into multiple code blocks, and this work finds that large codeblocks are advantageous in the absence of connectivity constraints. Noisy classical simulations with realistic near-term error rates, infrequent syndrome measurements and physics-aware postselection are found to improve observable estimation. Under realistic noise rates for near-term quantum computers, this work finds that sparse error detection in quantum simulations has the potential to improve accuracy of observable estimation. Additional rounds of error detection are found to systematically drive errors in observables to the noise floor set by the code. These findings suggest that incorporating minimal implementations of fault tolerance in the near-term will enhance the performance of quantum simulations in nuclear physics and high-energy physics.",
-      "authors": [
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Jeremy Hartse",
-        "Anne L. Lashbrook",
-        "Zhiyao Li",
-        "Ziyuan Li",
-        "Sarah J. M. Powell",
-        "Martin J. Savage",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.02944v1",
-      "link": "https://arxiv.org/abs/2608.02944v1",
-      "published": "2026-08-03T23:15:45Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3187225",
-        "inspire_url": "https://inspirehep.net/literature/3187225",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.02836v1",
-      "title": "The Momentum Fraction, Helicity and Transversity Isovector Moments of Nucleons from \\texorpdfstring{$2+1$}{2+1}-flavor Lattice QCD",
-      "summary": "Results for the isovector momentum fraction, $\\langle x \\rangle_{u-d}$, helicity moment, $\\langle x \\rangle_{Δu-Δd}$, and the transversity moment, $\\langle x\\rangle_{δu-δd}$, of the nucleon are presented using high-statistics data on thirteen NME ensembles of gauge configurations generated by the JLab/W\\&M/LANL/MIT/Marseille collaborations using $2+1$-flavors of dynamical Wilson-clover quarks. The much higher statistics facilitated better control over all systematics compared to our previous lattice calculation. The least controlled systematic---excited-state contamination---is quantified by studying the variation of the results as a function of three estimates of the mass gap of the first excited state, obtained from two- and three-point correlation functions. The final results are obtained using a simultaneous fit to extrapolate in the lattice spacing, $a$, pion and kaon masses, $M_π$ and $M_K$, and the finite volume parameter, $M_πL$. The data show no significant finite-volume correction, and some dependence on the lattice spacing and the renormalization factors. The largest systematic uncertainty is due to possible remaining excited states contributions. Our final results, in the $\\overline{\\rm MS}$ scheme at 2~GeV, are $\\langle x \\rangle_{u-d} = 0.154(10)(9)$, $\\langle x \\rangle_{Δu-Δd} = 0.177(10)(15)$ and $\\langle x \\rangle_{δu-δd} = 0.197(12)(18)$, where the first error is the overall statistical uncertainty and the second represents the various systematic uncertainties added in quadrature. Results for the momentum fraction and helicity moment are consistent with phenomenological global fit values, while the transversity moment is a prediction.",
-      "authors": [
-        "Santanu Mondal",
-        "Rajan Gupta",
-        "Sungwoo Park",
-        "Jun-sik Yoo",
-        "Tanmoy Bhattacharya",
-        "Boram Yoon",
-        "Bálint Joó",
-        "Frank Winter"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.02836v1",
-      "link": "https://arxiv.org/abs/2608.02836v1",
-      "published": "2026-08-03T19:49:11Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3187234",
-        "inspire_url": "https://inspirehep.net/literature/3187234",
         "citation_count": 0
       }
     }
