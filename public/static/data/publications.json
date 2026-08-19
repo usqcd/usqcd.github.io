@@ -1,7 +1,30 @@
 {
-  "generated": "2026-08-18T06:57:11.673811+00:00Z",
-  "count": 141,
+  "generated": "2026-08-19T07:02:35.863412+00:00Z",
+  "count": 142,
   "publications": [
+    {
+      "id": "2608.17006v1",
+      "title": "Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow",
+      "summary": "The simple Ising model provides a rich environment to build and study lattice field theories. As part of an ongoing project to construct a conformal field theory (CFT) on an arbitrarily curved manifold, in this work we develop methods to measure the critical temperature $β_c$ of the affine-transformed Ising model on the face-centered cubic (FCC) lattice. The main challenge in this endeavor is finding a computationally efficient and accurate method of interpolating and extrapolating Monte Carlo observables with respect to coupling coefficients and temperature. Herein, we compare two such methods. A traditional statistical approach uses the multiple histogram (MH) method, while a newer machine learning approach uses a masked autoregressive flow (MAF) to estimate the underlying probability density function of a set of observables. While the MH method is specifically designed to interpolate and extrapolate Monte Carlo observables, we find that MAF is a viable alternative for measuring $β_c$ with a computational cost that scales more favorably. Furthermore, we comment on additional advantages of MAF relevant to our work, such as extrapolating in system volume.",
+      "authors": [
+        "Kai Svenson",
+        "George T. Fleming",
+        "Richard C. Brower",
+        "Nobuyuki Matsumoto",
+        "Rohan Misra"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.17006v1",
+      "link": "https://arxiv.org/abs/2608.17006v1",
+      "published": "2026-08-17T18:03:07Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3191985",
+        "inspire_url": "https://inspirehep.net/literature/3191985",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.16784v1",
       "title": "Exotics with gluonic excitations",
@@ -84,31 +107,6 @@
       "inspire": {
         "control_number": "3189091",
         "inspire_url": "https://inspirehep.net/literature/3189091",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.05752v1",
-      "title": "QCD Chiral Crossover Line from Lee-Yang Edge Singularities",
-      "summary": "We propose a universality-based reconstruction of the QCD chiral crossover line from Lee-Yang edge singularities in the complex baryon chemical potential plane. The framework maps lattice-extracted complex Lee-Yang-zero estimates, treated as proxies for edge singularities, to the universal chiral Lee-Yang edge and thereby determines the $μ_B$ dependence of both the chiral critical line in the light-quark chiral limit and the pseudo-critical crossover line at physical quark masses. As an illustration, we apply the framework to Lee-Yang-zero estimates recently obtained by the Wuppertal-Budapest collaboration from high-statistics lattice QCD simulations. Without imposing the previously determined small-$μ_B$ expansion of the crossover line as input, the reconstructed curvature is consistent with existing continuum lattice-QCD results at small $μ_B$. The fitted chiral-limit transition temperature is also compatible with existing chiral-scaling analyses. These results demonstrate that lattice information on Lee-Yang singularities, combined with universal chiral scaling, provides a quantitatively consistent constraint on the QCD crossover line within the present temperature window and establishes a framework that can be systematically improved with future Lee-Yang-zero determinations.",
-      "authors": [
-        "Heng-Tong Ding",
-        "Swagato Mukherjee",
-        "Peter Petreczky",
-        "Kai-Fan Ye"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.05752v1",
-      "link": "https://arxiv.org/abs/2608.05752v1",
-      "published": "2026-08-06T08:37:17Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3188145",
-        "inspire_url": "https://inspirehep.net/literature/3188145",
         "citation_count": 0
       }
     }
