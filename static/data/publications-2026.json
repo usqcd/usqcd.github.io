@@ -1,7 +1,30 @@
 {
-  "generated": "2026-08-18T06:57:11.611507+00:00Z",
-  "count": 141,
+  "generated": "2026-08-19T07:02:35.801570+00:00Z",
+  "count": 142,
   "publications": [
+    {
+      "id": "2608.17006v1",
+      "title": "Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow",
+      "summary": "The simple Ising model provides a rich environment to build and study lattice field theories. As part of an ongoing project to construct a conformal field theory (CFT) on an arbitrarily curved manifold, in this work we develop methods to measure the critical temperature $β_c$ of the affine-transformed Ising model on the face-centered cubic (FCC) lattice. The main challenge in this endeavor is finding a computationally efficient and accurate method of interpolating and extrapolating Monte Carlo observables with respect to coupling coefficients and temperature. Herein, we compare two such methods. A traditional statistical approach uses the multiple histogram (MH) method, while a newer machine learning approach uses a masked autoregressive flow (MAF) to estimate the underlying probability density function of a set of observables. While the MH method is specifically designed to interpolate and extrapolate Monte Carlo observables, we find that MAF is a viable alternative for measuring $β_c$ with a computational cost that scales more favorably. Furthermore, we comment on additional advantages of MAF relevant to our work, such as extrapolating in system volume.",
+      "authors": [
+        "Kai Svenson",
+        "George T. Fleming",
+        "Richard C. Brower",
+        "Nobuyuki Matsumoto",
+        "Rohan Misra"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.17006v1",
+      "link": "https://arxiv.org/abs/2608.17006v1",
+      "published": "2026-08-17T18:03:07Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3191985",
+        "inspire_url": "https://inspirehep.net/literature/3191985",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.16784v1",
       "title": "Exotics with gluonic excitations",
@@ -141,7 +164,7 @@
       "inspire": {
         "control_number": "3187225",
         "inspire_url": "https://inspirehep.net/literature/3187225",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -238,7 +261,7 @@
       "inspire": {
         "control_number": "3184910",
         "inspire_url": "https://inspirehep.net/literature/3184910",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1604,7 +1627,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 13
+        "citation_count": 14
       }
     },
     {
