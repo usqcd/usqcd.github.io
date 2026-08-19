@@ -993,7 +993,7 @@ function CollaborationPage({ setActive }) {
         </div>
       </div>
 
-      <div className="mt-6 p-4 bg-slate-50 rounded-md">
+      <div id="members" className="mt-6 p-4 bg-slate-50 rounded-md">
         <h4 className="font-semibold">Membership</h4>
         <p className="text-sm text-slate-600">The full list of USQCD collaboration members across participating institutions.</p>
         <MembersList />
@@ -1027,8 +1027,23 @@ function ContactSection() {
 }
 
 export default function USQCDApp() {
-  const [active, setActive] = useState('home');
-  useEffect(() => { window.scrollTo({ top: 0, behavior: 'smooth' }); }, [active]);
+  const [active, setActive] = useState(
+    window.location.hash === '#members' ? 'collaboration' : 'home'
+  );
+
+  useEffect(() => {
+    if (window.location.hash === '#members' && active === 'collaboration') {
+      // Wait until CollaborationPage has rendered
+      requestAnimationFrame(() => {
+        document.getElementById('members')?.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      });
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, [active]);
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
