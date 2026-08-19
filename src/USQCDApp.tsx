@@ -937,7 +937,7 @@ function MembersList() {
 function CollaborationPage({ setActive }) {
   const collLinks = {
     members: 'https://www.usqcd.org/members.html',
-    charter: 'https://www.usqcd.org/documents/usqcd_charter.pdf',
+    charter: resolvePath('documents/usqcd_charter.pdf'),
     codeOfConduct: 'https://www.usqcd.org/documents/code.pdf',
     meetings: 'https://www.usqcd.org/meetings.html'
   };
