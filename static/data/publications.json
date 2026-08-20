@@ -1,7 +1,30 @@
 {
-  "generated": "2026-08-19T07:02:35.863412+00:00Z",
-  "count": 142,
+  "generated": "2026-08-20T07:06:21.183826+00:00Z",
+  "count": 141,
   "publications": [
+    {
+      "id": "2608.18239v1",
+      "title": "Searching for symmetric mass generation with staggered fermions in four dimensions",
+      "summary": "We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global $SU(2)$ and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate anti-ferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as non-trivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical point and may describe a phase consisting of a condensate of certain topological defects.",
+      "authors": [
+        "Nouman Butt",
+        "Simon Catterall",
+        "Gwen Hartshaw",
+        "Anna Hasenfratz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.18239v1",
+      "link": "https://arxiv.org/abs/2608.18239v1",
+      "published": "2026-08-18T18:26:10Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3192638",
+        "inspire_url": "https://inspirehep.net/literature/3192638",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.17006v1",
       "title": "Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow",
@@ -84,29 +107,6 @@
       "inspire": {
         "control_number": "3190009",
         "inspire_url": "https://inspirehep.net/literature/3190009",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.08181v1",
-      "title": "Hamiltonian spectra in quantum computers through the generalized eigenvalue method",
-      "summary": "Quantum computers can generate real-time correlators of field theories. By adapting the generalized eigenvalue problem to these correlators, energy eigenvalues can be extracted directly. The method is tested using both classical simulations and quantum hardware, successfully resolving several low-lying energy levels in agreement with exact diagonalization. Comparison with an alternative spectrum determination based on the Fourier transform of correlators shows that the proposed approach is substantially more efficient.",
-      "authors": [
-        "Valery Simonyan",
-        "Greg Ridgway",
-        "Paulo Bedaque"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.08181v1",
-      "link": "https://arxiv.org/abs/2608.08181v1",
-      "published": "2026-08-08T15:18:08Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3189091",
-        "inspire_url": "https://inspirehep.net/literature/3189091",
         "citation_count": 0
       }
     }

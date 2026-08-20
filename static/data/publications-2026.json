@@ -1,7 +1,30 @@
 {
-  "generated": "2026-08-19T07:02:35.801570+00:00Z",
-  "count": 142,
+  "generated": "2026-08-20T07:06:21.122778+00:00Z",
+  "count": 141,
   "publications": [
+    {
+      "id": "2608.18239v1",
+      "title": "Searching for symmetric mass generation with staggered fermions in four dimensions",
+      "summary": "We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global $SU(2)$ and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate anti-ferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as non-trivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical point and may describe a phase consisting of a condensate of certain topological defects.",
+      "authors": [
+        "Nouman Butt",
+        "Simon Catterall",
+        "Gwen Hartshaw",
+        "Anna Hasenfratz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.18239v1",
+      "link": "https://arxiv.org/abs/2608.18239v1",
+      "published": "2026-08-18T18:26:10Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3192638",
+        "inspire_url": "https://inspirehep.net/literature/3192638",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.17006v1",
       "title": "Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow",
@@ -1380,30 +1403,6 @@
       }
     },
     {
-      "id": "2605.07262v1",
-      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
-      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
-      "authors": [
-        "Reinhold Kaiser",
-        "Frithjof Karsch",
-        "Jan Philipp Klinger",
-        "Owe Philipsen",
-        "Christian Schmidt",
-        "Simran Singh"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.07262v1",
-      "link": "https://arxiv.org/abs/2605.07262v1",
-      "published": "2026-05-08T05:27:26Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3153498",
-        "inspire_url": "https://inspirehep.net/literature/3153498",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2605.06560v1",
       "title": "$F_K/F_π$ as a precision test of a new four flavor Domain Wall Fermion action",
       "summary": "We present a new set of lattice QCD ensembles with four flavors of smeared Möbius Domain Wall Fermions with good chiral symmetry and small fifth-dimensional extent. A modest amount of computing resources was sufficient to generate 30 publicly-available ensembles spanning five lattice spacings and a broad range of pion masses down to physical. To scrutinize our action we determine $F_{K^{\\pm}}/F_{π^{\\pm}} = 1.1962(34)$, a key quantity for precision CKM unitarity tests, heralding a future of inexpensive high-precision calculations of hadronic observables with chiral fermions.",
@@ -1627,7 +1626,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 14
+        "citation_count": 15
       }
     },
     {
@@ -3016,31 +3015,6 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.23118v2",
-      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
-      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
-      "authors": [
-        "Sabarnya Mitra",
-        "Jishnu Goswami",
-        "Frithjof Karsch"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23118v2",
-      "link": "https://arxiv.org/abs/2602.23118v2",
-      "published": "2026-02-26T15:32:30Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3123855",
-        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
