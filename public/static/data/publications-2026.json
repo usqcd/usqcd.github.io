@@ -1,7 +1,54 @@
 {
-  "generated": "2026-08-20T07:06:21.122778+00:00Z",
-  "count": 141,
+  "generated": "2026-08-21T07:03:40.915680+00:00Z",
+  "count": 139,
   "publications": [
+    {
+      "id": "2608.19943v1",
+      "title": "Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation",
+      "summary": "Though quantum computing naturally offers an advantage for simulations of real-time quantum systems, implementing Imaginary-Time Evolution (ITE) is comparatively more difficult. Nevertheless, quantum implementations of ITE are useful both in cases where classical implementations have associated sign problems, and also as an exact method of preparing eigenstates on quantum computers. In this work we present an algorithm to obtain ITE of a generic quantum Hamiltonian by performing analytic continuation of measured real-time correlation functions. We present simulations and demonstrations on IBM quantum hardware of 1D Fokker-Planck equations for classical diffusion process and imaginary-time evolution of integrated correlation functions in 1D quantum mechanical scattering as examples to demonstrate the effectiveness of the method.",
+      "authors": [
+        "Peng Guo",
+        "Anto Shibu",
+        "Joshua Lin",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.19943v1",
+      "link": "https://arxiv.org/abs/2608.19943v1",
+      "published": "2026-08-20T12:03:10Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.other",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3193771",
+        "inspire_url": "https://inspirehep.net/literature/3193771",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.19400v1",
+      "title": "Lorentzian Kähler-Dirac fermions",
+      "summary": "We examine the formulation of Kähler fermions on spacetimes with Lorentz signature. In practice we focus on Minkowski spacetime since most of the difficulties that are encountered are visible even when the spacetime is flat. We show that the theory, when interpreted as a Lorentz invariant theory of forms or antisymmetric tensor fields, is non-unitary. We show that unitarity can be restored provided one adopts a modified inner product on the Hilbert space. This modified inner product requires the insertion of an operator J that anti-commutes with certain modes of the Kähler field in such a way as to guarantee all states have positive norm. We give an explicit (and local) form for J and show that while it commutes with the Hamiltonian, it is incompatible with the Lorentz transformation properties of the tensor fields. In flat space, the unitarized formulation is equivalent to 4 Dirac fermions.",
+      "authors": [
+        "Simon Catterall",
+        "Jay Hubisz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.19400v1",
+      "link": "https://arxiv.org/abs/2608.19400v1",
+      "published": "2026-08-19T19:34:21Z",
+      "categories": [
+        "hep-th",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3193720",
+        "inspire_url": "https://inspirehep.net/literature/3193720",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.18239v1",
       "title": "Searching for symmetric mass generation with staggered fermions in four dimensions",
@@ -17,6 +64,7 @@
       "published": "2026-08-18T18:26:10Z",
       "categories": [
         "hep-lat",
+        "cond-mat.str-el",
         "hep-th"
       ],
       "inspire": {
@@ -285,51 +333,6 @@
         "control_number": "3184910",
         "inspire_url": "https://inspirehep.net/literature/3184910",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2607.27550v1",
-      "title": "Confinement and String Breaking in the Compact Abelian Higgs Model",
-      "summary": "While real-time simulation of Quantum Chromodynamics remains technologically out of reach, simplified models for studying elements of QCD phenomenology abound. This work presents a simple model, a spin-1 truncation of the Compact Abelian Higgs Model simulated on qutrit sites, in which confinement and string breaking is accessible to current simulation methods. In the low-energy regime of 1+1D scalar electrodynamics, the heavy modes are integrated out, producing a spin chain effective Hamiltonian in which Gauss' law is implicitly satisfied. We study the spectrum of string-like excitations using DMRG methods on the order of 100 sites. We demonstrate that an added, local chemical potential, playing a role analogous to external charges, permits parameter-dependent measurements of physical features of interest like the string tension and effective meson mass. Varying the chemical potential also permits a characterization of string stability not assessed in prior studies of confining lattice models.",
-      "authors": [
-        "Blake Senseman",
-        "Zane Ozzello",
-        "Yannick Meurice",
-        "Stephen Mrenna"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.27550v1",
-      "link": "https://arxiv.org/abs/2607.27550v1",
-      "published": "2026-07-30T00:50:25Z",
-      "categories": [
-        "hep-lat",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3184776",
-        "inspire_url": "https://inspirehep.net/literature/3184776",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2607.27013v1",
-      "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
-      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function resembling the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to some low enough value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum.",
-      "authors": [
-        "Zane Ozzello",
-        "Avi Kaufman",
-        "Yannick Meurice"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.27013v1",
-      "link": "https://arxiv.org/abs/2607.27013v1",
-      "published": "2026-07-29T15:13:40Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3184452",
-        "inspire_url": "https://inspirehep.net/literature/3184452",
-        "citation_count": 0
       }
     },
     {
@@ -1102,28 +1105,6 @@
       }
     },
     {
-      "id": "2606.14642v3",
-      "title": "Zeros of the partition function for 12 flavor QCD",
-      "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
-      "authors": [
-        "Anas Saleh",
-        "Michael Hite",
-        "Diego Floor",
-        "Yannick Meurice"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.14642v3",
-      "link": "https://arxiv.org/abs/2606.14642v3",
-      "published": "2026-06-12T17:05:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168353",
-        "inspire_url": "https://inspirehep.net/literature/3168353",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2606.14491v1",
       "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
       "summary": "Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.",
@@ -1400,6 +1381,30 @@
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
+      }
+    },
+    {
+      "id": "2605.07262v1",
+      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
+      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
+      "authors": [
+        "Reinhold Kaiser",
+        "Frithjof Karsch",
+        "Jan Philipp Klinger",
+        "Owe Philipsen",
+        "Christian Schmidt",
+        "Simran Singh"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.07262v1",
+      "link": "https://arxiv.org/abs/2605.07262v1",
+      "published": "2026-05-08T05:27:26Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3153498",
+        "inspire_url": "https://inspirehep.net/literature/3153498",
+        "citation_count": 0
       }
     },
     {
@@ -1768,7 +1773,7 @@
       "inspire": {
         "control_number": "3148486",
         "inspire_url": "https://inspirehep.net/literature/3148486",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1798,16 +1803,16 @@
       }
     },
     {
-      "id": "2604.13269v1",
+      "id": "2604.13269v2",
       "title": "Charged kaon electric polarizability from four-point functions in lattice QCD",
-      "summary": "We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic (Born) term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic (non-Born) term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched $24^3\\times 48$ lattices, and we compute connected diagrams as a proof of principle. From this analysis, we obtain values for the charged kaon electric polarizability of $α_E = (0.988 \\pm 0.534) \\times 10^{-4}\\;\\mathrm{fm}^3$ as well as $\\langle r_E^2\\rangle =0.3303\\pm 0.0028\\;\\mathrm{fm}^2$ for the squared kaon charge radius, after extrapolation to the physical pion mass. The study demonstrates the applicability of the four-point function framework to strange mesons, extends previous four-point function polarizability studies, and provides a foundation for future calculations with increased statistics, dynamical fermions, and improved control of systematic uncertainties.",
+      "summary": "We present a lattice QCD calculation of the electric polarizability of the charged kaon using a four-point function approach, which is the Euclidean analog of low-energy Compton scattering. In the case of the charged kaon, the polarizability is separated into an elastic term, determined from the charge radius extracted via the kaon electromagnetic form factor, and an inelastic term obtained from the time-integrated difference of four-point correlation functions. Our study employs 500 configurations of Wilson quenched $24^3 \\times 48$ lattices, and we compute connected diagrams as a proof of principle. From this analysis we obtain a charged kaon electric polarizability of $α_E = (1.682 \\pm 0.523) \\times 10^{-4}$ fm$^3$ and a squared charge radius $r_E^2 = 0.3303 \\pm 0.0028$ fm$^2$ after extrapolation to the physical pion mass. The quoted uncertainties include statistical errors and, for $α_E$, the $\\boldsymbol{q}^2 \\to 0$ extrapolation; they do not include systematic effects from the quenched approximation, omitted disconnected diagrams, finite volume, or the single lattice spacing, which may be comparable in size. The results at the simulated masses should therefore be regarded as the primary outcome, with the physical-point values serving as an indicative extrapolation. The study demonstrates the applicability of the four-point function framework to strange mesons, extends previous four-point function polarizability studies, and provides a foundation for future calculations with increased statistics, dynamical fermions, and improved control of systematic uncertainties.",
       "authors": [
         "Shayan Nadeem",
         "Walter Wilcox",
         "Frank X. Lee"
       ],
-      "pdf": "https://arxiv.org/pdf/2604.13269v1",
-      "link": "https://arxiv.org/abs/2604.13269v1",
+      "pdf": "https://arxiv.org/pdf/2604.13269v2",
+      "link": "https://arxiv.org/abs/2604.13269v2",
       "published": "2026-04-14T20:00:17Z",
       "categories": [
         "hep-lat",
@@ -2028,7 +2033,7 @@
             "year": 2026
           }
         ],
-        "citation_count": 1,
+        "citation_count": 2,
         "journal_ref": "APS Open Sci., 1, artid 000094, 2026"
       }
     },
@@ -2589,36 +2594,6 @@
       }
     },
     {
-      "id": "2603.12391v1",
-      "title": "Hybrid Analog-Digital Simulation of the Abelian Higgs model",
-      "summary": "To investigate gauge theories with near-term quantum computers warrants exploration of nontraditional quantum simulators to find resource-efficient simulation protocols and ultimately access exotic features of different field theories, including unexplored regimes of the QCD phase diagram. In this work, using superconducting transmon qutrit processors, we formulate and implement a pulse-based, three-level, hybrid analog-digital simulation protocol of the (1+1) dimensional Abelian Higgs model (AHM) on two sites. Alongside this approach, we experimentally realize a gate-based implementation of the same model. Using the natural mapping of the three-level truncation of the transmon Hilbert space to the spin-1 truncated AHM, we observe real time dynamics of AHM field observables, which are analogous to electric field operators, with both protocols. For the analog-digital protocol, we engineer a Floquet simulation with a combination of local analog drives, driven modification of the natural interaction Hamiltonian of the two transmons, and dynamical decoupling pulses. For the digital protocol, we use a state-of-the-art qutrit processor to implement a Trotterized simulation of the model incorporating advanced error mitigation techniques. We further discuss the scalability of the two approaches, and their potential to be extended to the simulation of other model Hamiltonians. Our experiments demonstrate a viable platform for future studies of spin-1 and SU(3) based gauge theory models on current and near-term transmon qutrit processors.",
-      "authors": [
-        "Muhammad Asaduzzaman",
-        "Rayleigh W. Parker",
-        "Noah Goss",
-        "Ahmed I. Mohamed",
-        "Max Neiderbach",
-        "Zane Ozzello",
-        "Ravi K. Naik",
-        "Alexander F. Kemper",
-        "Irfan Siddiqi",
-        "Yannick Meurice",
-        "Machiel S. Blok"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.12391v1",
-      "link": "https://arxiv.org/abs/2603.12391v1",
-      "published": "2026-03-12T19:10:16Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3129090",
-        "inspire_url": "https://inspirehep.net/literature/3129090",
-        "citation_count": 2
-      }
-    },
-    {
       "id": "2603.10255v1",
       "title": "Topological structure of the entanglement radius of Yang-Mills flux tubes",
       "summary": "We expand on recent work arXiv:2601.17199 demonstrating the existence of a novel entanglement radius $ξ_0$ characterizing flux tube entanglement entropy (FTE$^2$) in (2+1)D Yang-Mills theory. This physical scale corresponds to the intrinsic thickness of the flux tube that must be fully severed by an entangling region for color degrees of freedom in the flux tube to contribute non-zero FTE$^2$. We consider here geometries of the entanglement region $V$ on the lattice where the length of the region cross-cutting the flux tube is of the same magnitude as $ξ_0$. Our results further the conclusions of arXiv:2601.17199 by adding detailed new information on the topological structure of the entanglement radius of color flux tubes.",
@@ -3015,6 +2990,31 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2602.23118v2",
+      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
+      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
+      "authors": [
+        "Sabarnya Mitra",
+        "Jishnu Goswami",
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.23118v2",
+      "link": "https://arxiv.org/abs/2602.23118v2",
+      "published": "2026-02-26T15:32:30Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123855",
+        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
@@ -3433,34 +3433,6 @@
       }
     },
     {
-      "id": "2601.21155v2",
-      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
-      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
-      "authors": [
-        "Oleksandr Tomalak",
-        "Aaron S. Meyer",
-        "Clarence Wret",
-        "Tejin Cai",
-        "Richard J. Hill",
-        "Kevin S. McFarland"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21155v2",
-      "link": "https://arxiv.org/abs/2601.21155v2",
-      "published": "2026-01-29T01:30:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3112889",
-        "inspire_url": "https://inspirehep.net/literature/3112889",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.17199v1",
       "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
       "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
@@ -3744,27 +3716,6 @@
       "inspire": {
         "control_number": "3097575",
         "inspire_url": "https://inspirehep.net/literature/3097575",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.02676v1",
-      "title": "The Nucleon Axial Form Factor from Averaging Lattice QCD Results",
-      "summary": "Flagship neutrino oscillation experiments depend on precise and accurate theoretical knowledge of neutrino-nucleon cross sections across a variety of energies and interaction mechanisms. Key ingredients to the amplitudes that make up these cross sections are parameterized form factors. The axial form factor describing a weak interaction with a nucleon is part of one of the primary neutrino-nucleon interaction mechanisms, quasielastic scattering, yet this form factor is uncertain and its precision is limited by the availability of data for a neutrino scattering with nucleons or small nuclear targets. Lattice Quantum Chromodynamics (LQCD) now offers another approach for obtaining mathematically rigorous constraints of the axial form factor from theoretical calculations with complete systematic error budgets. In this work, strategies for averaging LQCD results are explored, including both a random sampling of form factor values across momentum transfers as well as an averaging strategy based on analytic calculations of form factor derivatives. Fits to z expansion parameterizations are reported and compared against neutrino-hydrogen and neutrino-deuterium scattering data.",
-      "authors": [
-        "Aaron S. Meyer"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.02676v1",
-      "link": "https://arxiv.org/abs/2601.02676v1",
-      "published": "2026-01-06T03:21:59Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3098236",
-        "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
       }
     },
