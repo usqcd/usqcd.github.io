@@ -1,9 +1,32 @@
 {
-  "generated": "2026-08-23T06:59:03.348244+00:00Z",
-  "count": 137,
+  "generated": "2026-08-24T07:15:06.528038+00:00Z",
+  "count": 140,
   "publications": [
     {
-      "id": "2608.19943v1",
+      "id": "2608.21258v1",
+      "title": "Exponential-in-$N_c^2$ cost reduction of product-formula-based quantum simulations of quantum chromodynamics",
+      "summary": "Quantum algorithms for simulating quantum chromodynamics (QCD) have matured steadily since the pioneering work of Byrnes and Yamamoto [PRA 73, 022328 (2006)]. The most popular strategies for Hamiltonian simulation involve product-formula decompositions. However, the application of product-formula methods to SU($N_c$) lattice gauge theories by Byrnes and Yamamoto leads to $O(Λ^{8(N_c^2-1)})$ gate complexity per Trotter step, where $Λ$ is the bosonic cutoff in the electric (i.e., irreducible-representation) basis. A seminal work by Kan and Nam [arXiv:2107.12769 (2021)] significantly improves over such an undesirable cost and reports an $O\\big(Λ\\text{polylog}(Λ)\\big)$ scaling, yet it still calls for an unrealistically large number of quantum gates. Here, we illuminate one of the reasons behind this high cost estimate and show that a factor of size $O(2^{4(N_c^2-1)})$ can be removed from the per-Trotter-step cost estimate by Kan and Nam. We specifically show that, by using methods developed in our past works [PRD 112, 014508 (2025); Quantum 7, 1213 (2023)], exponentiated-Hamiltonian decomposition---a necessary step in the application of product-formula algorithms---can be performed far more efficiently than previously thought. Our method reduces the T-gate cost estimate of QCD simulations using a second-order product formula by a factor of nearly $10^{14}$, independent of simulation parameters and sizes. Focusing on simulations in the electric basis, we further contrast our results with other methods: the local-multiplet basis approach of Ciavarella, Klco, and Savage [PRD 103, 094501 (2021)] and the near-optimal algorithm of Rhodes, Kreshchuk, and Pathak [PRX Quantum 5, 040347 (2024)]. This work highlights the importance of continued algorithmic improvement to bringing the quantum-simulation cost of QCD within reach of realistic quantum computers.",
+      "authors": [
+        "Zohreh Davoudi",
+        "Jesse R. Stryker"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.21258v1",
+      "link": "https://arxiv.org/abs/2608.21258v1",
+      "published": "2026-08-21T16:16:09Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3194679",
+        "inspire_url": "https://inspirehep.net/literature/3194679",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.19943v2",
       "title": "Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation",
       "summary": "Though quantum computing naturally offers an advantage for simulations of real-time quantum systems, implementing Imaginary-Time Evolution (ITE) is comparatively more difficult. Nevertheless, quantum implementations of ITE are useful both in cases where classical implementations have associated sign problems, and also as an exact method of preparing eigenstates on quantum computers. In this work we present an algorithm to obtain ITE of a generic quantum Hamiltonian by performing analytic continuation of measured real-time correlation functions. We present simulations and demonstrations on IBM quantum hardware of 1D Fokker-Planck equations for classical diffusion process and imaginary-time evolution of integrated correlation functions in 1D quantum mechanical scattering as examples to demonstrate the effectiveness of the method.",
       "authors": [
@@ -12,8 +35,8 @@
         "Joshua Lin",
         "Yong Zhao"
       ],
-      "pdf": "https://arxiv.org/pdf/2608.19943v1",
-      "link": "https://arxiv.org/abs/2608.19943v1",
+      "pdf": "https://arxiv.org/pdf/2608.19943v2",
+      "link": "https://arxiv.org/abs/2608.19943v2",
       "published": "2026-08-20T12:03:10Z",
       "categories": [
         "quant-ph",
@@ -93,27 +116,6 @@
       "inspire": {
         "control_number": "3191985",
         "inspire_url": "https://inspirehep.net/literature/3191985",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.16784v1",
-      "title": "Exotics with gluonic excitations",
-      "summary": "That the gluons of quantum chromodynamics self-interact with a strong coupling suggests the possibility of hadrons in which the gluonic field plays an essential role: Glueballs in which gluons stick together to produce a hadron in which no quarks are required, and hybrids in which an excited gluonic field couples to quarks. This chapter presents our contemporary theoretical understanding of such states, and the challenges associated with definitively identifying their presence within the experimental spectrum of hadrons.",
-      "authors": [
-        "Jozef J. Dudek"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.16784v1",
-      "link": "https://arxiv.org/abs/2608.16784v1",
-      "published": "2026-08-17T16:37:33Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3191798",
-        "inspire_url": "https://inspirehep.net/literature/3191798",
         "citation_count": 0
       }
     }
