@@ -1,7 +1,33 @@
 {
-  "generated": "2026-08-24T07:15:06.528038+00:00Z",
-  "count": 140,
+  "generated": "2026-08-25T07:07:39.821324+00:00Z",
+  "count": 147,
   "publications": [
+    {
+      "id": "2608.22587v1",
+      "title": "Calculation of neutron electric dipole moment from Lattice QCD",
+      "summary": "Experimental constraints on the neutron electric dipole moment (nEDM) may imply strong-CP problem in QCD, or unnatural smallness of the QCD theta angle. In this work, we present a novel determination of the neutron electric dipole moment (nEDM) $d_n$ sensitivity to theta term from nonperturbative QCD on a lattice with background electric field. Using Feynman-Hellmann theorem, we compute nEDM from the matrix element of local topological charge density between nucleon ground states spatially polarized by an electric field. These states have mixed spatial parity, and we construct them using variational analysis. We obtain statistically significant signal for the theta induced nEDM from lattices with 2+1 dynamical domain wall fermions corresponding to pion masses of 340, 420, and 576 MeV and lattice spacing $a\\approx 0.11~\\text{fm}$. After extrapolating to the physical point, we obtain $d_n=-0.0050(4)(8)\\barθ$ e$\\cdot$fm. Comparison with the current experimental bound on nEDM implies constraint $|\\barθ|\\lesssim 10^{-11}$, which confirms existence of the strong-CP problem in QCD. Our pioneering work demonstrates that neutron EDM can be reliably determined from the local density of topological charge with robust control of systematic effects, and can be directly extended to other CP-violating interactions.",
+      "authors": [
+        "Thomas Blum",
+        "Fangcheng He",
+        "Taku Izubuchi",
+        "Luchang Jin",
+        "Hiroshi Ohki",
+        "Sergey Syritsyn"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.22587v1",
+      "link": "https://arxiv.org/abs/2608.22587v1",
+      "published": "2026-08-23T20:45:20Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3195314",
+        "inspire_url": "https://inspirehep.net/literature/3195314",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.21258v1",
       "title": "Exponential-in-$N_c^2$ cost reduction of product-formula-based quantum simulations of quantum chromodynamics",
@@ -93,29 +119,6 @@
       "inspire": {
         "control_number": "3192638",
         "inspire_url": "https://inspirehep.net/literature/3192638",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.17006v1",
-      "title": "Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow",
-      "summary": "The simple Ising model provides a rich environment to build and study lattice field theories. As part of an ongoing project to construct a conformal field theory (CFT) on an arbitrarily curved manifold, in this work we develop methods to measure the critical temperature $β_c$ of the affine-transformed Ising model on the face-centered cubic (FCC) lattice. The main challenge in this endeavor is finding a computationally efficient and accurate method of interpolating and extrapolating Monte Carlo observables with respect to coupling coefficients and temperature. Herein, we compare two such methods. A traditional statistical approach uses the multiple histogram (MH) method, while a newer machine learning approach uses a masked autoregressive flow (MAF) to estimate the underlying probability density function of a set of observables. While the MH method is specifically designed to interpolate and extrapolate Monte Carlo observables, we find that MAF is a viable alternative for measuring $β_c$ with a computational cost that scales more favorably. Furthermore, we comment on additional advantages of MAF relevant to our work, such as extrapolating in system volume.",
-      "authors": [
-        "Kai Svenson",
-        "George T. Fleming",
-        "Richard C. Brower",
-        "Nobuyuki Matsumoto",
-        "Rohan Misra"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.17006v1",
-      "link": "https://arxiv.org/abs/2608.17006v1",
-      "published": "2026-08-17T18:03:07Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3191985",
-        "inspire_url": "https://inspirehep.net/literature/3191985",
         "citation_count": 0
       }
     }
