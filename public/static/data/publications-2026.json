@@ -1,7 +1,33 @@
 {
-  "generated": "2026-08-25T07:07:39.771678+00:00Z",
-  "count": 147,
+  "generated": "2026-08-26T07:14:41.288237+00:00Z",
+  "count": 148,
   "publications": [
+    {
+      "id": "2608.23685v1",
+      "title": "Direct lattice QCD calculation of the $θ$-induced CP-violating pion-nucleon coupling",
+      "summary": "We present the first direct lattice QCD determination of the $θ$-induced CP-violating pion-nucleon-nucleon coupling $\\tilde g_{πNN}$. Using overlap valence fermions on three $2+1$-flavor domain-wall ensembles at a single lattice spacing, we calculate the forward proton matrix element of the isovector pseudoscalar density in the $θ$-vacuum to first order in $\\barθ$. The parity-mixing effect in the external nucleon states is included in the extraction. The cluster-decomposition error-reduction method is used to improve the statistical precision. A simultaneous extrapolation in the valence- and sea-pion masses, with model averaging over 7 forms based on the Akaike information criterion, gives $\\tilde g_{πNN}=0.0306(56)(124)\\,\\barθ$ at the physical point. The first uncertainty includes the statistical and matrix-element-fit systematic uncertainties, whereas the second reflects the spread among the extrapolation forms. Within these uncertainties, the result is consistent with the indirect determination based on the strong neutron-proton mass splitting. The present precision is limited primarily by the extrapolation from the relatively heavy sea-pion masses.",
+      "authors": [
+        "Chuan-Yang Li",
+        "Jun Hua",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Long-cheng Gui",
+        "Jun Shi",
+        "Nan Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.23685v1",
+      "link": "https://arxiv.org/abs/2608.23685v1",
+      "published": "2026-08-24T18:00:02Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3195614",
+        "inspire_url": "https://inspirehep.net/literature/3195614",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.22587v1",
       "title": "Calculation of neutron electric dipole moment from Lattice QCD",
@@ -1900,7 +1926,7 @@
       "inspire": {
         "control_number": "3148486",
         "inspire_url": "https://inspirehep.net/literature/3148486",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2052,7 +2078,7 @@
       "inspire": {
         "control_number": "3139140",
         "inspire_url": "https://inspirehep.net/literature/3139140",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
