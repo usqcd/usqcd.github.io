@@ -1,7 +1,33 @@
 {
-  "generated": "2026-08-25T07:07:39.821324+00:00Z",
-  "count": 147,
+  "generated": "2026-08-26T07:14:41.350342+00:00Z",
+  "count": 148,
   "publications": [
+    {
+      "id": "2608.23685v1",
+      "title": "Direct lattice QCD calculation of the $θ$-induced CP-violating pion-nucleon coupling",
+      "summary": "We present the first direct lattice QCD determination of the $θ$-induced CP-violating pion-nucleon-nucleon coupling $\\tilde g_{πNN}$. Using overlap valence fermions on three $2+1$-flavor domain-wall ensembles at a single lattice spacing, we calculate the forward proton matrix element of the isovector pseudoscalar density in the $θ$-vacuum to first order in $\\barθ$. The parity-mixing effect in the external nucleon states is included in the extraction. The cluster-decomposition error-reduction method is used to improve the statistical precision. A simultaneous extrapolation in the valence- and sea-pion masses, with model averaging over 7 forms based on the Akaike information criterion, gives $\\tilde g_{πNN}=0.0306(56)(124)\\,\\barθ$ at the physical point. The first uncertainty includes the statistical and matrix-element-fit systematic uncertainties, whereas the second reflects the spread among the extrapolation forms. Within these uncertainties, the result is consistent with the indirect determination based on the strong neutron-proton mass splitting. The present precision is limited primarily by the extrapolation from the relatively heavy sea-pion masses.",
+      "authors": [
+        "Chuan-Yang Li",
+        "Jun Hua",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Long-cheng Gui",
+        "Jun Shi",
+        "Nan Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.23685v1",
+      "link": "https://arxiv.org/abs/2608.23685v1",
+      "published": "2026-08-24T18:00:02Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3195614",
+        "inspire_url": "https://inspirehep.net/literature/3195614",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.22587v1",
       "title": "Calculation of neutron electric dipole moment from Lattice QCD",
@@ -95,30 +121,6 @@
       "inspire": {
         "control_number": "3193720",
         "inspire_url": "https://inspirehep.net/literature/3193720",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.18239v1",
-      "title": "Searching for symmetric mass generation with staggered fermions in four dimensions",
-      "summary": "We conduct numerical simulations to map out the phase diagram and critical behavior of a lattice Higgs model composed of two massless staggered fermion fields forming a doublet under a global $SU(2)$ and coupled to a scalar field in the adjoint representation of the group. The scalar action consists of a potential comprising quadratic and quartic terms and a scalar kinetic term. At fixed quartic coupling we explore a two-dimensional parameter space finding a massless symmetric phase at weak coupling and a massive symmetric phase (SMG phase) at strong coupling. An intermediate anti-ferromagnetic phase separates these two regimes. These results are consistent with leading order weak and strong coupling expansions. We find that the critical lines bounding the intermediate phase merge at a unique point where all fermion bilinear condensates vanish but fermion susceptibilities diverge as non-trivial powers of the lattice size. We conjecture that this merged point corresponds to a multicritical point and may describe a phase consisting of a condensate of certain topological defects.",
-      "authors": [
-        "Nouman Butt",
-        "Simon Catterall",
-        "Gwen Hartshaw",
-        "Anna Hasenfratz"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.18239v1",
-      "link": "https://arxiv.org/abs/2608.18239v1",
-      "published": "2026-08-18T18:26:10Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3192638",
-        "inspire_url": "https://inspirehep.net/literature/3192638",
         "citation_count": 0
       }
     }
