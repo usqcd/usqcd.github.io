@@ -1,7 +1,58 @@
 {
-  "generated": "2026-08-26T07:14:41.350342+00:00Z",
-  "count": 148,
+  "generated": "2026-08-27T17:37:38.685632+00:00Z",
+  "count": 150,
   "publications": [
+    {
+      "id": "2608.25143v1",
+      "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
+      "summary": "Three dimensional compact U(1) gauge theory supports a finite density of monopoles at a fixed lattice gauge coupling. After showing evidence for the expected dependence on the lattice coupling of the density of monopoles, we study the low lying spectrum of a two flavors of two-component Wilson fermions as a function of the bare Wilson mass. The Wilson-Dirac operator that realizes the two flavors are hermitian conjugate of each other to restore parity invariance and the commutativity of the two operators expected in the typical continuum limit is not the case in the presence of monopoles for all values of the lattice gauge coupling. This results in an anomalous behavior where we see clear evidence for the presence of very small eigenvalues for a wide range of a particular sign of the bare Wilson mass. These eigenmodes are typically in one-to-one correspondence with the number of monopoles as defined by the gauge field and the spectrum associated with these modes are separated by a gap from the bulk in the asymptotic regime of the lattice gauge coupling. The eigenvalues come in pairs around zero and the eigenvalues of one sign couple to the monopoles while the modes of the opposite sign couple to the anti-monopole implying flavor symmetry breaking.",
+      "authors": [
+        "Manuel Cortina",
+        "Rajamani Narayanan",
+        "Ray Romero"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.25143v1",
+      "link": "https://arxiv.org/abs/2608.25143v1",
+      "published": "2026-08-25T20:48:13Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3196217",
+        "inspire_url": "https://inspirehep.net/literature/3196217",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.23737v1",
+      "title": "Femtoscale imaging of the proton with Ioffe-time distributions",
+      "summary": "Mapping how strongly interacting constituents are distributed within protons is a key goal of nuclear physics and a major direction of the future Electron Ion Collider program. We propose a novel space-time description of hadron structure in terms of impact-parameter Ioffe-time distributions, relating spatial density in the plane transverse to the proton momentum and the time between the probe's absorption and the product's emission in the longitudinal direction. Using lattice Quantum Chromodynamics, we perform the first calculation of the Ioffe-time-dependent mean squared proton radii and compare our results with estimates in the Goloskokov-Kroll model. We derive a relationship between the experimentally measurable Compton form factor and the generalized Ioffe-time distribution, which allows us to perform the first extraction of the Compton form factor from lattice calculations.",
+      "authors": [
+        "Robert G. Edwards",
+        "Joe Karpie",
+        "Christopher Monahan",
+        "Kostas Orginos",
+        "Anatoly Radyushkin",
+        "David Richards",
+        "Eloy Romero",
+        "Savvas Zafeiropoulos"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.23737v1",
+      "link": "https://arxiv.org/abs/2608.23737v1",
+      "published": "2026-08-24T18:22:25Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3195773",
+        "inspire_url": "https://inspirehep.net/literature/3195773",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.23685v1",
       "title": "Direct lattice QCD calculation of the $θ$-induced CP-violating pion-nucleon coupling",
@@ -74,53 +125,6 @@
       "inspire": {
         "control_number": "3194679",
         "inspire_url": "https://inspirehep.net/literature/3194679",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.19943v2",
-      "title": "Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation",
-      "summary": "Though quantum computing naturally offers an advantage for simulations of real-time quantum systems, implementing Imaginary-Time Evolution (ITE) is comparatively more difficult. Nevertheless, quantum implementations of ITE are useful both in cases where classical implementations have associated sign problems, and also as an exact method of preparing eigenstates on quantum computers. In this work we present an algorithm to obtain ITE of a generic quantum Hamiltonian by performing analytic continuation of measured real-time correlation functions. We present simulations and demonstrations on IBM quantum hardware of 1D Fokker-Planck equations for classical diffusion process and imaginary-time evolution of integrated correlation functions in 1D quantum mechanical scattering as examples to demonstrate the effectiveness of the method.",
-      "authors": [
-        "Peng Guo",
-        "Anto Shibu",
-        "Joshua Lin",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.19943v2",
-      "link": "https://arxiv.org/abs/2608.19943v2",
-      "published": "2026-08-20T12:03:10Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.other",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3193771",
-        "inspire_url": "https://inspirehep.net/literature/3193771",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.19400v1",
-      "title": "Lorentzian Kähler-Dirac fermions",
-      "summary": "We examine the formulation of Kähler fermions on spacetimes with Lorentz signature. In practice we focus on Minkowski spacetime since most of the difficulties that are encountered are visible even when the spacetime is flat. We show that the theory, when interpreted as a Lorentz invariant theory of forms or antisymmetric tensor fields, is non-unitary. We show that unitarity can be restored provided one adopts a modified inner product on the Hilbert space. This modified inner product requires the insertion of an operator J that anti-commutes with certain modes of the Kähler field in such a way as to guarantee all states have positive norm. We give an explicit (and local) form for J and show that while it commutes with the Hamiltonian, it is incompatible with the Lorentz transformation properties of the tensor fields. In flat space, the unitarized formulation is equivalent to 4 Dirac fermions.",
-      "authors": [
-        "Simon Catterall",
-        "Jay Hubisz"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.19400v1",
-      "link": "https://arxiv.org/abs/2608.19400v1",
-      "published": "2026-08-19T19:34:21Z",
-      "categories": [
-        "hep-th",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3193720",
-        "inspire_url": "https://inspirehep.net/literature/3193720",
         "citation_count": 0
       }
     }
