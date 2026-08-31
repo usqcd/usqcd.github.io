@@ -1,7 +1,51 @@
 {
-  "generated": "2026-08-30T11:42:11.031549+00:00Z",
-  "count": 150,
+  "generated": "2026-08-31T13:15:12.616876+00:00Z",
+  "count": 146,
   "publications": [
+    {
+      "id": "2608.28581v1",
+      "title": "Renormalization-guided cascade upscaling for lattice field generation",
+      "summary": "We introduce a renormalization-group (RG) guided machine-learning algorithm for lattice field generation based on approximate inversion of an RG transformation. A ``perfect blocking'' construction supplies equilibrated long-distance modes, while a conditional normalizing flow reconstructs short-distance details and brief rethermalization removes residual errors. In 2D $φ^4$ theory at criticality, a flow trained at $L\\le32$ is reused recursively in cascades reaching $L=2048$ with correct long-distance physics.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Ethan T. Neil",
+        "Letizia Parato",
+        "Noah Schwartz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.28581v1",
+      "link": "https://arxiv.org/abs/2608.28581v1",
+      "published": "2026-08-28T17:55:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3197530",
+        "inspire_url": "https://inspirehep.net/literature/3197530",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.28580v1",
+      "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
+      "summary": "We propose an algorithm for generating lattice field configurations based on the approximate inversion of a renormalization-group blocking transformation. We optimize the blocking transformation using a ``perfect blocking'' condition so that the blocked lattice distribution is well approximated by a simple coarse action. The blocking is separated into an invertible smoothing transformation followed by decimation. Machine learning, in the form of a conditional normalizing flow, is used to reconstruct the short-distance degrees of freedom removed by the decimation. A short fine-action rethermalization then removes the residual mismatch. Because the coarse ensemble supplies the long-distance modes, the same blocking transformation and conditional flow can be reused recursively on larger lattices, producing a cascade of configurations from an initial small-volume ensemble. We test the method in two-dimensional $φ^4$ theory with $λ=1$ at criticality and demonstrate stable cascade upscaling from $16^2$ to $2048^2$ lattices on local computational resources. Controlled rethermalization tests show that short-distance mismatches relax rapidly, whereas a deliberately introduced mismatch in the relevant thermal direction relaxes much more slowly. The construction uses ingredients that admit natural extensions to higher-dimensional systems and, ultimately, to gauge and fermionic degrees of freedom.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Ethan T. Neil",
+        "Letizia Parato",
+        "Noah Schwartz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.28580v1",
+      "link": "https://arxiv.org/abs/2608.28580v1",
+      "published": "2026-08-28T17:55:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3197552",
+        "inspire_url": "https://inspirehep.net/literature/3197552",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.25143v1",
       "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
@@ -333,38 +377,6 @@
       }
     },
     {
-      "id": "2608.02944v1",
-      "title": "The Utility of Sparse Error Detection in Quantum Simulations",
-      "summary": "The recent success of error detecting codes points toward their potential application to fault-tolerant simulations of nature. In this work, we examine the utility of sparse error detection for simulating lattice gauge theories using quantum computers. In particular, we study the time evolution of the lattice Schwinger model embedded into the Iceberg code family, $[[N+2, N, 2]]$, as well as the Hypercube code family, $[[2^N, N, 2]]$. The lattice of electrons and positrons in the axial gauge is embedded into a single code block or into multiple code blocks, and this work finds that large codeblocks are advantageous in the absence of connectivity constraints. Noisy classical simulations with realistic near-term error rates, infrequent syndrome measurements and physics-aware postselection are found to improve observable estimation. Under realistic noise rates for near-term quantum computers, this work finds that sparse error detection in quantum simulations has the potential to improve accuracy of observable estimation. Additional rounds of error detection are found to systematically drive errors in observables to the noise floor set by the code. These findings suggest that incorporating minimal implementations of fault tolerance in the near-term will enhance the performance of quantum simulations in nuclear physics and high-energy physics.",
-      "authors": [
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Jeremy Hartse",
-        "Anne L. Lashbrook",
-        "Zhiyao Li",
-        "Ziyuan Li",
-        "Sarah J. M. Powell",
-        "Martin J. Savage",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.02944v1",
-      "link": "https://arxiv.org/abs/2608.02944v1",
-      "published": "2026-08-03T23:15:45Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3187225",
-        "inspire_url": "https://inspirehep.net/literature/3187225",
-        "citation_count": 1
-      }
-    },
-    {
       "id": "2608.02836v1",
       "title": "The Momentum Fraction, Helicity and Transversity Isovector Moments of Nucleons from \\texorpdfstring{$2+1$}{2+1}-flavor Lattice QCD",
       "summary": "Results for the isovector momentum fraction, $\\langle x \\rangle_{u-d}$, helicity moment, $\\langle x \\rangle_{Δu-Δd}$, and the transversity moment, $\\langle x\\rangle_{δu-δd}$, of the nucleon are presented using high-statistics data on thirteen NME ensembles of gauge configurations generated by the JLab/W\\&M/LANL/MIT/Marseille collaborations using $2+1$-flavors of dynamical Wilson-clover quarks. The much higher statistics facilitated better control over all systematics compared to our previous lattice calculation. The least controlled systematic---excited-state contamination---is quantified by studying the variation of the results as a function of three estimates of the mass gap of the first excited state, obtained from two- and three-point correlation functions. The final results are obtained using a simultaneous fit to extrapolate in the lattice spacing, $a$, pion and kaon masses, $M_π$ and $M_K$, and the finite volume parameter, $M_πL$. The data show no significant finite-volume correction, and some dependence on the lattice spacing and the renormalization factors. The largest systematic uncertainty is due to possible remaining excited states contributions. Our final results, in the $\\overline{\\rm MS}$ scheme at 2~GeV, are $\\langle x \\rangle_{u-d} = 0.154(10)(9)$, $\\langle x \\rangle_{Δu-Δd} = 0.177(10)(15)$ and $\\langle x \\rangle_{δu-δd} = 0.197(12)(18)$, where the first error is the overall statistical uncertainty and the second represents the various systematic uncertainties added in quadrature. Results for the momentum fraction and helicity moment are consistent with phenomenological global fit values, while the transversity moment is a prediction.",
@@ -546,38 +558,6 @@
       "inspire": {
         "control_number": "3183843",
         "inspire_url": "https://inspirehep.net/literature/3183843",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2607.24947v1",
-      "title": "Realizing Error Suppression in Partially Fault-Tolerant Quantum Simulations with IBM Quantum Computers",
-      "summary": "Quantum error-detecting codes offer a near-term path for improving the performance of quantum simulations on noisy hardware. Using IBM's superconducting quantum computer ibm_boston, we show that partially fault-tolerant encoded quantum simulations of the Ising model in 1+1D and 2+1D outperform their unencoded counterparts in estimating local observables. To represent 42 logical qubits on the heavy-hex quantum processor, 21 blocks of the [[4, 2, 2]] Iceberg code and up to 136 physical qubits are used. By pairing fault-tolerant syndrome extraction with non-fault-tolerant logical operations, this scheme preserves many of the benefits of error detection while avoiding the overhead typically required for a fully fault-tolerant logical gate set. The encoding's square logical connectivity, together with the freedom to place logical qubits within each block, enables simulations of a 2D spatial lattice with lower circuit depth than the unencoded implementation requires. We introduce Observable-Ranked Postselection, a selective-filtering technique based on syndrome correlations that recovers reliable results without the prohibitive shot loss of full syndrome postselection. Under the cumulative effect of device errors, this encoding improves local-observable accuracy over the unencoded baseline by 2-6% at intermediate times in 1+1D simulations, growing with circuit depth to over 200% in 2+1D at the latest times studied.",
-      "authors": [
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Jeremy Hartse",
-        "Anne L. Lashbrook",
-        "Zhiyao Li",
-        "Ziyuan Li",
-        "Sarah J. M. Powell",
-        "Martin J. Savage",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.24947v1",
-      "link": "https://arxiv.org/abs/2607.24947v1",
-      "published": "2026-07-27T18:01:39Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3183932",
-        "inspire_url": "https://inspirehep.net/literature/3183932",
         "citation_count": 1
       }
     },
@@ -986,29 +966,6 @@
       }
     },
     {
-      "id": "2606.28167v1",
-      "title": "Spectral densities from Euclidean correlators via integral transforms: theoretical framework",
-      "summary": "Spectral densities link experimental measurements to dynamical properties of a quantum field theory which, in turn, can be resolved non-perturbatively from the Euclidean time-dependence of correlation functions. By making extensive use of integral transforms, we present analytic formulae to carry out the inverse Laplace transform so as to extract spectral densities from either the continuum or the discrete sampling of correlation functions in the Euclidean time. Formulae extend to regulated and/or smeared spectral densities as well. We explicitly show that the proposed lattice solution tends to its continuum counterpart up to $O(a^2)$ effects in the lattice spacing $a$ if the lattice correlator is $O(a)$-improved. In practical computations, lattices have necessarily a finite Euclidean temporal extent, a lack of knowledge which suggests to introduce incomplete integral transforms and the corresponding incomplete smeared spectral densities. The contribution from the unknowns to a smeared spectral density can then be rigorously bound and kept under control if the integral transform of the smearing function decays fast enough with the conjugate variable. Conversely, the bound can be used to plan lattices so as to achieve a given target precision on the reconstructed spectral density of interest. The formulae presented here in the context of lattice field theory can be easily applied or extended to other areas of research.",
-      "authors": [
-        "Leonardo Giusti",
-        "Matteo Saccardi",
-        "Diego Toniolo"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.28167v1",
-      "link": "https://arxiv.org/abs/2606.28167v1",
-      "published": "2026-06-26T15:01:16Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3174081",
-        "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 3
-      }
-    },
-    {
       "id": "2606.28102v1",
       "title": "Mellin Moments of Pion and Kaon Unpolarized PDFs from Nonlocal Operators in Lattice QCD",
       "summary": "We present a first-principles lattice-QCD determination of Mellin moments of the unpolarized pion and kaon parton distribution functions using matrix elements of boosted mesons coupled to nonlocal operators containing a straight Wilson line. The calculation is performed on an $N_f=2+1+1$ ensemble of maximally twisted-mass fermions with a clover term, with lattice volume $32^3\\times64$, lattice spacing $a=0.0934$ fm, and pion mass $m_π=260$ MeV. Matrix elements are computed for hadron momenta $P_3=0$, 0.41, 0.83, 1.25, 1.66, and 2.07 GeV and analyzed within the short-distance factorization framework. We investigate the dependence of the extracted moments on the truncation of the operator-product expansion, the coordinate-space fit window, and the perturbative accuracy of the Wilson coefficients, comparing next-to-leading-order and next-to-next-to-leading-order results. We also perform an RG-improved analysis as a consistency check of the perturbative treatment. Our final results are obtained from combined fits in $(P_3,z)$ space at next-to-next-to-leading-order and are quoted at $μ=2$ GeV. We also study the SU(3) symmetry-breaking effect and reconstruct the valence PDFs from the moments.",
@@ -1269,10 +1226,19 @@
       "inspire": {
         "control_number": "3168685",
         "inspire_url": "https://inspirehep.net/literature/3168685",
+        "doi": "10.22323/1.518.0100",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "100",
+            "artid": "100",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 100, p. 100, 2026"
       }
     },
     {
@@ -1424,32 +1390,6 @@
       }
     },
     {
-      "id": "2605.22957v1",
-      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
-      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
-      "authors": [
-        "Arkaitz Rodas",
-        "Lin Qiu",
-        "César Fernández-Ramírez",
-        "Vincent Mathieu",
-        "Glòria Montaña",
-        "Alessandro Pilloni",
-        "Adam P. Szczepaniak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.22957v1",
-      "link": "https://arxiv.org/abs/2605.22957v1",
-      "published": "2026-05-21T18:43:53Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3158986",
-        "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 2
-      }
-    },
-    {
       "id": "2605.20509v1",
       "title": "The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data",
       "summary": "This work introduces the causal bootstrap, a framework for bounding smeared spectral observables from finite non-perturbative Euclidean data. The method optimizes over the convex set of positive spectral densities compatible with the data to compute rigorous upper and lower bounds on the target observable. Statistical uncertainties, including correlations, are incorporated through compatibility regions using the covariance matrix. The bounds are equivalent, via Lagrange duality, to certified bounds on the target smearing kernel. For polynomial, rational, and piecewise rational kernels, the resulting dual problems can be reduced to finite-dimensional semidefinite programs using techniques familiar, e.g., in the numerical conformal bootstrap. The present formulation clarifies the relation to moment problems, Nevanlinna--Pick interpolation, and linear kernel-reconstruction methods. Numerical examples demonstrate the method.",
@@ -1493,10 +1433,19 @@
       "inspire": {
         "control_number": "3158071",
         "inspire_url": "https://inspirehep.net/literature/3158071",
+        "doi": "10.22323/1.518.0018",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "018",
+            "artid": "018",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 3
+        "citation_count": 4,
+        "journal_ref": "PoS, LATTICE2025, artid 018, p. 018, 2026"
       }
     },
     {
@@ -1562,7 +1511,15 @@
       "inspire": {
         "control_number": "3155354",
         "inspire_url": "https://inspirehep.net/literature/3155354",
+        "doi": "10.22323/1.518.0165",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "165",
+            "artid": "165",
+            "year": 2026
+          },
           {
             "journal_title": "PoS",
             "journal_volume": "LATTICE2025",
@@ -1573,7 +1530,7 @@
           {}
         ],
         "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2025"
+        "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2026"
       }
     },
     {
@@ -1816,29 +1773,6 @@
       }
     },
     {
-      "id": "2604.26376v1",
-      "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
-      "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
-      "authors": [
-        "Caroline E. P. Robin",
-        "Martin J. Savage"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.26376v1",
-      "link": "https://arxiv.org/abs/2604.26376v1",
-      "published": "2026-04-29T07:39:25Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3150112",
-        "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 15
-      }
-    },
-    {
       "id": "2604.25802v1",
       "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
       "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
@@ -1899,7 +1833,7 @@
       "inspire": {
         "control_number": "3148937",
         "inspire_url": "https://inspirehep.net/literature/3148937",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1937,7 +1871,15 @@
       "inspire": {
         "control_number": "3148934",
         "inspire_url": "https://inspirehep.net/literature/3148934",
+        "doi": "10.22323/1.518.0204",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "204",
+            "artid": "204",
+            "year": 2026
+          },
           {
             "journal_title": "PoS",
             "journal_volume": "LATTICE2025",
@@ -1948,7 +1890,7 @@
           {}
         ],
         "citation_count": 1,
-        "journal_ref": "PoS, LATTICE2025, artid 518, p. 518, 2025"
+        "journal_ref": "PoS, LATTICE2025, artid 204, p. 204, 2026"
       }
     },
     {
@@ -2096,7 +2038,15 @@
       "inspire": {
         "control_number": "3141718",
         "inspire_url": "https://inspirehep.net/literature/3141718",
+        "doi": "10.22323/1.518.0248",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "248",
+            "artid": "248",
+            "year": 2026
+          },
           {
             "journal_title": "PoS",
             "journal_volume": "LATTICE2025",
@@ -2107,7 +2057,7 @@
           {}
         ],
         "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2025"
+        "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2026"
       }
     },
     {
@@ -2129,7 +2079,7 @@
       "inspire": {
         "control_number": "3139140",
         "inspire_url": "https://inspirehep.net/literature/3139140",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2158,10 +2108,19 @@
       "inspire": {
         "control_number": "3138458",
         "inspire_url": "https://inspirehep.net/literature/3138458",
+        "doi": "10.22323/1.518.0205",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "205",
+            "artid": "205",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 205, p. 205, 2026"
       }
     },
     {
@@ -2386,7 +2345,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 7
+        "citation_count": 9
       }
     },
     {
@@ -2439,10 +2398,19 @@
       "inspire": {
         "control_number": "3133766",
         "inspire_url": "https://inspirehep.net/literature/3133766",
+        "doi": "10.22323/1.518.0098",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "098",
+            "artid": "098",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 2,
+        "journal_ref": "PoS, LATTICE2025, artid 098, p. 098, 2026"
       }
     },
     {
@@ -2494,7 +2462,15 @@
       "inspire": {
         "control_number": "3132761",
         "inspire_url": "https://inspirehep.net/literature/3132761",
+        "doi": "10.22323/1.518.0207",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "207",
+            "artid": "207",
+            "year": 2026
+          },
           {
             "journal_title": "PoS",
             "journal_volume": "LATTICE2025",
@@ -2505,7 +2481,7 @@
           {}
         ],
         "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2025"
+        "journal_ref": "PoS, LATTICE2025, artid 207, p. 207, 2026"
       }
     },
     {
@@ -2572,10 +2548,19 @@
       "inspire": {
         "control_number": "3132388",
         "inspire_url": "https://inspirehep.net/literature/3132388",
+        "doi": "10.22323/1.518.0242",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "242",
+            "artid": "242",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 242, p. 242, 2026"
       }
     },
     {
@@ -2700,10 +2685,19 @@
       "inspire": {
         "control_number": "3130955",
         "inspire_url": "https://inspirehep.net/literature/3130955",
+        "doi": "10.22323/1.518.0245",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "245",
+            "artid": "245",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 1
+        "citation_count": 2,
+        "journal_ref": "PoS, LATTICE2025, artid 245, p. 245, 2026"
       }
     },
     {
@@ -2727,10 +2721,19 @@
       "inspire": {
         "control_number": "3129855",
         "inspire_url": "https://inspirehep.net/literature/3129855",
+        "doi": "10.22323/1.518.0221",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "221",
+            "artid": "221",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 1
+        "citation_count": 1,
+        "journal_ref": "PoS, LATTICE2025, artid 221, p. 221, 2026"
       }
     },
     {
@@ -2758,10 +2761,19 @@
       "inspire": {
         "control_number": "3129083",
         "inspire_url": "https://inspirehep.net/literature/3129083",
+        "doi": "10.22323/1.518.0212",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "212",
+            "artid": "212",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 212, p. 212, 2026"
       }
     },
     {
@@ -2847,10 +2859,19 @@
       "inspire": {
         "control_number": "3128414",
         "inspire_url": "https://inspirehep.net/literature/3128414",
+        "doi": "10.22323/1.518.0184",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "184",
+            "artid": "184",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 3
+        "citation_count": 3,
+        "journal_ref": "PoS, LATTICE2025, artid 184, p. 184, 2026"
       }
     },
     {
@@ -2884,10 +2905,19 @@
       "inspire": {
         "control_number": "3125658",
         "inspire_url": "https://inspirehep.net/literature/3125658",
+        "doi": "10.22323/1.518.0010",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "010",
+            "artid": "010",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 1
+        "citation_count": 4,
+        "journal_ref": "PoS, LATTICE2025, artid 010, p. 010, 2026"
       }
     },
     {
@@ -2912,7 +2942,18 @@
       "inspire": {
         "control_number": "3125654",
         "inspire_url": "https://inspirehep.net/literature/3125654",
-        "citation_count": 0
+        "doi": "10.22323/1.518.0213",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "213",
+            "artid": "213",
+            "year": 2026
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 213, p. 213, 2026"
       }
     },
     {
@@ -2938,10 +2979,19 @@
       "inspire": {
         "control_number": "3125649",
         "inspire_url": "https://inspirehep.net/literature/3125649",
+        "doi": "10.22323/1.518.0220",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "220",
+            "artid": "220",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 220, p. 220, 2026"
       }
     },
     {
@@ -2971,10 +3021,19 @@
       "inspire": {
         "control_number": "3125287",
         "inspire_url": "https://inspirehep.net/literature/3125287",
+        "doi": "10.22323/1.518.0238",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "238",
+            "artid": "238",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 1
+        "citation_count": 1,
+        "journal_ref": "PoS, LATTICE2025, artid 238, p. 238, 2026"
       }
     },
     {
@@ -3037,10 +3096,19 @@
       "inspire": {
         "control_number": "3125292",
         "inspire_url": "https://inspirehep.net/literature/3125292",
+        "doi": "10.22323/1.518.0157",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "157",
+            "artid": "157",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 157, p. 157, 2026"
       }
     },
     {
@@ -3061,7 +3129,18 @@
       "inspire": {
         "control_number": "3124604",
         "inspire_url": "https://inspirehep.net/literature/3124604",
-        "citation_count": 0
+        "doi": "10.22323/1.518.0066",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "066",
+            "artid": "066",
+            "year": 2026
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "PoS, LATTICE2025, artid 066, p. 066, 2026"
       }
     },
     {
@@ -3135,10 +3214,19 @@
       "inspire": {
         "control_number": "3124603",
         "inspire_url": "https://inspirehep.net/literature/3124603",
+        "doi": "10.22323/1.518.0075",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "075",
+            "artid": "075",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 1,
+        "journal_ref": "PoS, LATTICE2025, artid 075, p. 075, 2026"
       }
     },
     {
@@ -3197,10 +3285,19 @@
       "inspire": {
         "control_number": "3124242",
         "inspire_url": "https://inspirehep.net/literature/3124242",
+        "doi": "10.22323/1.518.0200",
         "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "200",
+            "artid": "200",
+            "year": 2026
+          },
           {}
         ],
-        "citation_count": 0
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 200, p. 200, 2026"
       }
     },
     {
@@ -3818,31 +3915,6 @@
       "inspire": {
         "control_number": "3108533",
         "inspire_url": "https://inspirehep.net/literature/3108533",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.08825v2",
-      "title": "The Quantum Complexity of String Breaking in the Schwinger Model",
-      "summary": "String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. A suite of quantum complexity measures is examined using Matrix Product States to characterize the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.",
-      "authors": [
-        "Sebastian Grieninger",
-        "Martin J. Savage",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.08825v2",
-      "link": "https://arxiv.org/abs/2601.08825v2",
-      "published": "2026-01-13T18:57:53Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3103920",
-        "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
       }
     },

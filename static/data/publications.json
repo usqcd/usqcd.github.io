@@ -1,7 +1,51 @@
 {
-  "generated": "2026-08-30T11:42:11.093232+00:00Z",
-  "count": 150,
+  "generated": "2026-08-31T13:15:12.679815+00:00Z",
+  "count": 146,
   "publications": [
+    {
+      "id": "2608.28581v1",
+      "title": "Renormalization-guided cascade upscaling for lattice field generation",
+      "summary": "We introduce a renormalization-group (RG) guided machine-learning algorithm for lattice field generation based on approximate inversion of an RG transformation. A ``perfect blocking'' construction supplies equilibrated long-distance modes, while a conditional normalizing flow reconstructs short-distance details and brief rethermalization removes residual errors. In 2D $φ^4$ theory at criticality, a flow trained at $L\\le32$ is reused recursively in cascades reaching $L=2048$ with correct long-distance physics.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Ethan T. Neil",
+        "Letizia Parato",
+        "Noah Schwartz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.28581v1",
+      "link": "https://arxiv.org/abs/2608.28581v1",
+      "published": "2026-08-28T17:55:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3197530",
+        "inspire_url": "https://inspirehep.net/literature/3197530",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2608.28580v1",
+      "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
+      "summary": "We propose an algorithm for generating lattice field configurations based on the approximate inversion of a renormalization-group blocking transformation. We optimize the blocking transformation using a ``perfect blocking'' condition so that the blocked lattice distribution is well approximated by a simple coarse action. The blocking is separated into an invertible smoothing transformation followed by decimation. Machine learning, in the form of a conditional normalizing flow, is used to reconstruct the short-distance degrees of freedom removed by the decimation. A short fine-action rethermalization then removes the residual mismatch. Because the coarse ensemble supplies the long-distance modes, the same blocking transformation and conditional flow can be reused recursively on larger lattices, producing a cascade of configurations from an initial small-volume ensemble. We test the method in two-dimensional $φ^4$ theory with $λ=1$ at criticality and demonstrate stable cascade upscaling from $16^2$ to $2048^2$ lattices on local computational resources. Controlled rethermalization tests show that short-distance mismatches relax rapidly, whereas a deliberately introduced mismatch in the relevant thermal direction relaxes much more slowly. The construction uses ingredients that admit natural extensions to higher-dimensional systems and, ultimately, to gauge and fermionic degrees of freedom.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Ethan T. Neil",
+        "Letizia Parato",
+        "Noah Schwartz"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.28580v1",
+      "link": "https://arxiv.org/abs/2608.28580v1",
+      "published": "2026-08-28T17:55:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3197552",
+        "inspire_url": "https://inspirehep.net/literature/3197552",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.25143v1",
       "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
@@ -76,55 +120,6 @@
       "inspire": {
         "control_number": "3195614",
         "inspire_url": "https://inspirehep.net/literature/3195614",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.22587v1",
-      "title": "Calculation of neutron electric dipole moment from Lattice QCD",
-      "summary": "Experimental constraints on the neutron electric dipole moment (nEDM) may imply strong-CP problem in QCD, or unnatural smallness of the QCD theta angle. In this work, we present a novel determination of the neutron electric dipole moment (nEDM) $d_n$ sensitivity to theta term from nonperturbative QCD on a lattice with background electric field. Using Feynman-Hellmann theorem, we compute nEDM from the matrix element of local topological charge density between nucleon ground states spatially polarized by an electric field. These states have mixed spatial parity, and we construct them using variational analysis. We obtain statistically significant signal for the theta induced nEDM from lattices with 2+1 dynamical domain wall fermions corresponding to pion masses of 340, 420, and 576 MeV and lattice spacing $a\\approx 0.11~\\text{fm}$. After extrapolating to the physical point, we obtain $d_n=-0.0050(4)(8)\\barθ$ e$\\cdot$fm. Comparison with the current experimental bound on nEDM implies constraint $|\\barθ|\\lesssim 10^{-11}$, which confirms existence of the strong-CP problem in QCD. Our pioneering work demonstrates that neutron EDM can be reliably determined from the local density of topological charge with robust control of systematic effects, and can be directly extended to other CP-violating interactions.",
-      "authors": [
-        "Thomas Blum",
-        "Fangcheng He",
-        "Taku Izubuchi",
-        "Luchang Jin",
-        "Hiroshi Ohki",
-        "Sergey Syritsyn"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.22587v1",
-      "link": "https://arxiv.org/abs/2608.22587v1",
-      "published": "2026-08-23T20:45:20Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3195314",
-        "inspire_url": "https://inspirehep.net/literature/3195314",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.21258v1",
-      "title": "Exponential-in-$N_c^2$ cost reduction of product-formula-based quantum simulations of quantum chromodynamics",
-      "summary": "Quantum algorithms for simulating quantum chromodynamics (QCD) have matured steadily since the pioneering work of Byrnes and Yamamoto [PRA 73, 022328 (2006)]. The most popular strategies for Hamiltonian simulation involve product-formula decompositions. However, the application of product-formula methods to SU($N_c$) lattice gauge theories by Byrnes and Yamamoto leads to $O(Λ^{8(N_c^2-1)})$ gate complexity per Trotter step, where $Λ$ is the bosonic cutoff in the electric (i.e., irreducible-representation) basis. A seminal work by Kan and Nam [arXiv:2107.12769 (2021)] significantly improves over such an undesirable cost and reports an $O\\big(Λ\\text{polylog}(Λ)\\big)$ scaling, yet it still calls for an unrealistically large number of quantum gates. Here, we illuminate one of the reasons behind this high cost estimate and show that a factor of size $O(2^{4(N_c^2-1)})$ can be removed from the per-Trotter-step cost estimate by Kan and Nam. We specifically show that, by using methods developed in our past works [PRD 112, 014508 (2025); Quantum 7, 1213 (2023)], exponentiated-Hamiltonian decomposition---a necessary step in the application of product-formula algorithms---can be performed far more efficiently than previously thought. Our method reduces the T-gate cost estimate of QCD simulations using a second-order product formula by a factor of nearly $10^{14}$, independent of simulation parameters and sizes. Focusing on simulations in the electric basis, we further contrast our results with other methods: the local-multiplet basis approach of Ciavarella, Klco, and Savage [PRD 103, 094501 (2021)] and the near-optimal algorithm of Rhodes, Kreshchuk, and Pathak [PRX Quantum 5, 040347 (2024)]. This work highlights the importance of continued algorithmic improvement to bringing the quantum-simulation cost of QCD within reach of realistic quantum computers.",
-      "authors": [
-        "Zohreh Davoudi",
-        "Jesse R. Stryker"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.21258v1",
-      "link": "https://arxiv.org/abs/2608.21258v1",
-      "published": "2026-08-21T16:16:09Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3194679",
-        "inspire_url": "https://inspirehep.net/literature/3194679",
         "citation_count": 0
       }
     }
