@@ -1,7 +1,29 @@
 {
-  "generated": "2026-09-02T11:05:20.381195+00:00Z",
-  "count": 153,
+  "generated": "2026-09-03T11:05:42.844010+00:00Z",
+  "count": 152,
   "publications": [
+    {
+      "id": "2609.02840v1",
+      "title": "On the equivalence of left-hand-cut and three-body formalisms",
+      "summary": "The \"left-hand cut problem\" in lattice QCD arises when exchange singularities invalidate standard relations used to extract scattering amplitudes from the finite-volume spectrum. In recent years, several approaches were proposed to resolve this problem. We establish analytically and verify numerically the equivalence between the three-body approach proposed in [JHEP 06 (2024) 051] and the two-body left-hand cut formalism developed in [JHEP 08 (2024) 075]. We test the equivalence in a scalar model describing a particle scattering from an $S$-wave two-particle bound state through one-particle exchange. Both approaches reproduce the same infinite-volume particle--bound-state amplitude and correctly encode the associated left-hand cut in the finite-volume spectrum. Crucially, we identify that the exponentially suppressed finite-volume effects neglected in both formalisms can be numerically large, compromising amplitude extraction at small lattice volumes.",
+      "authors": [
+        "André Baião-Raposo",
+        "Raul Briceño",
+        "Sebastian M. Dawid"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.02840v1",
+      "link": "https://arxiv.org/abs/2609.02840v1",
+      "published": "2026-09-02T17:22:30Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3199082",
+        "inspire_url": "https://inspirehep.net/literature/3199082",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2608.30737v1",
       "title": "$D \\to (K π)_{\\mathbf{27}}$ at the SU(3)-flavour-symmetric point I: Methodology and strong phase determination",
@@ -125,32 +147,6 @@
       }
     },
     {
-      "id": "2608.23685v1",
-      "title": "Direct lattice QCD calculation of the $θ$-induced CP-violating pion-nucleon coupling",
-      "summary": "We present the first direct lattice QCD determination of the $θ$-induced CP-violating pion-nucleon-nucleon coupling $\\tilde g_{πNN}$. Using overlap valence fermions on three $2+1$-flavor domain-wall ensembles at a single lattice spacing, we calculate the forward proton matrix element of the isovector pseudoscalar density in the $θ$-vacuum to first order in $\\barθ$. The parity-mixing effect in the external nucleon states is included in the extraction. The cluster-decomposition error-reduction method is used to improve the statistical precision. A simultaneous extrapolation in the valence- and sea-pion masses, with model averaging over 7 forms based on the Akaike information criterion, gives $\\tilde g_{πNN}=0.0306(56)(124)\\,\\barθ$ at the physical point. The first uncertainty includes the statistical and matrix-element-fit systematic uncertainties, whereas the second reflects the spread among the extrapolation forms. Within these uncertainties, the result is consistent with the indirect determination based on the strong neutron-proton mass splitting. The present precision is limited primarily by the extrapolation from the relatively heavy sea-pion masses.",
-      "authors": [
-        "Chuan-Yang Li",
-        "Jun Hua",
-        "Jian Liang",
-        "Keh-Fei Liu",
-        "Long-cheng Gui",
-        "Jun Shi",
-        "Nan Wang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.23685v1",
-      "link": "https://arxiv.org/abs/2608.23685v1",
-      "published": "2026-08-24T18:00:02Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3195614",
-        "inspire_url": "https://inspirehep.net/literature/3195614",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2608.22587v1",
       "title": "Calculation of neutron electric dipole moment from Lattice QCD",
       "summary": "Experimental constraints on the neutron electric dipole moment (nEDM) may imply strong-CP problem in QCD, or unnatural smallness of the QCD theta angle. In this work, we present a novel determination of the neutron electric dipole moment (nEDM) $d_n$ sensitivity to theta term from nonperturbative QCD on a lattice with background electric field. Using Feynman-Hellmann theorem, we compute nEDM from the matrix element of local topological charge density between nucleon ground states spatially polarized by an electric field. These states have mixed spatial parity, and we construct them using variational analysis. We obtain statistically significant signal for the theta induced nEDM from lattices with 2+1 dynamical domain wall fermions corresponding to pion masses of 340, 420, and 576 MeV and lattice spacing $a\\approx 0.11~\\text{fm}$. After extrapolating to the physical point, we obtain $d_n=-0.0050(4)(8)\\barθ$ e$\\cdot$fm. Comparison with the current experimental bound on nEDM implies constraint $|\\barθ|\\lesssim 10^{-11}$, which confirms existence of the strong-CP problem in QCD. Our pioneering work demonstrates that neutron EDM can be reliably determined from the local density of topological charge with robust control of systematic effects, and can be directly extended to other CP-violating interactions.",
@@ -196,7 +192,7 @@
       "inspire": {
         "control_number": "3194679",
         "inspire_url": "https://inspirehep.net/literature/3194679",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -482,7 +478,7 @@
       "inspire": {
         "control_number": "3186862",
         "inspire_url": "https://inspirehep.net/literature/3186862",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -699,7 +695,7 @@
       "inspire": {
         "control_number": "3183666",
         "inspire_url": "https://inspirehep.net/literature/3183666",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -747,7 +743,7 @@
       "inspire": {
         "control_number": "3182164",
         "inspire_url": "https://inspirehep.net/literature/3182164",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -999,7 +995,7 @@
       "inspire": {
         "control_number": "3174420",
         "inspire_url": "https://inspirehep.net/literature/3174420",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1032,7 +1028,7 @@
       "inspire": {
         "control_number": "3174411",
         "inspire_url": "https://inspirehep.net/literature/3174411",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1076,7 +1072,7 @@
       "inspire": {
         "control_number": "3174081",
         "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1294,7 +1290,7 @@
       "inspire": {
         "control_number": "3168686",
         "inspire_url": "https://inspirehep.net/literature/3168686",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1475,7 +1471,7 @@
       "inspire": {
         "control_number": "3164198",
         "inspire_url": "https://inspirehep.net/literature/3164198",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -1526,7 +1522,7 @@
       "inspire": {
         "control_number": "3158986",
         "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1551,7 +1547,7 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 7
+        "citation_count": 8
       }
     },
     {
@@ -1733,38 +1729,6 @@
       }
     },
     {
-      "id": "2605.04163v2",
-      "title": "Pressure-Energy Equations of State of the Nucleon",
-      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parametrize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. The pressure and energy densities naturally separate into two distinct components. The static pressure distribution, arising from the Lorentz trace part of the EMT, as manifested in the spatial stress $\\frac{1}{3} T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as a consequence of the full or partial depletion of the gluon and quark condensates through the pressure-volume relation. The resulting trace anomaly- and sigma term-induced pressure is shown, through its volume scaling, to play a pivotal role in QCD confinement. In contrast, the dynamic pressure distribution, associated with the traceless part of the stress tensor equals $1/d$ of the corresponding traceless part of the energy density, where $d$ is the spatial dimension. These static and dynamic components together satisfy the pressure-balance condition in the nucleon. We further show that the same pressure-energy equations of state hold for vortices in type-II superconductors, where the static pressure-energy relation originates from the depletion of the Cooper-pair condensate. Moreover, these equations of state are identical to those of the $Λ{\\rm CDM}$ cosmological model, where the static pressure-energy relation is generated by the cosmological constant.",
-      "authors": [
-        "Keh-Fei Liu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.04163v2",
-      "link": "https://arxiv.org/abs/2605.04163v2",
-      "published": "2026-05-05T18:01:23Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3152352",
-        "inspire_url": "https://inspirehep.net/literature/3152352",
-        "doi": "10.1103/1hsy-xvqx",
-        "publication_info": [
-          {
-            "journal_title": "Phys.Rev.D",
-            "journal_volume": "114",
-            "artid": "034042",
-            "year": 2026,
-            "journal_issue": "3"
-          }
-        ],
-        "citation_count": 2,
-        "journal_ref": "Phys.Rev.D, 114, artid 034042, 2026"
-      }
-    },
-    {
       "id": "2605.03234v1",
       "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
       "summary": "The universality of the large momentum expansion allows computing parton distribution functions (PDFs) starting from any Euclidean correlator with appropriate large momentum Fourier Components. Here we consider current-current correlators which have been used in short-distance expansion to obtain moments of PDFs. The advantage of such correlators is that they have simple renormalization properties and do not have linear power divergences as in quasi-PDF. However, in lattice calculations, four-point functions are needed. Here we present an expansion formula with current-current correlators up to the next-to-leading order, and preliminary numerical calculations with four-point functions.",
@@ -1786,7 +1750,7 @@
       "inspire": {
         "control_number": "3151975",
         "inspire_url": "https://inspirehep.net/literature/3151975",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1968,7 +1932,7 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 6
+        "citation_count": 7
       }
     },
     {
@@ -2323,7 +2287,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 4,
+        "citation_count": 5,
         "journal_ref": "Phys.Rev.D, 114, artid 014505, p. 1, 2026"
       }
     },
@@ -3388,7 +3352,7 @@
           },
           {}
         ],
-        "citation_count": 1,
+        "citation_count": 2,
         "journal_ref": "PoS, LATTICE2025, artid 075, p. 075, 2026"
       }
     },
