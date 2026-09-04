@@ -1,7 +1,54 @@
 {
-  "generated": "2026-09-03T11:05:42.882162+00:00Z",
-  "count": 152,
+  "generated": "2026-09-04T11:03:08.165699+00:00Z",
+  "count": 156,
   "publications": [
+    {
+      "id": "2609.04142v1",
+      "title": "First Two-Hadron Form Factor from QCD",
+      "summary": "We present the first QCD determination of an energy-dependent form factor for a two-hadron scattering state. In particular, we calculate the QCD contribution to the forward electromagnetic $π^+π^+ + γ\\toπ^+π^+$ amplitude at $m_π\\approx 400$~MeV using lattice QCD. Because lattice calculations are performed in a finite Euclidean spacetime, where asymptotic scattering states are absent, this amplitude cannot be accessed directly from correlation functions. Instead, we can constrain this and related amplitudes nonperturbatively using a finite-volume formalism that requires two ingredients: the discrete finite-volume spectrum and finite-volume matrix elements of the electromagnetic current. We calculate three-point correlation functions coupling $π^+π^+$ finite-volume states and extract the corresponding electromagnetic matrix elements. Combining these results with the previously determined spectrum, we constrain the infinite-volume $π^+π^+ + γ\\toπ^+π^+$ amplitude in the forward limit. Using constraints from Lorentz symmetry, unitarity, and analyticity, we describe this amplitude in terms of a single real-valued energy-dependent two-hadron form factor. The resulting amplitude and form factor agree with the Ward-Takahashi identity across all energies and moving frames considered, providing the first QCD validation of this finite-volume approach and a pathway toward first-principles studies of the electromagnetic structure and electroweak responses of resonances and multi-hadron bound states.",
+      "authors": [
+        "Felipe G. Ortega-Gama",
+        "Raúl A. Briceño",
+        "Ivan M. Burbano",
+        "Robert G. Edwards"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.04142v1",
+      "link": "https://arxiv.org/abs/2609.04142v1",
+      "published": "2026-09-03T17:33:20Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3199637",
+        "inspire_url": "https://inspirehep.net/literature/3199637",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.04129v1",
+      "title": "Lattice QCD calculation of the pion-nucleon coupling $\\bar{g}_0$ induced by the QCD $Θ$-term",
+      "summary": "We present lattice QCD results for the CP violating pion-nucleon coupling $\\bar{g}_0$ induced by the QCD $\\overlineΘ$ term from the analysis of three 2+1+1-flavor ensembles generated with highly improved staggered quarks (HISQ) by the MILC collaboration. These ensembles are at lattice spacing $a\\approx 0.09~\\text{fm}$ and pion masses of 313, 226 and 138 MeV, respectively. The coupling $\\bar{g}_0$ is extracted in two ways. First, from the matrix element of the correlation between the pesudoscalar current and the topological charge evaluated between the nucleon ground state. The data for correlation functions with both the pseudoscalar and axial vector exhibit large contamination from the $Nπ$ excited state. We show that these can be controlled at the leading order using chiral perturbation theory ($χ$PT) and the axial Ward identity (AWI, also called the partially conserved axial current (PCAC) relation). The result after removing the $Nπ$ contamination and extrapolating to the physical pion mass is, however, noisy: $\\bar{g}_0/(2F_π)=-7(63)\\times 10^{-3} \\,{\\overlineΘ}$. The more precise result $\\bar{g}_0/(2F_π)=17.4(1.9)\\times 10^{-3} \\,{\\overlineΘ}$ is obtained using low energy effective field theory methods or equivalently the AWI. Since contamination from the $Nπ$ excited states arises in the calculation of many nucleon matrix elements, we give an extended discussion on them and the use of the AWI for controlling them in the calculation of $\\bar g_0$.",
+      "authors": [
+        "Fangcheng He",
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Emanuele Mereghetti"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.04129v1",
+      "link": "https://arxiv.org/abs/2609.04129v1",
+      "published": "2026-09-03T17:26:35Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3199667",
+        "inspire_url": "https://inspirehep.net/literature/3199667",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.02840v1",
       "title": "On the equivalence of left-hand-cut and three-body formalisms",
@@ -70,51 +117,6 @@
       "inspire": {
         "control_number": "3197530",
         "inspire_url": "https://inspirehep.net/literature/3197530",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.28580v1",
-      "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
-      "summary": "We propose an algorithm for generating lattice field configurations based on the approximate inversion of a renormalization-group blocking transformation. We optimize the blocking transformation using a ``perfect blocking'' condition so that the blocked lattice distribution is well approximated by a simple coarse action. The blocking is separated into an invertible smoothing transformation followed by decimation. Machine learning, in the form of a conditional normalizing flow, is used to reconstruct the short-distance degrees of freedom removed by the decimation. A short fine-action rethermalization then removes the residual mismatch. Because the coarse ensemble supplies the long-distance modes, the same blocking transformation and conditional flow can be reused recursively on larger lattices, producing a cascade of configurations from an initial small-volume ensemble. We test the method in two-dimensional $φ^4$ theory with $λ=1$ at criticality and demonstrate stable cascade upscaling from $16^2$ to $2048^2$ lattices on local computational resources. Controlled rethermalization tests show that short-distance mismatches relax rapidly, whereas a deliberately introduced mismatch in the relevant thermal direction relaxes much more slowly. The construction uses ingredients that admit natural extensions to higher-dimensional systems and, ultimately, to gauge and fermionic degrees of freedom.",
-      "authors": [
-        "Anna Hasenfratz",
-        "Ethan T. Neil",
-        "Letizia Parato",
-        "Noah Schwartz"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.28580v1",
-      "link": "https://arxiv.org/abs/2608.28580v1",
-      "published": "2026-08-28T17:55:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3197552",
-        "inspire_url": "https://inspirehep.net/literature/3197552",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.25143v1",
-      "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
-      "summary": "Three dimensional compact U(1) gauge theory supports a finite density of monopoles at a fixed lattice gauge coupling. After showing evidence for the expected dependence on the lattice coupling of the density of monopoles, we study the low lying spectrum of a two flavors of two-component Wilson fermions as a function of the bare Wilson mass. The Wilson-Dirac operator that realizes the two flavors are hermitian conjugate of each other to restore parity invariance and the commutativity of the two operators expected in the typical continuum limit is not the case in the presence of monopoles for all values of the lattice gauge coupling. This results in an anomalous behavior where we see clear evidence for the presence of very small eigenvalues for a wide range of a particular sign of the bare Wilson mass. These eigenmodes are typically in one-to-one correspondence with the number of monopoles as defined by the gauge field and the spectrum associated with these modes are separated by a gap from the bulk in the asymptotic regime of the lattice gauge coupling. The eigenvalues come in pairs around zero and the eigenvalues of one sign couple to the monopoles while the modes of the opposite sign couple to the anti-monopole implying flavor symmetry breaking.",
-      "authors": [
-        "Manuel Cortina",
-        "Rajamani Narayanan",
-        "Ray Romero"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.25143v1",
-      "link": "https://arxiv.org/abs/2608.25143v1",
-      "published": "2026-08-25T20:48:13Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3196217",
-        "inspire_url": "https://inspirehep.net/literature/3196217",
         "citation_count": 0
       }
     }

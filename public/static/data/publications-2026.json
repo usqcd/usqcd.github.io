@@ -1,7 +1,54 @@
 {
-  "generated": "2026-09-03T11:05:42.844010+00:00Z",
-  "count": 152,
+  "generated": "2026-09-04T11:03:08.100873+00:00Z",
+  "count": 156,
   "publications": [
+    {
+      "id": "2609.04142v1",
+      "title": "First Two-Hadron Form Factor from QCD",
+      "summary": "We present the first QCD determination of an energy-dependent form factor for a two-hadron scattering state. In particular, we calculate the QCD contribution to the forward electromagnetic $π^+π^+ + γ\\toπ^+π^+$ amplitude at $m_π\\approx 400$~MeV using lattice QCD. Because lattice calculations are performed in a finite Euclidean spacetime, where asymptotic scattering states are absent, this amplitude cannot be accessed directly from correlation functions. Instead, we can constrain this and related amplitudes nonperturbatively using a finite-volume formalism that requires two ingredients: the discrete finite-volume spectrum and finite-volume matrix elements of the electromagnetic current. We calculate three-point correlation functions coupling $π^+π^+$ finite-volume states and extract the corresponding electromagnetic matrix elements. Combining these results with the previously determined spectrum, we constrain the infinite-volume $π^+π^+ + γ\\toπ^+π^+$ amplitude in the forward limit. Using constraints from Lorentz symmetry, unitarity, and analyticity, we describe this amplitude in terms of a single real-valued energy-dependent two-hadron form factor. The resulting amplitude and form factor agree with the Ward-Takahashi identity across all energies and moving frames considered, providing the first QCD validation of this finite-volume approach and a pathway toward first-principles studies of the electromagnetic structure and electroweak responses of resonances and multi-hadron bound states.",
+      "authors": [
+        "Felipe G. Ortega-Gama",
+        "Raúl A. Briceño",
+        "Ivan M. Burbano",
+        "Robert G. Edwards"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.04142v1",
+      "link": "https://arxiv.org/abs/2609.04142v1",
+      "published": "2026-09-03T17:33:20Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3199637",
+        "inspire_url": "https://inspirehep.net/literature/3199637",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.04129v1",
+      "title": "Lattice QCD calculation of the pion-nucleon coupling $\\bar{g}_0$ induced by the QCD $Θ$-term",
+      "summary": "We present lattice QCD results for the CP violating pion-nucleon coupling $\\bar{g}_0$ induced by the QCD $\\overlineΘ$ term from the analysis of three 2+1+1-flavor ensembles generated with highly improved staggered quarks (HISQ) by the MILC collaboration. These ensembles are at lattice spacing $a\\approx 0.09~\\text{fm}$ and pion masses of 313, 226 and 138 MeV, respectively. The coupling $\\bar{g}_0$ is extracted in two ways. First, from the matrix element of the correlation between the pesudoscalar current and the topological charge evaluated between the nucleon ground state. The data for correlation functions with both the pseudoscalar and axial vector exhibit large contamination from the $Nπ$ excited state. We show that these can be controlled at the leading order using chiral perturbation theory ($χ$PT) and the axial Ward identity (AWI, also called the partially conserved axial current (PCAC) relation). The result after removing the $Nπ$ contamination and extrapolating to the physical pion mass is, however, noisy: $\\bar{g}_0/(2F_π)=-7(63)\\times 10^{-3} \\,{\\overlineΘ}$. The more precise result $\\bar{g}_0/(2F_π)=17.4(1.9)\\times 10^{-3} \\,{\\overlineΘ}$ is obtained using low energy effective field theory methods or equivalently the AWI. Since contamination from the $Nπ$ excited states arises in the calculation of many nucleon matrix elements, we give an extended discussion on them and the use of the AWI for controlling them in the calculation of $\\bar g_0$.",
+      "authors": [
+        "Fangcheng He",
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Emanuele Mereghetti"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.04129v1",
+      "link": "https://arxiv.org/abs/2609.04129v1",
+      "published": "2026-09-03T17:26:35Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3199667",
+        "inspire_url": "https://inspirehep.net/literature/3199667",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.02840v1",
       "title": "On the equivalence of left-hand-cut and three-body formalisms",
@@ -147,6 +194,32 @@
       }
     },
     {
+      "id": "2608.23685v1",
+      "title": "Direct lattice QCD calculation of the $θ$-induced CP-violating pion-nucleon coupling",
+      "summary": "We present the first direct lattice QCD determination of the $θ$-induced CP-violating pion-nucleon-nucleon coupling $\\tilde g_{πNN}$. Using overlap valence fermions on three $2+1$-flavor domain-wall ensembles at a single lattice spacing, we calculate the forward proton matrix element of the isovector pseudoscalar density in the $θ$-vacuum to first order in $\\barθ$. The parity-mixing effect in the external nucleon states is included in the extraction. The cluster-decomposition error-reduction method is used to improve the statistical precision. A simultaneous extrapolation in the valence- and sea-pion masses, with model averaging over 7 forms based on the Akaike information criterion, gives $\\tilde g_{πNN}=0.0306(56)(124)\\,\\barθ$ at the physical point. The first uncertainty includes the statistical and matrix-element-fit systematic uncertainties, whereas the second reflects the spread among the extrapolation forms. Within these uncertainties, the result is consistent with the indirect determination based on the strong neutron-proton mass splitting. The present precision is limited primarily by the extrapolation from the relatively heavy sea-pion masses.",
+      "authors": [
+        "Chuan-Yang Li",
+        "Jun Hua",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Long-cheng Gui",
+        "Jun Shi",
+        "Nan Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2608.23685v1",
+      "link": "https://arxiv.org/abs/2608.23685v1",
+      "published": "2026-08-24T18:00:02Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3195614",
+        "inspire_url": "https://inspirehep.net/literature/3195614",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2608.22587v1",
       "title": "Calculation of neutron electric dipole moment from Lattice QCD",
       "summary": "Experimental constraints on the neutron electric dipole moment (nEDM) may imply strong-CP problem in QCD, or unnatural smallness of the QCD theta angle. In this work, we present a novel determination of the neutron electric dipole moment (nEDM) $d_n$ sensitivity to theta term from nonperturbative QCD on a lattice with background electric field. Using Feynman-Hellmann theorem, we compute nEDM from the matrix element of local topological charge density between nucleon ground states spatially polarized by an electric field. These states have mixed spatial parity, and we construct them using variational analysis. We obtain statistically significant signal for the theta induced nEDM from lattices with 2+1 dynamical domain wall fermions corresponding to pion masses of 340, 420, and 576 MeV and lattice spacing $a\\approx 0.11~\\text{fm}$. After extrapolating to the physical point, we obtain $d_n=-0.0050(4)(8)\\barθ$ e$\\cdot$fm. Comparison with the current experimental bound on nEDM implies constraint $|\\barθ|\\lesssim 10^{-11}$, which confirms existence of the strong-CP problem in QCD. Our pioneering work demonstrates that neutron EDM can be reliably determined from the local density of topological charge with robust control of systematic effects, and can be directly extended to other CP-violating interactions.",
@@ -169,7 +242,7 @@
       "inspire": {
         "control_number": "3195314",
         "inspire_url": "https://inspirehep.net/literature/3195314",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -670,7 +743,7 @@
       "inspire": {
         "control_number": "3183711",
         "inspire_url": "https://inspirehep.net/literature/3183711",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -743,7 +816,7 @@
       "inspire": {
         "control_number": "3182164",
         "inspire_url": "https://inspirehep.net/literature/3182164",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -845,7 +918,7 @@
       "inspire": {
         "control_number": "3179855",
         "inspire_url": "https://inspirehep.net/literature/3179855",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1422,7 +1495,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1729,6 +1802,38 @@
       }
     },
     {
+      "id": "2605.04163v2",
+      "title": "Pressure-Energy Equations of State of the Nucleon",
+      "summary": "The pressure-energy equations of state in the nucleon are derived from the gravitational form factors, which parametrize matrix elements of the energy-momentum tensor (EMT), together with EMT conservation. The pressure and energy densities naturally separate into two distinct components. The static pressure distribution, arising from the Lorentz trace part of the EMT, as manifested in the spatial stress $\\frac{1}{3} T^{ii}$, is equal to minus the corresponding trace part of the energy density. This relation may be interpreted as a consequence of the full or partial depletion of the gluon and quark condensates through the pressure-volume relation. The resulting trace anomaly- and sigma term-induced pressure is shown, through its volume scaling, to play a pivotal role in QCD confinement. In contrast, the dynamic pressure distribution, associated with the traceless part of the stress tensor equals $1/d$ of the corresponding traceless part of the energy density, where $d$ is the spatial dimension. These static and dynamic components together satisfy the pressure-balance condition in the nucleon. We further show that the same pressure-energy equations of state hold for vortices in type-II superconductors, where the static pressure-energy relation originates from the depletion of the Cooper-pair condensate. Moreover, these equations of state are identical to those of the $Λ{\\rm CDM}$ cosmological model, where the static pressure-energy relation is generated by the cosmological constant.",
+      "authors": [
+        "Keh-Fei Liu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.04163v2",
+      "link": "https://arxiv.org/abs/2605.04163v2",
+      "published": "2026-05-05T18:01:23Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3152352",
+        "inspire_url": "https://inspirehep.net/literature/3152352",
+        "doi": "10.1103/1hsy-xvqx",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "034042",
+            "year": 2026,
+            "journal_issue": "3"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Phys.Rev.D, 114, artid 034042, 2026"
+      }
+    },
+    {
       "id": "2605.03234v1",
       "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
       "summary": "The universality of the large momentum expansion allows computing parton distribution functions (PDFs) starting from any Euclidean correlator with appropriate large momentum Fourier Components. Here we consider current-current correlators which have been used in short-distance expansion to obtain moments of PDFs. The advantage of such correlators is that they have simple renormalization properties and do not have linear power divergences as in quasi-PDF. However, in lattice calculations, four-point functions are needed. Here we present an expansion formula with current-current correlators up to the next-to-leading order, and preliminary numerical calculations with four-point functions.",
@@ -1896,7 +2001,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 15
+        "citation_count": 17
       }
     },
     {
@@ -2472,7 +2577,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 10
+        "citation_count": 11
       }
     },
     {
