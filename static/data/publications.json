@@ -1,7 +1,29 @@
 {
-  "generated": "2026-09-06T10:48:25.519766+00:00Z",
-  "count": 156,
+  "generated": "2026-09-07T12:05:33.958327+00:00Z",
+  "count": 157,
   "publications": [
+    {
+      "id": "2609.05006v1",
+      "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
+      "summary": "The Wess-Zumino-Witten interaction in chiral perturbation theory is a manifestation of chiral anomalies. One of its consequences is the presence of a nonvanishing $K \\overline K \\to π^+ π^0 π^-$ amplitude. We derive the finite-volume formalism that allows one to access this, and related, amplitudes, using the spectra of two and three particles in finite volumes, spectra that can be calculated using lattice QCD. Specifically, we present the formalism for the systems $K \\overline K + 3 π$ with $I=0$ and $πK + ππK$ with $I=1/2$ and $3/2$. In addition, we determine the threshold expansions for the $2\\leftrightarrow 3$ and $3\\leftrightarrow 3$ K matrices that enter the formalism, and calculate the leading order predictions from chiral perturbation theory for the coefficients that enter these expansions.",
+      "authors": [
+        "Fernando Romero-López",
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.05006v1",
+      "link": "https://arxiv.org/abs/2609.05006v1",
+      "published": "2026-09-04T11:17:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3200269",
+        "inspire_url": "https://inspirehep.net/literature/3200269",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.04142v1",
       "title": "First Two-Hadron Form Factor from QCD",
@@ -95,28 +117,6 @@
       "inspire": {
         "control_number": "3198201",
         "inspire_url": "https://inspirehep.net/literature/3198201",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.28581v1",
-      "title": "Renormalization-guided cascade upscaling for lattice field generation",
-      "summary": "We introduce a renormalization-group (RG) guided machine-learning algorithm for lattice field generation based on approximate inversion of an RG transformation. A ``perfect blocking'' construction supplies equilibrated long-distance modes, while a conditional normalizing flow reconstructs short-distance details and brief rethermalization removes residual errors. In 2D $φ^4$ theory at criticality, a flow trained at $L\\le32$ is reused recursively in cascades reaching $L=2048$ with correct long-distance physics.",
-      "authors": [
-        "Anna Hasenfratz",
-        "Ethan T. Neil",
-        "Letizia Parato",
-        "Noah Schwartz"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.28581v1",
-      "link": "https://arxiv.org/abs/2608.28581v1",
-      "published": "2026-08-28T17:55:59Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3197530",
-        "inspire_url": "https://inspirehep.net/literature/3197530",
         "citation_count": 0
       }
     }
