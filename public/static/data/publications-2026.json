@@ -1,7 +1,29 @@
 {
-  "generated": "2026-09-06T10:48:25.468766+00:00Z",
-  "count": 156,
+  "generated": "2026-09-07T12:05:33.896088+00:00Z",
+  "count": 157,
   "publications": [
+    {
+      "id": "2609.05006v1",
+      "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
+      "summary": "The Wess-Zumino-Witten interaction in chiral perturbation theory is a manifestation of chiral anomalies. One of its consequences is the presence of a nonvanishing $K \\overline K \\to π^+ π^0 π^-$ amplitude. We derive the finite-volume formalism that allows one to access this, and related, amplitudes, using the spectra of two and three particles in finite volumes, spectra that can be calculated using lattice QCD. Specifically, we present the formalism for the systems $K \\overline K + 3 π$ with $I=0$ and $πK + ππK$ with $I=1/2$ and $3/2$. In addition, we determine the threshold expansions for the $2\\leftrightarrow 3$ and $3\\leftrightarrow 3$ K matrices that enter the formalism, and calculate the leading order predictions from chiral perturbation theory for the coefficients that enter these expansions.",
+      "authors": [
+        "Fernando Romero-López",
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.05006v1",
+      "link": "https://arxiv.org/abs/2609.05006v1",
+      "published": "2026-09-04T11:17:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3200269",
+        "inspire_url": "https://inspirehep.net/literature/3200269",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.04142v1",
       "title": "First Two-Hadron Form Factor from QCD",
@@ -794,7 +816,7 @@
       "inspire": {
         "control_number": "3183123",
         "inspire_url": "https://inspirehep.net/literature/3183123",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
