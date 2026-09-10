@@ -1,7 +1,55 @@
 {
-  "generated": "2026-09-09T11:10:18.328411+00:00Z",
-  "count": 157,
+  "generated": "2026-09-10T11:07:06.188853+00:00Z",
+  "count": 159,
   "publications": [
+    {
+      "id": "2609.10486v1",
+      "title": "Faster Quantum Monte Carlo Simulation by Random Compilation",
+      "summary": "Quantum Monte Carlo (QMC) algorithms are among the most powerful classical methods for simulating quantum systems, yet their accuracy is often limited by the systematic errors in the approximations used, such as Trotterization. Here we introduce randomly compiled quantum Monte Carlo (RC-QMC) as a general framework that suppresses these systematic errors by averaging over a family of approximations rather than relying on a single fixed one. This strategy is grounded in the concept of randomized compiling from quantum computing, which suppresses errors by sampling over quantum gates, at essentially no additional computational cost. Consequently, our framework achieves a computational advantage over standard QMC methods when estimating a target state to a desired level of accuracy. We illustrate this advantage on two key Monte Carlo algorithms: (1) path integral quantum Monte Carlo for estimating thermal states, and (2) the quantum trajectories method for simulating open system dynamics. In aggregate, these results represent a cross-fertilization of quantum and classical algorithms, are readily generalizable to other QMC methods, and suggest wider applications in classical simulation.",
+      "authors": [
+        "John M. Martyn",
+        "Joshua Lin",
+        "Neill C. Warrington",
+        "Isaac L. Chuang",
+        "Andrew J. Daley"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.10486v1",
+      "link": "https://arxiv.org/abs/2609.10486v1",
+      "published": "2026-09-09T17:25:26Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3202065",
+        "inspire_url": "https://inspirehep.net/literature/3202065",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.10306v1",
+      "title": "An improved partial-wave projection of the one-particle exchange in relativistic three-body scattering",
+      "summary": "A critical component of relativistic three-body scattering amplitudes is the one-particle exchange (OPE) process, wherein a single particle is exchanged between incoming and outgoing two-body subsystems. We present an improved, finite-sum expression for the partial-wave OPE that is valid for three massive, spinless particles in arbitrary angular momentum configurations. A collection of analytic and numerical checks demonstrate that our finite-sum expression reproduces the known properties of the partial-wave OPE, including its threshold scaling behavior and singularity structure. Compared with previous work, this result more efficiently handles the rapid proliferation of partial waves contributing to any total angular momentum $J$, enabling the construction of robust wavesets for three-body amplitude analyses.",
+      "authors": [
+        "Nicholas C. Chambers",
+        "Andrew W. Jackura"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.10306v1",
+      "link": "https://arxiv.org/abs/2609.10306v1",
+      "published": "2026-09-09T15:16:50Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3202046",
+        "inspire_url": "https://inspirehep.net/literature/3202046",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.05006v1",
       "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
@@ -68,55 +116,6 @@
       "inspire": {
         "control_number": "3199667",
         "inspire_url": "https://inspirehep.net/literature/3199667",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.02840v1",
-      "title": "On the equivalence of left-hand-cut and three-body formalisms",
-      "summary": "The \"left-hand cut problem\" in lattice QCD arises when exchange singularities invalidate standard relations used to extract scattering amplitudes from the finite-volume spectrum. In recent years, several approaches were proposed to resolve this problem. We establish analytically and verify numerically the equivalence between the three-body approach proposed in [JHEP 06 (2024) 051] and the two-body left-hand cut formalism developed in [JHEP 08 (2024) 075]. We test the equivalence in a scalar model describing a particle scattering from an $S$-wave two-particle bound state through one-particle exchange. Both approaches reproduce the same infinite-volume particle--bound-state amplitude and correctly encode the associated left-hand cut in the finite-volume spectrum. Crucially, we identify that the exponentially suppressed finite-volume effects neglected in both formalisms can be numerically large, compromising amplitude extraction at small lattice volumes.",
-      "authors": [
-        "André Baião-Raposo",
-        "Raul Briceño",
-        "Sebastian M. Dawid"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.02840v1",
-      "link": "https://arxiv.org/abs/2609.02840v1",
-      "published": "2026-09-02T17:22:30Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3199082",
-        "inspire_url": "https://inspirehep.net/literature/3199082",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2608.30737v1",
-      "title": "$D \\to (K π)_{\\mathbf{27}}$ at the SU(3)-flavour-symmetric point I: Methodology and strong phase determination",
-      "summary": "We present part one of an SU(3)-flavour-symmetric lattice QCD calculation of the amplitude for a $D$-meson decaying to a $Kπ$ final state in the 27-dimensional irreducible representation of the flavour symmetry group, denoted $(Kπ)_{\\mathbf{27}}$. The Wilson--clover gauge ensembles used in this work, generated by the OpenLat collaboration, are tuned such that $M_π= M_K \\approx 410\\,\\mathrm{MeV}$. Using the distillation framework, we construct a matrix of Euclidean correlation functions from pairs of single-hadron operators projected to definite spatial momentum. Solving a generalised eigenvalue problem yields the finite-volume energy spectrum that is used to determine the scattering phase shift from threshold up to $4 M_π\\approx 1640 \\,\\mathrm{MeV}$, which sits below but plausibly within reach of $M_D^{\\rm SU(3)} \\simeq 1900\\,\\mathrm{MeV}$. The calculation is performed across three lattice spacings, and we apply two strategies in which the continuum limit is taken at different stages of the computation: (i) on the extracted scattering parameters and (ii) on the finite-volume energies at fixed physical volume before extracting the scattering parameters. We find consistent results across these methods for the scattering phase shift as a function of the centre-of-mass energy, $δ_{\\mathbf{27}}(E_{\\sf cm})$. Taking a scattering-length-only parametrisation, we infer a value for the strong phase of the weak decay, $δ_{\\mathbf{27}}(M_D^{\\rm SU(3)})=-38.4(2.4)^\\circ$. We further describe the methodology for using the same operator basis to compute three-point correlation functions to extract $\\langle (Kπ)_{\\mathbf{27}}| H_W| D\\rangle$, for the tree-level effective weak Hamiltonian $H_W$, and for relating such finite-volume matrix elements to the full decay amplitude. The complete analysis leading to the latter will be presented in a forthcoming manuscript.",
-      "authors": [
-        "Matthew Black",
-        "Felix Erben",
-        "Maxwell T. Hansen",
-        "Fabian Joswig",
-        "Nelson Pitanga Lachini",
-        "Rajnandini Mukherjee",
-        "Srijit Paul",
-        "Antonin Portelli"
-      ],
-      "pdf": "https://arxiv.org/pdf/2608.30737v1",
-      "link": "https://arxiv.org/abs/2608.30737v1",
-      "published": "2026-08-31T13:06:09Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3198201",
-        "inspire_url": "https://inspirehep.net/literature/3198201",
         "citation_count": 0
       }
     }
