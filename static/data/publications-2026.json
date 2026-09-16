@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T10:28:49.703853+00:00Z",
+  "generated": "2026-09-16T11:16:29.548058+00:00Z",
   "count": 160,
   "publications": [
     {
@@ -473,7 +473,7 @@
       "inspire": {
         "control_number": "3191798",
         "inspire_url": "https://inspirehep.net/literature/3191798",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -594,7 +594,7 @@
       "inspire": {
         "control_number": "3187225",
         "inspire_url": "https://inspirehep.net/literature/3187225",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -644,7 +644,7 @@
       "inspire": {
         "control_number": "3186862",
         "inspire_url": "https://inspirehep.net/literature/3186862",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -667,7 +667,7 @@
       "inspire": {
         "control_number": "3185267",
         "inspire_url": "https://inspirehep.net/literature/3185267",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -811,7 +811,7 @@
       "inspire": {
         "control_number": "3183932",
         "inspire_url": "https://inspirehep.net/literature/3183932",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -985,7 +985,7 @@
       "inspire": {
         "control_number": "3180567",
         "inspire_url": "https://inspirehep.net/literature/3180567",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1318,7 +1318,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1431,7 +1431,7 @@
       "inspire": {
         "control_number": "3169537",
         "inspire_url": "https://inspirehep.net/literature/3169537",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1588,7 +1588,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -1922,7 +1922,7 @@
             "journal_issue": "3"
           }
         ],
-        "citation_count": 2,
+        "citation_count": 3,
         "journal_ref": "Phys.Rev.D, 114, artid 034042, 2026"
       }
     },
@@ -2485,7 +2485,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 5,
+        "citation_count": 6,
         "journal_ref": "Phys.Rev.D, 114, artid 014505, p. 1, 2026"
       }
     },
@@ -2594,7 +2594,7 @@
       "inspire": {
         "control_number": "3137111",
         "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 7
+        "citation_count": 8
       }
     },
     {
@@ -2621,7 +2621,7 @@
       "inspire": {
         "control_number": "3137099",
         "inspire_url": "https://inspirehep.net/literature/3137099",
-        "citation_count": 8
+        "citation_count": 9
       }
     },
     {
@@ -3879,7 +3879,7 @@
       }
     },
     {
-      "id": "2602.14260v1",
+      "id": "2602.14260v2",
       "title": "Accessing the Gluon Momentum Fraction of Nucleons through the Gradient Flow",
       "summary": "We calculate the gluon momentum fraction of the nucleon using lattice quantum chromodynamics (QCD), with a nonperturbative renormalization technique based on the gradient flow. The gluon momentum fraction is determined on a single Wilson-clover ensemble using Nf = 2+1 flavors with pion mass 358 MeV and lattice spacing 0.094 fm. We employ the variational method to reduce excited-state contamination and apply the distillation framework to ensure a large operator basis. To reduce systematic uncertainties, we apply Bayesian model averaging to all fit procedures. We apply matching coefficients to the flow-time dependent lattice results to recover the gluon momentum fraction in the MS-scheme at 2 GeV. Our final result is <x>_g(μ= 2 GeV) = 0.482(35), where we quote only statistical uncertainties.",
       "authors": [
@@ -3892,8 +3892,8 @@
         "Alexandru M. Sturzu",
         "Savvas Zafeiropoulos"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.14260v1",
-      "link": "https://arxiv.org/abs/2602.14260v1",
+      "pdf": "https://arxiv.org/pdf/2602.14260v2",
+      "link": "https://arxiv.org/abs/2602.14260v2",
       "published": "2026-02-15T18:16:53Z",
       "categories": [
         "hep-lat",
