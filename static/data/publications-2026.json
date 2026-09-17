@@ -1,7 +1,27 @@
 {
-  "generated": "2026-09-16T11:16:29.548058+00:00Z",
-  "count": 160,
+  "generated": "2026-09-17T11:27:51.571761+00:00Z",
+  "count": 161,
   "publications": [
+    {
+      "id": "2609.17725v1",
+      "title": "Testing strong isospin breaking effects in QCD thermodynamics",
+      "summary": "Most modern lattice QCD calculations take the masses of the light quarks to be degenerate, setting $m_u=m_d$, a choice that, while not physical, increases computational efficiency and lowers the complexity of simulations and analysis. For many observables, the systematic error associated with this simplification is expected to be negligible, as $Δm_{ud}=m_d-m_u$ is significantly below the QCD scale. So far lattice studies have examined the role of strong isospin breaking (SIB) in hadron mass splittings, but SIB effects in thermodynamic observables have only been studied in terms of the crossover temperature with unphysically heavy quarks. Motivated by the recent observation of an unexpectedly large ratio between the abundances of charged versus neutral kaons in heavy-ion collision experiments, we investigate the effects of SIB in QCD thermodynamics by computing observables for three non-degenerate flavors ($N_f=1+1+1$) with physical quark masses using dynamical improved staggered fermions. In particular, we investigate the difference between the $u$- and $d$-quark condensates and extract the pseudocritical temperature, the equation of state, and conserved-charge fluctuations, comparing results to standard $N_f=2+1$ simulations.",
+      "authors": [
+        "D. A. Clarke",
+        "B. B. Brandt"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.17725v1",
+      "link": "https://arxiv.org/abs/2609.17725v1",
+      "published": "2026-09-15T18:35:08Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3204441",
+        "inspire_url": "https://inspirehep.net/literature/3204441",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.11026v1",
       "title": "Properties of the positive and negative parity charm-strange and bottom-strange mesons $D_s$, $D_s^*$, $D_{s0}^*$, $D_{s1}$, $B_s$, $B_s^*$, $B_{s0}^*$, $B_{s1}$ from lattice QCD: masses, decay constants, and compositeness",

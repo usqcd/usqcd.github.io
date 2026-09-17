@@ -1,7 +1,27 @@
 {
-  "generated": "2026-09-16T11:16:29.612295+00:00Z",
-  "count": 160,
+  "generated": "2026-09-17T11:27:51.627718+00:00Z",
+  "count": 161,
   "publications": [
+    {
+      "id": "2609.17725v1",
+      "title": "Testing strong isospin breaking effects in QCD thermodynamics",
+      "summary": "Most modern lattice QCD calculations take the masses of the light quarks to be degenerate, setting $m_u=m_d$, a choice that, while not physical, increases computational efficiency and lowers the complexity of simulations and analysis. For many observables, the systematic error associated with this simplification is expected to be negligible, as $Δm_{ud}=m_d-m_u$ is significantly below the QCD scale. So far lattice studies have examined the role of strong isospin breaking (SIB) in hadron mass splittings, but SIB effects in thermodynamic observables have only been studied in terms of the crossover temperature with unphysically heavy quarks. Motivated by the recent observation of an unexpectedly large ratio between the abundances of charged versus neutral kaons in heavy-ion collision experiments, we investigate the effects of SIB in QCD thermodynamics by computing observables for three non-degenerate flavors ($N_f=1+1+1$) with physical quark masses using dynamical improved staggered fermions. In particular, we investigate the difference between the $u$- and $d$-quark condensates and extract the pseudocritical temperature, the equation of state, and conserved-charge fluctuations, comparing results to standard $N_f=2+1$ simulations.",
+      "authors": [
+        "D. A. Clarke",
+        "B. B. Brandt"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.17725v1",
+      "link": "https://arxiv.org/abs/2609.17725v1",
+      "published": "2026-09-15T18:35:08Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3204441",
+        "inspire_url": "https://inspirehep.net/literature/3204441",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.11026v1",
       "title": "Properties of the positive and negative parity charm-strange and bottom-strange mesons $D_s$, $D_s^*$, $D_{s0}^*$, $D_{s1}$, $B_s$, $B_s^*$, $B_{s0}^*$, $B_{s1}$ from lattice QCD: masses, decay constants, and compositeness",
@@ -92,30 +112,6 @@
       "inspire": {
         "control_number": "3200269",
         "inspire_url": "https://inspirehep.net/literature/3200269",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.04142v1",
-      "title": "First Two-Hadron Form Factor from QCD",
-      "summary": "We present the first QCD determination of an energy-dependent form factor for a two-hadron scattering state. In particular, we calculate the QCD contribution to the forward electromagnetic $π^+π^+ + γ\\toπ^+π^+$ amplitude at $m_π\\approx 400$~MeV using lattice QCD. Because lattice calculations are performed in a finite Euclidean spacetime, where asymptotic scattering states are absent, this amplitude cannot be accessed directly from correlation functions. Instead, we can constrain this and related amplitudes nonperturbatively using a finite-volume formalism that requires two ingredients: the discrete finite-volume spectrum and finite-volume matrix elements of the electromagnetic current. We calculate three-point correlation functions coupling $π^+π^+$ finite-volume states and extract the corresponding electromagnetic matrix elements. Combining these results with the previously determined spectrum, we constrain the infinite-volume $π^+π^+ + γ\\toπ^+π^+$ amplitude in the forward limit. Using constraints from Lorentz symmetry, unitarity, and analyticity, we describe this amplitude in terms of a single real-valued energy-dependent two-hadron form factor. The resulting amplitude and form factor agree with the Ward-Takahashi identity across all energies and moving frames considered, providing the first QCD validation of this finite-volume approach and a pathway toward first-principles studies of the electromagnetic structure and electroweak responses of resonances and multi-hadron bound states.",
-      "authors": [
-        "Felipe G. Ortega-Gama",
-        "Raúl A. Briceño",
-        "Ivan M. Burbano",
-        "Robert G. Edwards"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.04142v1",
-      "link": "https://arxiv.org/abs/2609.04142v1",
-      "published": "2026-09-03T17:33:20Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3199637",
-        "inspire_url": "https://inspirehep.net/literature/3199637",
         "citation_count": 0
       }
     }
