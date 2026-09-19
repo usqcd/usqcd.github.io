@@ -1,5 +1,133 @@
 {
-  "generated": "2026-09-18T11:02:23.306476+00:00Z",
-  "count": 0,
-  "publications": []
+  "generated": "2026-09-19T10:42:27.835363+00:00Z",
+  "count": 163,
+  "publications": [
+    {
+      "id": "2609.20545v1",
+      "title": "Computability of GPDs near $x=\\pmξ$ in Lattice QCD",
+      "summary": "In lattice QCD computations of generalized parton distributions (GPDs), the large momentum expansion generally requires all hard scales, $2|x\\pmξ|P^z$ and $2|1\\pm x|P^z$, to be much larger than $Λ_{\\rm QCD}$. We show that this condition can be relaxed for $2|x\\pmξ|P^z$ at large $ξ$, making the important $x\\sim\\pmξ$ regions accessible to lattice calculations and considerably expanding the region of computability. Revisiting previous lattice results with complete one-loop matching, we obtain the expected partonic threshold behavior---GPDs continuous at $x=\\pmξ$ but with discontinuous derivatives---which has not previously been observed on the lattice. We thus obtain, for the first time, important prediction for GPDs in the distribution-amplitude-like region, which smoothly connects the quark and antiquark PDF-like behaviors.",
+      "authors": [
+        "Yushan Su",
+        "Xiangdong Ji",
+        "Yizhuang Liu",
+        "Rui Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.20545v1",
+      "link": "https://arxiv.org/abs/2609.20545v1",
+      "published": "2026-09-17T15:11:41Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3204905",
+        "inspire_url": "https://inspirehep.net/literature/3204905",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.19930v1",
+      "title": "Symplectic lattice gauge theories in the Grid framework: domain wall fermions and continuum extrapolations",
+      "summary": "We report the results of the first numerical lattice study using domain-wall fermions in the Sp(4) gauge theory coupled to two flavours of (Dirac) fermions, transforming in the fundamental representation of the gauge group. This theory plays a prominent role in the literature on extensions of the Standard Model with composite dynamics. It provides a short-distance completion for a class of composite Higgs models, or, alternatively, of dark matter models based on the strongly interacting massive particle paradigm. We adopt the Möbius formulation of domain-wall fermions (MDWF), implemented within the Grid software environment. We report the results of extensive tests of the algorithm implementation, and of the optimisation of the choices of algorithmic parameters appearing in the MDWF action. We then measure masses and decay constants of the lightest flavoured mesons in ensembles with moderately large fermion masses and several choices of lattice coupling, and perform an extrapolation to the continuum. We compare our results for the physical observables to published measurements obtained in the same field theory, but derived on the lattice by employing Wilson fermions. We demonstrate that, with the deployment of moderate computational resources, the MDWF formulation can yield order-of-magnitude gains in the approach to the continuum limit, in regions of physical parameter space relevant to phenomenological applications of this theory.",
+      "authors": [
+        "Ed Bennett",
+        "Peter A. Boyle",
+        "Luigi Del Debbio",
+        "Niccolò Forzano",
+        "Ryan C. Hill",
+        "Deog Ki Hong",
+        "Jong-Wan Lee",
+        "C. -J. David Lin",
+        "Biagio Lucini",
+        "Maurizio Piai",
+        "Gianmarco Simonetti",
+        "Davide Vadacchino",
+        "Alexis Verney-Provatas"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.19930v1",
+      "link": "https://arxiv.org/abs/2609.19930v1",
+      "published": "2026-09-17T09:08:27Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3204872",
+        "inspire_url": "https://inspirehep.net/literature/3204872",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.19544v1",
+      "title": "Generalized parton distributions: Theory meets experiment",
+      "summary": "Over the past three decades, generalized parton distributions (GPDs) have emerged as one of the most active and important areas of research in nucleon structure and quantum chromodynamics (QCD). Since the last comprehensive review two decades ago, substantial progress has been made in experimental measurements of hard exclusive processes, such as deeply virtual Compton scattering and near-threshold $J/ψ$ production, as well as in increasingly sophisticated phenomenological analyses of GPDs that enable three-dimensional nucleon tomography. Theoretical advances in perturbative coefficient functions, scale evolutions, and kinematic and power corrections have considerably improved the precision of GPD phenomenology, while new hard exclusive processes for probing GPDs have been explored. More interestingly, lattice QCD can now directly access GPDs at fixed parton momentum fractions $x$ and skewness $ξ$ through large-momentum expansions, in addition to the traditional calculations of their moments, or generalized form factors. Significant progress has also been made in exploring the QCD energy-momentum tensor that encodes fundamental information on the nucleon's mass distribution, complete spin structure, and spatial distributions of momentum current and color-Lorentz forces acting on quarks and gluons.",
+      "authors": [
+        "Yuxun Guo",
+        "Xiangdong Ji",
+        "Yao Ji",
+        "Jialu Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.19544v1",
+      "link": "https://arxiv.org/abs/2609.19544v1",
+      "published": "2026-09-17T01:09:31Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3204867",
+        "inspire_url": "https://inspirehep.net/literature/3204867",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.17725v1",
+      "title": "Testing strong isospin breaking effects in QCD thermodynamics",
+      "summary": "Most modern lattice QCD calculations take the masses of the light quarks to be degenerate, setting $m_u=m_d$, a choice that, while not physical, increases computational efficiency and lowers the complexity of simulations and analysis. For many observables, the systematic error associated with this simplification is expected to be negligible, as $Δm_{ud}=m_d-m_u$ is significantly below the QCD scale. So far lattice studies have examined the role of strong isospin breaking (SIB) in hadron mass splittings, but SIB effects in thermodynamic observables have only been studied in terms of the crossover temperature with unphysically heavy quarks. Motivated by the recent observation of an unexpectedly large ratio between the abundances of charged versus neutral kaons in heavy-ion collision experiments, we investigate the effects of SIB in QCD thermodynamics by computing observables for three non-degenerate flavors ($N_f=1+1+1$) with physical quark masses using dynamical improved staggered fermions. In particular, we investigate the difference between the $u$- and $d$-quark condensates and extract the pseudocritical temperature, the equation of state, and conserved-charge fluctuations, comparing results to standard $N_f=2+1$ simulations.",
+      "authors": [
+        "D. A. Clarke",
+        "B. B. Brandt"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.17725v1",
+      "link": "https://arxiv.org/abs/2609.17725v1",
+      "published": "2026-09-15T18:35:08Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3204441",
+        "inspire_url": "https://inspirehep.net/literature/3204441",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.11026v1",
+      "title": "Properties of the positive and negative parity charm-strange and bottom-strange mesons $D_s$, $D_s^*$, $D_{s0}^*$, $D_{s1}$, $B_s$, $B_s^*$, $B_{s0}^*$, $B_{s1}$ from lattice QCD: masses, decay constants, and compositeness",
+      "summary": "We present a lattice-QCD determination of properties of the lightest scalar, pseudoscalar, vector, and axial-vector heavy-strange mesons. This includes the decay constants of all mesons, and the binding energies and Weinberg compositeness parameters of the positive-parity states. The calculations are performed with domain-wall fermions for the light and strange quarks and anisotropic clover actions for the charm and bottom quarks. We use seven ensembles generated by RBC/UKQCD with pion masses ranging from 431 MeV to 139 MeV and lattice spacings ranging from 0.114 fm to 0.073 fm, which allows us to perform combined chiral and continuum extrapolations. For the negative-parity mesons, we obtain $f_{D_s}=251.4(2.1)(0.4)(2.5)\\:{\\rm MeV}$, $f_{D_s^*}=272.5(4.3)(1.0)(2.7)\\:{\\rm MeV}$, $f_{B_s}=228.4(5.8)(0.5)(2.3)\\:{\\rm MeV}$, $f_{B_s^*}=229.2(4.4)(0.8)(2.3)\\:{\\rm MeV}$, $f_{D_s^*}/f_{D_s}=1.086(14)(11)$, and $f_{B_s^*}/f_{B_s}=1.003(22)(10)$. In the positive-parity sector, the finite-volume energies and decay constants are extracted using the GEVP from correlation matrices with three different types of hadron interpolating operators, including operators with covariant derivatives and meson-meson-scattering operators at both source and sink. After extrapolation to the physical point, we obtain $f_{D^*_{s0}}=136.6 (8.0)(4.0)(1.4)$ MeV, $f_{D_{s1}}=200 (33)(24)(2)$ MeV, $f_{B^*_{s0}}=207 (12)(8)(2)$ MeV, and $f_{B_{s1}}= 196 (16)(11)(2)$ MeV. Our results for $f_{B^*_{s0}}$ and $f_{B_{s1}}$ are the first from lattice QCD. Lüscher's method is used to find the infinite-volume bound-state masses. At the physical point, we obtain $m_{D^*_{s0}}-m_D-m_K=-48 (14)(4)$ MeV, $m_{D_{s1}}-m_{D^*}-m_K=-61 (15)(2)$ MeV, $m_{B^*_{s0}}-m_B-m_K= -69 (13)(4)$ MeV, and $m_{B_{s1}}-m_{B^*}-m_K=-77 (10)(5)$ MeV. Our analysis shows consistency with the positive-parity states being predominantly molecular.",
+      "authors": [
+        "Forrest Guyton",
+        "Stefan Meinel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.11026v1",
+      "link": "https://arxiv.org/abs/2609.11026v1",
+      "published": "2026-09-10T03:06:36Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3202510",
+        "inspire_url": "https://inspirehep.net/literature/3202510",
+        "citation_count": 0
+      }
+    }
+  ]
 }
