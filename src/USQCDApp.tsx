@@ -766,6 +766,31 @@ function ResourcesSection() {
   return (
     <SectionShell title="Computing, training & community resources">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="p-4 bg-slate-50 rounded-lg md:col-span-2 lg:col-span-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-5 items-start">
+            <div>
+              <h4 className="font-semibold">USQCD computing facilities</h4>
+              <p className="text-sm text-slate-600">USQCD hosts computing hardware and storage at three U.S. laboratories supporting lattice QCD production and analysis:</p>
+              <ul className="mt-3 space-y-2 text-sm">
+                <li><strong>Jefferson Lab (JLab):</strong> <a className="text-sky-600" href="https://lqcd.jlab.org/lqcd/home" target="_blank" rel="noreferrer">lqcd.jlab.org</a></li>
+                <li><strong>Fermilab (FNAL):</strong> <a className="text-sky-600" href="https://computing.fnal.gov/lqcd/" target="_blank" rel="noreferrer">computing.fnal.gov/lqcd</a></li>
+                <li><strong>Brookhaven (BNL):</strong> <a className="text-sky-600" href="https://www.sdcc.bnl.gov" target="_blank" rel="noreferrer">sdcc.bnl.gov</a></li>
+              </ul>
+            </div>
+
+            <figure>
+              <img
+                src={resolvePath('static/images/jlab-lqcd-cluster.jpg')}
+                alt="Inside the LQCD cluster at Jefferson Lab"
+                className="w-full rounded-md object-cover"
+              />
+              <figcaption className="mt-1 text-center text-xs text-slate-500">
+                Inside the LQCD cluster at Jefferson Lab
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+
         <div className="p-4 bg-slate-50 rounded-lg">
           <h4 className="font-semibold">Leadership computing</h4>
           <p className="text-sm text-slate-600">ALCF, OLCF and NERSC INCITE allocations support ensemble generation and large-scale workflows for lattice QCD.</p>
@@ -813,15 +838,6 @@ function ResourcesSection() {
           <a className="text-sky-600" href={resources.exascale} target="_blank" rel="noreferrer">Exascale Lattice QCD project <IconExternal /></a>
         </div>
 
-        <div className="p-4 bg-slate-50 rounded-lg md:col-span-3">
-          <h4 className="font-semibold">USQCD computing facilities</h4>
-          <p className="text-sm text-slate-600">USQCD hosts computing hardware and storage at three U.S. laboratories supporting lattice QCD production and analysis:</p>
-          <ul className="mt-3 space-y-2 text-sm">
-            <li><strong>Jefferson Lab (JLab):</strong> <a className="text-sky-600" href="https://lqcd.jlab.org/lqcd/home" target="_blank" rel="noreferrer">lqcd.jlab.org</a></li>
-            <li><strong>Fermilab (FNAL):</strong> <a className="text-sky-600" href="https://computing.fnal.gov/lqcd/" target="_blank" rel="noreferrer">computing.fnal.gov/lqcd</a></li>
-            <li><strong>Brookhaven (BNL):</strong> <a className="text-sky-600" href="https://www.sdcc.bnl.gov" target="_blank" rel="noreferrer">sdcc.bnl.gov</a></li>
-          </ul>
-        </div>
       </div>
     </SectionShell>
   );
