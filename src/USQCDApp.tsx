@@ -938,6 +938,8 @@ function CollaborationPage({ setActive }) {
   const collLinks = {
     members: 'https://www.usqcd.org/members.html',
     charter: resolvePath('documents/usqcd_charter.pdf'),
+    jeopardyPolicy: resolvePath('documents/usqcd_jeopardy_policy.pdf'),
+    dataManagementPlan: resolvePath('documents/usqcd_long_term_data_management_plan.pdf'),
     codeOfConduct: 'https://www.usqcd.org/documents/code.pdf',
     meetings: 'https://www.usqcd.org/meetings.html'
   };
@@ -952,6 +954,18 @@ function CollaborationPage({ setActive }) {
             <h4 className="font-semibold">Collaboration charter</h4>
             <p className="text-sm text-slate-600">Governance structure, membership rules, and the organization of the USQCD collaboration.</p>
             <a className="text-sky-600" href={collLinks.charter} target="_blank" rel="noreferrer">Download charter <IconExternal /></a>
+          </div>
+
+          <div className="p-4 bg-slate-50 rounded-md">
+            <h4 className="font-semibold">Computing allocation jeopardy policy</h4>
+            <p className="text-sm text-slate-600">Policy for adjusting under-used institutional-cluster allocations and redistributing computing time to projects running ahead of pace.</p>
+            <a className="text-sky-600" href={collLinks.jeopardyPolicy} target="_blank" rel="noreferrer">View jeopardy policy <IconExternal /></a>
+          </div>
+
+          <div className="p-4 bg-slate-50 rounded-md">
+            <h4 className="font-semibold">Long-term data management plan</h4>
+            <p className="text-sm text-slate-600">Strategy for preserving, sharing, and managing high-value USQCD data, including a data management plan template for projects.</p>
+            <a className="text-sky-600" href={collLinks.dataManagementPlan} target="_blank" rel="noreferrer">View data management plan <IconExternal /></a>
           </div>
 
           <div className="p-4 bg-slate-50 rounded-md">
