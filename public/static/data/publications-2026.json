@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T11:24:16.764634+00:00Z",
-  "count": 162,
+  "generated": "2026-09-23T11:11:58.899468+00:00Z",
+  "count": 164,
   "publications": [
     {
       "id": "2609.20545v1",
@@ -80,7 +80,7 @@
       "inspire": {
         "control_number": "3204867",
         "inspire_url": "https://inspirehep.net/literature/3204867",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -965,7 +965,7 @@
       "inspire": {
         "control_number": "3183666",
         "inspire_url": "https://inspirehep.net/literature/3183666",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1211,6 +1211,28 @@
         "control_number": "3176196",
         "inspire_url": "https://inspirehep.net/literature/3176196",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2607.00493v1",
+      "title": "Gradient Flow Renormalization Schemes for Composite Fermion Operators",
+      "summary": "We introduce gradient flow (GF) normalization prescriptions for fermionic composite operators in which the flowed fermion wavefunction renormalization factor is fixed nonperturbatively using either the partially conserved axial charge or the conserved vector current. The resulting $A$ and $V$ schemes are defined through standard flowed two-point correlation functions and therefore avoid the backward-flow construction required by local ringed-scheme definitions. In the short-flow-time limit, the $A$ and $V$ schemes can be matched to $\\overline{\\mathrm{MS}}$ using known ringed-scheme short-flow-time expansion (SFTX) coefficients. We show how these schemes can be implemented through ratios of two-point correlation functions, leading to simple nonperturbative determinations of renormalization factors, anomalous dimensions, and evolution factors which connect lattice-accessible flow times to shorter flow times where perturbative matching is reliable. We illustrate the method with RBC-UKQCD domain-wall fermion ensembles, including a GF determination of the ratio of matching factors $Z_V/Z_A$, and a new GF determination of the renormalized strange quark mass.",
+      "authors": [
+        "Matthew Black",
+        "Anna Hasenfratz",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.00493v1",
+      "link": "https://arxiv.org/abs/2607.00493v1",
+      "published": "2026-07-01T06:20:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3176174",
+        "inspire_url": "https://inspirehep.net/literature/3176174",
+        "citation_count": 2
       }
     },
     {
@@ -1513,7 +1535,7 @@
       "inspire": {
         "control_number": "3169537",
         "inspire_url": "https://inspirehep.net/literature/3169537",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2465,6 +2487,38 @@
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 248, p. 248, 2026"
+      }
+    },
+    {
+      "id": "2604.02424v3",
+      "title": "A Guide to Symmetric Mass Generation in Lattice-QCD",
+      "summary": "Symmetric mass generation (SMG) has attracted growing interest in both condensed matter theory and lattice-QCD communities. Here we formulate general criteria for SMG and examine their compatibility with lattice-QCD. We propose possible RG-flow scenarios near the SMG transition, and argue that meson mass ratio can serve as a probe of the SMG transition viewed as a UV fixed point. We further identify Goldstone tetraquark meson states as phenomenological signatures of the \"type-II'' SMG phase.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Cenke Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2604.02424v3",
+      "link": "https://arxiv.org/abs/2604.02424v3",
+      "published": "2026-04-02T18:00:18Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3139140",
+        "inspire_url": "https://inspirehep.net/literature/3139140",
+        "doi": "10.1016/j.aop.2026.170730",
+        "publication_info": [
+          {
+            "journal_title": "Annals Phys.",
+            "journal_volume": "495",
+            "artid": "170730",
+            "year": 2026
+          }
+        ],
+        "citation_count": 3,
+        "journal_ref": "Annals Phys., 495, artid 170730, 2026"
       }
     },
     {
