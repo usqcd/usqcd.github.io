@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T11:24:16.827688+00:00Z",
-  "count": 162,
+  "generated": "2026-09-23T11:11:58.963749+00:00Z",
+  "count": 164,
   "publications": [
     {
       "id": "2609.20545v1",
@@ -80,7 +80,7 @@
       "inspire": {
         "control_number": "3204867",
         "inspire_url": "https://inspirehep.net/literature/3204867",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
