@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T11:11:58.899468+00:00Z",
+  "generated": "2026-09-24T11:34:43.540603+00:00Z",
   "count": 164,
   "publications": [
     {
@@ -1368,7 +1368,18 @@
       "inspire": {
         "control_number": "3174067",
         "inspire_url": "https://inspirehep.net/literature/3174067",
-        "citation_count": 2
+        "doi": "10.1103/fw2x-3hl3",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "054508",
+            "year": 2026,
+            "journal_issue": "5"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Phys.Rev.D, 114, artid 054508, 2026"
       }
     },
     {
@@ -1447,15 +1458,15 @@
       }
     },
     {
-      "id": "2606.22224v1",
+      "id": "2606.22224v2",
       "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
-      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF in the physical limits is consistent with global fittings within $\\sim1σ$. This provides compelling evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
+      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within $\\sim1σ$, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
       "authors": [
         "Xiangdong Ji",
         "Yushan Su"
       ],
-      "pdf": "https://arxiv.org/pdf/2606.22224v1",
-      "link": "https://arxiv.org/abs/2606.22224v1",
+      "pdf": "https://arxiv.org/pdf/2606.22224v2",
+      "link": "https://arxiv.org/abs/2606.22224v2",
       "published": "2026-06-20T20:58:34Z",
       "categories": [
         "hep-lat",
@@ -1585,7 +1596,7 @@
       "inspire": {
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
