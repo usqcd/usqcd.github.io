@@ -1,7 +1,56 @@
 {
-  "generated": "2026-09-28T13:27:53.975306+00:00Z",
-  "count": 165,
+  "generated": "2026-09-29T12:35:04.175926+00:00Z",
+  "count": 160,
   "publications": [
+    {
+      "id": "2609.35371v1",
+      "title": "The Peskin-Takeuchi $S$ parameter and vector meson decay constants in $N_f=8$ QCD",
+      "summary": "We use lattice gauge theory to investigate the Peskin-Takeuchi S parameter in SU(3) gauge theory with eight light fundamental fermions (eight-flavor QCD), a candidate for walking technicolor. We develop a new approach to computing S using the first time moment of current correlators, in addition to the conventional vacuum-polarization method, and obtain consistent results. Finite-volume (FV) corrections are estimated using data at multiple lattice volumes and a formula motivated by chiral perturbation theory. At the smallest fermion mass, the one-doublet contribution is S = 0.281(5)(17), smaller than the value $\\sim 0.35$ in scaled-up 2+1-flavor QCD (without subtracting the SM contribution). However, contrary to naive expectations, S toward smaller fermion masses is not necessarily suppressed once FV corrections are included. The resulting Gasser-Leutwyler parameter $L_{10}^r(M_ρ)$ is similar to that in real-world QCD. We also determine the vector and axial-vector meson decay constants, $F_ρ$ and $F_{a_1}$. The ratio $F_ρ/F_π$ is stable against the fermion mass and consistent with the KSRF estimate, implying a $ρππ$ coupling similar to that in real-world QCD. We predict the techni-rho decay width into weak bosons to be $Γ_ρ/M_ρ\\lesssim 0.24/N$, where N is the number of weak doublets. We further find that the rho- and $a_1$-dominated Weinberg spectral-function and Das-Mathur-Okubo sum rules are satisfied, yielding S and $L_{10}^r(M_ρ)$ consistent with our main results. We discuss implications for BSM model building.",
+      "authors": [
+        "Yasumichi Aoki",
+        "Tatsumi Aoyama",
+        "Ed Bennett",
+        "Toshihide Maskawaa",
+        "Kohtaroh Miura",
+        "Hiroshi Ohki",
+        "Enrico Rinaldi",
+        "Akihiro Shibata",
+        "Koichi Yamawaki",
+        "Takeshi Yamazaki"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.35371v1",
+      "link": "https://arxiv.org/abs/2609.35371v1",
+      "published": "2026-09-28T15:11:24Z",
+      "categories": [
+        "hep-lat"
+      ]
+    },
+    {
+      "id": "2609.31889v1",
+      "title": "Scattering amplitudes from quantum hardware a la RESOs",
+      "summary": "We report the first quantum-hardware implementation of Real-time Estimators for Scattering Observables (RESOs). The physical model is a one-dimensional lattice theory of non-relativistic spin-1/2 fermions with a single contact interaction. The lattice sizes studied are up to $N_x=54$ lattice sites and up to $20$ time steps. Spacetime correlation functions were computed on IBM's quantum computers, using $109$ qubits with $10,806$ CZ gates applied, reaching a two-qubit gate depth of $246$. We demonstrate how to study bound states and extract scattering amplitudes from these correlation functions.",
+      "authors": [
+        "Raul A Briceno",
+        "Ivan M Burbano",
+        "Anthony N Ciavarella",
+        "Ermal Rrapaj",
+        "Thomas R Richardson",
+        "Andre Walker-Loud"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.31889v1",
+      "link": "https://arxiv.org/abs/2609.31889v1",
+      "published": "2026-09-25T18:26:02Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3208480",
+        "inspire_url": "https://inspirehep.net/literature/3208480",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.28634v1",
       "title": "Non-stabilizerness and entanglement in $(2+1)$-dimensional SU(2) lattice gauge theory using tensor networks",
@@ -80,55 +129,6 @@
       "inspire": {
         "control_number": "3204872",
         "inspire_url": "https://inspirehep.net/literature/3204872",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.19544v1",
-      "title": "Generalized parton distributions: Theory meets experiment",
-      "summary": "Over the past three decades, generalized parton distributions (GPDs) have emerged as one of the most active and important areas of research in nucleon structure and quantum chromodynamics (QCD). Since the last comprehensive review two decades ago, substantial progress has been made in experimental measurements of hard exclusive processes, such as deeply virtual Compton scattering and near-threshold $J/ψ$ production, as well as in increasingly sophisticated phenomenological analyses of GPDs that enable three-dimensional nucleon tomography. Theoretical advances in perturbative coefficient functions, scale evolutions, and kinematic and power corrections have considerably improved the precision of GPD phenomenology, while new hard exclusive processes for probing GPDs have been explored. More interestingly, lattice QCD can now directly access GPDs at fixed parton momentum fractions $x$ and skewness $ξ$ through large-momentum expansions, in addition to the traditional calculations of their moments, or generalized form factors. Significant progress has also been made in exploring the QCD energy-momentum tensor that encodes fundamental information on the nucleon's mass distribution, complete spin structure, and spatial distributions of momentum current and color-Lorentz forces acting on quarks and gluons.",
-      "authors": [
-        "Yuxun Guo",
-        "Xiangdong Ji",
-        "Yao Ji",
-        "Jialu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.19544v1",
-      "link": "https://arxiv.org/abs/2609.19544v1",
-      "published": "2026-09-17T01:09:31Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3204867",
-        "inspire_url": "https://inspirehep.net/literature/3204867",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2609.17725v1",
-      "title": "Testing strong isospin breaking effects in QCD thermodynamics",
-      "summary": "Most modern lattice QCD calculations take the masses of the light quarks to be degenerate, setting $m_u=m_d$, a choice that, while not physical, increases computational efficiency and lowers the complexity of simulations and analysis. For many observables, the systematic error associated with this simplification is expected to be negligible, as $Δm_{ud}=m_d-m_u$ is significantly below the QCD scale. So far lattice studies have examined the role of strong isospin breaking (SIB) in hadron mass splittings, but SIB effects in thermodynamic observables have only been studied in terms of the crossover temperature with unphysically heavy quarks. Motivated by the recent observation of an unexpectedly large ratio between the abundances of charged versus neutral kaons in heavy-ion collision experiments, we investigate the effects of SIB in QCD thermodynamics by computing observables for three non-degenerate flavors ($N_f=1+1+1$) with physical quark masses using dynamical improved staggered fermions. In particular, we investigate the difference between the $u$- and $d$-quark condensates and extract the pseudocritical temperature, the equation of state, and conserved-charge fluctuations, comparing results to standard $N_f=2+1$ simulations.",
-      "authors": [
-        "D. A. Clarke",
-        "B. B. Brandt"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.17725v1",
-      "link": "https://arxiv.org/abs/2609.17725v1",
-      "published": "2026-09-15T18:35:08Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3204441",
-        "inspire_url": "https://inspirehep.net/literature/3204441",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     }
