@@ -1,7 +1,64 @@
 {
-  "generated": "2026-09-29T12:35:04.175926+00:00Z",
-  "count": 160,
+  "generated": "2026-09-30T12:20:54.936446+00:00Z",
+  "count": 169,
   "publications": [
+    {
+      "id": "2609.37130v1",
+      "title": "Progress on $Sp(4)$ lattice theories with Grid: Möbius domain wall fermions and continuum extrapolations",
+      "summary": "We present preliminary results obtained in the first extensive study of the Möbius domain wall fermion (MDWF) lattice formulation of the four-dimensional Sp(4) gauge theory coupled to two dynamical fermions transforming in the fundamental representation. This theory is important for extensions of the Standard Model, as it provides the microscopic origin for both composite Higgs and dark matter models based on the SU(4)/Sp(4) coset. We scan the space of bare lattice parameters, including those entering the MDWF, and monitor spurious effects, such as the residual mass. We identify optimised regions of parameter space in which lattice artefacts affecting the global symmetries of the theory are suppressed. We then perform preliminary measurements of the lightest pseudoscalar and vector meson masses, together with the pseudoscalar decay constant. We demonstrate the potential of the MDWF formulation to enable continuum-limit extrapolations with reduced lattice discretisation effects.",
+      "authors": [
+        "Gianmarco Simonetti",
+        "Ed Bennett",
+        "Peter A. Boyle",
+        "Luigi Del Debbio",
+        "Niccolò Forzano",
+        "Ryan C. Hill",
+        "Deog Ki Hong",
+        "Jong-Wan Lee",
+        "C. -J. David Lin",
+        "Biagio Lucini",
+        "Maurizio Piai",
+        "Davide Vadacchino",
+        "Alexis Verney-Provatas"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.37130v1",
+      "link": "https://arxiv.org/abs/2609.37130v1",
+      "published": "2026-09-29T09:35:15Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3209224",
+        "inspire_url": "https://inspirehep.net/literature/3209224",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.36010v1",
+      "title": "A parameter independent analysis of the QCD chiral phase transition and its universal critical behaviour",
+      "summary": "We make use of unique properties of scaling functions to estimate the chiral phase transition temperature and corresponding universal critical parameters of this phase transition directly from (2+1)-flavor QCD simulations with highly improved staggered fermions on lattices with temporal extent $N_τ=8$. Working with an improved chiral order parameter for quantifying chiral symmetry breaking, we analyze the finite-volume dependence of this observable for a wide range of lattice volumes and light quark masses, and quantitatively estimate the deviations from the expected universal scaling behaviour as a function of the light-to-strange quark mass ratio.",
+      "authors": [
+        "Jishnu Goswami",
+        "Frithjof Karsch",
+        "Sabarnya Mitra",
+        "Christian Schmidt"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.36010v1",
+      "link": "https://arxiv.org/abs/2609.36010v1",
+      "published": "2026-09-28T18:00:27Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3209077",
+        "inspire_url": "https://inspirehep.net/literature/3209077",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.35371v1",
       "title": "The Peskin-Takeuchi $S$ parameter and vector meson decay constants in $N_f=8$ QCD",
@@ -23,7 +80,12 @@
       "published": "2026-09-28T15:11:24Z",
       "categories": [
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3208961",
+        "inspire_url": "https://inspirehep.net/literature/3208961",
+        "citation_count": 0
+      }
     },
     {
       "id": "2609.31889v1",
@@ -74,62 +136,7 @@
       "inspire": {
         "control_number": "3207145",
         "inspire_url": "https://inspirehep.net/literature/3207145",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.20545v1",
-      "title": "Computability of GPDs near $x=\\pmξ$ in Lattice QCD",
-      "summary": "In lattice QCD computations of generalized parton distributions (GPDs), the large momentum expansion generally requires all hard scales, $2|x\\pmξ|P^z$ and $2|1\\pm x|P^z$, to be much larger than $Λ_{\\rm QCD}$. We show that this condition can be relaxed for $2|x\\pmξ|P^z$ at large $ξ$, making the important $x\\sim\\pmξ$ regions accessible to lattice calculations and considerably expanding the region of computability. Revisiting previous lattice results with complete one-loop matching, we obtain the expected partonic threshold behavior---GPDs continuous at $x=\\pmξ$ but with discontinuous derivatives---which has not previously been observed on the lattice. We thus obtain, for the first time, important prediction for GPDs in the distribution-amplitude-like region, which smoothly connects the quark and antiquark PDF-like behaviors.",
-      "authors": [
-        "Yushan Su",
-        "Xiangdong Ji",
-        "Yizhuang Liu",
-        "Rui Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.20545v1",
-      "link": "https://arxiv.org/abs/2609.20545v1",
-      "published": "2026-09-17T15:11:41Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3204905",
-        "inspire_url": "https://inspirehep.net/literature/3204905",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.19930v1",
-      "title": "Symplectic lattice gauge theories in the Grid framework: domain wall fermions and continuum extrapolations",
-      "summary": "We report the results of the first numerical lattice study using domain-wall fermions in the Sp(4) gauge theory coupled to two flavours of (Dirac) fermions, transforming in the fundamental representation of the gauge group. This theory plays a prominent role in the literature on extensions of the Standard Model with composite dynamics. It provides a short-distance completion for a class of composite Higgs models, or, alternatively, of dark matter models based on the strongly interacting massive particle paradigm. We adopt the Möbius formulation of domain-wall fermions (MDWF), implemented within the Grid software environment. We report the results of extensive tests of the algorithm implementation, and of the optimisation of the choices of algorithmic parameters appearing in the MDWF action. We then measure masses and decay constants of the lightest flavoured mesons in ensembles with moderately large fermion masses and several choices of lattice coupling, and perform an extrapolation to the continuum. We compare our results for the physical observables to published measurements obtained in the same field theory, but derived on the lattice by employing Wilson fermions. We demonstrate that, with the deployment of moderate computational resources, the MDWF formulation can yield order-of-magnitude gains in the approach to the continuum limit, in regions of physical parameter space relevant to phenomenological applications of this theory.",
-      "authors": [
-        "Ed Bennett",
-        "Peter A. Boyle",
-        "Luigi Del Debbio",
-        "Niccolò Forzano",
-        "Ryan C. Hill",
-        "Deog Ki Hong",
-        "Jong-Wan Lee",
-        "C. -J. David Lin",
-        "Biagio Lucini",
-        "Maurizio Piai",
-        "Gianmarco Simonetti",
-        "Davide Vadacchino",
-        "Alexis Verney-Provatas"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.19930v1",
-      "link": "https://arxiv.org/abs/2609.19930v1",
-      "published": "2026-09-17T09:08:27Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3204872",
-        "inspire_url": "https://inspirehep.net/literature/3204872",
-        "citation_count": 0
+        "citation_count": 1
       }
     }
   ]
