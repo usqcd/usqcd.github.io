@@ -901,6 +901,20 @@ function ScientificProgramCommittee() {
   );
 }
 
+function memberLastName(name) {
+  const parts = String(name || '').trim().split(/\s+/).filter(Boolean);
+  return parts.length > 0 ? parts[parts.length - 1] : '';
+}
+
+function affiliationCategory(institution) {
+  const name = String(institution || '');
+  if (/National (?:Accelerator )?Laboratory|National Accelerator Facility|RIKEN-BNL Research Center/i.test(name)) {
+    return 'nationalLabs';
+  }
+  if (/^(Intel|NVIDIA)$/i.test(name)) return 'industry';
+  return 'universities';
+}
+
 // MembersList reads static JSON (or falls back to a small bundled list for preview)
 function MembersList() {
   const [members, setMembers] = useState(null);
@@ -926,8 +940,73 @@ function MembersList() {
   if (members === null) return <div className="p-4 text-sm text-slate-500">Loading membership list…</div>;
   if (!members || members.length === 0) return <div className="p-4 text-sm text-slate-500">No membership data found.</div>;
 
+  const collator = new Intl.Collator('en', { sensitivity: 'base' });
+  const sortedMembers = [...members].sort((a, b) => {
+    const lastNameComparison = collator.compare(memberLastName(a.name), memberLastName(b.name));
+    return lastNameComparison || collator.compare(a.name, b.name);
+  });
+
+  const affiliationCounts = members.reduce(
+    (counts, member) => {
+      counts[affiliationCategory(member.institution)] += 1;
+      return counts;
+    },
+    { universities: 0, nationalLabs: 0, industry: 0 }
+  );
+  const universityPercent = (affiliationCounts.universities / members.length) * 100;
+  const nationalLabPercent = (affiliationCounts.nationalLabs / members.length) * 100;
+  const nationalLabEnd = universityPercent + nationalLabPercent;
+  const percent = (count) => `${((count / members.length) * 100).toFixed(1)}%`;
+  const affiliationSummary = [
+    { key: 'universities', label: 'Universities & academia', colour: '#0ea5e9' },
+    { key: 'nationalLabs', label: 'National laboratories', colour: '#6366f1' },
+    { key: 'industry', label: 'Industry', colour: '#f59e0b' }
+  ];
+
   return (
     <div className="mt-4">
+      <div className="mb-4 p-4 bg-white rounded-lg border border-slate-100">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <div className="text-sm font-semibold">Membership summary</div>
+            <div className="text-xs text-slate-600">Current USQCD collaboration roster</div>
+          </div>
+          <span className="text-sm bg-white px-3 py-1 rounded-full border text-slate-700">
+            {members.length} members
+          </span>
+        </div>
+
+        <div className="mt-5 grid grid-cols-1 sm:grid-cols-[10rem_minmax(0,1fr)] gap-6 items-center">
+          <div
+            className="w-40 h-40 mx-auto rounded-full shadow-sm border-4 border-white"
+            style={{
+              background: `conic-gradient(#0ea5e9 0% ${universityPercent}%, #6366f1 ${universityPercent}% ${nationalLabEnd}%, #f59e0b ${nationalLabEnd}% 100%)`
+            }}
+            role="img"
+            aria-label={`Member affiliations: ${affiliationCounts.universities} at universities or academic organizations, ${affiliationCounts.nationalLabs} at national laboratories, and ${affiliationCounts.industry} in industry.`}
+          />
+
+          <div>
+            <h5 className="text-sm font-semibold text-slate-800">Affiliations</h5>
+            <div className="mt-2 space-y-2">
+              {affiliationSummary.map((item) => (
+                <div key={item.key} className="flex items-center justify-between gap-4 text-sm">
+                  <div className="flex items-center gap-2 text-slate-700">
+                    <span className="w-3 h-3 rounded-sm" style={{ backgroundColor: item.colour }} />
+                    <span>{item.label}</span>
+                  </div>
+                  <div className="text-slate-600 tabular-nums">
+                    <span className="font-medium text-slate-800">{affiliationCounts[item.key]}</span>
+                    <span className="ml-2">{percent(affiliationCounts[item.key])}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+            <p className="mt-3 text-xs text-slate-500">Affiliations are grouped automatically from the institution names in the member roster.</p>
+          </div>
+        </div>
+      </div>
+
       <div className="overflow-x-auto rounded-lg border border-slate-100">
         <table className="w-full text-sm">
           <thead className="bg-slate-50">
@@ -937,8 +1016,8 @@ function MembersList() {
             </tr>
           </thead>
           <tbody>
-            {members.map((m, i) => (
-              <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-slate-50'}>
+            {sortedMembers.map((m, i) => (
+              <tr key={`${m.name}-${m.institution}`} className={i % 2 === 0 ? 'bg-white' : 'bg-slate-50'}>
                 <td className="px-4 py-3 align-top text-slate-700">{m.name}</td>
                 <td className="px-4 py-3 align-top font-medium text-slate-800">{m.institution}</td>
               </tr>
