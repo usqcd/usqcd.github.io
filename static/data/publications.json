@@ -1,7 +1,27 @@
 {
-  "generated": "2026-09-30T12:20:54.936446+00:00Z",
-  "count": 169,
+  "generated": "2026-10-01T12:54:08.195808+00:00Z",
+  "count": 170,
   "publications": [
+    {
+      "id": "2609.38569v1",
+      "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
+      "summary": "Imaginary-time evolution can be reconstructed from real-time quantum simulations using exact integral transforms. We identify the construction of Guo, Shibu, Lin, and Zhao as a continuous linear combination of Hamiltonian simulations and show that its slow $1/t_{\\rm cut}$ convergence arises from a redundant kernel component. We extend the construction from pure-state matrix elements to thermal traces and correlators. One real-time dataset then reconstructs targeted inverse temperatures, Euclidean separations, and chemical potentials through classical post-processing, bringing finite-$(T,θ,μ)$ physics within reach of real-time quantum simulation without thermal-state preparation. We benchmark the method on one- and two-flavor lattice Schwinger models, including circuit-level simulations with depolarizing noise.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.38569v1",
+      "link": "https://arxiv.org/abs/2609.38569v1",
+      "published": "2026-09-29T21:28:30Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3209766",
+        "inspire_url": "https://inspirehep.net/literature/3209766",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.37130v1",
       "title": "Progress on $Sp(4)$ lattice theories with Grid: Möbius domain wall fermions and continuum extrapolations",
@@ -111,32 +131,6 @@
         "control_number": "3208480",
         "inspire_url": "https://inspirehep.net/literature/3208480",
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.28634v1",
-      "title": "Non-stabilizerness and entanglement in $(2+1)$-dimensional SU(2) lattice gauge theory using tensor networks",
-      "summary": "We study non-stabilizerness (magic) in the ground state of $(2+1)$-dimensional $\\mathrm{SU}(2)$ Hamiltonian lattice gauge theory with matter, formulated in the dressed-site basis in the hardcore-gluon truncation and restricted to the zero baryon-number sector. Using matrix product states, we compute three facets of magic: the second-order stabilizer Rényi entropy (SRE) $M_2$, its non-local component $M_2^{\\rm NL}$, and a lower bound in terms of the anti-flatness $F$ of the entanglement spectrum. We also prove a stronger form of the sandwich relation: $-\\log_2(1-4F)\\le M_2^{\\rm NL}\\le M_2$; the lower bound rests on a stronger inequality that we obtain for arbitrary Schmidt bases and rank, thus resolving the open problem of finding the maximal lower bound. We emphasize a structural distinction that makes the non-local quantities the physically preferred diagnostics: whereas the full SRE depends on the (non-unique) encoding of the gauge-invariant local Hilbert space into qubits, both the non-local magic and the anti-flatness are invariant under site-local re-encodings and are therefore intrinsic to the state and bipartition. By varying the gauge coupling on lattices up to $6\\times 6$ with bond dimension up to $128$, we find that the non-local magic furnishes a sharper and more bond-dimension-friendly probe of the gauge-matter delocalization crossover compared to the full SRE or the gauge-invariant entanglement entropy, retaining a clear signal at bond dimensions well below those needed to converge the ground state itself.",
-      "authors": [
-        "Raghav G. Jha",
-        "Jaber I. Taher",
-        "Muhammad Asaduzzaman",
-        "Goksu C. Toga",
-        "Bojko N. Bakalov",
-        "Alexander F. Kemper"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.28634v1",
-      "link": "https://arxiv.org/abs/2609.28634v1",
-      "published": "2026-09-23T18:00:03Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3207145",
-        "inspire_url": "https://inspirehep.net/literature/3207145",
-        "citation_count": 1
       }
     }
   ]

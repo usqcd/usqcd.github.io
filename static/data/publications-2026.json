@@ -1,7 +1,27 @@
 {
-  "generated": "2026-09-30T12:20:54.889297+00:00Z",
-  "count": 169,
+  "generated": "2026-10-01T12:54:08.131337+00:00Z",
+  "count": 170,
   "publications": [
+    {
+      "id": "2609.38569v1",
+      "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
+      "summary": "Imaginary-time evolution can be reconstructed from real-time quantum simulations using exact integral transforms. We identify the construction of Guo, Shibu, Lin, and Zhao as a continuous linear combination of Hamiltonian simulations and show that its slow $1/t_{\\rm cut}$ convergence arises from a redundant kernel component. We extend the construction from pure-state matrix elements to thermal traces and correlators. One real-time dataset then reconstructs targeted inverse temperatures, Euclidean separations, and chemical potentials through classical post-processing, bringing finite-$(T,θ,μ)$ physics within reach of real-time quantum simulation without thermal-state preparation. We benchmark the method on one- and two-flavor lattice Schwinger models, including circuit-level simulations with depolarizing noise.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.38569v1",
+      "link": "https://arxiv.org/abs/2609.38569v1",
+      "published": "2026-09-29T21:28:30Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3209766",
+        "inspire_url": "https://inspirehep.net/literature/3209766",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.37130v1",
       "title": "Progress on $Sp(4)$ lattice theories with Grid: Möbius domain wall fermions and continuum extrapolations",
@@ -599,7 +619,7 @@
       "inspire": {
         "control_number": "3194679",
         "inspire_url": "https://inspirehep.net/literature/3194679",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -625,7 +645,7 @@
       "inspire": {
         "control_number": "3193771",
         "inspire_url": "https://inspirehep.net/literature/3193771",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1659,7 +1679,7 @@
       "inspire": {
         "control_number": "3170330",
         "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1914,7 +1934,7 @@
       "inspire": {
         "control_number": "3162360",
         "inspire_url": "https://inspirehep.net/literature/3162360",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2045,7 +2065,7 @@
       "inspire": {
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2816,7 +2836,7 @@
       "inspire": {
         "control_number": "3137591",
         "inspire_url": "https://inspirehep.net/literature/3137591",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2944,7 +2964,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 12
+        "citation_count": 13
       }
     },
     {
@@ -3030,7 +3050,7 @@
       "inspire": {
         "control_number": "3133770",
         "inspire_url": "https://inspirehep.net/literature/3133770",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
