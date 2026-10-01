@@ -3,14 +3,14 @@
     { "name": "Thomas Blum", "role": "Chair" },
     { "name": "William Detmold", "role": "Deputy Chair" },
     { "name": "Peter Boyle", "role": "Member" },
-    { "name": "Martha Constantinou", "role": "Member" },
     { "name": "Carleton DeTar", "role": "Member" },
     { "name": "Robert Edwards", "role": "Member" },
     { "name": "Anna Hasenfratz", "role": "Member" },
     { "name": "Andreas Kronfeld", "role": "Member" },
     { "name": "Huey-Wen Lin", "role": "Member" },
     { "name": "Stefan Meinel", "role": "Member (also SPC Chair)" },
-    { "name": "Kostas Orginos", "role": "Member" }
+    { "name": "Kostas Orginos", "role": "Member" },
+    { "name": "Yong Zhao", "role": "Early Career Member" }
   ],
   "scientific_program_committee": [
     { "name": "Stefan Meinel", "role": "Chair" },
@@ -18,11 +18,10 @@
     { "name": "Luchang Jin", "role": "Member" },
     { "name": "Joseph Karpie", "role": "Member" },
     { "name": "Christopher Monahan", "role": "Member" },
-    { "name": "Peter Petreczky", "role": "Member" },
     { "name": "Michael Wagman", "role": "Member" }
   ],
   "source": {
     "url": "https://www.usqcd.org/collaboration.html",
-    "last_verified": "2026-02-08"
+    "last_verified": "2026-10-01"
   }
 }
