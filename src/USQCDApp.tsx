@@ -1002,7 +1002,6 @@ function MembersList() {
                 </div>
               ))}
             </div>
-            <p className="mt-3 text-xs text-slate-500">Affiliations are grouped automatically from the institution names in the member roster.</p>
           </div>
         </div>
       </div>
