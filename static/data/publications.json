@@ -1,7 +1,58 @@
 {
-  "generated": "2026-10-01T12:54:08.195808+00:00Z",
-  "count": 170,
+  "generated": "2026-10-02T12:22:24.711998+00:00Z",
+  "count": 169,
   "publications": [
+    {
+      "id": "2610.02169v1",
+      "title": "Drell-Yan lepton pair production from low to high transverse momentum",
+      "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
+      "authors": [
+        "Benoît Assi",
+        "Enrico Bothmann",
+        "John Campbell",
+        "Christian Gütschow",
+        "Stefan Höche",
+        "Wan-Li Ju",
+        "Max Knobbe",
+        "Marek Schönherr",
+        "Jesse Thaler",
+        "Michael L. Wagman"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.02169v1",
+      "link": "https://arxiv.org/abs/2610.02169v1",
+      "published": "2026-10-01T17:56:04Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3210666",
+        "inspire_url": "https://inspirehep.net/literature/3210666",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.40205v1",
+      "title": "Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region $|x|>1$",
+      "summary": "We compute one-loop unpolarized quark and gluon quasi- and pseudo-distributions in $\\overline{\\mathrm{MS}}$ and match them to light-cone PDFs. Decomposing the gluon correlator into six covariant form factors, we derive the $6\\times6$ renormalization mixing matrix: its eigenvectors classify multiplicatively renormalizable combinations, and any lattice operator choice projects onto our results without a further loop calculation.\n  Evaluating all Fourier transforms in $d$ dimensions, we resolve the structure of the exterior $|x|>1$ in quasi-distributions. The correlator carries a short-distance logarithm with a branch cut at $ν=0$. By the Paley-Wiener theorem, the analytic part transforms into $|x|\\le1$, so the exterior is generated solely by this branch cut. At leading power, the exterior carries no independent non-perturbative physics: it is fixed by the light-cone PDF through the renormalization group. In LaMET, lattice data therefore cannot determine the exterior independently of the interior, and unconstrained exterior parameters in reconstructions risk absorbing genuine power corrections into the leading-twist PDF.\n  In the gluon channel, the matching kernel of Balitsky, Morris and Radyushkin differs from our $\\overline{\\mathrm{MS}}$ result by a finite polynomial, identical across index choices. We trace this to contracting an internal loop index over two instead of $d-2$ transverse directions, omitting an evanescent operator on the collinear pole. Using our basis, we show that the independent kernel of Yao, Ji and Zhang agrees with ours, separated from Balitsky et al. by the same polynomial.\n  While the ratio scheme protects the momentum fraction $\\langle x\\rangle_g$, this kernel difference suppresses the extracted normalized second and third gluon moments by $11\\%$ and $13\\%$ at $α_s=0.3$, so the true $\\overline{\\mathrm{MS}}$ gluon is systematically harder than reported.",
+      "authors": [
+        "Christopher Monahan",
+        "Tobias Neumann"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.40205v1",
+      "link": "https://arxiv.org/abs/2609.40205v1",
+      "published": "2026-09-30T17:18:48Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3210053",
+        "inspire_url": "https://inspirehep.net/literature/3210053",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2609.38569v1",
       "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
@@ -76,60 +127,6 @@
       "inspire": {
         "control_number": "3209077",
         "inspire_url": "https://inspirehep.net/literature/3209077",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.35371v1",
-      "title": "The Peskin-Takeuchi $S$ parameter and vector meson decay constants in $N_f=8$ QCD",
-      "summary": "We use lattice gauge theory to investigate the Peskin-Takeuchi S parameter in SU(3) gauge theory with eight light fundamental fermions (eight-flavor QCD), a candidate for walking technicolor. We develop a new approach to computing S using the first time moment of current correlators, in addition to the conventional vacuum-polarization method, and obtain consistent results. Finite-volume (FV) corrections are estimated using data at multiple lattice volumes and a formula motivated by chiral perturbation theory. At the smallest fermion mass, the one-doublet contribution is S = 0.281(5)(17), smaller than the value $\\sim 0.35$ in scaled-up 2+1-flavor QCD (without subtracting the SM contribution). However, contrary to naive expectations, S toward smaller fermion masses is not necessarily suppressed once FV corrections are included. The resulting Gasser-Leutwyler parameter $L_{10}^r(M_ρ)$ is similar to that in real-world QCD. We also determine the vector and axial-vector meson decay constants, $F_ρ$ and $F_{a_1}$. The ratio $F_ρ/F_π$ is stable against the fermion mass and consistent with the KSRF estimate, implying a $ρππ$ coupling similar to that in real-world QCD. We predict the techni-rho decay width into weak bosons to be $Γ_ρ/M_ρ\\lesssim 0.24/N$, where N is the number of weak doublets. We further find that the rho- and $a_1$-dominated Weinberg spectral-function and Das-Mathur-Okubo sum rules are satisfied, yielding S and $L_{10}^r(M_ρ)$ consistent with our main results. We discuss implications for BSM model building.",
-      "authors": [
-        "Yasumichi Aoki",
-        "Tatsumi Aoyama",
-        "Ed Bennett",
-        "Toshihide Maskawaa",
-        "Kohtaroh Miura",
-        "Hiroshi Ohki",
-        "Enrico Rinaldi",
-        "Akihiro Shibata",
-        "Koichi Yamawaki",
-        "Takeshi Yamazaki"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.35371v1",
-      "link": "https://arxiv.org/abs/2609.35371v1",
-      "published": "2026-09-28T15:11:24Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3208961",
-        "inspire_url": "https://inspirehep.net/literature/3208961",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.31889v1",
-      "title": "Scattering amplitudes from quantum hardware a la RESOs",
-      "summary": "We report the first quantum-hardware implementation of Real-time Estimators for Scattering Observables (RESOs). The physical model is a one-dimensional lattice theory of non-relativistic spin-1/2 fermions with a single contact interaction. The lattice sizes studied are up to $N_x=54$ lattice sites and up to $20$ time steps. Spacetime correlation functions were computed on IBM's quantum computers, using $109$ qubits with $10,806$ CZ gates applied, reaching a two-qubit gate depth of $246$. We demonstrate how to study bound states and extract scattering amplitudes from these correlation functions.",
-      "authors": [
-        "Raul A Briceno",
-        "Ivan M Burbano",
-        "Anthony N Ciavarella",
-        "Ermal Rrapaj",
-        "Thomas R Richardson",
-        "Andre Walker-Loud"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.31889v1",
-      "link": "https://arxiv.org/abs/2609.31889v1",
-      "published": "2026-09-25T18:26:02Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3208480",
-        "inspire_url": "https://inspirehep.net/literature/3208480",
         "citation_count": 0
       }
     }
