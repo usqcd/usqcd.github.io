@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T12:22:24.653667+00:00Z",
-  "count": 169,
+  "generated": "2026-10-03T11:29:54.703266+00:00Z",
+  "count": 171,
   "publications": [
     {
       "id": "2610.02169v1",
@@ -182,6 +182,32 @@
         "control_number": "3208480",
         "inspire_url": "https://inspirehep.net/literature/3208480",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.28634v1",
+      "title": "Non-stabilizerness and entanglement in $(2+1)$-dimensional SU(2) lattice gauge theory using tensor networks",
+      "summary": "We study non-stabilizerness (magic) in the ground state of $(2+1)$-dimensional $\\mathrm{SU}(2)$ Hamiltonian lattice gauge theory with matter, formulated in the dressed-site basis in the hardcore-gluon truncation and restricted to the zero baryon-number sector. Using matrix product states, we compute three facets of magic: the second-order stabilizer Rényi entropy (SRE) $M_2$, its non-local component $M_2^{\\rm NL}$, and a lower bound in terms of the anti-flatness $F$ of the entanglement spectrum. We also prove a stronger form of the sandwich relation: $-\\log_2(1-4F)\\le M_2^{\\rm NL}\\le M_2$; the lower bound rests on a stronger inequality that we obtain for arbitrary Schmidt bases and rank, thus resolving the open problem of finding the maximal lower bound. We emphasize a structural distinction that makes the non-local quantities the physically preferred diagnostics: whereas the full SRE depends on the (non-unique) encoding of the gauge-invariant local Hilbert space into qubits, both the non-local magic and the anti-flatness are invariant under site-local re-encodings and are therefore intrinsic to the state and bipartition. By varying the gauge coupling on lattices up to $6\\times 6$ with bond dimension up to $128$, we find that the non-local magic furnishes a sharper and more bond-dimension-friendly probe of the gauge-matter delocalization crossover compared to the full SRE or the gauge-invariant entanglement entropy, retaining a clear signal at bond dimensions well below those needed to converge the ground state itself.",
+      "authors": [
+        "Raghav G. Jha",
+        "Jaber I. Taher",
+        "Muhammad Asaduzzaman",
+        "Goksu C. Toga",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.28634v1",
+      "link": "https://arxiv.org/abs/2609.28634v1",
+      "published": "2026-09-23T18:00:03Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3207145",
+        "inspire_url": "https://inspirehep.net/literature/3207145",
+        "citation_count": 1
       }
     },
     {
@@ -1864,6 +1890,31 @@
       }
     },
     {
+      "id": "2606.09971v1",
+      "title": "Magic and entanglement in 1+1-dimensional SU(2) lattice gauge theory",
+      "summary": "Entanglement and non-stabilizerness (magic) quantify two distinct departures of quantum systems from classical description: the former measures non-local correlations, while the latter measures the deviation from stabilizer states that can be efficiently simulated classically. Understanding magic in physically relevant quantum field theories is essential for identifying where quantum advantage may be realized in the early fault-tolerant quantum computing era. We calculate the gauge-invariant entanglement entropy and stabilizer Rényi entropy of the ground state of the (1+1)-dimensional SU(2) lattice gauge theory formulated in a dressed-site basis that enforces Gauss's law exactly. Using tensor networks, we obtain results for system sizes up to $L=100$ (300 qubits). We find a crossover denoted by $g_{\\star}$ where the ground state passes from a more magic-rich regime into a regime with less magic; this is also tracked by the sharpest change of both the entanglement entropy and lattice particle density. Our large-scale study of non-stabilizerness and entanglement entropy in a non-Abelian lattice gauge theory with matter provides new insight into the interplay of magic and entanglement in gauge theories, both of which are relevant for classical and early fault-tolerant quantum simulations.",
+      "authors": [
+        "Raghav G. Jha",
+        "Goksu C. Toga",
+        "Jaber I. Taher",
+        "Bojko N. Bakalov",
+        "Alexander F. Kemper"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09971v1",
+      "link": "https://arxiv.org/abs/2606.09971v1",
+      "published": "2026-06-08T18:00:00Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3167073",
+        "inspire_url": "https://inspirehep.net/literature/3167073",
+        "citation_count": 7
+      }
+    },
+    {
       "id": "2606.09757v1",
       "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
       "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
@@ -1935,32 +1986,6 @@
         "control_number": "3162360",
         "inspire_url": "https://inspirehep.net/literature/3162360",
         "citation_count": 2
-      }
-    },
-    {
-      "id": "2605.22957v1",
-      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
-      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
-      "authors": [
-        "Arkaitz Rodas",
-        "Lin Qiu",
-        "César Fernández-Ramírez",
-        "Vincent Mathieu",
-        "Glòria Montaña",
-        "Alessandro Pilloni",
-        "Adam P. Szczepaniak"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.22957v1",
-      "link": "https://arxiv.org/abs/2605.22957v1",
-      "published": "2026-05-21T18:43:53Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3158986",
-        "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 3
       }
     },
     {
@@ -3252,6 +3277,31 @@
         ],
         "citation_count": 3,
         "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
+      }
+    },
+    {
+      "id": "2603.17971v2",
+      "title": "CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation",
+      "summary": "We introduce the CaRBM algorithm for fixed-depth thermal state preparation. Our algorithm is based on thermal state purification and uses the Restricted Boltzmann Machine (RBM) block-encoding scheme to implement the imaginary-time propagator $e^{-βH}$, which is implemented in the quantum circuit in a fixed-depth manner via Cartan decomposition. Our algorithm performs best at high temperatures, with the success probability of the block encoding decreasing as the temperature decreases. To increase the success probability, we have devised a correction scheme for the block-encoding that increases the temperature range our algorithm reliably probes. We demonstrate our algorithm by calculating the partition function zeros of the XXZ model and the phase diagram of the Gross-Neveu model, which is a model of strongly interacting relativistic fermions.",
+      "authors": [
+        "Omar Alsheikh",
+        "A. F. Kemper",
+        "Ermal Rrapaj",
+        "Evan J. Rule",
+        "Goksu C. Toga"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.17971v2",
+      "link": "https://arxiv.org/abs/2603.17971v2",
+      "published": "2026-03-18T17:38:05Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3130964",
+        "inspire_url": "https://inspirehep.net/literature/3130964",
+        "citation_count": 1
       }
     },
     {
