@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T11:29:54.703266+00:00Z",
-  "count": 171,
+  "generated": "2026-10-04T12:06:43.769751+00:00Z",
+  "count": 172,
   "publications": [
     {
       "id": "2610.02169v1",
@@ -1986,6 +1986,32 @@
         "control_number": "3162360",
         "inspire_url": "https://inspirehep.net/literature/3162360",
         "citation_count": 2
+      }
+    },
+    {
+      "id": "2605.22957v1",
+      "title": "Finite-volume analysis of the $H$-dibaryon including left-hand-cut effects",
+      "summary": "We implement the finite-volume $N/D$ representation to study two-baryon interactions from lattice QCD data. We include the left-hand cut induced by one-pion exchange in this formalism, and study the $H$-dibaryon at the SU(3)$_\\text{F}$-symmetric point, with a pion mass around $417$ MeV. The $N/D$ formalism is then compared to the Lüscher quantization condition, used to describe the same system via effective-range expansions. The results show a mild but statistically significant effect produced by the inclusion of the left-hand cut, especially on the binding energy of the $H$-dibaryon.",
+      "authors": [
+        "Arkaitz Rodas",
+        "Lin Qiu",
+        "César Fernández-Ramírez",
+        "Vincent Mathieu",
+        "Glòria Montaña",
+        "Alessandro Pilloni",
+        "Adam P. Szczepaniak"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.22957v1",
+      "link": "https://arxiv.org/abs/2605.22957v1",
+      "published": "2026-05-21T18:43:53Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3158986",
+        "inspire_url": "https://inspirehep.net/literature/3158986",
+        "citation_count": 3
       }
     },
     {
