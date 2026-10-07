@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T13:09:53.131760+00:00Z",
+  "generated": "2026-10-07T13:06:08.227288+00:00Z",
   "count": 173,
   "publications": [
     {
@@ -15,7 +15,12 @@
       "categories": [
         "hep-ph",
         "hep-lat"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3212018",
+        "inspire_url": "https://inspirehep.net/literature/3212018",
+        "citation_count": 0
+      }
     },
     {
       "id": "2610.02169v1",
@@ -756,7 +761,7 @@
       "inspire": {
         "control_number": "3192638",
         "inspire_url": "https://inspirehep.net/literature/3192638",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2444,7 +2449,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 18
+        "citation_count": 19
       }
     },
     {
@@ -2763,7 +2768,7 @@
             "year": 2026
           }
         ],
-        "citation_count": 3,
+        "citation_count": 5,
         "journal_ref": "Annals Phys., 495, artid 170730, 2026"
       }
     },
@@ -3755,7 +3760,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 10,
+        "citation_count": 11,
         "journal_ref": "Phys.Rev.D, 114, artid 014513, 2026"
       }
     },
