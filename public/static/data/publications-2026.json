@@ -1,7 +1,30 @@
 {
-  "generated": "2026-10-07T13:06:08.227288+00:00Z",
-  "count": 173,
+  "generated": "2026-10-08T13:14:09.189843+00:00Z",
+  "count": 172,
   "publications": [
+    {
+      "id": "2610.10350v1",
+      "title": "Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter",
+      "summary": "We present results from a detailed finite-size scaling analysis of the $3$-$d$, $Z(2)$ and $O(2)$ spin models in an external field $H$. Using high statistics Monte Carlo data, we obtain the leading finite-size scaling correction to the infinite volume scaling functions. We show that these corrections are proportional to $\\widetilde{z}_L^2=1/(H L^{3/(1+1/δ))})^{2}$. This provides the parametric form for finite-size corrections to bulk thermodynamic observables as well as the pseudo-critical temperatures determined at non-vanishing $H$. In particular, it allows to eliminate systematic errors in the analysis of the chiral phase transition temperature in (2+1)-flavor QCD, that arose from the previously not well-controlled ansatz for infinite volume extrapolations. We also establish the validity range of this leading order correction and point out that there are significant differences between the $3$-$d$, $O(2)$ and $Z(2)$ universality classes.",
+      "authors": [
+        "Jishnu Goswami",
+        "Frithjof Karsch",
+        "Sabarnya Mitra"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.10350v1",
+      "link": "https://arxiv.org/abs/2610.10350v1",
+      "published": "2026-10-07T16:27:07Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3212610",
+        "inspire_url": "https://inspirehep.net/literature/3212610",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.06734v1",
       "title": "Two-loop RI/SMOM-$\\overline{\\text{MS}}$ matching factors for the renormalization of bi-local operators contributing to $ε_K$",
@@ -402,28 +425,6 @@
       "inspire": {
         "control_number": "3202046",
         "inspire_url": "https://inspirehep.net/literature/3202046",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.05006v1",
-      "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
-      "summary": "The Wess-Zumino-Witten interaction in chiral perturbation theory is a manifestation of chiral anomalies. One of its consequences is the presence of a nonvanishing $K \\overline K \\to π^+ π^0 π^-$ amplitude. We derive the finite-volume formalism that allows one to access this, and related, amplitudes, using the spectra of two and three particles in finite volumes, spectra that can be calculated using lattice QCD. Specifically, we present the formalism for the systems $K \\overline K + 3 π$ with $I=0$ and $πK + ππK$ with $I=1/2$ and $3/2$. In addition, we determine the threshold expansions for the $2\\leftrightarrow 3$ and $3\\leftrightarrow 3$ K matrices that enter the formalism, and calculate the leading order predictions from chiral perturbation theory for the coefficients that enter these expansions.",
-      "authors": [
-        "Fernando Romero-López",
-        "Stephen R. Sharpe"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.05006v1",
-      "link": "https://arxiv.org/abs/2609.05006v1",
-      "published": "2026-09-04T11:17:37Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3200269",
-        "inspire_url": "https://inspirehep.net/literature/3200269",
         "citation_count": 0
       }
     },
@@ -2850,7 +2851,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 7,
+        "citation_count": 8,
         "journal_ref": "Phys.Rev.D, 114, artid 014505, p. 1, 2026"
       }
     },
@@ -4690,31 +4691,6 @@
       "inspire": {
         "control_number": "3098805",
         "inspire_url": "https://inspirehep.net/literature/3098805",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.04147v2",
-      "title": "Three-particle scattering amplitudes from lattice QCD",
-      "summary": "I review recent progress in calculating scattering amplitudes and resonance properties involving three particles using results from lattice QCD. The necessary input is the finite-volume spectrum, and the outputs -- via solutions of integral equations -- are scattering amplitudes that can be continued into the complex plane to search for resonance poles. I describe the outlook for future extensions and applications of this work.",
-      "authors": [
-        "Stephen R. Sharpe"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.04147v2",
-      "link": "https://arxiv.org/abs/2601.04147v2",
-      "published": "2026-01-07T18:00:39Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3098337",
-        "inspire_url": "https://inspirehep.net/literature/3098337",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 1
       }
     },
