@@ -1,7 +1,30 @@
 {
-  "generated": "2026-10-07T13:06:08.292666+00:00Z",
-  "count": 173,
+  "generated": "2026-10-08T13:14:09.256189+00:00Z",
+  "count": 172,
   "publications": [
+    {
+      "id": "2610.10350v1",
+      "title": "Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter",
+      "summary": "We present results from a detailed finite-size scaling analysis of the $3$-$d$, $Z(2)$ and $O(2)$ spin models in an external field $H$. Using high statistics Monte Carlo data, we obtain the leading finite-size scaling correction to the infinite volume scaling functions. We show that these corrections are proportional to $\\widetilde{z}_L^2=1/(H L^{3/(1+1/δ))})^{2}$. This provides the parametric form for finite-size corrections to bulk thermodynamic observables as well as the pseudo-critical temperatures determined at non-vanishing $H$. In particular, it allows to eliminate systematic errors in the analysis of the chiral phase transition temperature in (2+1)-flavor QCD, that arose from the previously not well-controlled ansatz for infinite volume extrapolations. We also establish the validity range of this leading order correction and point out that there are significant differences between the $3$-$d$, $O(2)$ and $Z(2)$ universality classes.",
+      "authors": [
+        "Jishnu Goswami",
+        "Frithjof Karsch",
+        "Sabarnya Mitra"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.10350v1",
+      "link": "https://arxiv.org/abs/2610.10350v1",
+      "published": "2026-10-07T16:27:07Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3212610",
+        "inspire_url": "https://inspirehep.net/literature/3212610",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.06734v1",
       "title": "Two-loop RI/SMOM-$\\overline{\\text{MS}}$ matching factors for the renormalization of bi-local operators contributing to $ε_K$",
@@ -90,37 +113,6 @@
       "inspire": {
         "control_number": "3209766",
         "inspire_url": "https://inspirehep.net/literature/3209766",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.37130v1",
-      "title": "Progress on $Sp(4)$ lattice theories with Grid: Möbius domain wall fermions and continuum extrapolations",
-      "summary": "We present preliminary results obtained in the first extensive study of the Möbius domain wall fermion (MDWF) lattice formulation of the four-dimensional Sp(4) gauge theory coupled to two dynamical fermions transforming in the fundamental representation. This theory is important for extensions of the Standard Model, as it provides the microscopic origin for both composite Higgs and dark matter models based on the SU(4)/Sp(4) coset. We scan the space of bare lattice parameters, including those entering the MDWF, and monitor spurious effects, such as the residual mass. We identify optimised regions of parameter space in which lattice artefacts affecting the global symmetries of the theory are suppressed. We then perform preliminary measurements of the lightest pseudoscalar and vector meson masses, together with the pseudoscalar decay constant. We demonstrate the potential of the MDWF formulation to enable continuum-limit extrapolations with reduced lattice discretisation effects.",
-      "authors": [
-        "Gianmarco Simonetti",
-        "Ed Bennett",
-        "Peter A. Boyle",
-        "Luigi Del Debbio",
-        "Niccolò Forzano",
-        "Ryan C. Hill",
-        "Deog Ki Hong",
-        "Jong-Wan Lee",
-        "C. -J. David Lin",
-        "Biagio Lucini",
-        "Maurizio Piai",
-        "Davide Vadacchino",
-        "Alexis Verney-Provatas"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.37130v1",
-      "link": "https://arxiv.org/abs/2609.37130v1",
-      "published": "2026-09-29T09:35:15Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3209224",
-        "inspire_url": "https://inspirehep.net/literature/3209224",
         "citation_count": 0
       }
     }
