@@ -1,7 +1,34 @@
 {
-  "generated": "2026-10-08T13:14:09.189843+00:00Z",
-  "count": 172,
+  "generated": "2026-10-09T13:08:41.523470+00:00Z",
+  "count": 175,
   "publications": [
+    {
+      "id": "2610.11071v1",
+      "title": "Analog quantum simulation of $φ^4$ field theory with a superconducting transmission line",
+      "summary": "Understanding the dynamics of interacting quantum fields remains a fundamental challenge. We propose a superconducting transmission line for analog quantum simulation of $(1+1)$-dimensional $φ^4$ field theory. The transmission line comprises fluxonium-like circuit elements whose continuous and unbounded phase variables encode a scalar field without Hilbert-space truncation. Their anharmonic potentials provide strong interactions. Tuning the circuit parameters provides access to two distinct regimes. In the first, the transmission line emulates $φ^4$ field theory with a single-well potential. We confirm this correspondence through lattice Monte Carlo calculations of the low-energy spectra of both the circuit and lattice $φ^4$ theory. This regime enables scattering experiments between counter-propagating particle wave packets. The second parameter set yields a double-well potential that emulates $φ^4$ theory in the symmetry-broken phase and hosts degenerate vacua. Interfaces between the two vacua form topological kinks, and the transmission line can simulate kink-antikink collisions. We present state preparation and measurement protocols for both collision experiments, enabling spatially resolved, real-time studies of particle and soliton scattering in an interacting quantum field theory.",
+      "authors": [
+        "Ilan T. Rosen",
+        "Neill C. Warrington",
+        "Max Hays",
+        "Christopher McNally",
+        "Joshua Lin",
+        "Stephen Sorokanich",
+        "Julian Bender"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.11071v1",
+      "link": "https://arxiv.org/abs/2610.11071v1",
+      "published": "2026-10-08T01:30:42Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.mes-hall",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3212867",
+        "inspire_url": "https://inspirehep.net/literature/3212867",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.10350v1",
       "title": "Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter",
@@ -425,6 +452,28 @@
       "inspire": {
         "control_number": "3202046",
         "inspire_url": "https://inspirehep.net/literature/3202046",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.05006v1",
+      "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
+      "summary": "The Wess-Zumino-Witten interaction in chiral perturbation theory is a manifestation of chiral anomalies. One of its consequences is the presence of a nonvanishing $K \\overline K \\to π^+ π^0 π^-$ amplitude. We derive the finite-volume formalism that allows one to access this, and related, amplitudes, using the spectra of two and three particles in finite volumes, spectra that can be calculated using lattice QCD. Specifically, we present the formalism for the systems $K \\overline K + 3 π$ with $I=0$ and $πK + ππK$ with $I=1/2$ and $3/2$. In addition, we determine the threshold expansions for the $2\\leftrightarrow 3$ and $3\\leftrightarrow 3$ K matrices that enter the formalism, and calculate the leading order predictions from chiral perturbation theory for the coefficients that enter these expansions.",
+      "authors": [
+        "Fernando Romero-López",
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.05006v1",
+      "link": "https://arxiv.org/abs/2609.05006v1",
+      "published": "2026-09-04T11:17:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3200269",
+        "inspire_url": "https://inspirehep.net/literature/3200269",
         "citation_count": 0
       }
     },
@@ -1439,7 +1488,7 @@
       "inspire": {
         "control_number": "3176196",
         "inspire_url": "https://inspirehep.net/literature/3176196",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2137,7 +2186,18 @@
       "inspire": {
         "control_number": "3155356",
         "inspire_url": "https://inspirehep.net/literature/3155356",
-        "citation_count": 4
+        "doi": "10.1103/ltms-7lfn",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074506",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 4,
+        "journal_ref": "Phys.Rev.D, 114, artid 074506, 2026"
       }
     },
     {
@@ -2354,7 +2414,7 @@
       "inspire": {
         "control_number": "3151091",
         "inspire_url": "https://inspirehep.net/literature/3151091",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -2851,7 +2911,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 8,
+        "citation_count": 9,
         "journal_ref": "Phys.Rev.D, 114, artid 014505, p. 1, 2026"
       }
     },
@@ -3607,7 +3667,7 @@
           },
           {}
         ],
-        "citation_count": 4,
+        "citation_count": 5,
         "journal_ref": "PoS, LATTICE2025, artid 010, p. 010, 2026"
       }
     },
@@ -3835,16 +3895,16 @@
       }
     },
     {
-      "id": "2603.01215v1",
-      "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs",
-      "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory (LGT) on a plaquette chain admits a continuum limit with massive glueball excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory (CFT), which serves as the ultraviolet (UV) fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared (IR). The resulting relativistic massive particles can be interpreted as quasi one-dimensional analogues of glueballs. In the continuum theory we compute the ratio of the lowest glueball masses with opposite charge conjugation to be $m^{-}/m^{+} = \\,1.459(2)$ and find $\\sqrtσ/m^{+}\\,= 0.2648(2)$, where $σ$ is the string tension between a static quark and antiquark.",
+      "id": "2603.01215v2",
+      "title": "Continuum limit of a qubit-regularized SU(3) lattice gauge theory on a plaquette chain",
+      "summary": "We show that a simple qubit-regularized $\\mathrm{SU}(3)$ lattice gauge theory on a plaquette chain admits a continuum limit with massive gauge-invariant excitations, providing a minimal toy model of strong interactions without quarks. By mapping the plaquette-chain Hamiltonian to the three-state quantum clock model in a magnetic field, we demonstrate that the theory can be tuned to a continuum limit governed at short distances by the $\\mathbb{Z}_3$ parafermion conformal field theory, which serves as the ultraviolet fixed point. A small relevant magnetic perturbation then drives the system to a massive continuum quantum field theory in the infrared, featuring relativistic particles. In this continuum theory we compute two universal ratios: the mass ratio of the lightest massive particles with opposite charge conjugation, $m^{-}/m^{+} = 1.459(2)$, and $\\sqrtσ/m^{+} = 0.2648(2)$, where $σ$ denotes the string tension between a static quark and antiquark.",
       "authors": [
         "Rui Xian Siew",
         "Shailesh Chandrasekharan",
         "Tanmoy Bhattacharya"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.01215v1",
-      "link": "https://arxiv.org/abs/2603.01215v1",
+      "pdf": "https://arxiv.org/pdf/2603.01215v2",
+      "link": "https://arxiv.org/abs/2603.01215v2",
       "published": "2026-03-01T18:20:45Z",
       "categories": [
         "hep-lat",
@@ -4272,7 +4332,7 @@
       }
     },
     {
-      "id": "2602.11283v1",
+      "id": "2602.11283v2",
       "title": "Nucleon Parton Distribution Functions from Boosted Correlations in the Coulomb gauge",
       "summary": "Recently, a novel approach has been proposed to compute parton distributions through the use of boosted correlators fixed in the Coulomb gauge from lattice QCD, within the framework of Large-Momentum Effective Theory (LaMET). This approach circumvents the need for Wilson lines, potentially enhancing the efficiency and accuracy of lattice calculations. In this work, we present the first exploratory implementation of the Coulomb gauge method for calculating nucleon unpolarized, helicity, and transversity parton distribution functions (PDFs). The calculations are performed on a Highly-Improved-Staggered-Quark ensemble with lattice spacing $a = 0.06$ fm, volume $L_s^3 \\times L_t=48^3\\times 64$, and valence pion mass $m_π=300$ MeV, employing boosted nucleon states with momenta up to 3.04 GeV. Our lattice predictions for the valence-quark PDFs -- extracted from the real part of the correlators -- show good convergence with increasing nucleon momentum and are compatible with the most recent global analyses for all spin structures. On the other hand, the full-quark-channel PDFs obtained from the imaginary part of the correlators exhibit discrepancies between the two large nucleon momenta considered, although the results at the higher momentum are consistent with phenomenology. The discrepancies are likely driven by stronger excited-state contamination in the imaginary matrix elements, which is consistent with the observation in the literature. Overall, this work demonstrates the efficacy of the Coulomb gauge approach for nucleon PDFs and serves as a benchmark for its broader applications.",
       "authors": [
@@ -4284,8 +4344,8 @@
         "Rui Zhang",
         "Yong Zhao"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.11283v1",
-      "link": "https://arxiv.org/abs/2602.11283v1",
+      "pdf": "https://arxiv.org/pdf/2602.11283v2",
+      "link": "https://arxiv.org/abs/2602.11283v2",
       "published": "2026-02-11T19:00:47Z",
       "categories": [
         "hep-lat",
@@ -4691,6 +4751,31 @@
       "inspire": {
         "control_number": "3098805",
         "inspire_url": "https://inspirehep.net/literature/3098805",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.04147v2",
+      "title": "Three-particle scattering amplitudes from lattice QCD",
+      "summary": "I review recent progress in calculating scattering amplitudes and resonance properties involving three particles using results from lattice QCD. The necessary input is the finite-volume spectrum, and the outputs -- via solutions of integral equations -- are scattering amplitudes that can be continued into the complex plane to search for resonance poles. I describe the outlook for future extensions and applications of this work.",
+      "authors": [
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.04147v2",
+      "link": "https://arxiv.org/abs/2601.04147v2",
+      "published": "2026-01-07T18:00:39Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3098337",
+        "inspire_url": "https://inspirehep.net/literature/3098337",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 1
       }
     },
