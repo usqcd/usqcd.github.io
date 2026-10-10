@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T13:08:41.562348+00:00Z",
-  "count": 175,
+  "generated": "2026-10-10T12:22:00.269579+00:00Z",
+  "count": 171,
   "publications": [
     {
       "id": "2610.11071v1",
@@ -73,36 +73,6 @@
       }
     },
     {
-      "id": "2610.02169v1",
-      "title": "Drell-Yan lepton pair production from low to high transverse momentum",
-      "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
-      "authors": [
-        "Benoît Assi",
-        "Enrico Bothmann",
-        "John Campbell",
-        "Christian Gütschow",
-        "Stefan Höche",
-        "Wan-Li Ju",
-        "Max Knobbe",
-        "Marek Schönherr",
-        "Jesse Thaler",
-        "Michael L. Wagman"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.02169v1",
-      "link": "https://arxiv.org/abs/2610.02169v1",
-      "published": "2026-10-01T17:56:04Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3210666",
-        "inspire_url": "https://inspirehep.net/literature/3210666",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2609.40205v1",
       "title": "Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region $|x|>1$",
       "summary": "We compute one-loop unpolarized quark and gluon quasi- and pseudo-distributions in $\\overline{\\mathrm{MS}}$ and match them to light-cone PDFs. Decomposing the gluon correlator into six covariant form factors, we derive the $6\\times6$ renormalization mixing matrix: its eigenvectors classify multiplicatively renormalizable combinations, and any lattice operator choice projects onto our results without a further loop calculation.\n  Evaluating all Fourier transforms in $d$ dimensions, we resolve the structure of the exterior $|x|>1$ in quasi-distributions. The correlator carries a short-distance logarithm with a branch cut at $ν=0$. By the Paley-Wiener theorem, the analytic part transforms into $|x|\\le1$, so the exterior is generated solely by this branch cut. At leading power, the exterior carries no independent non-perturbative physics: it is fixed by the light-cone PDF through the renormalization group. In LaMET, lattice data therefore cannot determine the exterior independently of the interior, and unconstrained exterior parameters in reconstructions risk absorbing genuine power corrections into the leading-twist PDF.\n  In the gluon channel, the matching kernel of Balitsky, Morris and Radyushkin differs from our $\\overline{\\mathrm{MS}}$ result by a finite polynomial, identical across index choices. We trace this to contracting an internal loop index over two instead of $d-2$ transverse directions, omitting an evanescent operator on the collinear pole. Using our basis, we show that the independent kernel of Yao, Ji and Zhang agrees with ours, separated from Balitsky et al. by the same polynomial.\n  While the ratio scheme protects the momentum fraction $\\langle x\\rangle_g$, this kernel difference suppresses the extracted normalized second and third gluon moments by $11\\%$ and $13\\%$ at $α_s=0.3$, so the true $\\overline{\\mathrm{MS}}$ gluon is systematically harder than reported.",
@@ -120,6 +90,26 @@
       "inspire": {
         "control_number": "3210053",
         "inspire_url": "https://inspirehep.net/literature/3210053",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.38569v1",
+      "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
+      "summary": "Imaginary-time evolution can be reconstructed from real-time quantum simulations using exact integral transforms. We identify the construction of Guo, Shibu, Lin, and Zhao as a continuous linear combination of Hamiltonian simulations and show that its slow $1/t_{\\rm cut}$ convergence arises from a redundant kernel component. We extend the construction from pure-state matrix elements to thermal traces and correlators. One real-time dataset then reconstructs targeted inverse temperatures, Euclidean separations, and chemical potentials through classical post-processing, bringing finite-$(T,θ,μ)$ physics within reach of real-time quantum simulation without thermal-state preparation. We benchmark the method on one- and two-flavor lattice Schwinger models, including circuit-level simulations with depolarizing noise.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.38569v1",
+      "link": "https://arxiv.org/abs/2609.38569v1",
+      "published": "2026-09-29T21:28:30Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3209766",
+        "inspire_url": "https://inspirehep.net/literature/3209766",
         "citation_count": 0
       }
     }
