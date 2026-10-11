@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T12:22:00.233339+00:00Z",
-  "count": 171,
+  "generated": "2026-10-11T12:35:14.162674+00:00Z",
+  "count": 170,
   "publications": [
     {
       "id": "2610.11071v1",
@@ -1313,6 +1313,34 @@
       }
     },
     {
+      "id": "2607.13024v1",
+      "title": "Inclusive P-wave Quarkonium Decay Widths from Lattice QCD and pNRQCD",
+      "summary": "Inclusive hadronic decay widths remain a long-standing challenge for first-principles QCD. We present a framework combining lattice QCD with strongly-coupled potential nonrelativistic QCD (pNRQCD) to compute inclusive P-wave heavy quarkonium decays to light hadrons. At leading order in the velocity expansion, all nonperturbative effects, apart from the square of the derivative of the wavefunction at the origin, are encoded in a single universal moment of the two-point chromoelectric correlator, which we determine for the first time from a quenched lattice QCD calculation matched to $\\overline{\\mathrm{MS}}$ via the gradient flow. Combined with perturbative short-distance coefficients and the square of the derivative of the wavefunction at the origin, our result reproduces the observed $χ_{cJ}(1P)$ widths and, at the same time, provides predictions for the unmeasured $χ_{bJ}(nP)$ widths. The framework extends naturally to inclusive decays and production of ordinary and exotic hadrons.",
+      "authors": [
+        "Nora Brambilla",
+        "Viljami Leino",
+        "Julian Mayer-Steudte",
+        "Panayiotis Panayiotou",
+        "Andrea Shindler",
+        "Antonio Vairo",
+        "Xiang-Peng Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.13024v1",
+      "link": "https://arxiv.org/abs/2607.13024v1",
+      "published": "2026-07-14T17:58:27Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3180567",
+        "inspire_url": "https://inspirehep.net/literature/3180567",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2607.10606v1",
       "title": "The Neutron Electric Dipole Moment from Lattice QCD using a Background Electric Field",
       "summary": "We present the calculation of the neutron electric dipole moment (nEDM) $d_n$ using 2+1 flavor domain wall fermion ensembles with fixed lattice spacing $a\\approx 0.11\\,\\text{fm}$ and pion masses of 340, 420, and 576 MeV. We show that the neutron electric dipole moment can be extracted from the energy shift induced by a static uniform external background electric field in the presence of the CP-violating QCD theta-term, $\\barθQ_{top}$. Motivated by the Feynman-Hellmann theorem, we employ sampling of the topological charge $q_\\text{top}(t)$ on a single time-slice rather than the global topological charge $Q_\\text{top}=\\int q_\\text{top}(t) \\, dt$, which dramatically improves the statistical precision of the $θ$-induced nEDM. Key to our method is to calculate the forward matrix element of the topological charge density in the nucleon deformed by a background electric field. We find that calculation with the traditional positive parity-projected nucleon operator is subject to large excited-state contamination. To remove the contamination, we construct the ground state of the deformed nucleon by solving a non-Hermitian generalized eigenvalue problem. With this approach, we find consistent values for the nEDM when using different nucleon interpolating operators, regardless of whether they are covariant or non-covariant under chiral transformations. Finally, after extrapolating to the physical point, we obtain $d_n=-0.0050(4)^\\text{stat}(8)^\\text{sys}\\barθ$ $e$ fm, where the systematic uncertainty includes excited-state effects estimated as variation with the Euclidean-time fits and the dependence on the strength of the electric field applied to the neutron. Conventional systematic errors like discretization, finite-volume, and chiral extrapolation effects will be addressed in future work.",
@@ -1820,39 +1848,6 @@
       }
     },
     {
-      "id": "2606.15564v1",
-      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
-      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
-      "authors": [
-        "Vishal Rao",
-        "Peter Petreczky",
-        "Prasad Hegde"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.15564v1",
-      "link": "https://arxiv.org/abs/2606.15564v1",
-      "published": "2026-06-14T02:59:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168685",
-        "inspire_url": "https://inspirehep.net/literature/3168685",
-        "doi": "10.22323/1.518.0100",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "100",
-            "artid": "100",
-            "year": 2026
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 100, p. 100, 2026"
-      }
-    },
-    {
       "id": "2606.14642v3",
       "title": "Zeros of the partition function for 12 flavor QCD",
       "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
@@ -1924,32 +1919,6 @@
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
         "citation_count": 7
-      }
-    },
-    {
-      "id": "2606.09757v1",
-      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
-      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
-      "authors": [
-        "Jonathan Gonzales",
-        "Alejandro Florez",
-        "Johannes Jahan",
-        "Angel R. Nava Acuna",
-        "Naman Mehndiratta",
-        "Claudia Ratti"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.09757v1",
-      "link": "https://arxiv.org/abs/2606.09757v1",
-      "published": "2026-06-08T17:17:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3166306",
-        "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 2
       }
     },
     {
@@ -2936,6 +2905,60 @@
         "control_number": "3137590",
         "inspire_url": "https://inspirehep.net/literature/3137590",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2603.28517v1",
+      "title": "Heavy-Meson Bag Parameters using Gradient Flow",
+      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28517v1",
+      "link": "https://arxiv.org/abs/2603.28517v1",
+      "published": "2026-03-30T14:47:45Z",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3137111",
+        "inspire_url": "https://inspirehep.net/literature/3137111",
+        "citation_count": 9
+      }
+    },
+    {
+      "id": "2603.28516v1",
+      "title": "Bag Parameters for Heavy Meson Lifetimes",
+      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
+      "authors": [
+        "Matthew Black",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Fabian Lange",
+        "Antonio Rago",
+        "Andrea Shindler",
+        "Oliver Witzel"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.28516v1",
+      "link": "https://arxiv.org/abs/2603.28516v1",
+      "published": "2026-03-30T14:47:42Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3137099",
+        "inspire_url": "https://inspirehep.net/literature/3137099",
+        "citation_count": 10
       }
     },
     {
@@ -4375,34 +4398,6 @@
       }
     },
     {
-      "id": "2601.21232v1",
-      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
-      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
-      "authors": [
-        "Joaquin Grefa",
-        "Chun Yue Tsang",
-        "Rajesh Kumar",
-        "Veronica Dexheimer",
-        "Claudia Ratti",
-        "Zhangbu Xu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21232v1",
-      "link": "https://arxiv.org/abs/2601.21232v1",
-      "published": "2026-01-29T03:49:43Z",
-      "categories": [
-        "nucl-th",
-        "hep-ex",
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3112888",
-        "inspire_url": "https://inspirehep.net/literature/3112888",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.21155v2",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -4580,36 +4575,6 @@
         "control_number": "3103920",
         "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.07987v1",
-      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
-      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
-      "authors": [
-        "Yumu Yang",
-        "Prachi Garella",
-        "Musa R. Khan",
-        "Tulio E. Restrepo",
-        "Joaquin Grefa",
-        "Johannes Jahan",
-        "Mauricio Hippert",
-        "Jorge Noronha",
-        "Claudia Ratti",
-        "Romulo Rougemont"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.07987v1",
-      "link": "https://arxiv.org/abs/2601.07987v1",
-      "published": "2026-01-12T20:37:09Z",
-      "categories": [
-        "nucl-th",
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3103918",
-        "inspire_url": "https://inspirehep.net/literature/3103918",
-        "citation_count": 0
       }
     },
     {
