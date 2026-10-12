@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-11T12:35:14.162674+00:00Z",
-  "count": 170,
+  "generated": "2026-10-12T14:55:44.854896+00:00Z",
+  "count": 168,
   "publications": [
+    {
+      "id": "2610.13791v1",
+      "title": "Evidence of Taste-Symmetry restoration for Kähler-Dirac fermions on Euclidean Dynamical Triangulations",
+      "summary": "We study the spectrum of two-particle bound states of Kähler-Dirac fermions coupled via gravity in Euclidean Dynamical Triangulations (EDT). We work in the quenched approximation, where the geometry is allowed to fluctuate, but there is no back-reaction from the matter on the geometry. The Kähler-Dirac action respects an exact $U(1)$ symmetry that is related to continuum chiral symmetry, and this $U(1)$ symmetry ensures that some of the bound-state masses vanish in the chiral limit of vanishing fermion bare mass. The bound-state masses that are not protected by the $U(1)$ symmetry do not vanish in the chiral limit, but the scale associated with the symmetry breaking does not appear to be a physical scale like the Planck mass or the curvature scale of the emergent de Sitter background. Rather, the mass scale associated with this non-degeneracy appears to be a positive power of the lattice spacing, decreasing as the continuum limit is approached. This suggests that Kähler-Dirac fermions in EDT can be interpreted as the gravity analog of staggered fermions in flat-space lattice field theories, with similar behavior.",
+      "authors": [
+        "Mingwei Dai",
+        "Walter Freeman",
+        "Mason Grieb",
+        "Jack Laiho",
+        "Marc Schiffer",
+        "Judah Unmuth-Yockey"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.13791v1",
+      "link": "https://arxiv.org/abs/2610.13791v1",
+      "published": "2026-10-09T16:05:04Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3213808",
+        "inspire_url": "https://inspirehep.net/literature/3213808",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.11071v1",
       "title": "Analog quantum simulation of $φ^4$ field theory with a superconducting transmission line",
@@ -69,6 +94,36 @@
       "inspire": {
         "control_number": "3212018",
         "inspire_url": "https://inspirehep.net/literature/3212018",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.02169v1",
+      "title": "Drell-Yan lepton pair production from low to high transverse momentum",
+      "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
+      "authors": [
+        "Benoît Assi",
+        "Enrico Bothmann",
+        "John Campbell",
+        "Christian Gütschow",
+        "Stefan Höche",
+        "Wan-Li Ju",
+        "Max Knobbe",
+        "Marek Schönherr",
+        "Jesse Thaler",
+        "Michael L. Wagman"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.02169v1",
+      "link": "https://arxiv.org/abs/2610.02169v1",
+      "published": "2026-10-01T17:56:04Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3210666",
+        "inspire_url": "https://inspirehep.net/literature/3210666",
         "citation_count": 0
       }
     },
@@ -302,32 +357,6 @@
       "inspire": {
         "control_number": "3204872",
         "inspire_url": "https://inspirehep.net/literature/3204872",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2609.19544v1",
-      "title": "Generalized parton distributions: Theory meets experiment",
-      "summary": "Over the past three decades, generalized parton distributions (GPDs) have emerged as one of the most active and important areas of research in nucleon structure and quantum chromodynamics (QCD). Since the last comprehensive review two decades ago, substantial progress has been made in experimental measurements of hard exclusive processes, such as deeply virtual Compton scattering and near-threshold $J/ψ$ production, as well as in increasingly sophisticated phenomenological analyses of GPDs that enable three-dimensional nucleon tomography. Theoretical advances in perturbative coefficient functions, scale evolutions, and kinematic and power corrections have considerably improved the precision of GPD phenomenology, while new hard exclusive processes for probing GPDs have been explored. More interestingly, lattice QCD can now directly access GPDs at fixed parton momentum fractions $x$ and skewness $ξ$ through large-momentum expansions, in addition to the traditional calculations of their moments, or generalized form factors. Significant progress has also been made in exploring the QCD energy-momentum tensor that encodes fundamental information on the nucleon's mass distribution, complete spin structure, and spatial distributions of momentum current and color-Lorentz forces acting on quarks and gluons.",
-      "authors": [
-        "Yuxun Guo",
-        "Xiangdong Ji",
-        "Yao Ji",
-        "Jialu Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.19544v1",
-      "link": "https://arxiv.org/abs/2609.19544v1",
-      "published": "2026-09-17T01:09:31Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3204867",
-        "inspire_url": "https://inspirehep.net/literature/3204867",
         "citation_count": 1
       }
     },
@@ -1484,72 +1513,6 @@
       }
     },
     {
-      "id": "2606.30387v2",
-      "title": "Baryon Light-Cone Distribution Amplitudes from Lattice QCD: Formalism, Renormalization, Extrapolation, and Matching",
-      "summary": "Baryon light-cone distribution amplitudes (LCDAs) are inherently multidimensional objects parametrized by two independent longitudinal momentum fractions, making their first-principles determination substantially more challenging than that of meson LCDAs. We present a systematic large-momentum effective theory (LaMET) framework for determining baryon leading-twist LCDAs from lattice QCD. The framework covers the complete path from equal-time three-quark quasi-distribution amplitudes to physical baryon LCDAs. We formulate the leading-twist $V$, $A$, and $T$ quasi-DAs and analyze their spin-flavor and coordinate-space symmetries, including antisymmetric amplitudes with vanishing local limits. We develop a hybrid renormalization prescription on the $(z_1,z_2)$ plane, introduce a newly developed large-$λ$ extrapolation strategy based on the asymptotic large-distance behavior of Euclidean correlators, and derive the corresponding one-loop LaMET matching relation in the hybrid renormalization scheme. As a demonstration, we apply the complete analysis pipeline to the $Λ$-baryon $A$-structure quasi-DAs using seven $2+1$--flavor lattice ensembles, and use this amplitude to examine the impact of large-distance extrapolation, perturbative matching, and extrapolation to the continuum, physical-pion-mass, and infinite-momentum limits, together with the associated systematic uncertainties. This work provides the formalism, renormalization, extrapolation, and matching infrastructure for first-principles determinations of $x$-dependent baryon LCDAs.",
-      "authors": [
-        "Mu-Hua Zhang",
-        "Haoyang Bai",
-        "Min-Huan Chu",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Jian Liang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        "Wei Wang",
-        "Yi-Bo Yang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Qi-An Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.30387v2",
-      "link": "https://arxiv.org/abs/2606.30387v2",
-      "published": "2026-06-29T14:42:52Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3174420",
-        "inspire_url": "https://inspirehep.net/literature/3174420",
-        "citation_count": 4
-      }
-    },
-    {
-      "id": "2606.29597v2",
-      "title": "Complete Access to Leading-Twist $Λ$-Baryon Light-Cone Distribution Amplitudes from Lattice QCD",
-      "summary": "We report the first complete lattice-QCD determination of the leading-twist light-cone distribution amplitudes (LCDAs) of the $Λ$ baryon, obtained as full two-dimensional functions of the valence-quark momentum fractions. The calculation employs large-momentum effective theory to relate the light-cone amplitudes to equal-time nonlocal three-quark matrix elements of boosted $Λ$ baryons. Controlled physical extrapolations to the continuum, physical pion mass, and infinite momentum, together with hybrid renormalization, large-$λ$ extrapolation, and perturbative matching, yield the three leading-twist LCDAs $V$, $A$, and $T$. Using the lattice-determined LCDAs in place of the asymptotic form, we find an $\\mathcal{O}(10\\%)$ shift in the $Λ$ electromagnetic form factor at perturbative scales, demonstrating that the full two-dimensional LCDAs, rather than only their asymptotic shapes or lowest moments, are required for precision baryonic phenomenology. This work, together with the companion paper [1] detailing the baryon-LaMET framework, provides the first complete multi-dimensional $x$-dependent baryon LCDAs from first principles and establishes a benchmark for lattice access to multi-dimensional baryon structure.",
-      "authors": [
-        "Mu-Hua Zhang",
-        "Haoyang Bai",
-        "Min-Huan Chu",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Jian Liang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        "Wei Wang",
-        "Yi-Bo Yang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Qi-An Zhang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.29597v2",
-      "link": "https://arxiv.org/abs/2606.29597v2",
-      "published": "2026-06-28T20:44:23Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3174411",
-        "inspire_url": "https://inspirehep.net/literature/3174411",
-        "citation_count": 3
-      }
-    },
-    {
       "id": "2606.28543v1",
       "title": "Highly improved staggered quarks on anisotropic lattices",
       "summary": "We present a study of tuning of the anisotropic highly improved staggered quark (aHISQ) action on pure gauge ensembles with the renormalized anisotropy ranging from 1 to 8. We discuss multiple gradient flow schemes for tuning the gauge anisotropy and comment on what scheme may be optimal for anisotropic simulations. Next, we compare tuning of the fermion anisotropy for the naive staggered and aHISQ actions. Finally, we study the dependence of the staggered pion taste mass splittings on anisotropy for the two actions and develop an empirical model that captures the main features of the aHISQ spectrum. We observe qualitatively different behavior of the naive and aHISQ taste spectrum with anisotropy.",
@@ -1706,28 +1669,6 @@
       }
     },
     {
-      "id": "2606.22224v2",
-      "title": "Proton's isovector PDF with updated analysis of large-momentum lattice data",
-      "summary": "The proton's unpolarized $u(x)-d(x)$ parton distribution function (PDF) has been studied by a number of lattice QCD groups through large momentum expansion. However, due to lattice artifacts (excited state contaminations, unphysical pion masses, and discretization effects) and less-advanced theoretical analysis (renormalizations, large-distance extrapolations, and large-log resummations), the resulting PDFs cannot be compared strictly with experimental data. By using the state-of-the-art theoretical tools and mitigating the lattice artifacts empirically, we reanalyze the available datasets in the literature and find that the new PDF for the physical-limit-extrapolated dataset (MSULat20) is consistent with global fits within $\\sim1σ$, while others are broadly compatible. This provides evidence that large momentum expansion is capable of accurately predicting the $x$-dependence of the PDFs when ideal lattice data become available.",
-      "authors": [
-        "Xiangdong Ji",
-        "Yushan Su"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.22224v2",
-      "link": "https://arxiv.org/abs/2606.22224v2",
-      "published": "2026-06-20T20:58:34Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3170827",
-        "inspire_url": "https://inspirehep.net/literature/3170827",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2606.20791v2",
       "title": "Neural Wavefunctions in Quantum Field Theory I: Asymptotic Freedom",
       "summary": "We present a variational approach to quantum field theory based on wavefunctions parameterized by neural networks. While variational methods have a celebrated history across many fields, their application to quantum field theory has been limited by well-known challenges. We show that neural-network wavefunctions, combined with modern machine-learning techniques, enable competitive variational calculations in nontrivial field theories. As a demonstration, we reproduce the essential features of the two-dimensional nonlinear $σ$-model: asymptotic freedom, dynamical mass generation and the model's step-scaling function.",
@@ -1848,6 +1789,39 @@
       }
     },
     {
+      "id": "2606.15564v1",
+      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
+      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
+      "authors": [
+        "Vishal Rao",
+        "Peter Petreczky",
+        "Prasad Hegde"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.15564v1",
+      "link": "https://arxiv.org/abs/2606.15564v1",
+      "published": "2026-06-14T02:59:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3168685",
+        "inspire_url": "https://inspirehep.net/literature/3168685",
+        "doi": "10.22323/1.518.0100",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "100",
+            "artid": "100",
+            "year": 2026
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 100, p. 100, 2026"
+      }
+    },
+    {
       "id": "2606.14642v3",
       "title": "Zeros of the partition function for 12 flavor QCD",
       "summary": "We consider a four dimensional $SU(3)$ lattice gauge theory with 12 staggered fermions having identical masses and an unimproved action. Using sets of plaquette distributions for various inverse bare couplings $β$, we reconstruct the density of states with the Ferrenberg -Swendsen method and calculate the zeros of the partition in the complex $β$ plane with bare quark masses $m_q$ = 0.02, 0.06, 0.08 and 0.1 for hypercubes of linear size $L$= 4, 6, 8, 10, and 12. Our hypothesis is that there is a line of first order transitions in the $(m_q,β)$ plane ending at a second order phase transition. We expect this transition to be in the 4D Ising, mean field, universality class. We fit the $L$ dependence of the zeros with the lowest imaginary part using two ($y = bL^{-d}$) and three ($y = a + bL^{-d}$) parameter fits. For $m_q$ = 0.02 the results provide strong support for a first order phase transition ($d=3.98(6)$, and $a$ statistically compatible with 0). The results also indicate, with less statistical significance for $m_q=0.06$, that the three other masses are above the critical value $m_q^c$. In addition, we suggest that the infinite volume gap for the lowest zero $a$, can be represented as $a\\simeq A(m_q-m_q^c)^{B}$ with $m_q^c\\sim 0.05$ and $B\\sim 1$. Given that there are only three data points with significant error bars, it is difficult to rule out the mean field value $B=3/2$. Combining this result with spectroscopic results by Jin and Mawhinney, indicates that the gap with real axis (Lee-Yang edge) scales roughly like $m_σ^2$, where $m_σ$ is the mass of the $0^{++}$ scalar which is also the lowest excitation.",
@@ -1919,6 +1893,32 @@
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
         "citation_count": 7
+      }
+    },
+    {
+      "id": "2606.09757v1",
+      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
+      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
+      "authors": [
+        "Jonathan Gonzales",
+        "Alejandro Florez",
+        "Johannes Jahan",
+        "Angel R. Nava Acuna",
+        "Naman Mehndiratta",
+        "Claudia Ratti"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.09757v1",
+      "link": "https://arxiv.org/abs/2606.09757v1",
+      "published": "2026-06-08T17:17:05Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3166306",
+        "inspire_url": "https://inspirehep.net/literature/3166306",
+        "citation_count": 2
       }
     },
     {
@@ -2329,79 +2329,6 @@
       }
     },
     {
-      "id": "2605.00339v1",
-      "title": "Evidence for Quark Confinement in the Proton",
-      "summary": "The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass.",
-      "authors": [
-        "Xiangdong Ji",
-        "Gerald A. Miller",
-        "Chen Yang"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.00339v1",
-      "link": "https://arxiv.org/abs/2605.00339v1",
-      "published": "2026-05-01T01:43:06Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3150807",
-        "inspire_url": "https://inspirehep.net/literature/3150807",
-        "doi": "10.34133/research.1369",
-        "publication_info": [
-          {
-            "journal_title": "Research",
-            "journal_volume": "9",
-            "page_start": "1369",
-            "artid": "1369",
-            "year": 2026
-          }
-        ],
-        "citation_count": 6,
-        "journal_ref": "Research, 9, artid 1369, p. 1369, 2026"
-      }
-    },
-    {
-      "id": "2605.10946v1",
-      "title": "Continuum-Limit HQET LCDAs from Lattice QCD for Tightening B Decay Uncertainties",
-      "summary": "Heavy meson HQET light-cone distribution amplitudes (LCDAs) are critical for precision predictions of $B$ meson weak decays, but currently are one of dominant theoretical uncertainties that obscure interpretations of $B$ anomalies and CP-violating measurements. Building on the established HQLaMET framework, supplemented by lattice QCD calculations of the OPE moments, we present a precise lattice QCD calculation of HQET LCDAs by employing multi-ensemble simulations for continuum and physical pion mass extrapolation, quantifying comprehensive systematic errors, and validating results through OPE moment cross-validation. Details of the lattice calculations are provided in a companion paper \\cite{HeavymesonDA_long_paper}. Our final results for key inverse moments (at $μ=1$ GeV) are $λ_B=0.340(20)$ GeV and $σ_B^{(1)}=1.685(63)$, with the total uncertainty reduced by a factor of three relative to the previous analysis. These results can greatly reduce the uncertainty in the $B \\to K^*$ form factors in the large-recoil region. This work resolves the long-standing bottleneck in first-principles predictions of heavy meson LCDAs, advancing precision flavor physics to new frontiers.",
-      "authors": [
-        "Xue-Ying Han",
-        "Hao-Fei Gao",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        "Jin-Xin Tan",
-        "Ji-Hao Wang",
-        "Wei Wang",
-        "Ji Xu",
-        "Yi-Bo Yang",
-        "Fu-Wei Zhang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Mu-Hua Zhang",
-        "Qi-An Zhang",
-        "Shuai Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.10946v1",
-      "link": "https://arxiv.org/abs/2605.10946v1",
-      "published": "2026-04-29T09:50:53Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3154615",
-        "inspire_url": "https://inspirehep.net/literature/3154615",
-        "citation_count": 5
-      }
-    },
-    {
       "id": "2604.26376v1",
       "title": "Quantum Complexity and New Directions in Nuclear Physics and High-Energy Physics Phenomenology",
       "summary": "Advances in quantum information science (QIS) are providing transformative insights into the complexity of quantum many-body systems, potentially defining new frontiers in nuclear and high-energy physics. This review explores how QIS-derived techniques are fostering new analytic frameworks and algorithms - both classical and quantum - to tackle (some of the) present barriers to discovery in fundamental physics, with applicability to other science domains. We highlight how these techniques are shedding new light on the structure and dynamics of hadrons, nuclei, matter in extreme conditions, and beyond. Importantly, they are expected to play an essential role in the development of large-scale quantum simulations of such systems, particularly in setting the balance among quantum and classical computational resources.",
@@ -2422,42 +2349,6 @@
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
         "citation_count": 19
-      }
-    },
-    {
-      "id": "2604.25802v1",
-      "title": "Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations",
-      "summary": "We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\\,fm and pion masses from $m_π=135.5-317.2$\\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources, hypercubic-smeared Wilson lines, and optimized interpolating operators are adopted to significantly improved signals for the nonlocal correlators. Within a unified framework, we determine both QCD LCDAs and HQET LCDAs. Our resulting QCD LCDAs of $D$ meson peak at $y\\approx 0.2-0.3$, with total uncertainties below $30\\%$ for $0.1<y<0.9$. The leading-twist HQET LCDA is constructed using a peak-and-tail factorization, in which the nonperturbative peak region is obtained from lattice QCD and the perturbative tail is incorporated from HQET, with the two regions combined through a model-independent Laguerre-polynomial parametrization. At $μ=1$\\,GeV, we obtain the inverse moment of HQET LCDA $λ_B=0.340(20)$\\,GeV and first inverse-logarithmic moment $σ_B^{(1)}=1.685(63)$, consistent with experimental constraints and phenomenological determinations. Direct lattice calculations based on operator product expansion provide a nontrivial cross-check of the LaMET results. Final results and phenomenological impact of these results are presented in a companion paper~\\cite{HeavymesonDA_short_paper}. Our results remove the single-lattice-spacing limitation of the previous study, and provide a robust determinations of heavy meson LCDAs in both QCD and HQET for next-generation heavy flavor physics.",
-      "authors": [
-        "Hao-Fei Gao",
-        "Xue-Ying Han",
-        "Jun Hua",
-        "Xiangdong Ji",
-        "Xiangyu Jiang",
-        "Cai-Dian Lü",
-        "Andreas Schäfer",
-        " Jin-XinTan",
-        "Ji-Hao Wang",
-        "Wei Wang",
-        "Ji Xu",
-        "Yi-Bo Yang",
-        "Fu-Wei Zhang",
-        "Jian-Hui Zhang",
-        "Jia-Lu Zhang",
-        "Mu-Hua Zhang",
-        "Qi-An Zhang",
-        "Shuai Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2604.25802v1",
-      "link": "https://arxiv.org/abs/2604.25802v1",
-      "published": "2026-04-28T16:11:05Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3149743",
-        "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 8
       }
     },
     {
@@ -4398,6 +4289,34 @@
       }
     },
     {
+      "id": "2601.21232v1",
+      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
+      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
+      "authors": [
+        "Joaquin Grefa",
+        "Chun Yue Tsang",
+        "Rajesh Kumar",
+        "Veronica Dexheimer",
+        "Claudia Ratti",
+        "Zhangbu Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21232v1",
+      "link": "https://arxiv.org/abs/2601.21232v1",
+      "published": "2026-01-29T03:49:43Z",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3112888",
+        "inspire_url": "https://inspirehep.net/literature/3112888",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2601.21155v2",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -4501,30 +4420,6 @@
       }
     },
     {
-      "id": "2601.12189v1",
-      "title": "Asymptotic Long-Distance Expansion of Euclidean Correlators in Lattice Parton Applications",
-      "summary": "Bilinear Euclidean quark and gluon correlators with Wilson links have been used widely for applications of large-momentum effective field theories to computing non-perturbative collinear and soft parton physics. Due to color confinement, these correlators decay exponentially at large spatial distances, a behavior crucial for computing momentum-space Fourier transformations with controlled errors from lattice QCD data. Using heavy-quark effective theory reduction, dispersive analysis, Lorentz symmetry, and heavy-flavor spectra, we determine the leading and next-to-leading asymptotic behaviors and relate the expansion parameters to binding energies of heavy-flavor hadrons. We demonstrate the results through two-loop calculations in $φ^3$ theory and from the perspective of locality and analyticity. We also study the impact of the asymptotic analysis on realistic lattice QCD data and demonstrate reliable error estimates.",
-      "authors": [
-        "Xiangdong Ji",
-        "Yizhuang Liu",
-        "Yushan Su"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.12189v1",
-      "link": "https://arxiv.org/abs/2601.12189v1",
-      "published": "2026-01-17T22:39:56Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3109203",
-        "inspire_url": "https://inspirehep.net/literature/3109203",
-        "citation_count": 1
-      }
-    },
-    {
       "id": "2601.10857v1",
       "title": "The Spectrum and Scale Setting on 2+1-flavor NME Lattices",
       "summary": "This paper describes the thirteen ensembles, named NME, generated with 2+1-flavor Wilson-clover fermions by the JLab/W\\&M/LANL/MIT/Marseille collaborations, and presents an analysis of the meson and baryon spectrum, decay constants $f_π$ and $f_K$, flow scales $t_0$ and $w_0$, and time histories of the $Θ$ and Weinberg operators under gradient flow. Using these quantities, the physical point values of the two flow scales, ${t_0^{\\rm Phy}}$ and ${w_0^{\\rm Phy}}$, and the ratio $\\mathop{f_K / f_π}^{\\rm Phy}$ are determined. The masses of the octet and decuplet baryons are analyzed using both the next-to-leading order (NLO) and the next-next-to-leading order (NNLO) ansatz from heavy baryon chiral perturbation theory (HB$χ$PT). The NNLO fit to the octet baryons, $M_N$, $M_Σ$, $M_Λ$ and $M_Ξ$, is preferred while the corresponding fits to the decuplet Omega mass, $M_Ω$, are not distinguished. We also present a study of the autocorrelations in the data and show that there is no evidence, even at large flow time, of the freezing of the topological charge or the Weinberg three-gluon operator.",
@@ -4575,6 +4470,36 @@
         "control_number": "3103920",
         "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.07987v1",
+      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
+      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
+      "authors": [
+        "Yumu Yang",
+        "Prachi Garella",
+        "Musa R. Khan",
+        "Tulio E. Restrepo",
+        "Joaquin Grefa",
+        "Johannes Jahan",
+        "Mauricio Hippert",
+        "Jorge Noronha",
+        "Claudia Ratti",
+        "Romulo Rougemont"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.07987v1",
+      "link": "https://arxiv.org/abs/2601.07987v1",
+      "published": "2026-01-12T20:37:09Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3103918",
+        "inspire_url": "https://inspirehep.net/literature/3103918",
+        "citation_count": 0
       }
     },
     {
