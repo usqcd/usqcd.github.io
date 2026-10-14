@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-13T13:57:09.520042+00:00Z",
-  "count": 176,
+  "generated": "2026-10-14T11:39:16.264396+00:00Z",
+  "count": 177,
   "publications": [
+    {
+      "id": "2610.16950v1",
+      "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
+      "summary": "We study the potential impact of lattice QCD window observables on nucleon isovector quark transversity parton distribution functions (PDFs) using the ePump Hessian-updating framework. Window observables, recently proposed in arXiv:2505.22795 as benchmark quantities enabling direct quantitative comparison between lattice QCD and phenomenological PDF extractions, are weighted integrals of PDFs over a range of Bjorken-$x$ for which both approaches are reliable. Experimental determinations of transversity PDFs carry uncertainties of 50--100%, while current lattice calculations have achieved comparable or better precision, creating an opportunity for lattice inputs to significantly constrain a global analysis. We evaluate the constraining power of existing lattice QCD computations of transversity window moments and Gaussian windows against current phenomenological PDF. We additionally examine prospective tensor charges in the transversity channel and estimate the PDF uncertainty reduction achievable at current and near-future lattice precision. Our results provide quantitative guidance on which window observables will most constrain global PDF analyses.",
+      "authors": [
+        "Daniel Adamiak",
+        "Christopher Monahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.16950v1",
+      "link": "https://arxiv.org/abs/2610.16950v1",
+      "published": "2026-10-12T15:21:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3214398",
+        "inspire_url": "https://inspirehep.net/literature/3214398",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.13791v1",
       "title": "Evidence of Taste-Symmetry restoration for Kähler-Dirac fermions on Euclidean Dynamical Triangulations",
@@ -276,7 +297,7 @@
       "inspire": {
         "control_number": "3208480",
         "inspire_url": "https://inspirehep.net/literature/3208480",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -3121,7 +3142,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 13
+        "citation_count": 14
       }
     },
     {
@@ -4252,7 +4273,7 @@
       }
     },
     {
-      "id": "2602.18360v1",
+      "id": "2602.18360v2",
       "title": "Phase diagram of a lattice fermion model with symmetric mass generation",
       "summary": "We study the phase structure of a model containing two flavors of massless staggered fermions interacting through two independent four-fermion couplings, UI and UB, formulated on a three-dimensional Euclidean space-time lattice. At UB = 0, this model is known to exhibit a direct second-order quantum phase transition between a massless fermion (MF) phase and a phase in which fermions acquire masses through the mechanism commonly referred to as symmetric mass generation (SMG). We demonstrate that introducing a small nonzero value of UB qualitatively alters this structure: the single exotic transition at UB = 0 splits into two distinct, conventional transitions, separated by an intermediate phase in which fermion masses arise through the standard mechanism of spontaneous symmetry breaking (SSB). The first of these is a Gross-Neveu transition separating the MF phase from the SSB-induced massive phase, while the second is a three-dimensional XY transition between the SSB phase and the SMG phase. Using the fermion-bag Monte Carlo method, we verify that the critical exponents associated with both transitions are consistent with the literature, thereby yielding a quantitative characterization of the resulting phase structure of the model.",
       "authors": [
@@ -4261,8 +4282,8 @@
         "Shailesh Chandrasekharan",
         "Marina K. Marinkovic"
       ],
-      "pdf": "https://arxiv.org/pdf/2602.18360v1",
-      "link": "https://arxiv.org/abs/2602.18360v1",
+      "pdf": "https://arxiv.org/pdf/2602.18360v2",
+      "link": "https://arxiv.org/abs/2602.18360v2",
       "published": "2026-02-20T17:13:19Z",
       "categories": [
         "hep-lat",
