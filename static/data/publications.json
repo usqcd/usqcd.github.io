@@ -1,7 +1,28 @@
 {
-  "generated": "2026-10-13T13:57:09.561420+00:00Z",
-  "count": 176,
+  "generated": "2026-10-14T11:39:16.324413+00:00Z",
+  "count": 177,
   "publications": [
+    {
+      "id": "2610.16950v1",
+      "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
+      "summary": "We study the potential impact of lattice QCD window observables on nucleon isovector quark transversity parton distribution functions (PDFs) using the ePump Hessian-updating framework. Window observables, recently proposed in arXiv:2505.22795 as benchmark quantities enabling direct quantitative comparison between lattice QCD and phenomenological PDF extractions, are weighted integrals of PDFs over a range of Bjorken-$x$ for which both approaches are reliable. Experimental determinations of transversity PDFs carry uncertainties of 50--100%, while current lattice calculations have achieved comparable or better precision, creating an opportunity for lattice inputs to significantly constrain a global analysis. We evaluate the constraining power of existing lattice QCD computations of transversity window moments and Gaussian windows against current phenomenological PDF. We additionally examine prospective tensor charges in the transversity channel and estimate the PDF uncertainty reduction achievable at current and near-future lattice precision. Our results provide quantitative guidance on which window observables will most constrain global PDF analyses.",
+      "authors": [
+        "Daniel Adamiak",
+        "Christopher Monahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.16950v1",
+      "link": "https://arxiv.org/abs/2610.16950v1",
+      "published": "2026-10-12T15:21:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3214398",
+        "inspire_url": "https://inspirehep.net/literature/3214398",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.13791v1",
       "title": "Evidence of Taste-Symmetry restoration for Kähler-Dirac fermions on Euclidean Dynamical Triangulations",
@@ -94,36 +115,6 @@
       "inspire": {
         "control_number": "3212018",
         "inspire_url": "https://inspirehep.net/literature/3212018",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.02169v1",
-      "title": "Drell-Yan lepton pair production from low to high transverse momentum",
-      "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
-      "authors": [
-        "Benoît Assi",
-        "Enrico Bothmann",
-        "John Campbell",
-        "Christian Gütschow",
-        "Stefan Höche",
-        "Wan-Li Ju",
-        "Max Knobbe",
-        "Marek Schönherr",
-        "Jesse Thaler",
-        "Michael L. Wagman"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.02169v1",
-      "link": "https://arxiv.org/abs/2610.02169v1",
-      "published": "2026-10-01T17:56:04Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3210666",
-        "inspire_url": "https://inspirehep.net/literature/3210666",
         "citation_count": 0
       }
     }
