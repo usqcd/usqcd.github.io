@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-14T11:39:16.264396+00:00Z",
-  "count": 177,
+  "generated": "2026-10-15T11:15:23.547399+00:00Z",
+  "count": 174,
   "publications": [
+    {
+      "id": "2610.20362v1",
+      "title": "Excited-State Effects in Nucleon Sigma Terms from a Variational Analysis",
+      "summary": "We investigate excited-state effects in nucleon sigma-terms in lattice QCD using twisted-mass clover-improved fermion ensembles. We study correlation functions with nucleon and multihadron nucleon-$σ$-meson interpolating operators. The analysis is performed using three gauge ensembles, including one ensemble simulated with two degenerate light, a strange, and a charm quark with quark masses tuned to approximately their physical value. We solve the generalized eigenvalue problem that arises from the matrix of correlators and show that the three-point function for the light sigma-term obtained using the optimal linear combination of interpolating operators has substantially reduced time dependence without loss of statistical precision. We apply Laplace filtering and investigate residual excited-state contributions in the extraction of $σ_{πN}$. Using the same optimal linear combination of correlators as for $σ_{πN}$ for the strange sigma-term we also observe suppressed excited state contributions over an extended range of source--sink time separations. For the charm sigma-term, we observe negligible time dependence within the large statistical uncertainties, and these improvements show no significant effect.",
+      "authors": [
+        "Constantia Alexandrou",
+        "Giannis Koutsou",
+        "Yan Li",
+        "Srijit Paul",
+        "Ferenc Pittler"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.20362v1",
+      "link": "https://arxiv.org/abs/2610.20362v1",
+      "published": "2026-10-14T15:37:26Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3215197",
+        "inspire_url": "https://inspirehep.net/literature/3215197",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.16950v1",
       "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
@@ -166,26 +191,6 @@
       "inspire": {
         "control_number": "3210053",
         "inspire_url": "https://inspirehep.net/literature/3210053",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.38569v1",
-      "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
-      "summary": "Imaginary-time evolution can be reconstructed from real-time quantum simulations using exact integral transforms. We identify the construction of Guo, Shibu, Lin, and Zhao as a continuous linear combination of Hamiltonian simulations and show that its slow $1/t_{\\rm cut}$ convergence arises from a redundant kernel component. We extend the construction from pure-state matrix elements to thermal traces and correlators. One real-time dataset then reconstructs targeted inverse temperatures, Euclidean separations, and chemical potentials through classical post-processing, bringing finite-$(T,θ,μ)$ physics within reach of real-time quantum simulation without thermal-state preparation. We benchmark the method on one- and two-flavor lattice Schwinger models, including circuit-level simulations with depolarizing noise.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.38569v1",
-      "link": "https://arxiv.org/abs/2609.38569v1",
-      "published": "2026-09-29T21:28:30Z",
-      "categories": [
-        "hep-lat",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3209766",
-        "inspire_url": "https://inspirehep.net/literature/3209766",
         "citation_count": 0
       }
     },
@@ -620,7 +625,7 @@
       }
     },
     {
-      "id": "2608.28581v1",
+      "id": "2608.28581v2",
       "title": "Renormalization-guided cascade upscaling for lattice field generation",
       "summary": "We introduce a renormalization-group (RG) guided machine-learning algorithm for lattice field generation based on approximate inversion of an RG transformation. A ``perfect blocking'' construction supplies equilibrated long-distance modes, while a conditional normalizing flow reconstructs short-distance details and brief rethermalization removes residual errors. In 2D $φ^4$ theory at criticality, a flow trained at $L\\le32$ is reused recursively in cascades reaching $L=2048$ with correct long-distance physics.",
       "authors": [
@@ -629,8 +634,8 @@
         "Letizia Parato",
         "Noah Schwartz"
       ],
-      "pdf": "https://arxiv.org/pdf/2608.28581v1",
-      "link": "https://arxiv.org/abs/2608.28581v1",
+      "pdf": "https://arxiv.org/pdf/2608.28581v2",
+      "link": "https://arxiv.org/abs/2608.28581v2",
       "published": "2026-08-28T17:55:59Z",
       "categories": [
         "hep-lat"
@@ -642,7 +647,7 @@
       }
     },
     {
-      "id": "2608.28580v1",
+      "id": "2608.28580v2",
       "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
       "summary": "We propose an algorithm for generating lattice field configurations based on the approximate inversion of a renormalization-group blocking transformation. We optimize the blocking transformation using a ``perfect blocking'' condition so that the blocked lattice distribution is well approximated by a simple coarse action. The blocking is separated into an invertible smoothing transformation followed by decimation. Machine learning, in the form of a conditional normalizing flow, is used to reconstruct the short-distance degrees of freedom removed by the decimation. A short fine-action rethermalization then removes the residual mismatch. Because the coarse ensemble supplies the long-distance modes, the same blocking transformation and conditional flow can be reused recursively on larger lattices, producing a cascade of configurations from an initial small-volume ensemble. We test the method in two-dimensional $φ^4$ theory with $λ=1$ at criticality and demonstrate stable cascade upscaling from $16^2$ to $2048^2$ lattices on local computational resources. Controlled rethermalization tests show that short-distance mismatches relax rapidly, whereas a deliberately introduced mismatch in the relevant thermal direction relaxes much more slowly. The construction uses ingredients that admit natural extensions to higher-dimensional systems and, ultimately, to gauge and fermionic degrees of freedom.",
       "authors": [
@@ -651,8 +656,8 @@
         "Letizia Parato",
         "Noah Schwartz"
       ],
-      "pdf": "https://arxiv.org/pdf/2608.28580v1",
-      "link": "https://arxiv.org/abs/2608.28580v1",
+      "pdf": "https://arxiv.org/pdf/2608.28580v2",
+      "link": "https://arxiv.org/abs/2608.28580v2",
       "published": "2026-08-28T17:55:55Z",
       "categories": [
         "hep-lat"
@@ -1095,31 +1100,7 @@
       "inspire": {
         "control_number": "3185267",
         "inspire_url": "https://inspirehep.net/literature/3185267",
-        "citation_count": 3
-      }
-    },
-    {
-      "id": "2607.28524v1",
-      "title": "Exact chiral symmetry with quantum signal processing",
-      "summary": "We give a quantum signal processing (QSP) algorithm for the overlap fermion Hamiltonian which preserves the Ginsparg-Wilson relation up to a controllable error $ε_e$. Quantum simulations of Dirac fermions with exact chiral symmetry are thus nearly free: applying the overlap Hamiltonian costs only a factor logarithmic in $ε_e$ more than the Wilson-Dirac Hamiltonian. Comparing to domain-wall fermions, a mild overhead is found in circuit complexity while reducing qubit costs. We show how QSP effectively constructs an extra dimension when simulating the overlap operator, illustrating that the scaling of quantum algorithms reflects the deeper physics of overlap fermions arising at the boundary of domain-wall fermions.",
-      "authors": [
-        "Henry Lamm",
-        "Alessandro Roggero",
-        "Hersh Singh",
-        "Luca Spagnoli"
-      ],
-      "pdf": "https://arxiv.org/pdf/2607.28524v1",
-      "link": "https://arxiv.org/abs/2607.28524v1",
-      "published": "2026-07-30T17:00:58Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3184910",
-        "inspire_url": "https://inspirehep.net/literature/3184910",
-        "citation_count": 1
+        "citation_count": 4
       }
     },
     {
@@ -1757,7 +1738,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1800,7 +1781,18 @@
       "inspire": {
         "control_number": "3170827",
         "inspire_url": "https://inspirehep.net/literature/3170827",
-        "citation_count": 0
+        "doi": "10.1103/8ytm-zbf4",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "137",
+            "artid": "161901",
+            "year": 2026,
+            "journal_issue": "16"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Phys.Rev.Lett., 137, artid 161901, 2026"
       }
     },
     {
@@ -2437,7 +2429,18 @@
       "inspire": {
         "control_number": "3151097",
         "inspire_url": "https://inspirehep.net/literature/3151097",
-        "citation_count": 1
+        "doi": "10.1103/kknt-zxsw",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074507",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Phys.Rev.D, 114, artid 074507, 2026"
       }
     },
     {
@@ -2995,26 +2998,6 @@
         ],
         "citation_count": 4,
         "journal_ref": "APS Open Sci., 1, artid 000094, 2026"
-      }
-    },
-    {
-      "id": "2603.29091v3",
-      "title": "Ether of Orbifolds",
-      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.29091v3",
-      "link": "https://arxiv.org/abs/2603.29091v3",
-      "published": "2026-03-31T00:11:32Z",
-      "categories": [
-        "hep-lat",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3137591",
-        "inspire_url": "https://inspirehep.net/literature/3137591",
-        "citation_count": 4
       }
     },
     {
@@ -3963,25 +3946,6 @@
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
         "citation_count": 5
-      }
-    },
-    {
-      "id": "2603.00946v1",
-      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
-      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
-      "authors": [
-        "Henry Lamm"
-      ],
-      "pdf": "https://arxiv.org/pdf/2603.00946v1",
-      "link": "https://arxiv.org/abs/2603.00946v1",
-      "published": "2026-03-01T06:33:31Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3124602",
-        "inspire_url": "https://inspirehep.net/literature/3124602",
-        "citation_count": 2
       }
     },
     {
