@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T11:15:23.547399+00:00Z",
-  "count": 174,
+  "generated": "2026-10-16T11:10:05.198101+00:00Z",
+  "count": 178,
   "publications": [
     {
       "id": "2610.20362v1",
@@ -191,6 +191,26 @@
       "inspire": {
         "control_number": "3210053",
         "inspire_url": "https://inspirehep.net/literature/3210053",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.38569v1",
+      "title": "MORE Thermal Gauge Theories at Finite $θ$ and $μ$ from Real-Time Quantum Simulation",
+      "summary": "Imaginary-time evolution can be reconstructed from real-time quantum simulations using exact integral transforms. We identify the construction of Guo, Shibu, Lin, and Zhao as a continuous linear combination of Hamiltonian simulations and show that its slow $1/t_{\\rm cut}$ convergence arises from a redundant kernel component. We extend the construction from pure-state matrix elements to thermal traces and correlators. One real-time dataset then reconstructs targeted inverse temperatures, Euclidean separations, and chemical potentials through classical post-processing, bringing finite-$(T,θ,μ)$ physics within reach of real-time quantum simulation without thermal-state preparation. We benchmark the method on one- and two-flavor lattice Schwinger models, including circuit-level simulations with depolarizing noise.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.38569v1",
+      "link": "https://arxiv.org/abs/2609.38569v1",
+      "published": "2026-09-29T21:28:30Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3209766",
+        "inspire_url": "https://inspirehep.net/literature/3209766",
         "citation_count": 0
       }
     },
@@ -643,7 +663,7 @@
       "inspire": {
         "control_number": "3197530",
         "inspire_url": "https://inspirehep.net/literature/3197530",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -665,7 +685,7 @@
       "inspire": {
         "control_number": "3197552",
         "inspire_url": "https://inspirehep.net/literature/3197552",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1101,6 +1121,30 @@
         "control_number": "3185267",
         "inspire_url": "https://inspirehep.net/literature/3185267",
         "citation_count": 4
+      }
+    },
+    {
+      "id": "2607.28524v1",
+      "title": "Exact chiral symmetry with quantum signal processing",
+      "summary": "We give a quantum signal processing (QSP) algorithm for the overlap fermion Hamiltonian which preserves the Ginsparg-Wilson relation up to a controllable error $ε_e$. Quantum simulations of Dirac fermions with exact chiral symmetry are thus nearly free: applying the overlap Hamiltonian costs only a factor logarithmic in $ε_e$ more than the Wilson-Dirac Hamiltonian. Comparing to domain-wall fermions, a mild overhead is found in circuit complexity while reducing qubit costs. We show how QSP effectively constructs an extra dimension when simulating the overlap operator, illustrating that the scaling of quantum algorithms reflects the deeper physics of overlap fermions arising at the boundary of domain-wall fermions.",
+      "authors": [
+        "Henry Lamm",
+        "Alessandro Roggero",
+        "Hersh Singh",
+        "Luca Spagnoli"
+      ],
+      "pdf": "https://arxiv.org/pdf/2607.28524v1",
+      "link": "https://arxiv.org/abs/2607.28524v1",
+      "published": "2026-07-30T17:00:58Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3184910",
+        "inspire_url": "https://inspirehep.net/literature/3184910",
+        "citation_count": 1
       }
     },
     {
@@ -1912,7 +1956,7 @@
       "inspire": {
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -2735,7 +2779,18 @@
       "inspire": {
         "control_number": "3145465",
         "inspire_url": "https://inspirehep.net/literature/3145465",
-        "citation_count": 2
+        "doi": "10.1103/tptk-7718",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074509",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Phys.Rev.D, 114, artid 074509, 2026"
       }
     },
     {
@@ -2998,6 +3053,26 @@
         ],
         "citation_count": 4,
         "journal_ref": "APS Open Sci., 1, artid 000094, 2026"
+      }
+    },
+    {
+      "id": "2603.29091v3",
+      "title": "Ether of Orbifolds",
+      "summary": "The orbifold lattice has been proposed as a route to practical quantum simulation of Yang--Mills theory, with claims of exponential speedup over all known approaches. Through analytical derivations, Monte Carlo simulation, and explicit circuit construction, we identify compounding costs entirely absent in Kogut--Susskind formulations: a mass-dependent Trotter overhead that scales as $m^4$, non-singlet contamination that grows as $m^2$ and worsens with penalty terms, and a mandatory mass extrapolation. Monte Carlo simulations of SU(3) establish a universal scaling: the continuum limit forces $m^2 \\propto 1/a$, binding the Trotter step to the lattice spacing through a cost unique to orbifolds. For a fiducial $10^3$ calculation, the orbifold is $10^4$--$10^{10}$ times more expensive than every published alternative. These results indicate that the claimed computational advantages do not at present survive quantitative scrutiny.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.29091v3",
+      "link": "https://arxiv.org/abs/2603.29091v3",
+      "published": "2026-03-31T00:11:32Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3137591",
+        "inspire_url": "https://inspirehep.net/literature/3137591",
+        "citation_count": 4
       }
     },
     {
@@ -3850,7 +3925,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 11,
+        "citation_count": 12,
         "journal_ref": "Phys.Rev.D, 114, artid 014513, 2026"
       }
     },
@@ -3946,6 +4021,25 @@
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
         "citation_count": 5
+      }
+    },
+    {
+      "id": "2603.00946v1",
+      "title": "No Quantum Utility from Hadron Masses? No, Quantum Utility from Hadron Masses!",
+      "summary": "Is there a quantum utility in establishing the masses of hadrons? Here we show that the best response is that of Farrés, Capó, and Davis: perhaps, perhaps, perhaps. This is interesting given the general case that particle physics demands quantum computers. For stable hadrons, classical LQCD has achieved sub-percent precision with no sign problem, and quantum computers offer no advantage. For resonances, the Maiani-Testa theorem is an obstruction that quantum simulation is immune to. For nuclei, Wick contractions and signal-to-noise are genuine classical barriers. Underlying these cases is a unified picture connecting the sign problem to Wigner negativity and T gate cost. This manuscript was drafted from extensive interaction with \\textsc{Claude}.",
+      "authors": [
+        "Henry Lamm"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.00946v1",
+      "link": "https://arxiv.org/abs/2603.00946v1",
+      "published": "2026-03-01T06:33:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3124602",
+        "inspire_url": "https://inspirehep.net/literature/3124602",
+        "citation_count": 2
       }
     },
     {
