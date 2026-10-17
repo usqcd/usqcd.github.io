@@ -46,7 +46,7 @@ const coreSoftware: Repo[] = [
   },
   {
     name: "QLUA",
-    url: "https://github.com/usqcd-software/qlua",
+    url: "https://web.mit.edu/qlua/index.html",
     description:
       "A Lua-based scripting and workflow layer for lattice QCD, enabling rapid prototyping, workflow control, and analysis on top of USQCD libraries.",
     tags: ["Lua", "Scripting"],
