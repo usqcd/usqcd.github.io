@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T11:10:05.198101+00:00Z",
-  "count": 178,
+  "generated": "2026-10-17T10:33:08.314856+00:00Z",
+  "count": 174,
   "publications": [
     {
       "id": "2610.20362v1",
@@ -97,29 +97,6 @@
       "inspire": {
         "control_number": "3212867",
         "inspire_url": "https://inspirehep.net/literature/3212867",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.10350v1",
-      "title": "Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter",
-      "summary": "We present results from a detailed finite-size scaling analysis of the $3$-$d$, $Z(2)$ and $O(2)$ spin models in an external field $H$. Using high statistics Monte Carlo data, we obtain the leading finite-size scaling correction to the infinite volume scaling functions. We show that these corrections are proportional to $\\widetilde{z}_L^2=1/(H L^{3/(1+1/δ))})^{2}$. This provides the parametric form for finite-size corrections to bulk thermodynamic observables as well as the pseudo-critical temperatures determined at non-vanishing $H$. In particular, it allows to eliminate systematic errors in the analysis of the chiral phase transition temperature in (2+1)-flavor QCD, that arose from the previously not well-controlled ansatz for infinite volume extrapolations. We also establish the validity range of this leading order correction and point out that there are significant differences between the $3$-$d$, $O(2)$ and $Z(2)$ universality classes.",
-      "authors": [
-        "Jishnu Goswami",
-        "Frithjof Karsch",
-        "Sabarnya Mitra"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.10350v1",
-      "link": "https://arxiv.org/abs/2610.10350v1",
-      "published": "2026-10-07T16:27:07Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.stat-mech",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3212610",
-        "inspire_url": "https://inspirehep.net/literature/3212610",
         "citation_count": 0
       }
     },
@@ -242,32 +219,6 @@
       "inspire": {
         "control_number": "3209224",
         "inspire_url": "https://inspirehep.net/literature/3209224",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.36010v1",
-      "title": "A parameter independent analysis of the QCD chiral phase transition and its universal critical behaviour",
-      "summary": "We make use of unique properties of scaling functions to estimate the chiral phase transition temperature and corresponding universal critical parameters of this phase transition directly from (2+1)-flavor QCD simulations with highly improved staggered fermions on lattices with temporal extent $N_τ=8$. Working with an improved chiral order parameter for quantifying chiral symmetry breaking, we analyze the finite-volume dependence of this observable for a wide range of lattice volumes and light quark masses, and quantitatively estimate the deviations from the expected universal scaling behaviour as a function of the light-to-strange quark mass ratio.",
-      "authors": [
-        "Jishnu Goswami",
-        "Frithjof Karsch",
-        "Sabarnya Mitra",
-        "Christian Schmidt"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.36010v1",
-      "link": "https://arxiv.org/abs/2609.36010v1",
-      "published": "2026-09-28T18:00:27Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3209077",
-        "inspire_url": "https://inspirehep.net/literature/3209077",
         "citation_count": 0
       }
     },
@@ -2188,7 +2139,18 @@
       "inspire": {
         "control_number": "3158070",
         "inspire_url": "https://inspirehep.net/literature/3158070",
-        "citation_count": 9
+        "doi": "10.1103/m9kj-y6t3",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074510",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "Phys.Rev.D, 114, artid 074510, 2026"
       }
     },
     {
@@ -2319,42 +2281,6 @@
         ],
         "citation_count": 0,
         "journal_ref": "PoS, LATTICE2025, artid 165, p. 165, 2026"
-      }
-    },
-    {
-      "id": "2605.07262v2",
-      "title": "Testing machine-learned distributions against Monte Carlo data for the QCD chiral phase transition",
-      "summary": "We demonstrate that conditional Masked Autoregressive Flows constitute a flexible interpolation tool for lattice QCD observables, conditioned on bare lattice parameters. As a benchmark, we use the chiral phase structure of QCD with five degenerate light quark flavours, which on coarse lattices exhibits a region of first-order chiral transitions terminating in a critical quark mass. The method successfully reproduces standard reweighting in the gauge coupling, and naturally extends to interpolation in quark mass and spatial volume, for which reweighting is computationally prohibitive or inapplicable, respectively. Once trained, the model generates samples across the full parameter space in minutes, which can be used to obtain consistent first estimates of the critical quark mass without simulating all intermediate parameter values. This offers a concrete reduction in the number of lattice ensembles required. Precision on the critical mass from learned distributions is so far prohibited by the mode-covering effect inherent to maximum-likelihood-based training, which introduces a systematic bias near first-order transitions. At the current stage, the method is well-suited for a range of practical applications: localising phase boundaries, identifying the universal scaling axes at a critical point, and accelerating informed determinations of parameter values ahead of high-precision Monte Carlo campaigns.",
-      "authors": [
-        "Reinhold Kaiser",
-        "Frithjof Karsch",
-        "Jan Philipp Klinger",
-        "Owe Philipsen",
-        "Christian Schmidt",
-        "Simran Singh"
-      ],
-      "pdf": "https://arxiv.org/pdf/2605.07262v2",
-      "link": "https://arxiv.org/abs/2605.07262v2",
-      "published": "2026-05-08T05:27:26Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3153498",
-        "inspire_url": "https://inspirehep.net/literature/3153498",
-        "doi": "10.1007/JHEP09(2026)271",
-        "publication_info": [
-          {
-            "journal_title": "JHEP",
-            "journal_volume": "09",
-            "page_start": "271",
-            "artid": "271",
-            "year": 2026
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "JHEP, 09, artid 271, p. 271, 2026"
       }
     },
     {
@@ -4176,31 +4102,6 @@
       "inspire": {
         "control_number": "3123887",
         "inspire_url": "https://inspirehep.net/literature/3123887",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2602.23118v2",
-      "title": "Universal and non-universal finite-volume effects in the vicinity of chiral phase transition in (2+1)-flavor QCD",
-      "summary": "In this proceeding, we discuss the finite-size scaling analysis of the order parameter related to the chiral phase transition in QCD with two massless quarks. We use data obtained in lattice QCD calculations performed with highly improved staggered quarks (HISQ) for a range of light quark masses, $1/240 \\leq m_\\ell/m_s \\leq 1/27$ for different spatial volumes ($N_σ$) on Euclidean lattices with temporal extent $N_τ=8$, satisfying $3\\,N_τ\\leq N_σ\\leq 10\\,N_τ$. We observe that infinite volume extrapolated data for the order parameter agree reasonably well with the expected $O(2)$ scaling behavior even for physical ratios of the light-to-strange quark mass ratio. We quantify deviations from asymptotic scaling and perform a detailed analysis of the influence of finite-size effects in terms of temperature and quark masses at a fixed lattice cutoff. This is crucial for improving the reliability of the infinite-volume extrapolated estimate of the chiral order parameter and for a more precise determination of chiral phase transition temperature from direct Lattice QCD simulations.",
-      "authors": [
-        "Sabarnya Mitra",
-        "Jishnu Goswami",
-        "Frithjof Karsch"
-      ],
-      "pdf": "https://arxiv.org/pdf/2602.23118v2",
-      "link": "https://arxiv.org/abs/2602.23118v2",
-      "published": "2026-02-26T15:32:30Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3123855",
-        "inspire_url": "https://inspirehep.net/literature/3123855",
         "citation_count": 0
       }
     },
