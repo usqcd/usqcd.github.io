@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T10:33:08.377648+00:00Z",
-  "count": 174,
+  "generated": "2026-10-18T10:48:25.122946+00:00Z",
+  "count": 178,
   "publications": [
     {
       "id": "2610.20362v1",
@@ -101,22 +101,25 @@
       }
     },
     {
-      "id": "2610.06734v1",
-      "title": "Two-loop RI/SMOM-$\\overline{\\text{MS}}$ matching factors for the renormalization of bi-local operators contributing to $ε_K$",
-      "summary": "The measure of indirect CP violation in the neutral kaon system, $ε_K$, is an important precision test of the Standard Model. A first-principles Standard Model prediction of $ε_K$ requires evaluating the long-distance contribution in which the $ΔS = 2$ process proceeds via two $ΔS = 1$ operators. The non-perturbative nature of QCD in the relevant energy regimes requires a lattice QCD simulation. In this paper we present the two-loop, $O(α_s)$ RI/SMOM - $\\overline{\\text{MS}}$ matching factors required to renormalize a lattice QCD calculation of the long-distance contribution to $ε_K$.",
+      "id": "2610.10350v1",
+      "title": "Finite-size scaling analysis of three dimensional Z(2) and O(2) spin models with non-vanishing symmetry breaking parameter",
+      "summary": "We present results from a detailed finite-size scaling analysis of the $3$-$d$, $Z(2)$ and $O(2)$ spin models in an external field $H$. Using high statistics Monte Carlo data, we obtain the leading finite-size scaling correction to the infinite volume scaling functions. We show that these corrections are proportional to $\\widetilde{z}_L^2=1/(H L^{3/(1+1/δ))})^{2}$. This provides the parametric form for finite-size corrections to bulk thermodynamic observables as well as the pseudo-critical temperatures determined at non-vanishing $H$. In particular, it allows to eliminate systematic errors in the analysis of the chiral phase transition temperature in (2+1)-flavor QCD, that arose from the previously not well-controlled ansatz for infinite volume extrapolations. We also establish the validity range of this leading order correction and point out that there are significant differences between the $3$-$d$, $O(2)$ and $Z(2)$ universality classes.",
       "authors": [
-        "Erik Lundstrum"
+        "Jishnu Goswami",
+        "Frithjof Karsch",
+        "Sabarnya Mitra"
       ],
-      "pdf": "https://arxiv.org/pdf/2610.06734v1",
-      "link": "https://arxiv.org/abs/2610.06734v1",
-      "published": "2026-10-05T17:18:53Z",
+      "pdf": "https://arxiv.org/pdf/2610.10350v1",
+      "link": "https://arxiv.org/abs/2610.10350v1",
+      "published": "2026-10-07T16:27:07Z",
       "categories": [
-        "hep-ph",
-        "hep-lat"
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-ph"
       ],
       "inspire": {
-        "control_number": "3212018",
-        "inspire_url": "https://inspirehep.net/literature/3212018",
+        "control_number": "3212610",
+        "inspire_url": "https://inspirehep.net/literature/3212610",
         "citation_count": 0
       }
     }
