@@ -1,7 +1,56 @@
 {
-  "generated": "2026-10-19T12:41:18.585227+00:00Z",
-  "count": 178,
+  "generated": "2026-10-20T12:11:15.759002+00:00Z",
+  "count": 162,
   "publications": [
+    {
+      "id": "2610.25494v1",
+      "title": "Expansion schemes for finite density QCD equation of state: which one is the best?",
+      "summary": "The finite density equation of state of QCD is a fundamental quantity for understanding the phase structure of the theory, and also for the realistic modeling of the QCD medium in simulations. While direct lattice simulations at finite density are extremely challenging, several expansion schemes have been devised to extrapolate into the QCD phase diagram. All of these schemes are based on susceptibilities of conserved charges, i.e. derivatives of the pressure with respect to the chemical potential(s). In this work we set out to determine which of these schemes possesses the best convergence properties. To this end, we employ extreme-statistics lattice simulations on a $16^3\\times8$ lattice, which allow us to obtain susceptibilities up to order eight with remarkably small errors. We compare in particular two methods, based on contours of constant (normalized) baryon density and of constant entropy density. We find that the latter converges more quickly, effectively requiring susceptibilities only up to order four to cover the chemical potential range up to at least $μ_B \\approx 500$ MeV. We also extend the comparison to the three dimensional space of chemical potentials, and find that the entropy-based method consistently shows superior convergence.",
+      "authors": [
+        "Szabolcs Borsányi",
+        "Zoltán Fodor",
+        "Jana N. Guenther",
+        "Piyush Kumar",
+        "Paolo Parotto",
+        "Attila Pásztor",
+        "Chik Him Wong"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.25494v1",
+      "link": "https://arxiv.org/abs/2610.25494v1",
+      "published": "2026-10-18T19:32:15Z",
+      "categories": [
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3216316",
+        "inspire_url": "https://inspirehep.net/literature/3216316",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.24785v1",
+      "title": "Recent Advances in Transverse-Momentum--Dependent Distributions in Lattice QCD",
+      "summary": "Unraveling the three-dimensional structure of hadrons is a central objective in modern nuclear and particle physics. Transverse Momentum Dependent parton distributions (TMDs) provide crucial insights into the interplay between partonic transverse motion and spin, and are indispensable for describing a wide range of high-energy processes at facilities such as JLab, COMPASS, the LHC, and the upcoming Electron-Ion Collider. In recent years, significant progress has been made in accessing TMDs from lattice QCD using novel approaches. Methods based on ratios of Mellin moments, large-momentum effective theory (LaMET), and Coulomb-gauge techniques have enabled first-principles investigations of the Collins-Soper kernel, intrinsic soft functions, TMD wave functions, and TMDPDFs. Recent lattice results for both unpolarized and spin-dependent distributions, including the Boer-Mulders function, demonstrate the feasibility of extracting transverse-momentum--dependent information directly from QCD. This paper reviews recent advances in lattice-QCD studies of TMDs, outlines remaining challenges such as continuum and infinite-momentum extrapolations, and discusses future directions toward precision determinations of hadron structure in three dimensions.",
+      "authors": [
+        "Huey-Wen Lin",
+        "Wei Wang",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.24785v1",
+      "link": "https://arxiv.org/abs/2610.24785v1",
+      "published": "2026-10-17T17:12:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3216290",
+        "inspire_url": "https://inspirehep.net/literature/3216290",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.23332v1",
       "title": "Two-nucleon scattering amplitudes at light quark masses from lattice QCD",
@@ -37,31 +86,6 @@
       "inspire": {
         "control_number": "3215890",
         "inspire_url": "https://inspirehep.net/literature/3215890",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.20362v1",
-      "title": "Excited-State Effects in Nucleon Sigma Terms from a Variational Analysis",
-      "summary": "We investigate excited-state effects in nucleon sigma-terms in lattice QCD using twisted-mass clover-improved fermion ensembles. We study correlation functions with nucleon and multihadron nucleon-$σ$-meson interpolating operators. The analysis is performed using three gauge ensembles, including one ensemble simulated with two degenerate light, a strange, and a charm quark with quark masses tuned to approximately their physical value. We solve the generalized eigenvalue problem that arises from the matrix of correlators and show that the three-point function for the light sigma-term obtained using the optimal linear combination of interpolating operators has substantially reduced time dependence without loss of statistical precision. We apply Laplace filtering and investigate residual excited-state contributions in the extraction of $σ_{πN}$. Using the same optimal linear combination of correlators as for $σ_{πN}$ for the strange sigma-term we also observe suppressed excited state contributions over an extended range of source--sink time separations. For the charm sigma-term, we observe negligible time dependence within the large statistical uncertainties, and these improvements show no significant effect.",
-      "authors": [
-        "Constantia Alexandrou",
-        "Giannis Koutsou",
-        "Yan Li",
-        "Srijit Paul",
-        "Ferenc Pittler"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.20362v1",
-      "link": "https://arxiv.org/abs/2610.20362v1",
-      "published": "2026-10-14T15:37:26Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3215197",
-        "inspire_url": "https://inspirehep.net/literature/3215197",
         "citation_count": 0
       }
     },
@@ -108,33 +132,6 @@
       "inspire": {
         "control_number": "3213808",
         "inspire_url": "https://inspirehep.net/literature/3213808",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.11071v1",
-      "title": "Analog quantum simulation of $φ^4$ field theory with a superconducting transmission line",
-      "summary": "Understanding the dynamics of interacting quantum fields remains a fundamental challenge. We propose a superconducting transmission line for analog quantum simulation of $(1+1)$-dimensional $φ^4$ field theory. The transmission line comprises fluxonium-like circuit elements whose continuous and unbounded phase variables encode a scalar field without Hilbert-space truncation. Their anharmonic potentials provide strong interactions. Tuning the circuit parameters provides access to two distinct regimes. In the first, the transmission line emulates $φ^4$ field theory with a single-well potential. We confirm this correspondence through lattice Monte Carlo calculations of the low-energy spectra of both the circuit and lattice $φ^4$ theory. This regime enables scattering experiments between counter-propagating particle wave packets. The second parameter set yields a double-well potential that emulates $φ^4$ theory in the symmetry-broken phase and hosts degenerate vacua. Interfaces between the two vacua form topological kinks, and the transmission line can simulate kink-antikink collisions. We present state preparation and measurement protocols for both collision experiments, enabling spatially resolved, real-time studies of particle and soliton scattering in an interacting quantum field theory.",
-      "authors": [
-        "Ilan T. Rosen",
-        "Neill C. Warrington",
-        "Max Hays",
-        "Christopher McNally",
-        "Joshua Lin",
-        "Stephen Sorokanich",
-        "Julian Bender"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.11071v1",
-      "link": "https://arxiv.org/abs/2610.11071v1",
-      "published": "2026-10-08T01:30:42Z",
-      "categories": [
-        "quant-ph",
-        "cond-mat.mes-hall",
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3212867",
-        "inspire_url": "https://inspirehep.net/literature/3212867",
         "citation_count": 0
       }
     }
