@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T12:11:15.759002+00:00Z",
-  "count": 162,
+  "generated": "2026-10-21T11:39:31.394861+00:00Z",
+  "count": 176,
   "publications": [
     {
       "id": "2610.25494v1",
@@ -90,6 +90,31 @@
       }
     },
     {
+      "id": "2610.20362v1",
+      "title": "Excited-State Effects in Nucleon Sigma Terms from a Variational Analysis",
+      "summary": "We investigate excited-state effects in nucleon sigma-terms in lattice QCD using twisted-mass clover-improved fermion ensembles. We study correlation functions with nucleon and multihadron nucleon-$σ$-meson interpolating operators. The analysis is performed using three gauge ensembles, including one ensemble simulated with two degenerate light, a strange, and a charm quark with quark masses tuned to approximately their physical value. We solve the generalized eigenvalue problem that arises from the matrix of correlators and show that the three-point function for the light sigma-term obtained using the optimal linear combination of interpolating operators has substantially reduced time dependence without loss of statistical precision. We apply Laplace filtering and investigate residual excited-state contributions in the extraction of $σ_{πN}$. Using the same optimal linear combination of correlators as for $σ_{πN}$ for the strange sigma-term we also observe suppressed excited state contributions over an extended range of source--sink time separations. For the charm sigma-term, we observe negligible time dependence within the large statistical uncertainties, and these improvements show no significant effect.",
+      "authors": [
+        "Constantia Alexandrou",
+        "Giannis Koutsou",
+        "Yan Li",
+        "Srijit Paul",
+        "Ferenc Pittler"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.20362v1",
+      "link": "https://arxiv.org/abs/2610.20362v1",
+      "published": "2026-10-14T15:37:26Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3215197",
+        "inspire_url": "https://inspirehep.net/literature/3215197",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2610.16950v1",
       "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
       "summary": "We study the potential impact of lattice QCD window observables on nucleon isovector quark transversity parton distribution functions (PDFs) using the ePump Hessian-updating framework. Window observables, recently proposed in arXiv:2505.22795 as benchmark quantities enabling direct quantitative comparison between lattice QCD and phenomenological PDF extractions, are weighted integrals of PDFs over a range of Bjorken-$x$ for which both approaches are reliable. Experimental determinations of transversity PDFs carry uncertainties of 50--100%, while current lattice calculations have achieved comparable or better precision, creating an opportunity for lattice inputs to significantly constrain a global analysis. We evaluate the constraining power of existing lattice QCD computations of transversity window moments and Gaussian windows against current phenomenological PDF. We additionally examine prospective tensor charges in the transversity channel and estimate the PDF uncertainty reduction achievable at current and near-future lattice precision. Our results provide quantitative guidance on which window observables will most constrain global PDF analyses.",
@@ -107,31 +132,6 @@
       "inspire": {
         "control_number": "3214398",
         "inspire_url": "https://inspirehep.net/literature/3214398",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.13791v1",
-      "title": "Evidence of Taste-Symmetry restoration for Kähler-Dirac fermions on Euclidean Dynamical Triangulations",
-      "summary": "We study the spectrum of two-particle bound states of Kähler-Dirac fermions coupled via gravity in Euclidean Dynamical Triangulations (EDT). We work in the quenched approximation, where the geometry is allowed to fluctuate, but there is no back-reaction from the matter on the geometry. The Kähler-Dirac action respects an exact $U(1)$ symmetry that is related to continuum chiral symmetry, and this $U(1)$ symmetry ensures that some of the bound-state masses vanish in the chiral limit of vanishing fermion bare mass. The bound-state masses that are not protected by the $U(1)$ symmetry do not vanish in the chiral limit, but the scale associated with the symmetry breaking does not appear to be a physical scale like the Planck mass or the curvature scale of the emergent de Sitter background. Rather, the mass scale associated with this non-degeneracy appears to be a positive power of the lattice spacing, decreasing as the continuum limit is approached. This suggests that Kähler-Dirac fermions in EDT can be interpreted as the gravity analog of staggered fermions in flat-space lattice field theories, with similar behavior.",
-      "authors": [
-        "Mingwei Dai",
-        "Walter Freeman",
-        "Mason Grieb",
-        "Jack Laiho",
-        "Marc Schiffer",
-        "Judah Unmuth-Yockey"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.13791v1",
-      "link": "https://arxiv.org/abs/2610.13791v1",
-      "published": "2026-10-09T16:05:04Z",
-      "categories": [
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3213808",
-        "inspire_url": "https://inspirehep.net/literature/3213808",
         "citation_count": 0
       }
     }
