@@ -1,7 +1,57 @@
 {
-  "generated": "2026-10-21T11:39:31.394861+00:00Z",
-  "count": 176,
+  "generated": "2026-10-22T11:35:57.107554+00:00Z",
+  "count": 183,
   "publications": [
+    {
+      "id": "2610.29726v1",
+      "title": "Mellin Moments of Proton Unpolarized GPDs at Nonzero Skewness from Lattice QCD with a Neural-Network Parametrization",
+      "summary": "We use lattice QCD to determine the generalized form factors (GFFs) entering the first four Mellin moments of the unpolarized isovector $u-d$ proton GPDs at nonzero skewness. The framework combines the polynomiality of the moments in the skewness $ξ$, with the short-distance expansion formalism, allowing the lattice-extracted reduced Ioffe-time distributions (ITDs) to be expressed in terms of GFFs. In order to extract the GFFs by fitting these relations to the lattice data, we parameterize each GFF with an artificial neural network (ANN) as a continuous function of the invariant momentum transfer squared $t$, which accommodates the kinematic coverage of the data in a flexible way. With this fit, we determine the fourteen GFFs that enter the first four Mellin moments, including the skewness-dependent GFFs. From the extracted GFFs, we obtain the quark total angular momentum of the isovector combination, $J^{u-d}=0.296(11)(7)$ in the $\\overline{\\mathrm{MS}}$ scheme at $μ=2~\\mathrm{GeV}$, in agreement with previous lattice determinations based on nonlocal operators and with a smaller total uncertainty. We also determine the impact-parameter distributions of the first three Mellin moments in an unpolarized and in a transversely polarized proton. We finally identify and discuss the principal systematic uncertainties which enter this extraction, and the challenges specific to the nonzero-skewness regime.",
+      "authors": [
+        "Min-Huan Chu",
+        "Manuel Colaço",
+        "Krzysztof Cichy",
+        "Martha Constantinou",
+        "Arif Sarkar"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.29726v1",
+      "link": "https://arxiv.org/abs/2610.29726v1",
+      "published": "2026-10-21T13:31:29Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3217403",
+        "inspire_url": "https://inspirehep.net/literature/3217403",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.28778v1",
+      "title": "Quark TMDPDFs from Large to Small $x$: A Unified Description of CSS, DGLAP, and Small-$x$ Double Logarithms",
+      "summary": "We extend the full-kinematic background-field construction developed for gluon transverse-momentum dependent parton distribution functions (TMDPDFs) in Mukherjee et al. [Phys. Rev. D 109, 034035 (2024)] to quark TMDPDFs, providing a common framework for their large- and small-$x$ dynamics. We compute the leading-power quark TMD beam function at next-to-leading order using the background-field method. The background fields retain both longitudinal and transverse momenta, with neither collinear nor eikonal ordering imposed. We distinguish the renormalization scales that define the TMD operator from the factorization scales that separate its perturbative and non-perturbative modes. With standard TMD renormalization, the quark TMDPDF obeys Collins-Soper-Sterman (CSS) evolution, while the lower-scale separation is organized directly in terms of background-field TMD operators. We refer to this full-kinematic construction as the MSTT scheme. In the MSTT scheme, the leading term of the resulting operator expansion reproduces both the Dokshitzer-Gribov-Lipatov-Altarelli-Parisi (DGLAP) logarithm and the small-$x$ double logarithm in the appropriate limits, while retaining parts of the higher-twist and sub-eikonal corrections. We also formulate a rapidity-only scheme for quark TMDPDFs with distinct renormalization and factorization cutoffs. We derive its evolution equation, which reduces to DGLAP evolution in the collinear limit and to double-logarithmic quark evolution at small $x$, and establish its matching to the MSTT and standard TMD schemes.",
+      "authors": [
+        "Swagato Mukherjee",
+        "Vladimir V. Skokov",
+        "Andrey Tarasov",
+        "Shaswat Tiwari"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.28778v1",
+      "link": "https://arxiv.org/abs/2610.28778v1",
+      "published": "2026-10-20T18:11:54Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3217285",
+        "inspire_url": "https://inspirehep.net/literature/3217285",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.25494v1",
       "title": "Expansion schemes for finite density QCD equation of state: which one is the best?",
@@ -86,52 +136,6 @@
       "inspire": {
         "control_number": "3215890",
         "inspire_url": "https://inspirehep.net/literature/3215890",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.20362v1",
-      "title": "Excited-State Effects in Nucleon Sigma Terms from a Variational Analysis",
-      "summary": "We investigate excited-state effects in nucleon sigma-terms in lattice QCD using twisted-mass clover-improved fermion ensembles. We study correlation functions with nucleon and multihadron nucleon-$σ$-meson interpolating operators. The analysis is performed using three gauge ensembles, including one ensemble simulated with two degenerate light, a strange, and a charm quark with quark masses tuned to approximately their physical value. We solve the generalized eigenvalue problem that arises from the matrix of correlators and show that the three-point function for the light sigma-term obtained using the optimal linear combination of interpolating operators has substantially reduced time dependence without loss of statistical precision. We apply Laplace filtering and investigate residual excited-state contributions in the extraction of $σ_{πN}$. Using the same optimal linear combination of correlators as for $σ_{πN}$ for the strange sigma-term we also observe suppressed excited state contributions over an extended range of source--sink time separations. For the charm sigma-term, we observe negligible time dependence within the large statistical uncertainties, and these improvements show no significant effect.",
-      "authors": [
-        "Constantia Alexandrou",
-        "Giannis Koutsou",
-        "Yan Li",
-        "Srijit Paul",
-        "Ferenc Pittler"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.20362v1",
-      "link": "https://arxiv.org/abs/2610.20362v1",
-      "published": "2026-10-14T15:37:26Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3215197",
-        "inspire_url": "https://inspirehep.net/literature/3215197",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.16950v1",
-      "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
-      "summary": "We study the potential impact of lattice QCD window observables on nucleon isovector quark transversity parton distribution functions (PDFs) using the ePump Hessian-updating framework. Window observables, recently proposed in arXiv:2505.22795 as benchmark quantities enabling direct quantitative comparison between lattice QCD and phenomenological PDF extractions, are weighted integrals of PDFs over a range of Bjorken-$x$ for which both approaches are reliable. Experimental determinations of transversity PDFs carry uncertainties of 50--100%, while current lattice calculations have achieved comparable or better precision, creating an opportunity for lattice inputs to significantly constrain a global analysis. We evaluate the constraining power of existing lattice QCD computations of transversity window moments and Gaussian windows against current phenomenological PDF. We additionally examine prospective tensor charges in the transversity channel and estimate the PDF uncertainty reduction achievable at current and near-future lattice precision. Our results provide quantitative guidance on which window observables will most constrain global PDF analyses.",
-      "authors": [
-        "Daniel Adamiak",
-        "Christopher Monahan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.16950v1",
-      "link": "https://arxiv.org/abs/2610.16950v1",
-      "published": "2026-10-12T15:21:24Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3214398",
-        "inspire_url": "https://inspirehep.net/literature/3214398",
         "citation_count": 0
       }
     }

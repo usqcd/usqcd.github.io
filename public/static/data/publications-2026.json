@@ -1,7 +1,57 @@
 {
-  "generated": "2026-10-21T11:39:31.356126+00:00Z",
-  "count": 176,
+  "generated": "2026-10-22T11:35:57.045164+00:00Z",
+  "count": 183,
   "publications": [
+    {
+      "id": "2610.29726v1",
+      "title": "Mellin Moments of Proton Unpolarized GPDs at Nonzero Skewness from Lattice QCD with a Neural-Network Parametrization",
+      "summary": "We use lattice QCD to determine the generalized form factors (GFFs) entering the first four Mellin moments of the unpolarized isovector $u-d$ proton GPDs at nonzero skewness. The framework combines the polynomiality of the moments in the skewness $ξ$, with the short-distance expansion formalism, allowing the lattice-extracted reduced Ioffe-time distributions (ITDs) to be expressed in terms of GFFs. In order to extract the GFFs by fitting these relations to the lattice data, we parameterize each GFF with an artificial neural network (ANN) as a continuous function of the invariant momentum transfer squared $t$, which accommodates the kinematic coverage of the data in a flexible way. With this fit, we determine the fourteen GFFs that enter the first four Mellin moments, including the skewness-dependent GFFs. From the extracted GFFs, we obtain the quark total angular momentum of the isovector combination, $J^{u-d}=0.296(11)(7)$ in the $\\overline{\\mathrm{MS}}$ scheme at $μ=2~\\mathrm{GeV}$, in agreement with previous lattice determinations based on nonlocal operators and with a smaller total uncertainty. We also determine the impact-parameter distributions of the first three Mellin moments in an unpolarized and in a transversely polarized proton. We finally identify and discuss the principal systematic uncertainties which enter this extraction, and the challenges specific to the nonzero-skewness regime.",
+      "authors": [
+        "Min-Huan Chu",
+        "Manuel Colaço",
+        "Krzysztof Cichy",
+        "Martha Constantinou",
+        "Arif Sarkar"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.29726v1",
+      "link": "https://arxiv.org/abs/2610.29726v1",
+      "published": "2026-10-21T13:31:29Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3217403",
+        "inspire_url": "https://inspirehep.net/literature/3217403",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.28778v1",
+      "title": "Quark TMDPDFs from Large to Small $x$: A Unified Description of CSS, DGLAP, and Small-$x$ Double Logarithms",
+      "summary": "We extend the full-kinematic background-field construction developed for gluon transverse-momentum dependent parton distribution functions (TMDPDFs) in Mukherjee et al. [Phys. Rev. D 109, 034035 (2024)] to quark TMDPDFs, providing a common framework for their large- and small-$x$ dynamics. We compute the leading-power quark TMD beam function at next-to-leading order using the background-field method. The background fields retain both longitudinal and transverse momenta, with neither collinear nor eikonal ordering imposed. We distinguish the renormalization scales that define the TMD operator from the factorization scales that separate its perturbative and non-perturbative modes. With standard TMD renormalization, the quark TMDPDF obeys Collins-Soper-Sterman (CSS) evolution, while the lower-scale separation is organized directly in terms of background-field TMD operators. We refer to this full-kinematic construction as the MSTT scheme. In the MSTT scheme, the leading term of the resulting operator expansion reproduces both the Dokshitzer-Gribov-Lipatov-Altarelli-Parisi (DGLAP) logarithm and the small-$x$ double logarithm in the appropriate limits, while retaining parts of the higher-twist and sub-eikonal corrections. We also formulate a rapidity-only scheme for quark TMDPDFs with distinct renormalization and factorization cutoffs. We derive its evolution equation, which reduces to DGLAP evolution in the collinear limit and to double-logarithmic quark evolution at small $x$, and establish its matching to the MSTT and standard TMD schemes.",
+      "authors": [
+        "Swagato Mukherjee",
+        "Vladimir V. Skokov",
+        "Andrey Tarasov",
+        "Shaswat Tiwari"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.28778v1",
+      "link": "https://arxiv.org/abs/2610.28778v1",
+      "published": "2026-10-20T18:11:54Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3217285",
+        "inspire_url": "https://inspirehep.net/literature/3217285",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.25494v1",
       "title": "Expansion schemes for finite density QCD equation of state: which one is the best?",
@@ -490,7 +540,7 @@
       "inspire": {
         "control_number": "3204872",
         "inspire_url": "https://inspirehep.net/literature/3204872",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1184,7 +1234,7 @@
       "inspire": {
         "control_number": "3186862",
         "inspire_url": "https://inspirehep.net/literature/3186862",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1207,7 +1257,7 @@
       "inspire": {
         "control_number": "3185267",
         "inspire_url": "https://inspirehep.net/literature/3185267",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1475,7 +1525,7 @@
       "inspire": {
         "control_number": "3181795",
         "inspire_url": "https://inspirehep.net/literature/3181795",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1632,7 +1682,7 @@
       "inspire": {
         "control_number": "3177387",
         "inspire_url": "https://inspirehep.net/literature/3177387",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1825,7 +1875,7 @@
             "journal_issue": "5"
           }
         ],
-        "citation_count": 2,
+        "citation_count": 3,
         "journal_ref": "Phys.Rev.D, 114, artid 054508, 2026"
       }
     },
@@ -2359,6 +2409,39 @@
       }
     },
     {
+      "id": "2605.15076v1",
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "summary": "Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis.",
+      "authors": [
+        "Zoë Webb-Mack",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2605.15076v1",
+      "link": "https://arxiv.org/abs/2605.15076v1",
+      "published": "2026-05-14T17:01:35Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3155356",
+        "inspire_url": "https://inspirehep.net/literature/3155356",
+        "doi": "10.1103/ltms-7lfn",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074506",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 4,
+        "journal_ref": "Phys.Rev.D, 114, artid 074506, 2026"
+      }
+    },
+    {
       "id": "2605.14554v1",
       "title": "Glue Condensate, Quark Condensate and Dirac Spectral Density",
       "summary": "I derive the regularized formula for glue scalar density (gluon condensate) in terms of Dirac spectral density [arXiv:2509.03509], and elaborate on its uses and meaning. Particular attention is given to understanding of what this new formula reveals about the relation between glue and quark scalar densities, how it relates to IR phase, how it clarifies the distinction between anomalous and spontaneous ways of breaking symmetries, and what it says about the relation between UV and IR in QCD.",
@@ -2656,7 +2739,7 @@
       "inspire": {
         "control_number": "3154615",
         "inspire_url": "https://inspirehep.net/literature/3154615",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2715,7 +2798,7 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 8
+        "citation_count": 9
       }
     },
     {
@@ -2829,7 +2912,7 @@
       "inspire": {
         "control_number": "3148486",
         "inspire_url": "https://inspirehep.net/literature/3148486",
-        "citation_count": 7
+        "citation_count": 8
       }
     },
     {
@@ -3771,6 +3854,41 @@
       }
     },
     {
+      "id": "2603.10255v1",
+      "title": "Topological structure of the entanglement radius of Yang-Mills flux tubes",
+      "summary": "We expand on recent work arXiv:2601.17199 demonstrating the existence of a novel entanglement radius $ξ_0$ characterizing flux tube entanglement entropy (FTE$^2$) in (2+1)D Yang-Mills theory. This physical scale corresponds to the intrinsic thickness of the flux tube that must be fully severed by an entangling region for color degrees of freedom in the flux tube to contribute non-zero FTE$^2$. We consider here geometries of the entanglement region $V$ on the lattice where the length of the region cross-cutting the flux tube is of the same magnitude as $ξ_0$. Our results further the conclusions of arXiv:2601.17199 by adding detailed new information on the topological structure of the entanglement radius of color flux tubes.",
+      "authors": [
+        "Rocco Amorosso",
+        "Sergey Syritsyn",
+        "Raju Venugopalan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2603.10255v1",
+      "link": "https://arxiv.org/abs/2603.10255v1",
+      "published": "2026-03-10T22:17:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3128414",
+        "inspire_url": "https://inspirehep.net/literature/3128414",
+        "doi": "10.22323/1.518.0184",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "184",
+            "artid": "184",
+            "year": 2026
+          },
+          {}
+        ],
+        "citation_count": 3,
+        "journal_ref": "PoS, LATTICE2025, artid 184, p. 184, 2026"
+      }
+    },
+    {
       "id": "2603.03835v2",
       "title": "BMW/DMZ calculation of the hadronic vacuum polarisation for the muon magnetic moment",
       "summary": "For twenty years, a persistent discrepancy between experimental measurements and theoretical calculations of the muon anomalous magnetic moment have provided tantalising hints of new physics. In recent years, improvements to the experimental precision have appeared to make the tension stronger and stronger. However, at the same time, our lattice calculation overturned the theoretical consensus, completely eliminating the tension. I will present the latest results from the Budapest-Marseille-Wuppertal (BMW) and DMZ collaborations, with a hybrid determination of the hadronic vacuum polarisation contribution to a precision of 0.45%",
@@ -4325,6 +4443,28 @@
       }
     },
     {
+      "id": "2602.22121v1",
+      "title": "Trade-offs in Gauss's law error correction for lattice gauge theory quantum simulations",
+      "summary": "Gauss's law-based quantum error correction (GLQEC) offers a promising approach to reducing qubit overhead in lattice gauge theory simulations by leveraging built-in symmetries. For applications of GLQEC to 1+1D lattice quantum electrodynamics (QED), we identify two significant trade-offs. First, we prove via dimension-counting arguments that GLQEC requires periodic electric fields, thereby constraining the design space for lattice QED simulations. Second, we numerically compare GLQEC with a universal quantum error correction (UQEC) code, specifically the $d=3$ bitflip repetition code, and find that while GLQEC can achieve lower logical error rates in single-round error correction, it exhibits faster decoherence to the steady-state mixed ensemble under multiple rounds. The mixing speed penalty is manifest in observables of interest for both memory experiments and Hamiltonian evolution. We identify a mixing speed threshold, $p_{th}=0.277(2)$, above which using GLQEC exhibits even faster decoherence than without error correction. Our results highlight fundamental limitations of symmetry-based error correction schemes and inform corresponding constraints on formulations of lattice gauge theories compatible with error-robust quantum simulation techniques.",
+      "authors": [
+        "Balint Pato",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.22121v1",
+      "link": "https://arxiv.org/abs/2602.22121v1",
+      "published": "2026-02-25T17:09:20Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3123568",
+        "inspire_url": "https://inspirehep.net/literature/3123568",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2602.20373v2",
       "title": "Resolving the structure of bound states using lattice quantum field theories",
       "summary": "This work presents the first lattice calculation of a two-to-two particle matrix element of a local current. This exploratory calculation is performed using a leading-order pionless effective field theory of two nucleons in a finite 3D spatial volume, where the Hamiltonian can be diagonalized exactly for moderate volumes. By considering a range of couplings where the theory supports a deuteron-like bound state, we determine the finite-volume spectra and matrix elements of the conserved local vector current. Using the Lüscher formalism, we constrain the infinite-volume, purely hadronic amplitude for this theory. Using previously derived formalism, we then map the finite-volume matrix elements to scattering amplitudes describing a reaction coupling two-particle states via a current insertion, $\\2+\\Jc \\to \\2$. We then use a recently derived relation between this class of amplitudes and the bound-state elastic form factor to directly constrain the infinite-volume form factor. By varying over a range of values of the coupling of the theory, we explore the effects of this analysis for deep-bound states and shallow-bound states. We reproduce the expected result that for deep bound states, the finite-volume formalism is largely unnecessary, while for shallow bound states, it is absolutely critical to obtain a sensible result. We present a detailed outline of the analysis of this class of matrix elements, including the determination of the charge radius of the bound state. In the shallow bound state limit, we find good agreement with the prediction stemming from the anomalous threshold.",
@@ -4532,6 +4672,30 @@
       }
     },
     {
+      "id": "2602.02436v2",
+      "title": "Wilson loops with neural networks",
+      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
+      "authors": [
+        "Verena Bellscheidt",
+        "Nora Brambilla",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.02436v2",
+      "link": "https://arxiv.org/abs/2602.02436v2",
+      "published": "2026-02-02T18:33:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113673",
+        "inspire_url": "https://inspirehep.net/literature/3113673",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2601.22273v1",
       "title": "Excited-state uncertainties in lattice-QCD calculations of hadron masses and scattering phase shifts",
       "summary": "Lattice QCD has historically produced energy results interpretable as either estimates relying on implicit assumptions about asymptotic behavior or one-sided upper bounds. New Lanczos methods providing two-sided bounds with less-restrictive assumptions are introduced and quantified in a high-statistics calculation with unphysical quark masses. Two-sided bounds without spectral assumptions provide sub-percent constraints on the nucleon mass. Other bounds, which assume all states in a given energy window are resolved, provide meaningful two-sided constraints on nucleon-nucleon scattering phase shifts.",
@@ -4639,6 +4803,30 @@
         "control_number": "3112889",
         "inspire_url": "https://inspirehep.net/literature/3112889",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.17199v1",
+      "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
+      "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
+      "authors": [
+        "Rocco Amorosso",
+        "Sergey Syritsyn",
+        "Raju Venugopalan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.17199v1",
+      "link": "https://arxiv.org/abs/2601.17199v1",
+      "published": "2026-01-23T22:08:30Z",
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3111342",
+        "inspire_url": "https://inspirehep.net/literature/3111342",
+        "citation_count": 1
       }
     },
     {
