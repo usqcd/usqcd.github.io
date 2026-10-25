@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T10:43:05.471935+00:00Z",
-  "count": 184,
+  "generated": "2026-10-25T11:07:15.097712+00:00Z",
+  "count": 186,
   "publications": [
     {
       "id": "2610.31597v1",
@@ -303,6 +303,26 @@
       }
     },
     {
+      "id": "2610.02430v1",
+      "title": "Towards Precision-Controlled Partonic Structures from First Principles",
+      "summary": "The internal structure of hadrons is governed by nonperturbative Quantum Chromodynamics (QCD). This dissertation presents first-principles calculations of partonic observables using lattice QCD and effective field theory, with controlled systematic uncertainties, advancing from collinear structure to transverse-momentum-dependent distributions (TMDs) that encode the three-dimensional partonic structure of hadrons. Within the large momentum effective theory (LaMET) framework, this work presents state-of-the-art calculations of pion distribution amplitudes and systematic studies of nucleon parton distributions, with control of renormalization, excited-state contamination, Fourier-transform systematics, and power corrections. A Coulomb-gauge formulation of quasi-distributions simplifies ultraviolet structure by avoiding Wilson-line related linear divergences, with Gribov-copy effects found to be negligible at current statistical precision. Building on these developments, this dissertation reports lattice determinations of nucleon TMD parton distributions, the Collins-Soper kernel, the intrinsic soft function, and pion TMD observables. These results provide nonperturbative inputs for global QCD analyses and the precision hadron-structure program, including the Electron-Ion Collider. In parallel, this work explores machine-learning acceleration of lattice gauge simulations through neural field transformations embedded in Hybrid Monte Carlo. In two-dimensional U(1) tests, the method reduces autocorrelation and improves performance toward finer lattice spacing, suggesting potential applications to more efficient lattice QCD simulations.",
+      "authors": [
+        "Jinchen He"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.02430v1",
+      "link": "https://arxiv.org/abs/2610.02430v1",
+      "published": "2026-10-01T19:52:58Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3211126",
+        "inspire_url": "https://inspirehep.net/literature/3211126",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2610.02169v1",
       "title": "Drell-Yan lepton pair production from low to high transverse momentum",
       "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
@@ -455,6 +475,30 @@
       "inspire": {
         "control_number": "3208961",
         "inspire_url": "https://inspirehep.net/literature/3208961",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2609.32225v1",
+      "title": "LaMET-Agent: An Agent Framework for Large-Momentum Effective Theory Analysis",
+      "summary": "Large-momentum effective theory (LaMET) provides a first-principles framework for computing the $x$ dependence of light-cone parton distributions from lattice QCD. Over the past decade, theoretical and numerical advances have established a mature multi-stage workflow for systematic calculation of parton physics, although its implementation still requires expert judgment and substantial repeated effort. We present lamet-agent, an open-source large language model (LLM) agent framework that organizes this workflow into an executable, reproducible, and inspectable analysis pipeline. The present release supports collinear quark distributions and implements correlator analysis, renormalization, Fourier transformation, perturbative matching, continuum, physical pion mass and infinite-momentum extrapolations, and automated result review. We validate it on four end-to-end analyses: pion parton distribution functions in the gauge-invariant and Coulomb-gauge formulations, and pion and kaon distribution amplitudes, obtaining results consistent with the published calculations. Extensions to transverse-momentum-dependent distributions, generalized transverse-momentum-dependent distributions, and gluonic distribution functions are planned for subsequent releases.",
+      "authors": [
+        "Jinchen He",
+        "Xiangyu Jiang",
+        "Fei Yao",
+        "Dian-Jun Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.32225v1",
+      "link": "https://arxiv.org/abs/2609.32225v1",
+      "published": "2026-09-26T04:35:11Z",
+      "categories": [
+        "hep-lat",
+        "cs.AI",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3208418",
+        "inspire_url": "https://inspirehep.net/literature/3208418",
         "citation_count": 0
       }
     },
