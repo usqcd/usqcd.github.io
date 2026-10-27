@@ -1,7 +1,72 @@
 {
-  "generated": "2026-10-26T12:42:39.463420+00:00Z",
-  "count": 186,
+  "generated": "2026-10-27T12:13:52.267177+00:00Z",
+  "count": 187,
   "publications": [
+    {
+      "id": "2610.35526v1",
+      "title": "Toward Compute-Bound Lattice-QCD Software",
+      "summary": "Multi-right-hand-side multigrid inverters for lattice QCD are much less memory constrained than single-right-hand-side Krylov solvers, so the upper bound on efficiency of modern solvers is much higher than what was historically possible. This work presents a reanalysis of roofline estimates to reflect this new reality. It also describes the qc library, which implements multi-right-hand-side multigrid at an efficiency that can exceed 50% of the processor roofline.",
+      "authors": [
+        "Anthony V. Grebe"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.35526v1",
+      "link": "https://arxiv.org/abs/2610.35526v1",
+      "published": "2026-10-26T14:43:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3219079",
+        "inspire_url": "https://inspirehep.net/literature/3219079",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.35524v1",
+      "title": "Negative-Power Density of States in Chiral-Orthogonal Disordered Systems and the IR Phase of QCD",
+      "summary": "The recently discovered IR phase of QCD is characterized by an infrared (IR) sector of Dirac modes that separates and dynamically decouples from the bulk of the spectrum, becoming scale invariant in the process [1]. Among key features of this IR sector is the negative power-law behavior of Dirac spectral density near zero with power $p$ close to $-1$. Here we start investigating to what extent can this behavior be mimicked by chiral Anderson models. In particular, we study 3-D chiral-orthogonal systems with logarithmic off-diagonal disorder where negative-power ``spikes'' have been observed [2]. We find that at finite disorder strength $W$ of moderate strength, these models in fact do not have a power-singular density of states (DOS) at zero energy in the thermodynamic limit. Rather, this power $p_1$ vanishes and the spectrum features a very accurate power behavior with $p<0$ on an interval around $E = 1$ spreading increasingly closer to $E=0$ and $E = \\infty$ with increasing $W$. We connect this to the fact that random hoppings $t$ in these quantum systems are drawn from a scale-invariant $1/t$ distribution regularized via $t \\in [e^{-W/2}, e^{W/2}]$, and DOS with negative power can naturally arise inside that range. We show that $\\lim_{W \\to \\infty} p(W, E)=-1$ for all energies accessible by our data. This indicates that, upon removing the cutoff $W$, quantum mechanics transforms the scale-invariant $1/t$ noise into a scale-invariant $1/E$ distribution of eigenstates, which mimics the interpretation of scale-invariant Dirac spectral densities in the IR phase as being due to scale-invariant glue backgrounds [1]. Our results imply that, to model the IR sector of the IR phase, the IR cutoff in chiral Anderson systems needs to be viewed as descending from the randomness strength $W$ rather than the lattice size $L$.",
+      "authors": [
+        "Jiří Adam",
+        "Andrei Alexandru",
+        "Navdeep Singh Dhindsa",
+        "Ivan Horváth",
+        "Frank X. Lee",
+        "Nilmani Mathur"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.35524v1",
+      "link": "https://arxiv.org/abs/2610.35524v1",
+      "published": "2026-10-26T14:42:10Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat.dis-nn",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3219056",
+        "inspire_url": "https://inspirehep.net/literature/3219056",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.34397v1",
+      "title": "Pion vector form factor from LapH-smeared currents in lattice QCD",
+      "summary": "We explore a method to extract pion vector form factor from three-point functions using currents constructed from LapH-smeared quark fields. LapH employs the low eigenmodes of the Laplacian Heaviside operator on the lattice to smear out the quark fields in spatial directions. The LapH-smeared quark propagator retains all symmetry properties of the original one and can be re-used to construct correlation functions at a reduced cost, with equal treatment of connected and disconnected diagrams. The calculations are performed on a two-flavor dynamical nHYP-smeared ensemble on the $24^3\\times 48$ lattice at a spacing of 0.12 fm and pion mass of 315 MeV. We show that an extrapolation in the number of low eigenmodes in the LapH subspace can reproduce the same form factor computed from the conventional SST method with point source, sink, and current. The study opens up the possibility of applying LapH-smeared currents to extract hadron form factors and polarizabilities including disconnected diagrams.",
+      "authors": [
+        "Frank X. Lee",
+        "Andrei Alexandru"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.34397v1",
+      "link": "https://arxiv.org/abs/2610.34397v1",
+      "published": "2026-10-25T15:59:37Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3218938",
+        "inspire_url": "https://inspirehep.net/literature/3218938",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.31597v1",
       "title": "Towards Systematic Control of the Nucleon Gluon PDF with the Pseudo-PDF Method",
@@ -46,80 +111,6 @@
       "inspire": {
         "control_number": "3217403",
         "inspire_url": "https://inspirehep.net/literature/3217403",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.28778v1",
-      "title": "Quark TMDPDFs from Large to Small $x$: A Unified Description of CSS, DGLAP, and Small-$x$ Double Logarithms",
-      "summary": "We extend the full-kinematic background-field construction developed for gluon transverse-momentum dependent parton distribution functions (TMDPDFs) in Mukherjee et al. [Phys. Rev. D 109, 034035 (2024)] to quark TMDPDFs, providing a common framework for their large- and small-$x$ dynamics. We compute the leading-power quark TMD beam function at next-to-leading order using the background-field method. The background fields retain both longitudinal and transverse momenta, with neither collinear nor eikonal ordering imposed. We distinguish the renormalization scales that define the TMD operator from the factorization scales that separate its perturbative and non-perturbative modes. With standard TMD renormalization, the quark TMDPDF obeys Collins-Soper-Sterman (CSS) evolution, while the lower-scale separation is organized directly in terms of background-field TMD operators. We refer to this full-kinematic construction as the MSTT scheme. In the MSTT scheme, the leading term of the resulting operator expansion reproduces both the Dokshitzer-Gribov-Lipatov-Altarelli-Parisi (DGLAP) logarithm and the small-$x$ double logarithm in the appropriate limits, while retaining parts of the higher-twist and sub-eikonal corrections. We also formulate a rapidity-only scheme for quark TMDPDFs with distinct renormalization and factorization cutoffs. We derive its evolution equation, which reduces to DGLAP evolution in the collinear limit and to double-logarithmic quark evolution at small $x$, and establish its matching to the MSTT and standard TMD schemes.",
-      "authors": [
-        "Swagato Mukherjee",
-        "Vladimir V. Skokov",
-        "Andrey Tarasov",
-        "Shaswat Tiwari"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.28778v1",
-      "link": "https://arxiv.org/abs/2610.28778v1",
-      "published": "2026-10-20T18:11:54Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "hep-th",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3217285",
-        "inspire_url": "https://inspirehep.net/literature/3217285",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.25494v1",
-      "title": "Expansion schemes for finite density QCD equation of state: which one is the best?",
-      "summary": "The finite density equation of state of QCD is a fundamental quantity for understanding the phase structure of the theory, and also for the realistic modeling of the QCD medium in simulations. While direct lattice simulations at finite density are extremely challenging, several expansion schemes have been devised to extrapolate into the QCD phase diagram. All of these schemes are based on susceptibilities of conserved charges, i.e. derivatives of the pressure with respect to the chemical potential(s). In this work we set out to determine which of these schemes possesses the best convergence properties. To this end, we employ extreme-statistics lattice simulations on a $16^3\\times8$ lattice, which allow us to obtain susceptibilities up to order eight with remarkably small errors. We compare in particular two methods, based on contours of constant (normalized) baryon density and of constant entropy density. We find that the latter converges more quickly, effectively requiring susceptibilities only up to order four to cover the chemical potential range up to at least $μ_B \\approx 500$ MeV. We also extend the comparison to the three dimensional space of chemical potentials, and find that the entropy-based method consistently shows superior convergence.",
-      "authors": [
-        "Szabolcs Borsányi",
-        "Zoltán Fodor",
-        "Jana N. Guenther",
-        "Piyush Kumar",
-        "Paolo Parotto",
-        "Attila Pásztor",
-        "Chik Him Wong"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.25494v1",
-      "link": "https://arxiv.org/abs/2610.25494v1",
-      "published": "2026-10-18T19:32:15Z",
-      "categories": [
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3216316",
-        "inspire_url": "https://inspirehep.net/literature/3216316",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.24785v1",
-      "title": "Recent Advances in Transverse-Momentum--Dependent Distributions in Lattice QCD",
-      "summary": "Unraveling the three-dimensional structure of hadrons is a central objective in modern nuclear and particle physics. Transverse Momentum Dependent parton distributions (TMDs) provide crucial insights into the interplay between partonic transverse motion and spin, and are indispensable for describing a wide range of high-energy processes at facilities such as JLab, COMPASS, the LHC, and the upcoming Electron-Ion Collider. In recent years, significant progress has been made in accessing TMDs from lattice QCD using novel approaches. Methods based on ratios of Mellin moments, large-momentum effective theory (LaMET), and Coulomb-gauge techniques have enabled first-principles investigations of the Collins-Soper kernel, intrinsic soft functions, TMD wave functions, and TMDPDFs. Recent lattice results for both unpolarized and spin-dependent distributions, including the Boer-Mulders function, demonstrate the feasibility of extracting transverse-momentum--dependent information directly from QCD. This paper reviews recent advances in lattice-QCD studies of TMDs, outlines remaining challenges such as continuum and infinite-momentum extrapolations, and discusses future directions toward precision determinations of hadron structure in three dimensions.",
-      "authors": [
-        "Huey-Wen Lin",
-        "Wei Wang",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.24785v1",
-      "link": "https://arxiv.org/abs/2610.24785v1",
-      "published": "2026-10-17T17:12:33Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3216290",
-        "inspire_url": "https://inspirehep.net/literature/3216290",
         "citation_count": 0
       }
     }
