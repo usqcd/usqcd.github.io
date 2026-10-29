@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-28T12:34:06.961039+00:00Z",
-  "count": 187,
+  "generated": "2026-10-29T12:39:32.198409+00:00Z",
+  "count": 189,
   "publications": [
     {
       "id": "2610.35526v1",
@@ -294,6 +294,33 @@
       "inspire": {
         "control_number": "3213808",
         "inspire_url": "https://inspirehep.net/literature/3213808",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.11071v1",
+      "title": "Analog quantum simulation of $φ^4$ field theory with a superconducting transmission line",
+      "summary": "Understanding the dynamics of interacting quantum fields remains a fundamental challenge. We propose a superconducting transmission line for analog quantum simulation of $(1+1)$-dimensional $φ^4$ field theory. The transmission line comprises fluxonium-like circuit elements whose continuous and unbounded phase variables encode a scalar field without Hilbert-space truncation. Their anharmonic potentials provide strong interactions. Tuning the circuit parameters provides access to two distinct regimes. In the first, the transmission line emulates $φ^4$ field theory with a single-well potential. We confirm this correspondence through lattice Monte Carlo calculations of the low-energy spectra of both the circuit and lattice $φ^4$ theory. This regime enables scattering experiments between counter-propagating particle wave packets. The second parameter set yields a double-well potential that emulates $φ^4$ theory in the symmetry-broken phase and hosts degenerate vacua. Interfaces between the two vacua form topological kinks, and the transmission line can simulate kink-antikink collisions. We present state preparation and measurement protocols for both collision experiments, enabling spatially resolved, real-time studies of particle and soliton scattering in an interacting quantum field theory.",
+      "authors": [
+        "Ilan T. Rosen",
+        "Neill C. Warrington",
+        "Max Hays",
+        "Christopher McNally",
+        "Joshua Lin",
+        "Stephen Sorokanich",
+        "Julian Bender"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.11071v1",
+      "link": "https://arxiv.org/abs/2610.11071v1",
+      "published": "2026-10-08T01:30:42Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.mes-hall",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3212867",
+        "inspire_url": "https://inspirehep.net/literature/3212867",
         "citation_count": 0
       }
     },
@@ -716,6 +743,31 @@
       "inspire": {
         "control_number": "3202510",
         "inspire_url": "https://inspirehep.net/literature/3202510",
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "2609.10486v1",
+      "title": "Faster Quantum Monte Carlo Simulation by Random Compilation",
+      "summary": "Quantum Monte Carlo (QMC) algorithms are among the most powerful classical methods for simulating quantum systems, yet their accuracy is often limited by the systematic errors in the approximations used, such as Trotterization. Here we introduce randomly compiled quantum Monte Carlo (RC-QMC) as a general framework that suppresses these systematic errors by averaging over a family of approximations rather than relying on a single fixed one. This strategy is grounded in the concept of randomized compiling from quantum computing, which suppresses errors by sampling over quantum gates, at essentially no additional computational cost. Consequently, our framework achieves a computational advantage over standard QMC methods when estimating a target state to a desired level of accuracy. We illustrate this advantage on two key Monte Carlo algorithms: (1) path integral quantum Monte Carlo for estimating thermal states, and (2) the quantum trajectories method for simulating open system dynamics. In aggregate, these results represent a cross-fertilization of quantum and classical algorithms, are readily generalizable to other QMC methods, and suggest wider applications in classical simulation.",
+      "authors": [
+        "John M. Martyn",
+        "Joshua Lin",
+        "Neill C. Warrington",
+        "Isaac L. Chuang",
+        "Andrew J. Daley"
+      ],
+      "pdf": "https://arxiv.org/pdf/2609.10486v1",
+      "link": "https://arxiv.org/abs/2609.10486v1",
+      "published": "2026-09-09T17:25:26Z",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3202065",
+        "inspire_url": "https://inspirehep.net/literature/3202065",
         "citation_count": 1
       }
     },
