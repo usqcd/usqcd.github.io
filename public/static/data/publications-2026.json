@@ -1,7 +1,49 @@
 {
-  "generated": "2026-10-29T12:39:32.198409+00:00Z",
-  "count": 189,
+  "generated": "2026-10-30T12:30:38.270640+00:00Z",
+  "count": 191,
   "publications": [
+    {
+      "id": "2610.40220v1",
+      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
+      "summary": "We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.",
+      "authors": [
+        "Rasmus Normann Larsen",
+        "Peter Petreczky",
+        "Jorge Luis Dasilva Golan",
+        "Johannes H. Weber"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.40220v1",
+      "link": "https://arxiv.org/abs/2610.40220v1",
+      "published": "2026-10-29T15:02:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ]
+    },
+    {
+      "id": "2610.37960v1",
+      "title": "Agentic AI for QCD perturbation theory or: how I learned to stop worrying and love the bot",
+      "summary": "AI coding agents are extremely effective at performing calculations that can be broken down into modular steps, each with verifiable checks of correctness. Perturbative QCD calculations satisfy both of these properties and we find that they are well-suited to solution by agentic AI systems. We discuss our methods for instructing and verifying the work of agents in one- and two-loop perturbative calculations, with a focus on pre-empting common mistakes. We find that once an agent has successfully completed one perturbative calculation, its instructions transfer very well to other similar calculations which can then be completed and verified in a matter of hours with little effort from the user.",
+      "authors": [
+        "Erik Lundstrum"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.37960v1",
+      "link": "https://arxiv.org/abs/2610.37960v1",
+      "published": "2026-10-27T20:47:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3220099",
+        "inspire_url": "https://inspirehep.net/literature/3220099",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.35526v1",
       "title": "Toward Compute-Bound Lattice-QCD Software",
@@ -18,6 +60,9 @@
       "inspire": {
         "control_number": "3219079",
         "inspire_url": "https://inspirehep.net/literature/3219079",
+        "publication_info": [
+          {}
+        ],
         "citation_count": 0
       }
     },
@@ -364,7 +409,7 @@
       "inspire": {
         "control_number": "3212018",
         "inspire_url": "https://inspirehep.net/literature/3212018",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -414,7 +459,7 @@
       "inspire": {
         "control_number": "3210666",
         "inspire_url": "https://inspirehep.net/literature/3210666",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -594,9 +639,9 @@
       }
     },
     {
-      "id": "2609.28634v1",
+      "id": "2609.28634v2",
       "title": "Non-stabilizerness and entanglement in $(2+1)$-dimensional SU(2) lattice gauge theory using tensor networks",
-      "summary": "We study non-stabilizerness (magic) in the ground state of $(2+1)$-dimensional $\\mathrm{SU}(2)$ Hamiltonian lattice gauge theory with matter, formulated in the dressed-site basis in the hardcore-gluon truncation and restricted to the zero baryon-number sector. Using matrix product states, we compute three facets of magic: the second-order stabilizer Rényi entropy (SRE) $M_2$, its non-local component $M_2^{\\rm NL}$, and a lower bound in terms of the anti-flatness $F$ of the entanglement spectrum. We also prove a stronger form of the sandwich relation: $-\\log_2(1-4F)\\le M_2^{\\rm NL}\\le M_2$; the lower bound rests on a stronger inequality that we obtain for arbitrary Schmidt bases and rank, thus resolving the open problem of finding the maximal lower bound. We emphasize a structural distinction that makes the non-local quantities the physically preferred diagnostics: whereas the full SRE depends on the (non-unique) encoding of the gauge-invariant local Hilbert space into qubits, both the non-local magic and the anti-flatness are invariant under site-local re-encodings and are therefore intrinsic to the state and bipartition. By varying the gauge coupling on lattices up to $6\\times 6$ with bond dimension up to $128$, we find that the non-local magic furnishes a sharper and more bond-dimension-friendly probe of the gauge-matter delocalization crossover compared to the full SRE or the gauge-invariant entanglement entropy, retaining a clear signal at bond dimensions well below those needed to converge the ground state itself.",
+      "summary": "We study non-stabilizerness (magic) in the ground state of $(2+1)$-dimensional $\\mathrm{SU}(2)$ Hamiltonian lattice gauge theory with matter, formulated in the dressed-site basis in the hardcore-gluon truncation and restricted to the zero baryon-number sector. Using matrix product states, we compute three facets of magic: the second-order stabilizer Rényi entropy (SRE) $M_2$, its non-local component $M_2^{\\rm NL}$, estimated by the SRE $M_2(\\tildeψ)$ of the computational-basis Schmidt representative $\\tildeψ$, and a lower bound in terms of the anti-flatness $F$ of the entanglement spectrum. We also prove a stronger form of the sandwich relation: $-\\log_2(1-4F)\\le M_2^{\\rm NL}\\le M_2$; the lower bound rests on a stronger inequality that we obtain for arbitrary Schmidt bases and rank, with an optimal constant. Combined with recent results, this yields the unconditional bracket $\\max\\{-\\log_2(1-4F),\\,M_2(\\tildeψ)-4\\}\\le M_2^{\\rm NL}\\le M_2(\\tildeψ)$. We emphasize a structural distinction that makes the non-local quantities the physically preferred diagnostics: whereas the full SRE depends on the (non-unique) encoding of the gauge-invariant local Hilbert space into qubits, the non-local magic, its estimate $M_2(\\tildeψ)$, and the anti-flatness are invariant under site-local re-encodings and are therefore intrinsic to the state and bipartition. By varying the gauge coupling for two values of the fermion mass on lattices up to $8\\times 8$ ($\\sim 288$ qubits) with bond dimension up to $128$, we find that the non-local magic, as estimated by $M_2(\\tildeψ)$, furnishes a sharper and more bond-dimension-friendly probe of the gauge-matter delocalization crossover compared to the full SRE or the gauge-invariant entanglement entropy, retaining a clear signal at bond dimensions well below those needed to converge the ground state itself.",
       "authors": [
         "Raghav G. Jha",
         "Jaber I. Taher",
@@ -605,8 +650,8 @@
         "Bojko N. Bakalov",
         "Alexander F. Kemper"
       ],
-      "pdf": "https://arxiv.org/pdf/2609.28634v1",
-      "link": "https://arxiv.org/abs/2609.28634v1",
+      "pdf": "https://arxiv.org/pdf/2609.28634v2",
+      "link": "https://arxiv.org/abs/2609.28634v2",
       "published": "2026-09-23T18:00:03Z",
       "categories": [
         "quant-ph",
@@ -2328,7 +2373,7 @@
       "inspire": {
         "control_number": "3168328",
         "inspire_url": "https://inspirehep.net/literature/3168328",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -4332,7 +4377,18 @@
       "inspire": {
         "control_number": "3124607",
         "inspire_url": "https://inspirehep.net/literature/3124607",
-        "citation_count": 6
+        "doi": "10.1103/xtsm-rw6d",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "L071504",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 6,
+        "journal_ref": "Phys.Rev.D, 114, artid L071504, 2026"
       }
     },
     {
