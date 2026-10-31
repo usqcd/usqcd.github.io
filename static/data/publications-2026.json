@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T12:30:38.270640+00:00Z",
+  "generated": "2026-10-31T12:02:07.459332+00:00Z",
   "count": 191,
   "publications": [
     {
@@ -19,7 +19,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3220543",
+        "inspire_url": "https://inspirehep.net/literature/3220543",
+        "citation_count": 0
+      }
     },
     {
       "id": "2610.37960v1",
@@ -1762,7 +1767,7 @@
       "inspire": {
         "control_number": "3180567",
         "inspire_url": "https://inspirehep.net/literature/3180567",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -1788,7 +1793,7 @@
       "inspire": {
         "control_number": "3179855",
         "inspire_url": "https://inspirehep.net/literature/3179855",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2592,7 +2597,7 @@
       "inspire": {
         "control_number": "3157708",
         "inspire_url": "https://inspirehep.net/literature/3157708",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
