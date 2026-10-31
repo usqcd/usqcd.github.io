@@ -1034,7 +1034,7 @@ function CollaborationPage({ setActive }) {
     charter: resolvePath('documents/usqcd_charter.pdf'),
     jeopardyPolicy: resolvePath('documents/usqcd_jeopardy_policy.pdf'),
     dataManagementPlan: resolvePath('documents/usqcd_long_term_data_management_plan.pdf'),
-    codeOfConduct: 'https://www.usqcd.org/documents/code.pdf',
+    codeOfConduct: resolvePath('documents/code.pdf'),
     meetings: 'https://www.usqcd.org/meetings.html'
   };
 
