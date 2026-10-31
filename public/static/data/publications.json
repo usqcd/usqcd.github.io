@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T12:30:38.331813+00:00Z",
+  "generated": "2026-10-31T12:02:07.524359+00:00Z",
   "count": 191,
   "publications": [
     {
@@ -19,7 +19,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3220543",
+        "inspire_url": "https://inspirehep.net/literature/3220543",
+        "citation_count": 0
+      }
     },
     {
       "id": "2610.37960v1",
