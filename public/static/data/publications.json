@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-01T13:04:47.698545+00:00Z",
+  "generated": "2026-11-02T15:21:48.320334+00:00Z",
   "count": 191,
   "publications": [
     {
-      "id": "2610.40220v1",
+      "id": "2610.40220v2",
       "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
       "summary": "We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.",
       "authors": [
@@ -12,8 +12,8 @@
         "Jorge Luis Dasilva Golan",
         "Johannes H. Weber"
       ],
-      "pdf": "https://arxiv.org/pdf/2610.40220v1",
-      "link": "https://arxiv.org/abs/2610.40220v1",
+      "pdf": "https://arxiv.org/pdf/2610.40220v2",
+      "link": "https://arxiv.org/abs/2610.40220v2",
       "published": "2026-10-29T15:02:37Z",
       "categories": [
         "hep-lat",

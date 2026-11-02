@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-01T13:04:47.633278+00:00Z",
+  "generated": "2026-11-02T15:21:48.254578+00:00Z",
   "count": 191,
   "publications": [
     {
-      "id": "2610.40220v1",
+      "id": "2610.40220v2",
       "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
       "summary": "We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.",
       "authors": [
@@ -12,8 +12,8 @@
         "Jorge Luis Dasilva Golan",
         "Johannes H. Weber"
       ],
-      "pdf": "https://arxiv.org/pdf/2610.40220v1",
-      "link": "https://arxiv.org/abs/2610.40220v1",
+      "pdf": "https://arxiv.org/pdf/2610.40220v2",
+      "link": "https://arxiv.org/abs/2610.40220v2",
       "published": "2026-10-29T15:02:37Z",
       "categories": [
         "hep-lat",
@@ -1632,7 +1632,7 @@
       "inspire": {
         "control_number": "3183666",
         "inspire_url": "https://inspirehep.net/literature/3183666",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2246,7 +2246,7 @@
       "inspire": {
         "control_number": "3169537",
         "inspire_url": "https://inspirehep.net/literature/3169537",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2271,7 +2271,7 @@
       "inspire": {
         "control_number": "3168686",
         "inspire_url": "https://inspirehep.net/literature/3168686",
-        "citation_count": 7
+        "citation_count": 8
       }
     },
     {
@@ -2797,7 +2797,18 @@
       "inspire": {
         "control_number": "3151975",
         "inspire_url": "https://inspirehep.net/literature/3151975",
-        "citation_count": 6
+        "doi": "10.1103/vdtk-mps3",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "137",
+            "artid": "181901",
+            "year": 2026,
+            "journal_issue": "18"
+          }
+        ],
+        "citation_count": 6,
+        "journal_ref": "Phys.Rev.Lett., 137, artid 181901, 2026"
       }
     },
     {
@@ -3018,7 +3029,18 @@
       "inspire": {
         "control_number": "3148937",
         "inspire_url": "https://inspirehep.net/literature/3148937",
-        "citation_count": 4
+        "doi": "10.1103/7vkn-kb1l",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "074516",
+            "year": 2026,
+            "journal_issue": "7"
+          }
+        ],
+        "citation_count": 4,
+        "journal_ref": "Phys.Rev.D, 114, artid 074516, 2026"
       }
     },
     {
