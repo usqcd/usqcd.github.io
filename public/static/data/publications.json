@@ -1,7 +1,74 @@
 {
-  "generated": "2026-11-02T15:21:48.320334+00:00Z",
-  "count": 191,
+  "generated": "2026-11-03T13:58:56.425152+00:00Z",
+  "count": 193,
   "publications": [
+    {
+      "id": "2611.00214v1",
+      "title": "Quantum Simulation of Hadronization: From String Breaking to Event Generation",
+      "summary": "High-energy collisions produce large numbers of quarks and gluons that are bound into hadrons by the confining interactions of quantum chromodynamics (QCD). This hadronization process is intrinsically real-time and non-perturbative. Event generators describe hadronization using phenomenological models with parameters fitted to data rather than calculated from QCD. Uncertainties in these models limit the precision of certain measurements at the Large Hadron Collider. Quantum computers could enable first-principles simulations of these dynamics. Existing quantum simulations of gauge theories have demonstrated string-breaking dynamics. This white paper summarizes the conclusions of the InQubator for Quantum Simulation workshop \\textit{From String Dynamics to Event Generation with Quantum Simulation}. We develop a roadmap for extending these simulations to inform phenomenological models of hadronization. A sequence of toy models is proposed for connecting current quantum simulations to QCD. The observables that should be extracted are listed, and the challenges that separate present simulations from quantitative predictions are identified. We propose a staged program in which quantum simulations first provide qualitative modifications to event generators and later provide quantitative input.",
+      "authors": [
+        "Christian W. Bauer",
+        "Anthony N. Ciavarella",
+        "Jad C. Halimeh",
+        "Yannick Meurice",
+        "Stephen Mrenna",
+        "Martin J. Savage",
+        "Giovanni Cataldi",
+        "Henry Froland",
+        "Dorota M. Grabowska",
+        "Sebastian Grieninger",
+        "Kenneth Heitritter",
+        "Michael Hite",
+        "Marc Illa",
+        "Saurabh V. Kadam",
+        "Henry Lamm",
+        "Zhiyao Li",
+        "Zane Ozzello",
+        "Vincent R. Pascuzzi",
+        "Blake Senseman",
+        "Kaidi Xu",
+        "Xiaojun Yao",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.00214v1",
+      "link": "https://arxiv.org/abs/2611.00214v1",
+      "published": "2026-10-30T18:00:19Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3221770",
+        "inspire_url": "https://inspirehep.net/literature/3221770",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.42037v1",
+      "title": "Meson spectroscopy from lattice QCD",
+      "summary": "Determining the meson spectrum directly from Quantum Chromodynamics (QCD) remains a central challenge, since QCD is strongly coupled at low energies and most excited states appear as resonances in hadronic decay channels. Advances in lattice QCD and scattering theory now provide a systematic framework for extracting meson spectra and resonance properties from first principles. Here I present an overview of this program and review current state-of-the-art calculations in meson spectroscopy from lattice QCD. I highlight recent progress in the extraction of resonant and coupled-channel amplitudes, along with frontier developments in three-body dynamics and the determination of meson photo-couplings. Together, these advances are bringing us closer to a comprehensive first-principles description of the excited meson spectrum.",
+      "authors": [
+        "Andrew W. Jackura"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.42037v1",
+      "link": "https://arxiv.org/abs/2610.42037v1",
+      "published": "2026-10-30T17:02:42Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3221687",
+        "inspire_url": "https://inspirehep.net/literature/3221687",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.40220v2",
       "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
@@ -68,52 +135,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.35524v1",
-      "title": "Negative-Power Density of States in Chiral-Orthogonal Disordered Systems and the IR Phase of QCD",
-      "summary": "The recently discovered IR phase of QCD is characterized by an infrared (IR) sector of Dirac modes that separates and dynamically decouples from the bulk of the spectrum, becoming scale invariant in the process [1]. Among key features of this IR sector is the negative power-law behavior of Dirac spectral density near zero with power $p$ close to $-1$. Here we start investigating to what extent can this behavior be mimicked by chiral Anderson models. In particular, we study 3-D chiral-orthogonal systems with logarithmic off-diagonal disorder where negative-power ``spikes'' have been observed [2]. We find that at finite disorder strength $W$ of moderate strength, these models in fact do not have a power-singular density of states (DOS) at zero energy in the thermodynamic limit. Rather, this power $p_1$ vanishes and the spectrum features a very accurate power behavior with $p<0$ on an interval around $E = 1$ spreading increasingly closer to $E=0$ and $E = \\infty$ with increasing $W$. We connect this to the fact that random hoppings $t$ in these quantum systems are drawn from a scale-invariant $1/t$ distribution regularized via $t \\in [e^{-W/2}, e^{W/2}]$, and DOS with negative power can naturally arise inside that range. We show that $\\lim_{W \\to \\infty} p(W, E)=-1$ for all energies accessible by our data. This indicates that, upon removing the cutoff $W$, quantum mechanics transforms the scale-invariant $1/t$ noise into a scale-invariant $1/E$ distribution of eigenstates, which mimics the interpretation of scale-invariant Dirac spectral densities in the IR phase as being due to scale-invariant glue backgrounds [1]. Our results imply that, to model the IR sector of the IR phase, the IR cutoff in chiral Anderson systems needs to be viewed as descending from the randomness strength $W$ rather than the lattice size $L$.",
-      "authors": [
-        "Jiří Adam",
-        "Andrei Alexandru",
-        "Navdeep Singh Dhindsa",
-        "Ivan Horváth",
-        "Frank X. Lee",
-        "Nilmani Mathur"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.35524v1",
-      "link": "https://arxiv.org/abs/2610.35524v1",
-      "published": "2026-10-26T14:42:10Z",
-      "categories": [
-        "hep-lat",
-        "cond-mat.dis-nn",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3219056",
-        "inspire_url": "https://inspirehep.net/literature/3219056",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.34397v1",
-      "title": "Pion vector form factor from LapH-smeared currents in lattice QCD",
-      "summary": "We explore a method to extract pion vector form factor from three-point functions using currents constructed from LapH-smeared quark fields. LapH employs the low eigenmodes of the Laplacian Heaviside operator on the lattice to smear out the quark fields in spatial directions. The LapH-smeared quark propagator retains all symmetry properties of the original one and can be re-used to construct correlation functions at a reduced cost, with equal treatment of connected and disconnected diagrams. The calculations are performed on a two-flavor dynamical nHYP-smeared ensemble on the $24^3\\times 48$ lattice at a spacing of 0.12 fm and pion mass of 315 MeV. We show that an extrapolation in the number of low eigenmodes in the LapH subspace can reproduce the same form factor computed from the conventional SST method with point source, sink, and current. The study opens up the possibility of applying LapH-smeared currents to extract hadron form factors and polarizabilities including disconnected diagrams.",
-      "authors": [
-        "Frank X. Lee",
-        "Andrei Alexandru"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.34397v1",
-      "link": "https://arxiv.org/abs/2610.34397v1",
-      "published": "2026-10-25T15:59:37Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3218938",
-        "inspire_url": "https://inspirehep.net/literature/3218938",
         "citation_count": 0
       }
     }

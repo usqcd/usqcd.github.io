@@ -1,7 +1,74 @@
 {
-  "generated": "2026-11-02T15:21:48.254578+00:00Z",
-  "count": 191,
+  "generated": "2026-11-03T13:58:56.361089+00:00Z",
+  "count": 193,
   "publications": [
+    {
+      "id": "2611.00214v1",
+      "title": "Quantum Simulation of Hadronization: From String Breaking to Event Generation",
+      "summary": "High-energy collisions produce large numbers of quarks and gluons that are bound into hadrons by the confining interactions of quantum chromodynamics (QCD). This hadronization process is intrinsically real-time and non-perturbative. Event generators describe hadronization using phenomenological models with parameters fitted to data rather than calculated from QCD. Uncertainties in these models limit the precision of certain measurements at the Large Hadron Collider. Quantum computers could enable first-principles simulations of these dynamics. Existing quantum simulations of gauge theories have demonstrated string-breaking dynamics. This white paper summarizes the conclusions of the InQubator for Quantum Simulation workshop \\textit{From String Dynamics to Event Generation with Quantum Simulation}. We develop a roadmap for extending these simulations to inform phenomenological models of hadronization. A sequence of toy models is proposed for connecting current quantum simulations to QCD. The observables that should be extracted are listed, and the challenges that separate present simulations from quantitative predictions are identified. We propose a staged program in which quantum simulations first provide qualitative modifications to event generators and later provide quantitative input.",
+      "authors": [
+        "Christian W. Bauer",
+        "Anthony N. Ciavarella",
+        "Jad C. Halimeh",
+        "Yannick Meurice",
+        "Stephen Mrenna",
+        "Martin J. Savage",
+        "Giovanni Cataldi",
+        "Henry Froland",
+        "Dorota M. Grabowska",
+        "Sebastian Grieninger",
+        "Kenneth Heitritter",
+        "Michael Hite",
+        "Marc Illa",
+        "Saurabh V. Kadam",
+        "Henry Lamm",
+        "Zhiyao Li",
+        "Zane Ozzello",
+        "Vincent R. Pascuzzi",
+        "Blake Senseman",
+        "Kaidi Xu",
+        "Xiaojun Yao",
+        "Nikita A. Zemlevskiy"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.00214v1",
+      "link": "https://arxiv.org/abs/2611.00214v1",
+      "published": "2026-10-30T18:00:19Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3221770",
+        "inspire_url": "https://inspirehep.net/literature/3221770",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.42037v1",
+      "title": "Meson spectroscopy from lattice QCD",
+      "summary": "Determining the meson spectrum directly from Quantum Chromodynamics (QCD) remains a central challenge, since QCD is strongly coupled at low energies and most excited states appear as resonances in hadronic decay channels. Advances in lattice QCD and scattering theory now provide a systematic framework for extracting meson spectra and resonance properties from first principles. Here I present an overview of this program and review current state-of-the-art calculations in meson spectroscopy from lattice QCD. I highlight recent progress in the extraction of resonant and coupled-channel amplitudes, along with frontier developments in three-body dynamics and the determination of meson photo-couplings. Together, these advances are bringing us closer to a comprehensive first-principles description of the excited meson spectrum.",
+      "authors": [
+        "Andrew W. Jackura"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.42037v1",
+      "link": "https://arxiv.org/abs/2610.42037v1",
+      "published": "2026-10-30T17:02:42Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3221687",
+        "inspire_url": "https://inspirehep.net/literature/3221687",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
     {
       "id": "2610.40220v2",
       "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
@@ -841,7 +908,7 @@
       "inspire": {
         "control_number": "3202046",
         "inspire_url": "https://inspirehep.net/literature/3202046",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -887,7 +954,7 @@
       "inspire": {
         "control_number": "3199637",
         "inspire_url": "https://inspirehep.net/literature/3199637",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1129,7 +1196,7 @@
       "inspire": {
         "control_number": "3194679",
         "inspire_url": "https://inspirehep.net/literature/3194679",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1485,7 +1552,7 @@
       "inspire": {
         "control_number": "3184776",
         "inspire_url": "https://inspirehep.net/literature/3184776",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1680,7 +1747,7 @@
       "inspire": {
         "control_number": "3182164",
         "inspire_url": "https://inspirehep.net/literature/3182164",
-        "citation_count": 6
+        "citation_count": 7
       }
     },
     {
@@ -2403,7 +2470,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 8
+        "citation_count": 9
       }
     },
     {
@@ -2503,7 +2570,7 @@
       "inspire": {
         "control_number": "3158986",
         "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -2965,7 +3032,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 21
+        "citation_count": 22
       }
     },
     {
@@ -3005,7 +3072,7 @@
       }
     },
     {
-      "id": "2604.22514v1",
+      "id": "2604.22514v2",
       "title": "Quark Number Susceptibilities and Conserved Charge Fluctuations in $(2+1)$-flavor QCD with Möbius domain-wall fermions (MDWF)",
       "summary": "We calculate second- and selected fourth-order conserved-charge fluctuations in $(2+1)$-flavor QCD using Möbius domain-wall fermions (MDWF) along a line of constant physics. Gauge ensembles were generated for two light-to-strange quark-mass ratios, $m_l/m_s=1/10$ and $1/27.4$, corresponding to heavier-than-physical and physical pion masses, respectively. For $m_l/m_s=1/10$, calculations were carried out on lattices with temporal extents $N_τ=12$ and $16$, enabling an assessment of lattice-spacing effects at heavier pion mass. For $m_l/m_s=1/27.4$, calculations were performed at $N_τ=12$, allowing us to study the light-quark-mass dependence down to the physical point. Below the pseudocritical temperature, second-order electric-charge, strangeness, and off-diagonal conserved-charge fluctuations are consistent with QMHRG2020 hadron resonance gas calculations. Across the crossover region, these observables rise rapidly and tend toward their Stefan--Boltzmann limits. Selected fourth-order cumulants were also computed at the physical pion mass. Although these observables are statistically more demanding, several channels with controlled uncertainties permit a first comparison with hadron resonance gas calculations.",
       "authors": [
@@ -3019,8 +3086,8 @@
         "David Ward",
         "Yu Zhang"
       ],
-      "pdf": "https://arxiv.org/pdf/2604.22514v1",
-      "link": "https://arxiv.org/abs/2604.22514v1",
+      "pdf": "https://arxiv.org/pdf/2604.22514v2",
+      "link": "https://arxiv.org/abs/2604.22514v2",
       "published": "2026-04-24T12:54:33Z",
       "categories": [
         "hep-lat",
@@ -3573,7 +3640,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 16
+        "citation_count": 17
       }
     },
     {
@@ -4074,7 +4141,7 @@
             "journal_issue": "4"
           }
         ],
-        "citation_count": 2,
+        "citation_count": 3,
         "journal_ref": "Phys.Rev.A, 114, artid 042462, 2026"
       }
     },
@@ -4414,7 +4481,7 @@
             "journal_issue": "7"
           }
         ],
-        "citation_count": 6,
+        "citation_count": 7,
         "journal_ref": "Phys.Rev.D, 114, artid L071504, 2026"
       }
     },
