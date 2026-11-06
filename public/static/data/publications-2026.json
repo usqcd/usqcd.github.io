@@ -1,7 +1,61 @@
 {
-  "generated": "2026-11-05T14:24:40.064094+00:00Z",
-  "count": 191,
+  "generated": "2026-11-06T14:12:07.322348+00:00Z",
+  "count": 195,
   "publications": [
+    {
+      "id": "2611.08161v1",
+      "title": "Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $Σ(216\\times3)$",
+      "summary": "We construct a primitive gate set for the digital quantum simulation of the $648$-element discrete subgroup of $SU(3)$, $\\dsb$. The five algorithmic primitives are the inversion, group multiplication, trace, group Fourier transform, and kinetic-phase gates, for which we provide qubit and qutrit--qubit decompositions. For a fiducial shear-viscosity calculation on a $10^3$ spatial lattice with $50$ time steps and a total synthesis-error budget of $10^{-8}$, the estimated fault-tolerant costs are $2.3$--$6.8\\times10^{10}$ $T$ gates in the qubit architecture and $1.3$--$5.9\\times10^{12}$ $R$ gates in the qutrit--qubit architecture.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm",
+        "Edison Murairi",
+        "Sebastian Osorio Perez"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.08161v1",
+      "link": "https://arxiv.org/abs/2611.08161v1",
+      "published": "2026-11-05T15:20:22Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "2611.07864v1",
+      "title": "Quark-mass dependence of two-nucleon scattering",
+      "summary": "Understanding how the properties of the visible Universe depend on the parameters of the Standard Model of particle physics requires \\emph{ab initio} theoretical computations. To that end, we investigate the quark-mass dependence of low-energy nucleon-nucleon scattering in the deuteron and dineutron channels. We perform lattice-QCD calculations at pion masses $M_π\\approx 200$ and $280$ MeV and compare their results to phenomenology at the physical point and to a previous calculation at $M_π\\approx 710$ MeV. Scattering amplitudes, phase shifts, and threshold parameters are determined from finite-volume spectra using quantization conditions that explicitly incorporate long-distance effects from one-pion exchange. We analyze the pion-mass dependence of scattering lengths and effective ranges using chiral effective field theory with Weinberg and Kaplan-Savage-Wise power countings. From this, we estimate the pion-mass derivatives of the inverse scattering lengths and binding momentum, at the physical point. Both power countings indicate that the deuteron unbinds near $M_π\\approx 220$ MeV.",
+      "authors": [
+        "Jorge Baeza-Ballesteros",
+        "André Baião-Raposo",
+        "Davide Laudicina",
+        "Malcolm Lazarow",
+        "Thomas R. Richardson",
+        "Miguel Salg",
+        "John Bulava",
+        "Jeremy R. Green",
+        "Andrew Hanlon",
+        "Renwick J. Hudspith",
+        "Daniel Mohler",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Fernando Romero-López",
+        "André Walker-Loud",
+        "Hartmut Wittig"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.07864v1",
+      "link": "https://arxiv.org/abs/2611.07864v1",
+      "published": "2026-11-05T11:41:58Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3224088",
+        "inspire_url": "https://inspirehep.net/literature/3224088",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.00214v1",
       "title": "Quantum Simulation of Hadronization: From String Breaking to Event Generation",
@@ -117,14 +171,14 @@
       }
     },
     {
-      "id": "2610.35526v1",
+      "id": "2610.35526v2",
       "title": "Toward Compute-Bound Lattice-QCD Software",
       "summary": "Multi-right-hand-side multigrid inverters for lattice QCD are much less memory constrained than single-right-hand-side Krylov solvers, so the upper bound on efficiency of modern solvers is much higher than what was historically possible. This work presents a reanalysis of roofline estimates to reflect this new reality. It also describes the qc library, which implements multi-right-hand-side multigrid at an efficiency that can exceed 50% of the processor roofline.",
       "authors": [
         "Anthony V. Grebe"
       ],
-      "pdf": "https://arxiv.org/pdf/2610.35526v1",
-      "link": "https://arxiv.org/abs/2610.35526v1",
+      "pdf": "https://arxiv.org/pdf/2610.35526v2",
+      "link": "https://arxiv.org/abs/2610.35526v2",
       "published": "2026-10-26T14:43:00Z",
       "categories": [
         "hep-lat"
@@ -232,6 +286,31 @@
       }
     },
     {
+      "id": "2610.28778v1",
+      "title": "Quark TMDPDFs from Large to Small $x$: A Unified Description of CSS, DGLAP, and Small-$x$ Double Logarithms",
+      "summary": "We extend the full-kinematic background-field construction developed for gluon transverse-momentum dependent parton distribution functions (TMDPDFs) in Mukherjee et al. [Phys. Rev. D 109, 034035 (2024)] to quark TMDPDFs, providing a common framework for their large- and small-$x$ dynamics. We compute the leading-power quark TMD beam function at next-to-leading order using the background-field method. The background fields retain both longitudinal and transverse momenta, with neither collinear nor eikonal ordering imposed. We distinguish the renormalization scales that define the TMD operator from the factorization scales that separate its perturbative and non-perturbative modes. With standard TMD renormalization, the quark TMDPDF obeys Collins-Soper-Sterman (CSS) evolution, while the lower-scale separation is organized directly in terms of background-field TMD operators. We refer to this full-kinematic construction as the MSTT scheme. In the MSTT scheme, the leading term of the resulting operator expansion reproduces both the Dokshitzer-Gribov-Lipatov-Altarelli-Parisi (DGLAP) logarithm and the small-$x$ double logarithm in the appropriate limits, while retaining parts of the higher-twist and sub-eikonal corrections. We also formulate a rapidity-only scheme for quark TMDPDFs with distinct renormalization and factorization cutoffs. We derive its evolution equation, which reduces to DGLAP evolution in the collinear limit and to double-logarithmic quark evolution at small $x$, and establish its matching to the MSTT and standard TMD schemes.",
+      "authors": [
+        "Swagato Mukherjee",
+        "Vladimir V. Skokov",
+        "Andrey Tarasov",
+        "Shaswat Tiwari"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.28778v1",
+      "link": "https://arxiv.org/abs/2610.28778v1",
+      "published": "2026-10-20T18:11:54Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3217285",
+        "inspire_url": "https://inspirehep.net/literature/3217285",
+        "citation_count": 0
+      }
+    },
+    {
       "id": "2610.25494v1",
       "title": "Expansion schemes for finite density QCD equation of state: which one is the best?",
       "summary": "The finite density equation of state of QCD is a fundamental quantity for understanding the phase structure of the theory, and also for the realistic modeling of the QCD medium in simulations. While direct lattice simulations at finite density are extremely challenging, several expansion schemes have been devised to extrapolate into the QCD phase diagram. All of these schemes are based on susceptibilities of conserved charges, i.e. derivatives of the pressure with respect to the chemical potential(s). In this work we set out to determine which of these schemes possesses the best convergence properties. To this end, we employ extreme-statistics lattice simulations on a $16^3\\times8$ lattice, which allow us to obtain susceptibilities up to order eight with remarkably small errors. We compare in particular two methods, based on contours of constant (normalized) baryon density and of constant entropy density. We find that the latter converges more quickly, effectively requiring susceptibilities only up to order four to cover the chemical potential range up to at least $μ_B \\approx 500$ MeV. We also extend the comparison to the three dimensional space of chemical potentials, and find that the entropy-based method consistently shows superior convergence.",
@@ -315,7 +394,7 @@
       "inspire": {
         "control_number": "3215890",
         "inspire_url": "https://inspirehep.net/literature/3215890",
-        "citation_count": 0
+        "citation_count": 2
       }
     },
     {
@@ -708,7 +787,7 @@
       "inspire": {
         "control_number": "3207145",
         "inspire_url": "https://inspirehep.net/literature/3207145",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -2445,7 +2524,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 9
+        "citation_count": 10
       }
     },
     {
@@ -2545,7 +2624,7 @@
       "inspire": {
         "control_number": "3158986",
         "inspire_url": "https://inspirehep.net/literature/3158986",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -2818,7 +2897,7 @@
       }
     },
     {
-      "id": "2605.03234v1",
+      "id": "2605.03234v2",
       "title": "Parton Distribution Functions from Large Momentum Expansion of Current-Current Correlators",
       "summary": "The universality of the large momentum expansion allows computing parton distribution functions (PDFs) starting from any Euclidean correlator with appropriate large momentum Fourier Components. Here we consider current-current correlators which have been used in short-distance expansion to obtain moments of PDFs. The advantage of such correlators is that they have simple renormalization properties and do not have linear power divergences as in quasi-PDF. However, in lattice calculations, four-point functions are needed. Here we present an expansion formula with current-current correlators up to the next-to-leading order, and preliminary numerical calculations with four-point functions.",
       "authors": [
@@ -2828,8 +2907,8 @@
         "Rui Zhang",
         "Christian Zimmermann"
       ],
-      "pdf": "https://arxiv.org/pdf/2605.03234v1",
-      "link": "https://arxiv.org/abs/2605.03234v1",
+      "pdf": "https://arxiv.org/pdf/2605.03234v2",
+      "link": "https://arxiv.org/abs/2605.03234v2",
       "published": "2026-05-04T23:55:20Z",
       "categories": [
         "hep-ph",
@@ -2844,13 +2923,14 @@
           {
             "journal_title": "Phys.Rev.Lett.",
             "journal_volume": "137",
+            "page_start": "18",
             "artid": "181901",
             "year": 2026,
             "journal_issue": "18"
           }
         ],
         "citation_count": 6,
-        "journal_ref": "Phys.Rev.Lett., 137, artid 181901, 2026"
+        "journal_ref": "Phys.Rev.Lett., 137, artid 181901, p. 18, 2026"
       }
     },
     {
@@ -3512,7 +3592,7 @@
       "inspire": {
         "control_number": "3137590",
         "inspire_url": "https://inspirehep.net/literature/3137590",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -3539,7 +3619,18 @@
       "inspire": {
         "control_number": "3137111",
         "inspire_url": "https://inspirehep.net/literature/3137111",
-        "citation_count": 10
+        "doi": "10.1103/47j9-h8s5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "094503",
+            "year": 2026,
+            "journal_issue": "9"
+          }
+        ],
+        "citation_count": 11,
+        "journal_ref": "Phys.Rev.D, 114, artid 094503, 2026"
       }
     },
     {
@@ -5389,6 +5480,31 @@
         "control_number": "3098236",
         "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
+      }
+    },
+    {
+      "id": "2601.02331v2",
+      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
+      "summary": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
+      "authors": [
+        "Evan Budd",
+        "Adrien Florio",
+        "David Frenklakh",
+        "Swagato Mukherjee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.02331v2",
+      "link": "https://arxiv.org/abs/2601.02331v2",
+      "published": "2026-01-05T18:23:52Z",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3097885",
+        "inspire_url": "https://inspirehep.net/literature/3097885",
+        "citation_count": 0
       }
     }
   ]

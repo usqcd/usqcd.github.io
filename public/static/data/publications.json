@@ -1,7 +1,61 @@
 {
-  "generated": "2026-11-05T14:24:40.107070+00:00Z",
-  "count": 191,
+  "generated": "2026-11-06T14:12:07.422678+00:00Z",
+  "count": 195,
   "publications": [
+    {
+      "id": "2611.08161v1",
+      "title": "Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $Σ(216\\times3)$",
+      "summary": "We construct a primitive gate set for the digital quantum simulation of the $648$-element discrete subgroup of $SU(3)$, $\\dsb$. The five algorithmic primitives are the inversion, group multiplication, trace, group Fourier transform, and kinetic-phase gates, for which we provide qubit and qutrit--qubit decompositions. For a fiducial shear-viscosity calculation on a $10^3$ spatial lattice with $50$ time steps and a total synthesis-error budget of $10^{-8}$, the estimated fault-tolerant costs are $2.3$--$6.8\\times10^{10}$ $T$ gates in the qubit architecture and $1.3$--$5.9\\times10^{12}$ $R$ gates in the qutrit--qubit architecture.",
+      "authors": [
+        "Erik J. Gustafson",
+        "Henry Lamm",
+        "Edison Murairi",
+        "Sebastian Osorio Perez"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.08161v1",
+      "link": "https://arxiv.org/abs/2611.08161v1",
+      "published": "2026-11-05T15:20:22Z",
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "2611.07864v1",
+      "title": "Quark-mass dependence of two-nucleon scattering",
+      "summary": "Understanding how the properties of the visible Universe depend on the parameters of the Standard Model of particle physics requires \\emph{ab initio} theoretical computations. To that end, we investigate the quark-mass dependence of low-energy nucleon-nucleon scattering in the deuteron and dineutron channels. We perform lattice-QCD calculations at pion masses $M_π\\approx 200$ and $280$ MeV and compare their results to phenomenology at the physical point and to a previous calculation at $M_π\\approx 710$ MeV. Scattering amplitudes, phase shifts, and threshold parameters are determined from finite-volume spectra using quantization conditions that explicitly incorporate long-distance effects from one-pion exchange. We analyze the pion-mass dependence of scattering lengths and effective ranges using chiral effective field theory with Weinberg and Kaplan-Savage-Wise power countings. From this, we estimate the pion-mass derivatives of the inverse scattering lengths and binding momentum, at the physical point. Both power countings indicate that the deuteron unbinds near $M_π\\approx 220$ MeV.",
+      "authors": [
+        "Jorge Baeza-Ballesteros",
+        "André Baião-Raposo",
+        "Davide Laudicina",
+        "Malcolm Lazarow",
+        "Thomas R. Richardson",
+        "Miguel Salg",
+        "John Bulava",
+        "Jeremy R. Green",
+        "Andrew Hanlon",
+        "Renwick J. Hudspith",
+        "Daniel Mohler",
+        "Colin Morningstar",
+        "Amy Nicholson",
+        "Fernando Romero-López",
+        "André Walker-Loud",
+        "Hartmut Wittig"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.07864v1",
+      "link": "https://arxiv.org/abs/2611.07864v1",
+      "published": "2026-11-05T11:41:58Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3224088",
+        "inspire_url": "https://inspirehep.net/literature/3224088",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.00214v1",
       "title": "Quantum Simulation of Hadronization: From String Breaking to Event Generation",
@@ -90,51 +144,6 @@
       "inspire": {
         "control_number": "3220543",
         "inspire_url": "https://inspirehep.net/literature/3220543",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.37960v1",
-      "title": "Agentic AI for QCD perturbation theory or: how I learned to stop worrying and love the bot",
-      "summary": "AI coding agents are extremely effective at performing calculations that can be broken down into modular steps, each with verifiable checks of correctness. Perturbative QCD calculations satisfy both of these properties and we find that they are well-suited to solution by agentic AI systems. We discuss our methods for instructing and verifying the work of agents in one- and two-loop perturbative calculations, with a focus on pre-empting common mistakes. We find that once an agent has successfully completed one perturbative calculation, its instructions transfer very well to other similar calculations which can then be completed and verified in a matter of hours with little effort from the user.",
-      "authors": [
-        "Erik Lundstrum"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.37960v1",
-      "link": "https://arxiv.org/abs/2610.37960v1",
-      "published": "2026-10-27T20:47:05Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3220099",
-        "inspire_url": "https://inspirehep.net/literature/3220099",
-        "publication_info": [
-          {}
-        ],
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2610.35526v1",
-      "title": "Toward Compute-Bound Lattice-QCD Software",
-      "summary": "Multi-right-hand-side multigrid inverters for lattice QCD are much less memory constrained than single-right-hand-side Krylov solvers, so the upper bound on efficiency of modern solvers is much higher than what was historically possible. This work presents a reanalysis of roofline estimates to reflect this new reality. It also describes the qc library, which implements multi-right-hand-side multigrid at an efficiency that can exceed 50% of the processor roofline.",
-      "authors": [
-        "Anthony V. Grebe"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.35526v1",
-      "link": "https://arxiv.org/abs/2610.35526v1",
-      "published": "2026-10-26T14:43:00Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3219079",
-        "inspire_url": "https://inspirehep.net/literature/3219079",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     }
