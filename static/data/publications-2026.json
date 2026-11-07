@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T14:12:07.322348+00:00Z",
-  "count": 195,
+  "generated": "2026-11-07T12:52:46.814707+00:00Z",
+  "count": 191,
   "publications": [
     {
       "id": "2611.08161v1",
@@ -423,27 +423,6 @@
       }
     },
     {
-      "id": "2610.16950v1",
-      "title": "Impact of Window Observables on the Transversity Quark Parton Distribution Function",
-      "summary": "We study the potential impact of lattice QCD window observables on nucleon isovector quark transversity parton distribution functions (PDFs) using the ePump Hessian-updating framework. Window observables, recently proposed in arXiv:2505.22795 as benchmark quantities enabling direct quantitative comparison between lattice QCD and phenomenological PDF extractions, are weighted integrals of PDFs over a range of Bjorken-$x$ for which both approaches are reliable. Experimental determinations of transversity PDFs carry uncertainties of 50--100%, while current lattice calculations have achieved comparable or better precision, creating an opportunity for lattice inputs to significantly constrain a global analysis. We evaluate the constraining power of existing lattice QCD computations of transversity window moments and Gaussian windows against current phenomenological PDF. We additionally examine prospective tensor charges in the transversity channel and estimate the PDF uncertainty reduction achievable at current and near-future lattice precision. Our results provide quantitative guidance on which window observables will most constrain global PDF analyses.",
-      "authors": [
-        "Daniel Adamiak",
-        "Christopher Monahan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.16950v1",
-      "link": "https://arxiv.org/abs/2610.16950v1",
-      "published": "2026-10-12T15:21:24Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3214398",
-        "inspire_url": "https://inspirehep.net/literature/3214398",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2610.13791v1",
       "title": "Evidence of Taste-Symmetry restoration for Kähler-Dirac fermions on Euclidean Dynamical Triangulations",
       "summary": "We study the spectrum of two-particle bound states of Kähler-Dirac fermions coupled via gravity in Euclidean Dynamical Triangulations (EDT). We work in the quenched approximation, where the geometry is allowed to fluctuate, but there is no back-reaction from the matter on the geometry. The Kähler-Dirac action respects an exact $U(1)$ symmetry that is related to continuum chiral symmetry, and this $U(1)$ symmetry ensures that some of the bound-state masses vanish in the chiral limit of vanishing fermion bare mass. The bound-state masses that are not protected by the $U(1)$ symmetry do not vanish in the chiral limit, but the scale associated with the symmetry breaking does not appear to be a physical scale like the Planck mass or the curvature scale of the emergent de Sitter background. Rather, the mass scale associated with this non-degeneracy appears to be a positive power of the lattice spacing, decreasing as the continuum limit is approached. This suggests that Kähler-Dirac fermions in EDT can be interpreted as the gravity analog of staggered fermions in flat-space lattice field theories, with similar behavior.",
@@ -586,27 +565,6 @@
         "control_number": "3210666",
         "inspire_url": "https://inspirehep.net/literature/3210666",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2609.40205v2",
-      "title": "Unpolarized quasi- and pseudo-distributions at one loop: gluon correlator decomposition, matching, and the region $|x|>1$",
-      "summary": "We compute one-loop unpolarized quark and gluon quasi- and pseudo-distributions in $\\overline{\\mathrm{MS}}$ and match them to light-cone PDFs. Decomposing the gluon correlator into six covariant form factors, we derive the $6\\times6$ renormalization mixing matrix: its eigenvectors classify multiplicatively renormalizable combinations, and any lattice operator choice projects onto our results without a further loop calculation.\n  Evaluating all Fourier transforms in $d$ dimensions, we resolve the structure of the exterior $|x|>1$ in quasi-distributions. The correlator carries a short-distance logarithm with a branch cut at $ν=0$. By the Paley-Wiener theorem, the analytic part transforms into $|x|\\le1$, so the exterior is generated solely by this branch cut. At leading power, the exterior carries no independent non-perturbative physics: it is fixed by the light-cone PDF through the renormalization group.\n  In the gluon channel, the matching kernel of Balitsky, Morris and Radyushkin differs from our $\\overline{\\mathrm{MS}}$ result by a finite polynomial, identical across index choices. We trace this to contracting an internal loop index over two instead of $d-2$ transverse directions, omitting an evanescent operator on the collinear pole. Using our basis, we show that the independent kernel of Yao, Ji and Zhang agrees with ours, separated from Balitsky et al. by the same polynomial.\n  While the ratio scheme protects the momentum fraction $\\langle x\\rangle_g$, this kernel difference suppresses the extracted normalized second and third gluon moments by $11\\%$ and $13\\%$ at $α_s=0.3$, so the true $\\overline{\\mathrm{MS}}$ gluon is systematically harder than reported.",
-      "authors": [
-        "Christopher Monahan",
-        "Tobias Neumann"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.40205v2",
-      "link": "https://arxiv.org/abs/2609.40205v2",
-      "published": "2026-09-30T17:18:48Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3210053",
-        "inspire_url": "https://inspirehep.net/literature/3210053",
-        "citation_count": 0
       }
     },
     {
@@ -5147,34 +5105,6 @@
       }
     },
     {
-      "id": "2601.21155v2",
-      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
-      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
-      "authors": [
-        "Oleksandr Tomalak",
-        "Aaron S. Meyer",
-        "Clarence Wret",
-        "Tejin Cai",
-        "Richard J. Hill",
-        "Kevin S. McFarland"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21155v2",
-      "link": "https://arxiv.org/abs/2601.21155v2",
-      "published": "2026-01-29T01:30:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3112889",
-        "inspire_url": "https://inspirehep.net/literature/3112889",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.17199v1",
       "title": "Entanglement Enabled Tomography of Flux Tubes in (2+1)D Yang-Mills Theory",
       "summary": "We investigate the entangling properties of the color flux tube between a static quark-antiquark pair in pure gauge Yang-Mills theory. In earlier works, we defined a gauge-invariant flux tube entanglement entropy (FTE$^2$), the excess entanglement entropy of a region of gluon fields that can be attributed to the color flux tube, and demonstrated that it is finite in the continuum limit. FTE$^2$ was shown to have two contributions, one from the vibrations of the QCD string, and the other from its internal (color) degrees of freedom. In this work, we further explore the internal color component in (2+1)D Yang-Mills theory for $SU(N_c)$ gauge groups, varying $2\\le N_c\\le5$. We identify a novel physical scale in the theory, the entanglement radius $ξ_0$. This radius characterizes the transverse extent of the flux tube that must be completely severed by an entangling region to capture the entanglement entropy of color degrees of freedom. The key feature underlying this phenomenon is its topological nature. This is revealed through systematic studies of multi-slab entangling regions in which FTE$^2$ changes sharply when boundaries of the slabs completely cross-cut the flux tube. We find that $ξ_0$ increases approximately linearly with $N_c$ and is independent of both Rényi replica number and the inter-quark separation length. We also study FTE$^2$ as a function of the entangling region's transverse displacement from the static quark pair and observe behavior consistent with a previously identified intrinsic width $λ$ of the flux tube, with an extracted value in agreement with the inverse mass of the lightest glueball for the gauge groups studied.",
@@ -5458,27 +5388,6 @@
       "inspire": {
         "control_number": "3097575",
         "inspire_url": "https://inspirehep.net/literature/3097575",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.02676v1",
-      "title": "The Nucleon Axial Form Factor from Averaging Lattice QCD Results",
-      "summary": "Flagship neutrino oscillation experiments depend on precise and accurate theoretical knowledge of neutrino-nucleon cross sections across a variety of energies and interaction mechanisms. Key ingredients to the amplitudes that make up these cross sections are parameterized form factors. The axial form factor describing a weak interaction with a nucleon is part of one of the primary neutrino-nucleon interaction mechanisms, quasielastic scattering, yet this form factor is uncertain and its precision is limited by the availability of data for a neutrino scattering with nucleons or small nuclear targets. Lattice Quantum Chromodynamics (LQCD) now offers another approach for obtaining mathematically rigorous constraints of the axial form factor from theoretical calculations with complete systematic error budgets. In this work, strategies for averaging LQCD results are explored, including both a random sampling of form factor values across momentum transfers as well as an averaging strategy based on analytic calculations of form factor derivatives. Fits to z expansion parameterizations are reported and compared against neutrino-hydrogen and neutrino-deuterium scattering data.",
-      "authors": [
-        "Aaron S. Meyer"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.02676v1",
-      "link": "https://arxiv.org/abs/2601.02676v1",
-      "published": "2026-01-06T03:21:59Z",
-      "categories": [
-        "hep-lat",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3098236",
-        "inspire_url": "https://inspirehep.net/literature/3098236",
         "citation_count": 1
       }
     },
