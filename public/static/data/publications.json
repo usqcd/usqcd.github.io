@@ -1,7 +1,25 @@
 {
-  "generated": "2026-11-08T13:09:57.267211+00:00Z",
-  "count": 193,
+  "generated": "2026-11-09T15:44:01.880151+00:00Z",
+  "count": 195,
   "publications": [
+    {
+      "id": "2611.09817v1",
+      "title": "Machine learning for lattice QCD",
+      "summary": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to the use of ML methods to optimize lattice field theory without introducing any uncontrolled approximations. We focus on those directions which are clearly established as of late 2025, marking the 50th anniversary of the beginning of the study of lattice gauge theory. This chapter is a contribution to the online book ``Lattice QCD at 50 years,'' (LQCD@50), edited by Tanmoy Bhattacharya, Maarten Golterman, Rajan Gupta, Laurent Lellouch, and Steve Sharpe.",
+      "authors": [
+        "Gurtej Kanwar",
+        "Scott Lawrence",
+        "Alessandro Nada",
+        "Phiala Shanahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.09817v1",
+      "link": "https://arxiv.org/abs/2611.09817v1",
+      "published": "2026-11-06T18:05:06Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG"
+      ]
+    },
     {
       "id": "2611.08161v1",
       "title": "Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $Σ(216\\times3)$",
@@ -18,7 +36,12 @@
       "categories": [
         "hep-lat",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3226123",
+        "inspire_url": "https://inspirehep.net/literature/3226123",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.07864v1",
@@ -120,30 +143,6 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.40220v2",
-      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
-      "summary": "We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.",
-      "authors": [
-        "Rasmus Normann Larsen",
-        "Peter Petreczky",
-        "Jorge Luis Dasilva Golan",
-        "Johannes H. Weber"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.40220v2",
-      "link": "https://arxiv.org/abs/2610.40220v2",
-      "published": "2026-10-29T15:02:37Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3220543",
-        "inspire_url": "https://inspirehep.net/literature/3220543",
         "citation_count": 0
       }
     }

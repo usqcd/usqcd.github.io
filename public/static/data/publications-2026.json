@@ -1,7 +1,25 @@
 {
-  "generated": "2026-11-08T13:09:57.203991+00:00Z",
-  "count": 193,
+  "generated": "2026-11-09T15:44:01.820276+00:00Z",
+  "count": 195,
   "publications": [
+    {
+      "id": "2611.09817v1",
+      "title": "Machine learning for lattice QCD",
+      "summary": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to the use of ML methods to optimize lattice field theory without introducing any uncontrolled approximations. We focus on those directions which are clearly established as of late 2025, marking the 50th anniversary of the beginning of the study of lattice gauge theory. This chapter is a contribution to the online book ``Lattice QCD at 50 years,'' (LQCD@50), edited by Tanmoy Bhattacharya, Maarten Golterman, Rajan Gupta, Laurent Lellouch, and Steve Sharpe.",
+      "authors": [
+        "Gurtej Kanwar",
+        "Scott Lawrence",
+        "Alessandro Nada",
+        "Phiala Shanahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.09817v1",
+      "link": "https://arxiv.org/abs/2611.09817v1",
+      "published": "2026-11-06T18:05:06Z",
+      "categories": [
+        "hep-lat",
+        "cs.LG"
+      ]
+    },
     {
       "id": "2611.08161v1",
       "title": "Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $Σ(216\\times3)$",
@@ -18,7 +36,12 @@
       "categories": [
         "hep-lat",
         "quant-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3226123",
+        "inspire_url": "https://inspirehep.net/literature/3226123",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.07864v1",
@@ -145,6 +168,29 @@
         "control_number": "3220543",
         "inspire_url": "https://inspirehep.net/literature/3220543",
         "citation_count": 0
+      }
+    },
+    {
+      "id": "2610.37960v1",
+      "title": "Agentic AI for QCD perturbation theory or: how I learned to stop worrying and love the bot",
+      "summary": "AI coding agents are extremely effective at performing calculations that can be broken down into modular steps, each with verifiable checks of correctness. Perturbative QCD calculations satisfy both of these properties and we find that they are well-suited to solution by agentic AI systems. We discuss our methods for instructing and verifying the work of agents in one- and two-loop perturbative calculations, with a focus on pre-empting common mistakes. We find that once an agent has successfully completed one perturbative calculation, its instructions transfer very well to other similar calculations which can then be completed and verified in a matter of hours with little effort from the user.",
+      "authors": [
+        "Erik Lundstrum"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.37960v1",
+      "link": "https://arxiv.org/abs/2610.37960v1",
+      "published": "2026-10-27T20:47:05Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3220099",
+        "inspire_url": "https://inspirehep.net/literature/3220099",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
       }
     },
     {
@@ -333,7 +379,17 @@
       "inspire": {
         "control_number": "3216290",
         "inspire_url": "https://inspirehep.net/literature/3216290",
-        "citation_count": 0
+        "doi": "10.1016/j.ppnp.2026.104274",
+        "publication_info": [
+          {
+            "journal_title": "Prog.Part.Nucl.Phys.",
+            "journal_volume": "152",
+            "artid": "104274",
+            "year": 2027
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Prog.Part.Nucl.Phys., 152, artid 104274, 2027"
       }
     },
     {
@@ -496,6 +552,26 @@
       }
     },
     {
+      "id": "2610.06734v2",
+      "title": "Two-loop RI/SMOM-$\\overline{\\text{MS}}$ matching factors for the renormalization of bi-local operators contributing to $ε_K$",
+      "summary": "The measure of indirect CP violation in the neutral kaon system, $ε_K$, is an important precision test of the Standard Model. A first-principles Standard Model prediction of $ε_K$ requires evaluating the long-distance contribution in which the $ΔS = 2$ process proceeds via two $ΔS = 1$ operators. The non-perturbative nature of QCD in the relevant energy regimes requires a lattice QCD simulation. In this paper we present the two-loop, $O(α_s)$ RI/SMOM - $\\overline{\\text{MS}}$ matching factors required to renormalize a lattice QCD calculation of the long-distance contribution to $ε_K$.",
+      "authors": [
+        "Erik Lundstrum"
+      ],
+      "pdf": "https://arxiv.org/pdf/2610.06734v2",
+      "link": "https://arxiv.org/abs/2610.06734v2",
+      "published": "2026-10-05T17:18:53Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3212018",
+        "inspire_url": "https://inspirehep.net/literature/3212018",
+        "citation_count": 1
+      }
+    },
+    {
       "id": "2610.02430v1",
       "title": "Towards Precision-Controlled Partonic Structures from First Principles",
       "summary": "The internal structure of hadrons is governed by nonperturbative Quantum Chromodynamics (QCD). This dissertation presents first-principles calculations of partonic observables using lattice QCD and effective field theory, with controlled systematic uncertainties, advancing from collinear structure to transverse-momentum-dependent distributions (TMDs) that encode the three-dimensional partonic structure of hadrons. Within the large momentum effective theory (LaMET) framework, this work presents state-of-the-art calculations of pion distribution amplitudes and systematic studies of nucleon parton distributions, with control of renormalization, excited-state contamination, Fourier-transform systematics, and power corrections. A Coulomb-gauge formulation of quasi-distributions simplifies ultraviolet structure by avoiding Wilson-line related linear divergences, with Gribov-copy effects found to be negligible at current statistical precision. Building on these developments, this dissertation reports lattice determinations of nucleon TMD parton distributions, the Collins-Soper kernel, the intrinsic soft function, and pion TMD observables. These results provide nonperturbative inputs for global QCD analyses and the precision hadron-structure program, including the Electron-Ion Collider. In parallel, this work explores machine-learning acceleration of lattice gauge simulations through neural field transformations embedded in Hybrid Monte Carlo. In two-dimensional U(1) tests, the method reduces autocorrelation and improves performance toward finer lattice spacing, suggesting potential applications to more efficient lattice QCD simulations.",
@@ -583,7 +659,7 @@
       "inspire": {
         "control_number": "3209766",
         "inspire_url": "https://inspirehep.net/literature/3209766",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -744,7 +820,7 @@
       "inspire": {
         "control_number": "3207145",
         "inspire_url": "https://inspirehep.net/literature/3207145",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1207,7 +1283,7 @@
       "inspire": {
         "control_number": "3194679",
         "inspire_url": "https://inspirehep.net/literature/3194679",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1278,7 +1354,18 @@
       "inspire": {
         "control_number": "3192638",
         "inspire_url": "https://inspirehep.net/literature/3192638",
-        "citation_count": 2
+        "doi": "10.1103/7crr-s6k5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "095015",
+            "year": 2026,
+            "journal_issue": "9"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Phys.Rev.D, 114, artid 095015, 2026"
       }
     },
     {
@@ -1443,7 +1530,7 @@
       "inspire": {
         "control_number": "3187225",
         "inspire_url": "https://inspirehep.net/literature/3187225",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -1540,7 +1627,7 @@
       "inspire": {
         "control_number": "3184910",
         "inspire_url": "https://inspirehep.net/literature/3184910",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1606,7 +1693,18 @@
       "inspire": {
         "control_number": "3184099",
         "inspire_url": "https://inspirehep.net/literature/3184099",
-        "citation_count": 0
+        "doi": "10.1103/3s33-c5n5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "094505",
+            "year": 2026,
+            "journal_issue": "9"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Phys.Rev.D, 114, artid 094505, 2026"
       }
     },
     {
@@ -1660,7 +1758,7 @@
       "inspire": {
         "control_number": "3183932",
         "inspire_url": "https://inspirehep.net/literature/3183932",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -1875,17 +1973,17 @@
       }
     },
     {
-      "id": "2607.08817v1",
+      "id": "2607.08817v2",
       "title": "Renormalon subtracted nonrelativistic QCD for heavy hadron systems",
-      "summary": "We present a renormalon-subtracted formulation of potential nonrelativistic QCD (pNRQCD) for precision spectroscopy of heavy hadron systems, combining variational and Green's function Monte Carlo (VMC/GFMC) methods with NNLO static two- and three-body potentials. Minimal renormalon subtraction (MRS) systematically sums leading factorially growing terms, thereby stabilizing perturbative convergence and reducing renormalization-scale dependence. We tune charm and bottom quark masses to spin-averaged $1S$ quarkonium states and predict $Ω_{ccc}$, $Ω_{ccb}$, $Ω_{cbb}$, and $Ω_{bbb}$ baryon masses, as well as QCD-stable baryons containing top quarks. NNLO MRS results undershoot lattice QCD by 125--175~MeV, with fractional differences decreasing as $\\sim 1/m_Q$, consistent with neglected $\\mathcal{O}(1/m_Q)$ corrections. Applying these methods to unequal-mass fully-heavy tetraquarks, we determine the critical heavy-to-light mass ratio for binding and compute binding energies across the mass-ratio landscape.",
+      "summary": "We present a renormalon-subtracted formulation of potential nonrelativistic QCD (pNRQCD) for precision spectroscopy of heavy hadron systems, combining variational and Green's function Monte Carlo (VMC/GFMC) methods with static two- and three-body potentials through NNLO in $α_s$ (leading order in $1/m_Q$). Minimal renormalon subtraction (MRS) systematically sums leading factorially growing terms, thereby stabilizing perturbative convergence and reducing renormalization-scale dependence. We tune charm and bottom quark masses to spin-averaged $1S$ quarkonium states and predict $Ω_{ccc}$, $Ω_{ccb}$, $Ω_{cbb}$, and $Ω_{bbb}$ baryon masses, as well as QCD-stable baryons containing top quarks. NNLO MRS results undershoot lattice QCD by 125-175 MeV, a difference we attribute to contributions beyond the static perturbative potentials, including $1/m_Q$ corrections. Applying these methods to unequal-mass fully-heavy tetraquarks, we determine the critical heavy-to-light mass ratio for binding and compute binding energies across the mass-ratio landscape.",
       "authors": [
         "Benoît Assi",
         "Andreas S. Kronfeld",
         "Simon Vaiva",
         "Michael L. Wagman"
       ],
-      "pdf": "https://arxiv.org/pdf/2607.08817v1",
-      "link": "https://arxiv.org/abs/2607.08817v1",
+      "pdf": "https://arxiv.org/pdf/2607.08817v2",
+      "link": "https://arxiv.org/abs/2607.08817v2",
       "published": "2026-07-09T18:00:00Z",
       "categories": [
         "hep-ph",
@@ -2324,7 +2422,7 @@
       "inspire": {
         "control_number": "3169537",
         "inspire_url": "https://inspirehep.net/literature/3169537",
-        "citation_count": 6
+        "citation_count": 7
       }
     },
     {
@@ -2375,39 +2473,6 @@
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
         "citation_count": 5
-      }
-    },
-    {
-      "id": "2606.15564v1",
-      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
-      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
-      "authors": [
-        "Vishal Rao",
-        "Peter Petreczky",
-        "Prasad Hegde"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.15564v1",
-      "link": "https://arxiv.org/abs/2606.15564v1",
-      "published": "2026-06-14T02:59:55Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3168685",
-        "inspire_url": "https://inspirehep.net/literature/3168685",
-        "doi": "10.22323/1.518.0100",
-        "publication_info": [
-          {
-            "journal_title": "PoS",
-            "journal_volume": "LATTICE2025",
-            "page_start": "100",
-            "artid": "100",
-            "year": 2026
-          },
-          {}
-        ],
-        "citation_count": 0,
-        "journal_ref": "PoS, LATTICE2025, artid 100, p. 100, 2026"
       }
     },
     {
@@ -2481,7 +2546,7 @@
       "inspire": {
         "control_number": "3167073",
         "inspire_url": "https://inspirehep.net/literature/3167073",
-        "citation_count": 10
+        "citation_count": 12
       }
     },
     {
@@ -2707,7 +2772,7 @@
             "journal_issue": "7"
           }
         ],
-        "citation_count": 4,
+        "citation_count": 5,
         "journal_ref": "Phys.Rev.D, 114, artid 074506, 2026"
       }
     },
@@ -3044,7 +3109,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 23
+        "citation_count": 25
       }
     },
     {
@@ -3524,7 +3589,7 @@
       "inspire": {
         "control_number": "3137591",
         "inspire_url": "https://inspirehep.net/literature/3137591",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -3949,7 +4014,7 @@
             "journal_issue": "11"
           }
         ],
-        "citation_count": 4,
+        "citation_count": 5,
         "journal_ref": "Phys.Rev.D, 113, artid 114521, 2026"
       }
     },
@@ -4524,7 +4589,7 @@
       "inspire": {
         "control_number": "3124602",
         "inspire_url": "https://inspirehep.net/literature/3124602",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
