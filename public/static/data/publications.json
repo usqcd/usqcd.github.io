@@ -1,7 +1,79 @@
 {
-  "generated": "2026-11-09T15:44:01.880151+00:00Z",
-  "count": 195,
+  "generated": "2026-11-10T14:41:25.897491+00:00Z",
+  "count": 199,
   "publications": [
+    {
+      "id": "2611.12771v1",
+      "title": "The structure of the pion at large $N_c$",
+      "summary": "We compute the pion quark momentum fraction in the large-$N_c$ limit using the Twisted Eguchi-Kawai (TEK) reduced model. Gauge configurations for different values of the lattice spacing are generated with the pure-gauge TEK action, while the pion correlators are computed for different quark masses with maximally twisted mass fermions. The bare matrix element corresponding to the quark momentum fraction is obtained using the Feynman-Hellmann method, and we use perturbative renormalization factors to connect to the $\\overline{\\mathrm{MS}}$ scheme at $2\\,\\mathrm{GeV}$. A global analysis at several lattice spacings, pion masses, and values of $N_c$ yields $\\langle x\\rangle_q^{\\overline{\\mathrm{MS}}}(2\\,\\mathrm{GeV}) = 0.267(105)$ at the physical pion mass in the large-$N_c$ limit. This value is significantly smaller than existing $N_c=3$ determinations from phenomenology and lattice QCD, indicating that, in the large-$N_c$ limit, the pion's light-cone momentum is carried predominantly by gluons.",
+      "authors": [
+        "Isaac Zhu",
+        "Fernando Romero-López",
+        "Phiala E. Shanahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.12771v1",
+      "link": "https://arxiv.org/abs/2611.12771v1",
+      "published": "2026-11-09T17:42:39Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3226693",
+        "inspire_url": "https://inspirehep.net/literature/3226693",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.12730v1",
+      "title": "Unpolarized proton PDF with physical quark masses and large momenta",
+      "summary": "We present a lattice quantum chromodynamics (QCD) calculation of the proton isovector ($u-d$) unpolarized parton distribution function (PDF) at physical sea and valence quark masses, using Coulomb-gauge-fixed quark bilinears within the large-momentum effective theory framework. The calculation is performed on a (2+1)-flavor ensemble with a lattice spacing of $a=0.076$ fm and proton momenta up to $2.3$ GeV. We combine kinematically enhanced nucleon interpolating operators, the Coulomb-gauge method, and high-statistics measurements to improve the signal quality at large momenta and quark separations. We use the static regularization-independent momentum subtraction and hybrid schemes to renormalize the bare matrix elements. The light-cone PDF in the $\\overline{\\rm MS}$ scheme is obtained from the quasi-PDF through next-to-leading-order (NLO) perturbative matching supplemented by next-to-leading-logarithmic renormalization-group resummation. With reduced uncertainties, the resulting PDF is consistent with our previous calculation on a similar lattice ensemble with $a=0.06$~fm and a valence pion mass of 300 MeV. Notably, despite the reduced uncertainties, the agreement with the phenomenological PDF persists over the longitudinal momentum fraction range $0.25\\lesssim|x|\\lesssim0.75$, where the lattice calculation is expected to be reliable. This agreement is further supported by a comparison in coordinate space, where our short-distance lattice matrix elements are consistent with those obtained from the phenomenological PDF through NLO matching. In particular, we observe close agreement in the imaginary part for the first time. Together, these results represent an encouraging step toward precision benchmarking of lattice QCD calculations of PDFs.",
+      "authors": [
+        "Xiang Gao",
+        "Andrew Hanlon",
+        "Jinchen He",
+        "Xiangyu Jiang",
+        "Swagato Mukherjee",
+        "Peter Petreczky",
+        "Qi Shi",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.12730v1",
+      "link": "https://arxiv.org/abs/2611.12730v1",
+      "published": "2026-11-09T17:16:44Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3226653",
+        "inspire_url": "https://inspirehep.net/literature/3226653",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.10773v1",
+      "title": "Constrained field-space estimators for background-field lattice QCD observables",
+      "summary": "Background-field lattice calculations extract weak-field response coefficients from correlators computed at several field strengths. We treat this extraction as linear estimation in field space and compare fixed cancellation stencils with covariance-optimized, generalized-least-squares estimators of the same coefficient, using archival nucleon double ratios on about 1000 quenched configurations at six quark masses and decuplet correlators for which exact answers follow from the lattice contractions. The fixed $O(B^4)$-$O(B^8)$ stencils are nearly coincident and cost almost nothing in precision. Weight-free null-space tests reject the two-term response model in most nucleon ensembles; whether they reject the three-term model depends on the temporal fits and on the noise of the estimated temporal covariance, which raises the null-contrast error by a factor of 1.7-2.4. With that noise included, covariance optimization gains 1-2% in precision at the five lighter masses (3-30% with two-state time fits, which also lower moments by 3-10%) and nothing on independent data halves, while its weights carry three to four orders of magnitude more leverage on omitted response modes than the fixed stencils and move the moments by up to 1.8 marginal standard errors. The decuplet controls show what such leverage does under misspecification: the first-order responses obey $μ_{Δ^+}/μ_{Δ^{++}}=1/2$ and $μ_{Δ^0}=0$ exactly. The lowest-order estimate misses the first by 10-25 standard errors. The fixed $O(B^4)$-$O(B^8)$ stencils satisfy it within errors in the production windows, whereas the correlated linear fit in $B^2$, with the same constraints as the $O(B^4)$ stencil, misses it by 3-17%; the null-space test rejects that fit's model. The results distinguish statistical precision from robustness to omitted response modes; they are not physical-point magnetic moments.",
+      "authors": [
+        "Scott Moerschbacher",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.10773v1",
+      "link": "https://arxiv.org/abs/2611.10773v1",
+      "published": "2026-11-07T15:00:07Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3226417",
+        "inspire_url": "https://inspirehep.net/literature/3226417",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.09817v1",
       "title": "Machine learning for lattice QCD",
@@ -18,7 +90,12 @@
       "categories": [
         "hep-lat",
         "cs.LG"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3226723",
+        "inspire_url": "https://inspirehep.net/literature/3226723",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.08161v1",
@@ -40,109 +117,6 @@
       "inspire": {
         "control_number": "3226123",
         "inspire_url": "https://inspirehep.net/literature/3226123",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.07864v1",
-      "title": "Quark-mass dependence of two-nucleon scattering",
-      "summary": "Understanding how the properties of the visible Universe depend on the parameters of the Standard Model of particle physics requires \\emph{ab initio} theoretical computations. To that end, we investigate the quark-mass dependence of low-energy nucleon-nucleon scattering in the deuteron and dineutron channels. We perform lattice-QCD calculations at pion masses $M_π\\approx 200$ and $280$ MeV and compare their results to phenomenology at the physical point and to a previous calculation at $M_π\\approx 710$ MeV. Scattering amplitudes, phase shifts, and threshold parameters are determined from finite-volume spectra using quantization conditions that explicitly incorporate long-distance effects from one-pion exchange. We analyze the pion-mass dependence of scattering lengths and effective ranges using chiral effective field theory with Weinberg and Kaplan-Savage-Wise power countings. From this, we estimate the pion-mass derivatives of the inverse scattering lengths and binding momentum, at the physical point. Both power countings indicate that the deuteron unbinds near $M_π\\approx 220$ MeV.",
-      "authors": [
-        "Jorge Baeza-Ballesteros",
-        "André Baião-Raposo",
-        "Davide Laudicina",
-        "Malcolm Lazarow",
-        "Thomas R. Richardson",
-        "Miguel Salg",
-        "John Bulava",
-        "Jeremy R. Green",
-        "Andrew Hanlon",
-        "Renwick J. Hudspith",
-        "Daniel Mohler",
-        "Colin Morningstar",
-        "Amy Nicholson",
-        "Fernando Romero-López",
-        "André Walker-Loud",
-        "Hartmut Wittig"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.07864v1",
-      "link": "https://arxiv.org/abs/2611.07864v1",
-      "published": "2026-11-05T11:41:58Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3224088",
-        "inspire_url": "https://inspirehep.net/literature/3224088",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.00214v1",
-      "title": "Quantum Simulation of Hadronization: From String Breaking to Event Generation",
-      "summary": "High-energy collisions produce large numbers of quarks and gluons that are bound into hadrons by the confining interactions of quantum chromodynamics (QCD). This hadronization process is intrinsically real-time and non-perturbative. Event generators describe hadronization using phenomenological models with parameters fitted to data rather than calculated from QCD. Uncertainties in these models limit the precision of certain measurements at the Large Hadron Collider. Quantum computers could enable first-principles simulations of these dynamics. Existing quantum simulations of gauge theories have demonstrated string-breaking dynamics. This white paper summarizes the conclusions of the InQubator for Quantum Simulation workshop \\textit{From String Dynamics to Event Generation with Quantum Simulation}. We develop a roadmap for extending these simulations to inform phenomenological models of hadronization. A sequence of toy models is proposed for connecting current quantum simulations to QCD. The observables that should be extracted are listed, and the challenges that separate present simulations from quantitative predictions are identified. We propose a staged program in which quantum simulations first provide qualitative modifications to event generators and later provide quantitative input.",
-      "authors": [
-        "Christian W. Bauer",
-        "Anthony N. Ciavarella",
-        "Jad C. Halimeh",
-        "Yannick Meurice",
-        "Stephen Mrenna",
-        "Martin J. Savage",
-        "Giovanni Cataldi",
-        "Henry Froland",
-        "Dorota M. Grabowska",
-        "Sebastian Grieninger",
-        "Kenneth Heitritter",
-        "Michael Hite",
-        "Marc Illa",
-        "Saurabh V. Kadam",
-        "Henry Lamm",
-        "Zhiyao Li",
-        "Zane Ozzello",
-        "Vincent R. Pascuzzi",
-        "Blake Senseman",
-        "Kaidi Xu",
-        "Xiaojun Yao",
-        "Nikita A. Zemlevskiy"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.00214v1",
-      "link": "https://arxiv.org/abs/2611.00214v1",
-      "published": "2026-10-30T18:00:19Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th",
-        "quant-ph"
-      ],
-      "inspire": {
-        "control_number": "3221770",
-        "inspire_url": "https://inspirehep.net/literature/3221770",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2610.42037v1",
-      "title": "Meson spectroscopy from lattice QCD",
-      "summary": "Determining the meson spectrum directly from Quantum Chromodynamics (QCD) remains a central challenge, since QCD is strongly coupled at low energies and most excited states appear as resonances in hadronic decay channels. Advances in lattice QCD and scattering theory now provide a systematic framework for extracting meson spectra and resonance properties from first principles. Here I present an overview of this program and review current state-of-the-art calculations in meson spectroscopy from lattice QCD. I highlight recent progress in the extraction of resonant and coupled-channel amplitudes, along with frontier developments in three-body dynamics and the determination of meson photo-couplings. Together, these advances are bringing us closer to a comprehensive first-principles description of the excited meson spectrum.",
-      "authors": [
-        "Andrew W. Jackura"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.42037v1",
-      "link": "https://arxiv.org/abs/2610.42037v1",
-      "published": "2026-10-30T17:02:42Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3221687",
-        "inspire_url": "https://inspirehep.net/literature/3221687",
-        "publication_info": [
-          {}
-        ],
         "citation_count": 0
       }
     }

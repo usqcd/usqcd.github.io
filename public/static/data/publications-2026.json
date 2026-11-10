@@ -1,7 +1,79 @@
 {
-  "generated": "2026-11-09T15:44:01.820276+00:00Z",
-  "count": 195,
+  "generated": "2026-11-10T14:41:25.855912+00:00Z",
+  "count": 199,
   "publications": [
+    {
+      "id": "2611.12771v1",
+      "title": "The structure of the pion at large $N_c$",
+      "summary": "We compute the pion quark momentum fraction in the large-$N_c$ limit using the Twisted Eguchi-Kawai (TEK) reduced model. Gauge configurations for different values of the lattice spacing are generated with the pure-gauge TEK action, while the pion correlators are computed for different quark masses with maximally twisted mass fermions. The bare matrix element corresponding to the quark momentum fraction is obtained using the Feynman-Hellmann method, and we use perturbative renormalization factors to connect to the $\\overline{\\mathrm{MS}}$ scheme at $2\\,\\mathrm{GeV}$. A global analysis at several lattice spacings, pion masses, and values of $N_c$ yields $\\langle x\\rangle_q^{\\overline{\\mathrm{MS}}}(2\\,\\mathrm{GeV}) = 0.267(105)$ at the physical pion mass in the large-$N_c$ limit. This value is significantly smaller than existing $N_c=3$ determinations from phenomenology and lattice QCD, indicating that, in the large-$N_c$ limit, the pion's light-cone momentum is carried predominantly by gluons.",
+      "authors": [
+        "Isaac Zhu",
+        "Fernando Romero-López",
+        "Phiala E. Shanahan"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.12771v1",
+      "link": "https://arxiv.org/abs/2611.12771v1",
+      "published": "2026-11-09T17:42:39Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3226693",
+        "inspire_url": "https://inspirehep.net/literature/3226693",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.12730v1",
+      "title": "Unpolarized proton PDF with physical quark masses and large momenta",
+      "summary": "We present a lattice quantum chromodynamics (QCD) calculation of the proton isovector ($u-d$) unpolarized parton distribution function (PDF) at physical sea and valence quark masses, using Coulomb-gauge-fixed quark bilinears within the large-momentum effective theory framework. The calculation is performed on a (2+1)-flavor ensemble with a lattice spacing of $a=0.076$ fm and proton momenta up to $2.3$ GeV. We combine kinematically enhanced nucleon interpolating operators, the Coulomb-gauge method, and high-statistics measurements to improve the signal quality at large momenta and quark separations. We use the static regularization-independent momentum subtraction and hybrid schemes to renormalize the bare matrix elements. The light-cone PDF in the $\\overline{\\rm MS}$ scheme is obtained from the quasi-PDF through next-to-leading-order (NLO) perturbative matching supplemented by next-to-leading-logarithmic renormalization-group resummation. With reduced uncertainties, the resulting PDF is consistent with our previous calculation on a similar lattice ensemble with $a=0.06$~fm and a valence pion mass of 300 MeV. Notably, despite the reduced uncertainties, the agreement with the phenomenological PDF persists over the longitudinal momentum fraction range $0.25\\lesssim|x|\\lesssim0.75$, where the lattice calculation is expected to be reliable. This agreement is further supported by a comparison in coordinate space, where our short-distance lattice matrix elements are consistent with those obtained from the phenomenological PDF through NLO matching. In particular, we observe close agreement in the imaginary part for the first time. Together, these results represent an encouraging step toward precision benchmarking of lattice QCD calculations of PDFs.",
+      "authors": [
+        "Xiang Gao",
+        "Andrew Hanlon",
+        "Jinchen He",
+        "Xiangyu Jiang",
+        "Swagato Mukherjee",
+        "Peter Petreczky",
+        "Qi Shi",
+        "Yong Zhao"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.12730v1",
+      "link": "https://arxiv.org/abs/2611.12730v1",
+      "published": "2026-11-09T17:16:44Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3226653",
+        "inspire_url": "https://inspirehep.net/literature/3226653",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.10773v1",
+      "title": "Constrained field-space estimators for background-field lattice QCD observables",
+      "summary": "Background-field lattice calculations extract weak-field response coefficients from correlators computed at several field strengths. We treat this extraction as linear estimation in field space and compare fixed cancellation stencils with covariance-optimized, generalized-least-squares estimators of the same coefficient, using archival nucleon double ratios on about 1000 quenched configurations at six quark masses and decuplet correlators for which exact answers follow from the lattice contractions. The fixed $O(B^4)$-$O(B^8)$ stencils are nearly coincident and cost almost nothing in precision. Weight-free null-space tests reject the two-term response model in most nucleon ensembles; whether they reject the three-term model depends on the temporal fits and on the noise of the estimated temporal covariance, which raises the null-contrast error by a factor of 1.7-2.4. With that noise included, covariance optimization gains 1-2% in precision at the five lighter masses (3-30% with two-state time fits, which also lower moments by 3-10%) and nothing on independent data halves, while its weights carry three to four orders of magnitude more leverage on omitted response modes than the fixed stencils and move the moments by up to 1.8 marginal standard errors. The decuplet controls show what such leverage does under misspecification: the first-order responses obey $μ_{Δ^+}/μ_{Δ^{++}}=1/2$ and $μ_{Δ^0}=0$ exactly. The lowest-order estimate misses the first by 10-25 standard errors. The fixed $O(B^4)$-$O(B^8)$ stencils satisfy it within errors in the production windows, whereas the correlated linear fit in $B^2$, with the same constraints as the $O(B^4)$ stencil, misses it by 3-17%; the null-space test rejects that fit's model. The results distinguish statistical precision from robustness to omitted response modes; they are not physical-point magnetic moments.",
+      "authors": [
+        "Scott Moerschbacher",
+        "Frank X. Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.10773v1",
+      "link": "https://arxiv.org/abs/2611.10773v1",
+      "published": "2026-11-07T15:00:07Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3226417",
+        "inspire_url": "https://inspirehep.net/literature/3226417",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.09817v1",
       "title": "Machine learning for lattice QCD",
@@ -18,7 +90,12 @@
       "categories": [
         "hep-lat",
         "cs.LG"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3226723",
+        "inspire_url": "https://inspirehep.net/literature/3226723",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.08161v1",
@@ -76,7 +153,7 @@
       "inspire": {
         "control_number": "3224088",
         "inspire_url": "https://inspirehep.net/literature/3224088",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -427,7 +504,7 @@
       "inspire": {
         "control_number": "3215890",
         "inspire_url": "https://inspirehep.net/literature/3215890",
-        "citation_count": 2
+        "citation_count": 3
       }
     },
     {
@@ -1135,7 +1212,7 @@
       "inspire": {
         "control_number": "3197530",
         "inspire_url": "https://inspirehep.net/literature/3197530",
-        "citation_count": 5
+        "citation_count": 7
       }
     },
     {
@@ -1157,7 +1234,7 @@
       "inspire": {
         "control_number": "3197552",
         "inspire_url": "https://inspirehep.net/literature/3197552",
-        "citation_count": 4
+        "citation_count": 6
       }
     },
     {
@@ -2298,7 +2375,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -2472,7 +2549,40 @@
       "inspire": {
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 5
+        "citation_count": 7
+      }
+    },
+    {
+      "id": "2606.15564v1",
+      "title": "Spatial String Tension at High Temperatures and Quantitative Tests of Dimensionally Reduced Effective Theories",
+      "summary": "We calculate the spatial string tension in 2+1 flavour QCD in $(3{+}1)$ dimensions within a temperature range of $[166\\,\\mathrm{MeV},\\,1000\\,\\mathrm{MeV}]$ using spatial Wilson loops with HYP smearing. We use the Highly Improved Staggered Quark action for fermions and the tree-level Symanzik improved gauge action for gluons at two lattice spacings corresponding to temporal extents $N_τ= 8$ and $10$. We then compare our results with dimensionally reduced effective theories at high temperatures (EQCD and MQCD) to test the onset of dimensional reduction in QCD.",
+      "authors": [
+        "Vishal Rao",
+        "Peter Petreczky",
+        "Prasad Hegde"
+      ],
+      "pdf": "https://arxiv.org/pdf/2606.15564v1",
+      "link": "https://arxiv.org/abs/2606.15564v1",
+      "published": "2026-06-14T02:59:55Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3168685",
+        "inspire_url": "https://inspirehep.net/literature/3168685",
+        "doi": "10.22323/1.518.0100",
+        "publication_info": [
+          {
+            "journal_title": "PoS",
+            "journal_volume": "LATTICE2025",
+            "page_start": "100",
+            "artid": "100",
+            "year": 2026
+          },
+          {}
+        ],
+        "citation_count": 0,
+        "journal_ref": "PoS, LATTICE2025, artid 100, p. 100, 2026"
       }
     },
     {
@@ -2681,7 +2791,7 @@
             "journal_issue": "7"
           }
         ],
-        "citation_count": 9,
+        "citation_count": 11,
         "journal_ref": "Phys.Rev.D, 114, artid 074510, 2026"
       }
     },
@@ -3145,7 +3255,7 @@
       "inspire": {
         "control_number": "3149743",
         "inspire_url": "https://inspirehep.net/literature/3149743",
-        "citation_count": 9
+        "citation_count": 10
       }
     },
     {
@@ -4464,7 +4574,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 13,
+        "citation_count": 15,
         "journal_ref": "Phys.Rev.D, 114, artid 014513, 2026"
       }
     },
@@ -4630,7 +4740,7 @@
           },
           {}
         ],
-        "citation_count": 2,
+        "citation_count": 3,
         "journal_ref": "PoS, LATTICE2025, artid 075, p. 075, 2026"
       }
     },
