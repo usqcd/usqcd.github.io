@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T15:02:02.868576+00:00Z",
+  "generated": "2026-11-13T14:30:09.201513+00:00Z",
   "count": 201,
   "publications": [
     {
@@ -551,7 +551,7 @@
       "inspire": {
         "control_number": "3215890",
         "inspire_url": "https://inspirehep.net/literature/3215890",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
@@ -1778,16 +1778,16 @@
       }
     },
     {
-      "id": "2607.27013v1",
+      "id": "2607.27013v2",
       "title": "Finite size scaling of bitstring probability distributions for Rydberg arrays",
-      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function resembling the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to some low enough value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum.",
+      "summary": "We calculate the probabilities $p_{\\{n\\}}$ of the measured bitstrings $\\{n\\}$ for the vacuum of Rydberg ladders with $N_q$ atoms. As $N_q$ increases, the $p_{\\{n\\}}$ decrease but become more dense in the low $p$ region, raising the possibility that their smallness could be compensated by their large number. The importance of the low probability states can be estimated from the cumulative probability distribution $Σ(p_Λ,N_q)$, which is the probability to observe any state having a probability $p\\leq p_Λ$. For not too large values of $p_Λ$, it is possible to approximately collapse the $Σ(p_Λ,N_q)$ for successive $N_q$ into a function that resembles the Fermi function when plotted as a function of $-\\ln(p_Λ)$. We show that the number of shots necessary to reduce $Σ(p_Λ,N_q)$ to a sufficiently low value grows exponentially with $N_q$. We discuss the implications for calculating observables associated with the vacuum. We show how the accuracy of these observables may or may not be robust against the number of shots. The collapsed probabilities occur in other systems, where they typically are on one side of the phase transition, in a basis dependent way.",
       "authors": [
         "Zane Ozzello",
         "Avi Kaufman",
         "Yannick Meurice"
       ],
-      "pdf": "https://arxiv.org/pdf/2607.27013v1",
-      "link": "https://arxiv.org/abs/2607.27013v1",
+      "pdf": "https://arxiv.org/pdf/2607.27013v2",
+      "link": "https://arxiv.org/abs/2607.27013v2",
       "published": "2026-07-29T15:13:40Z",
       "categories": [
         "quant-ph",
@@ -2093,7 +2093,7 @@
       "inspire": {
         "control_number": "3179855",
         "inspire_url": "https://inspirehep.net/literature/3179855",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -3771,13 +3771,13 @@
       "inspire": {
         "control_number": "3137590",
         "inspire_url": "https://inspirehep.net/literature/3137590",
-        "citation_count": 3
+        "citation_count": 4
       }
     },
     {
-      "id": "2603.28517v1",
+      "id": "2603.28517v2",
       "title": "Heavy-Meson Bag Parameters using Gradient Flow",
-      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multi-scale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
+      "summary": "We demonstrate the use of the gradient flow combined with the short flow-time expansion (GF+SFTX) as a renormalization procedure for four-quark operator matrix elements and associated bag parameters relevant to neutral heavy-meson mixing ($ΔQ=2$) and heavy-meson lifetimes ($ΔQ=0$). Using six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we calculate for a charm-strange system with physical quark masses flowed bag parameters and match them to the $\\overline{\\text{MS}}$ scheme using perturbative SFTX coefficients up to next-to-next-to-leading order in QCD. We employ a multiscale matching strategy and a renormalization-group improved flow-time evolution which allows for a reliable estimate of systematic uncertainties. For a fictitious neutral $D_s$ meson, we obtain the $ΔQ=2$ $\\overline{\\text{MS}}$ bag parameter ${\\cal B}^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=0.7673(123)$, consistent with existing short-distance $D^0$ mixing determinations. For the $ΔQ=0$ lifetime-ratio operator basis, we find the $\\overline{\\text{MS}}$ results $B^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=1.0524(97)$, $B^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=0.9621(71)$, $ε^{\\overline{\\text{MS}}}_1(3\\,{\\rm GeV})=-0.2275(76)$, and $ε^{\\overline{\\text{MS}}}_2(3\\,{\\rm GeV})=-0.0005(8)$. We provide conversion formulae to re-express these results for an arbitrary choice of evanescent operators. These results demonstrate that GF+SFTX can deliver precise determinations of dimension-six four-quark operators and establish a framework for future lattice computations including more complex operator bases, where the challenge of power-divergent mixing is shifted to the continuum and handled in the SFTX.",
       "authors": [
         "Matthew Black",
         "Robert V. Harlander",
@@ -3787,8 +3787,8 @@
         "Andrea Shindler",
         "Oliver Witzel"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.28517v1",
-      "link": "https://arxiv.org/abs/2603.28517v1",
+      "pdf": "https://arxiv.org/pdf/2603.28517v2",
+      "link": "https://arxiv.org/abs/2603.28517v2",
       "published": "2026-03-30T14:47:45Z",
       "categories": [
         "hep-lat",
@@ -3803,19 +3803,20 @@
           {
             "journal_title": "Phys.Rev.D",
             "journal_volume": "114",
+            "page_start": "9",
             "artid": "094503",
             "year": 2026,
             "journal_issue": "9"
           }
         ],
         "citation_count": 11,
-        "journal_ref": "Phys.Rev.D, 114, artid 094503, 2026"
+        "journal_ref": "Phys.Rev.D, 114, artid 094503, p. 9, 2026"
       }
     },
     {
-      "id": "2603.28516v1",
-      "title": "Bag Parameters for Heavy Meson Lifetimes",
-      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multi-scale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
+      "id": "2603.28516v2",
+      "title": "Bag Parameters for Heavy Meson Lifetimes from a Lattice QCD Calculation at the SU(3)$_{\\rm F}$-symmetric Point",
+      "summary": "We calculate the dimension-six $ΔQ=0$ four-quark matrix elements describing heavy-meson lifetime ratios using the gradient flow with its short flow-time expansion as a renormalization procedure. On six RBC/UKQCD 2+1-flavor domain-wall fermion ensembles, we determine flowed bag parameters for physical charm and strange quarks and match to the $\\overline{\\text{MS}}$ scheme with perturbative short flow-time expansion coefficients through next-to-next-to-leading order (NNLO). A multiscale matching procedure using renormalization-group running improves the extrapolation to zero flow time. For the operators relevant to $τ(D_s)/τ(D^0)$ at the SU(3)$_{\\rm F}$ symmetric point, we obtain $B_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=1.0524(97)$,$B_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=0.9621(70)$, $ε_1^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.2275(76)$, and $ε_2^{\\overline{\\text{MS}}}(3\\,{\\rm GeV})=-0.0005(8)$ using a specific choice of evanescent operators. This is the first lattice-QCD determination of $ΔQ=0$ four-quark operators with a full error budget. It opens the path towards higher-precision predictions of heavy-meson lifetimes and similar quantities exhibiting operator mixing under renormalization.",
       "authors": [
         "Matthew Black",
         "Robert V. Harlander",
@@ -3825,8 +3826,8 @@
         "Andrea Shindler",
         "Oliver Witzel"
       ],
-      "pdf": "https://arxiv.org/pdf/2603.28516v1",
-      "link": "https://arxiv.org/abs/2603.28516v1",
+      "pdf": "https://arxiv.org/pdf/2603.28516v2",
+      "link": "https://arxiv.org/abs/2603.28516v2",
       "published": "2026-03-30T14:47:42Z",
       "categories": [
         "hep-ph",
