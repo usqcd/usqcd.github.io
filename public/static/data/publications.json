@@ -1,7 +1,25 @@
 {
-  "generated": "2026-11-15T13:51:32.960132+00:00Z",
-  "count": 195,
+  "generated": "2026-11-16T15:17:45.234405+00:00Z",
+  "count": 202,
   "publications": [
+    {
+      "id": "2611.18552v1",
+      "title": "Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts",
+      "summary": "Probing real-time dynamics is essential for understanding non-perturbative scattering and interactions in quantum field theory. A common challenge in real-time simulation is preparing accurate asymptotic incoming states. Through efficiently solvable eigenvalue problems, we jointly optimize a superposition of single particle momentum eigenstates and a single site interpolating operator to maximize preparation fidelity from the interacting vacuum. This leads to a localized excitation in the interacting theory analogous to a position eigenstate. Weighted sums of the resulting interpolating operator over lattice sites prepare wave packets of arbitrary spatial extent. To ensure that this construction produces the correct continuum limit, relative phases among single particle momentum eigenstates in this superposition are calibrated using a relation derived from Lorentz symmetry. Analyzing single particle wave packet propagation through the position space profile reveals oscillatory Airy distortions, which originate from interference between saddle point contributions at different momenta that share the same lattice group velocity. These oscillations systematically weaken when approaching the continuum limit, and reliable regimes are identified as a function of simulation time and wave packet momentum profile. Two-particle scattering simulations in interacting scalar field theory are also implemented, revealing artificial inelasticity arising from coarse local field digitization or deviation from the Nyquist-Shannon sampling point. With these artifacts under control, present simulations provide emerging evidence for physical inelastic processes in $φ^4$ theory. The constructions introduced in this work may provide new understanding of state preparation for the quantum simulation of scattering.",
+      "authors": [
+        "Boyu Gao",
+        "Natalie Klco"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.18552v1",
+      "link": "https://arxiv.org/abs/2611.18552v1",
+      "published": "2026-11-13T18:57:45Z",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ]
+    },
     {
       "id": "2611.14103v1",
       "title": "Nucleon sigma terms in lattice QCD at physical pion mass and in the continuum",
@@ -97,27 +115,6 @@
       "inspire": {
         "control_number": "3226653",
         "inspire_url": "https://inspirehep.net/literature/3226653",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.10773v1",
-      "title": "Constrained field-space estimators for background-field lattice QCD observables",
-      "summary": "Background-field lattice calculations extract weak-field response coefficients from correlators computed at several field strengths. We treat this extraction as linear estimation in field space and compare fixed cancellation stencils with covariance-optimized, generalized-least-squares estimators of the same coefficient, using archival nucleon double ratios on about 1000 quenched configurations at six quark masses and decuplet correlators for which exact answers follow from the lattice contractions. The fixed $O(B^4)$-$O(B^8)$ stencils are nearly coincident and cost almost nothing in precision. Weight-free null-space tests reject the two-term response model in most nucleon ensembles; whether they reject the three-term model depends on the temporal fits and on the noise of the estimated temporal covariance, which raises the null-contrast error by a factor of 1.7-2.4. With that noise included, covariance optimization gains 1-2% in precision at the five lighter masses (3-30% with two-state time fits, which also lower moments by 3-10%) and nothing on independent data halves, while its weights carry three to four orders of magnitude more leverage on omitted response modes than the fixed stencils and move the moments by up to 1.8 marginal standard errors. The decuplet controls show what such leverage does under misspecification: the first-order responses obey $μ_{Δ^+}/μ_{Δ^{++}}=1/2$ and $μ_{Δ^0}=0$ exactly. The lowest-order estimate misses the first by 10-25 standard errors. The fixed $O(B^4)$-$O(B^8)$ stencils satisfy it within errors in the production windows, whereas the correlated linear fit in $B^2$, with the same constraints as the $O(B^4)$ stencil, misses it by 3-17%; the null-space test rejects that fit's model. The results distinguish statistical precision from robustness to omitted response modes; they are not physical-point magnetic moments.",
-      "authors": [
-        "Scott Moerschbacher",
-        "Frank X. Lee"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.10773v1",
-      "link": "https://arxiv.org/abs/2611.10773v1",
-      "published": "2026-11-07T15:00:07Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3226417",
-        "inspire_url": "https://inspirehep.net/literature/3226417",
         "citation_count": 0
       }
     }
