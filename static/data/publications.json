@@ -1,7 +1,27 @@
 {
-  "generated": "2026-11-16T15:17:45.234405+00:00Z",
-  "count": 202,
+  "generated": "2026-11-17T15:53:55.785440+00:00Z",
+  "count": 200,
   "publications": [
+    {
+      "id": "2611.21112v1",
+      "title": "Global analysis of the $ρ$ resonance in lattice QCD",
+      "summary": "We present a lattice-QCD study of the $ρ$ resonance in which we address the quark-mass and lattice-spacing dependence in a novel way using a global analysis of four $N_f=2+1$ ensembles. We parametrize discretization effects in the lattice energy levels and not in the scattering amplitude, which is defined in the continuum. We describe the amplitude using a $K$-matrix parameterization, which contains the light- and strange-quark mass dependence. By varying the parameterizations of quark-mass and lattice-spacing dependence, we examine the sensitivity of the physical-limit $ρ$ pole position to these choices and obtain the result $\\sqrt{s}_ρ= 744(11)(7) - i\\,69(7)(3)~\\text{MeV}$ from a model average.",
+      "authors": [
+        "Luka Jevsenak",
+        "Luka Leskovec",
+        "Stefan Meinel",
+        "John Negele",
+        "Srijit Paul",
+        "Andrew Pochinsky"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.21112v1",
+      "link": "https://arxiv.org/abs/2611.21112v1",
+      "published": "2026-11-16T13:58:37Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ]
+    },
     {
       "id": "2611.18552v1",
       "title": "Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts",
@@ -18,7 +38,12 @@
         "hep-lat",
         "hep-ph",
         "nucl-th"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3229358",
+        "inspire_url": "https://inspirehep.net/literature/3229358",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.14103v1",
@@ -86,35 +111,6 @@
       "inspire": {
         "control_number": "3226693",
         "inspire_url": "https://inspirehep.net/literature/3226693",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.12730v1",
-      "title": "Unpolarized proton PDF with physical quark masses and large momenta",
-      "summary": "We present a lattice quantum chromodynamics (QCD) calculation of the proton isovector ($u-d$) unpolarized parton distribution function (PDF) at physical sea and valence quark masses, using Coulomb-gauge-fixed quark bilinears within the large-momentum effective theory framework. The calculation is performed on a (2+1)-flavor ensemble with a lattice spacing of $a=0.076$ fm and proton momenta up to $2.3$ GeV. We combine kinematically enhanced nucleon interpolating operators, the Coulomb-gauge method, and high-statistics measurements to improve the signal quality at large momenta and quark separations. We use the static regularization-independent momentum subtraction and hybrid schemes to renormalize the bare matrix elements. The light-cone PDF in the $\\overline{\\rm MS}$ scheme is obtained from the quasi-PDF through next-to-leading-order (NLO) perturbative matching supplemented by next-to-leading-logarithmic renormalization-group resummation. With reduced uncertainties, the resulting PDF is consistent with our previous calculation on a similar lattice ensemble with $a=0.06$~fm and a valence pion mass of 300 MeV. Notably, despite the reduced uncertainties, the agreement with the phenomenological PDF persists over the longitudinal momentum fraction range $0.25\\lesssim|x|\\lesssim0.75$, where the lattice calculation is expected to be reliable. This agreement is further supported by a comparison in coordinate space, where our short-distance lattice matrix elements are consistent with those obtained from the phenomenological PDF through NLO matching. In particular, we observe close agreement in the imaginary part for the first time. Together, these results represent an encouraging step toward precision benchmarking of lattice QCD calculations of PDFs.",
-      "authors": [
-        "Xiang Gao",
-        "Andrew Hanlon",
-        "Jinchen He",
-        "Xiangyu Jiang",
-        "Swagato Mukherjee",
-        "Peter Petreczky",
-        "Qi Shi",
-        "Yong Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.12730v1",
-      "link": "https://arxiv.org/abs/2611.12730v1",
-      "published": "2026-11-09T17:16:44Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3226653",
-        "inspire_url": "https://inspirehep.net/literature/3226653",
         "citation_count": 0
       }
     }
