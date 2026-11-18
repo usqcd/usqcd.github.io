@@ -1,7 +1,27 @@
 {
-  "generated": "2026-11-17T15:53:55.785440+00:00Z",
-  "count": 200,
+  "generated": "2026-11-18T15:30:26.677151+00:00Z",
+  "count": 204,
   "publications": [
+    {
+      "id": "2611.21860v1",
+      "title": "Anomaly inflow for simplicial Kähler fermions",
+      "summary": "We study massive Kähler Dirac fermions propagating on finite triangulations of various three dimensional manifolds with one or more boundaries. To probe the anomaly structure of these models we decompose the Kähler field into two reduced Kähler fields and choose boundary conditions that ensure that any edge modes are necessarily massless. We then show how to factorize the Pfaffian of this system into a product of bulk and boundary sectors each of which can separately pick up a phase under a global $Z_4$ transformation of the fermions that simultaneously changes the sign of the mass. These phases are topological, depending only on the index of the lattice Kähler operator in that sector. For the boundary sector a non-trivial phase signals the presence of a 't Hooft anomaly. We study cases where the boundary is anomalous but an inflow from the bulk cancels its phase. Canceling this anomaly for a non-orientable boundary in the absence of the bulk recovers the known classification of topological superconductors. We also give a continuum interpretation of these results in terms of inflow from a gravitational Chern Simons theory which is induced by integrating out massive bulk Kähler Dirac fermions. In the presence of a boundary the latter gives rise to Wen-Zee terms that mediate the anomaly inflow mechanism.",
+      "authors": [
+        "Simon Catterall"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.21860v1",
+      "link": "https://arxiv.org/abs/2611.21860v1",
+      "published": "2026-11-16T20:23:25Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3230241",
+        "inspire_url": "https://inspirehep.net/literature/3230241",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.21112v1",
       "title": "Global analysis of the $ρ$ resonance in lattice QCD",
@@ -20,7 +40,12 @@
       "categories": [
         "hep-lat",
         "hep-ph"
-      ]
+      ],
+      "inspire": {
+        "control_number": "3230045",
+        "inspire_url": "https://inspirehep.net/literature/3230045",
+        "citation_count": 0
+      }
     },
     {
       "id": "2611.18552v1",
@@ -89,28 +114,6 @@
       "inspire": {
         "control_number": "3226911",
         "inspire_url": "https://inspirehep.net/literature/3226911",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.12771v1",
-      "title": "The structure of the pion at large $N_c$",
-      "summary": "We compute the pion quark momentum fraction in the large-$N_c$ limit using the Twisted Eguchi-Kawai (TEK) reduced model. Gauge configurations for different values of the lattice spacing are generated with the pure-gauge TEK action, while the pion correlators are computed for different quark masses with maximally twisted mass fermions. The bare matrix element corresponding to the quark momentum fraction is obtained using the Feynman-Hellmann method, and we use perturbative renormalization factors to connect to the $\\overline{\\mathrm{MS}}$ scheme at $2\\,\\mathrm{GeV}$. A global analysis at several lattice spacings, pion masses, and values of $N_c$ yields $\\langle x\\rangle_q^{\\overline{\\mathrm{MS}}}(2\\,\\mathrm{GeV}) = 0.267(105)$ at the physical pion mass in the large-$N_c$ limit. This value is significantly smaller than existing $N_c=3$ determinations from phenomenology and lattice QCD, indicating that, in the large-$N_c$ limit, the pion's light-cone momentum is carried predominantly by gluons.",
-      "authors": [
-        "Isaac Zhu",
-        "Fernando Romero-López",
-        "Phiala E. Shanahan"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.12771v1",
-      "link": "https://arxiv.org/abs/2611.12771v1",
-      "published": "2026-11-09T17:42:39Z",
-      "categories": [
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3226693",
-        "inspire_url": "https://inspirehep.net/literature/3226693",
         "citation_count": 0
       }
     }
