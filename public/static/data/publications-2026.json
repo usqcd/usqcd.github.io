@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-18T15:30:26.612883+00:00Z",
-  "count": 204,
+  "generated": "2026-11-19T15:36:15.657350+00:00Z",
+  "count": 205,
   "publications": [
+    {
+      "id": "2611.23982v1",
+      "title": "Positivity, Noise, and Cones",
+      "summary": "As a consequence of causality, Euclidean-time correlation functions in quantum field theory are subject to constraints in the form of positivity conditions on certain Hankel matrices. Such conditions define convex conic structures. Correlation functions computed numerically using Monte Carlo techniques generally contain statistical fluctuations that violate the positivity conditions. This work describes a projection procedure, based on the convex conic geometry induced by the positivity conditions and a statistical covariance matrix, that can be used to restore positivity, providing a unique decomposition for noisy correlators into causal and acausal components. In contrast to previous literature, this work explicitly leverages the conic structure and not just the convex nature of the causal space. The projection can be computed using primal-dual interior-point methods. Constrained projection gives rise to observable-specific frequentist confidence intervals for smeared spectral densities in the causal bootstrap of [Phys. Rev. D 114, 074510 (2026)]. Analytic results are supported with numerical examples.",
+      "authors": [
+        "Ryan Abbott",
+        "Claire X. Davis",
+        "Sarah Fields",
+        "William I. Jay",
+        "Patrick Oare",
+        "Matteo Saccardi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.23982v1",
+      "link": "https://arxiv.org/abs/2611.23982v1",
+      "published": "2026-11-18T07:24:38Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3230852",
+        "inspire_url": "https://inspirehep.net/literature/3230852",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.21860v1",
       "title": "Anomaly inflow for simplicial Kähler fermions",
@@ -209,7 +233,7 @@
       "inspire": {
         "control_number": "3226723",
         "inspire_url": "https://inspirehep.net/literature/3226723",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2406,7 +2430,7 @@
       "inspire": {
         "control_number": "3174081",
         "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 4
+        "citation_count": 5
       }
     },
     {
@@ -2608,7 +2632,7 @@
       "inspire": {
         "control_number": "3170330",
         "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2924,7 +2948,7 @@
             "journal_issue": "7"
           }
         ],
-        "citation_count": 11,
+        "citation_count": 13,
         "journal_ref": "Phys.Rev.D, 114, artid 074510, 2026"
       }
     },
@@ -3363,7 +3387,7 @@
       "inspire": {
         "control_number": "3150112",
         "inspire_url": "https://inspirehep.net/literature/3150112",
-        "citation_count": 26
+        "citation_count": 27
       }
     },
     {
@@ -4455,7 +4479,7 @@
             "journal_issue": "11"
           }
         ],
-        "citation_count": 0,
+        "citation_count": 1,
         "journal_ref": "Phys.Rev.D, 113, artid 114516, 2026"
       }
     },

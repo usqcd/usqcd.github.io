@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-18T15:30:26.677151+00:00Z",
-  "count": 204,
+  "generated": "2026-11-19T15:36:15.703447+00:00Z",
+  "count": 205,
   "publications": [
+    {
+      "id": "2611.23982v1",
+      "title": "Positivity, Noise, and Cones",
+      "summary": "As a consequence of causality, Euclidean-time correlation functions in quantum field theory are subject to constraints in the form of positivity conditions on certain Hankel matrices. Such conditions define convex conic structures. Correlation functions computed numerically using Monte Carlo techniques generally contain statistical fluctuations that violate the positivity conditions. This work describes a projection procedure, based on the convex conic geometry induced by the positivity conditions and a statistical covariance matrix, that can be used to restore positivity, providing a unique decomposition for noisy correlators into causal and acausal components. In contrast to previous literature, this work explicitly leverages the conic structure and not just the convex nature of the causal space. The projection can be computed using primal-dual interior-point methods. Constrained projection gives rise to observable-specific frequentist confidence intervals for smeared spectral densities in the causal bootstrap of [Phys. Rev. D 114, 074510 (2026)]. Analytic results are supported with numerical examples.",
+      "authors": [
+        "Ryan Abbott",
+        "Claire X. Davis",
+        "Sarah Fields",
+        "William I. Jay",
+        "Patrick Oare",
+        "Matteo Saccardi"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.23982v1",
+      "link": "https://arxiv.org/abs/2611.23982v1",
+      "published": "2026-11-18T07:24:38Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3230852",
+        "inspire_url": "https://inspirehep.net/literature/3230852",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.21860v1",
       "title": "Anomaly inflow for simplicial Kähler fermions",
@@ -94,26 +118,6 @@
       "inspire": {
         "control_number": "3227222",
         "inspire_url": "https://inspirehep.net/literature/3227222",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.13117v1",
-      "title": "Reconstruction of pion polarizabilities in lattice QCD with machine learning",
-      "summary": "We apply the denoising diffusion probabilistic model (DDPM) from generative machine learning to a model-independent reconstruction of electric and magnetic polarizabilities of both charged and neutral pions. The inputs are the sparse momentum-space four-point-function data in lattice QCD for the connected quark-line contributions obtained in previous simulations at four pion masses between approximately 370 and 1100 MeV on quenched Wilson lattices. For charged pions, the elastic contribution is obtained from the pion form-factor slope, and the complete electric and magnetic inelastic terms are reconstructed separately. The neutral-pion electric and magnetic channels are reconstructed without an elastic charge-radius contribution. Four distinct families of synthetic training functions are employed, so that no single analytic fitting function is prescribed for the lattice data. We present low-momentum reconstructions to the limit of zero momentum transfer where the polarizabilities are defined, and mass extrapolations to the physical pion mass of 138 MeV.",
-      "authors": [
-        "Hanxing Jiang",
-        "Frank X. Lee"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.13117v1",
-      "link": "https://arxiv.org/abs/2611.13117v1",
-      "published": "2026-11-09T19:04:48Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3226911",
-        "inspire_url": "https://inspirehep.net/literature/3226911",
         "citation_count": 0
       }
     }
