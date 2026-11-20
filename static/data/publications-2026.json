@@ -1,7 +1,39 @@
 {
-  "generated": "2026-11-19T15:36:15.657350+00:00Z",
-  "count": 205,
+  "generated": "2026-11-20T15:14:51.394431+00:00Z",
+  "count": 206,
   "publications": [
+    {
+      "id": "2611.26443v1",
+      "title": "Review of Pion and Nucleon Gluon Parton Distribution Functions from Lattice QCD",
+      "summary": "Gluons play an essential role in the strong interaction that binds quarks into hadrons, as described by quantum chromodynamics (QCD). Understanding how the fundamental dynamics of QCD give rise to hadron structure remains one of the outstanding challenges in nuclear and particle physics. Parton distribution functions (PDFs) provide a successful framework for describing high-energy scattering processes involving hadrons. However, our knowledge of gluon PDFs remains comparatively limited because of the experimental challenges associated with directly constraining the gluon structure of hadrons. In recent years, a major breakthrough has enabled the calculation of the Bjorken-$x$ dependence of PDFs directly from lattice QCD. Among the available approaches, the large-momentum effective theory (LaMET) and pseudo-PDF frameworks have emerged as the most widely used methods and have produced the majority of lattice determinations of parton distributions. These developments have sparked rapid progress in first-principles studies of the $x$-dependent structure of hadrons, including gluon PDFs of the nucleon and pseudoscalar mesons. In this review, we summarize recent advances in lattice QCD calculations of gluon PDFs {using the LaMET and pseudo-PDF methods}, discuss the current status and impacts of these developments, and highlight the remaining challenges and future opportunities.",
+      "authors": [
+        "William Good",
+        "Huey-Wen Lin"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.26443v1",
+      "link": "https://arxiv.org/abs/2611.26443v1",
+      "published": "2026-11-19T17:15:22Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "3231429",
+        "inspire_url": "https://inspirehep.net/literature/3231429",
+        "doi": "10.3390/particles9040104",
+        "publication_info": [
+          {
+            "journal_title": "Particles",
+            "journal_volume": "9",
+            "page_start": "104",
+            "artid": "104",
+            "year": 2026
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Particles, 9, artid 104, p. 104, 2026"
+      }
+    },
     {
       "id": "2611.23982v1",
       "title": "Positivity, Noise, and Cones",
@@ -68,7 +100,7 @@
       "inspire": {
         "control_number": "3230045",
         "inspire_url": "https://inspirehep.net/literature/3230045",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -863,7 +895,7 @@
       "inspire": {
         "control_number": "3210053",
         "inspire_url": "https://inspirehep.net/literature/3210053",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -1196,7 +1228,7 @@
       "inspire": {
         "control_number": "3202065",
         "inspire_url": "https://inspirehep.net/literature/3202065",
-        "citation_count": 1
+        "citation_count": 2
       }
     },
     {
@@ -2681,7 +2713,7 @@
       "inspire": {
         "control_number": "3168686",
         "inspire_url": "https://inspirehep.net/literature/3168686",
-        "citation_count": 9
+        "citation_count": 10
       }
     },
     {
@@ -2706,7 +2738,7 @@
       "inspire": {
         "control_number": "3168689",
         "inspire_url": "https://inspirehep.net/literature/3168689",
-        "citation_count": 7
+        "citation_count": 8
       }
     },
     {
@@ -2862,7 +2894,7 @@
       "inspire": {
         "control_number": "3164198",
         "inspire_url": "https://inspirehep.net/literature/3164198",
-        "citation_count": 9
+        "citation_count": 10
       }
     },
     {
@@ -4755,7 +4787,7 @@
             "journal_issue": "1"
           }
         ],
-        "citation_count": 15,
+        "citation_count": 16,
         "journal_ref": "Phys.Rev.D, 114, artid 014513, 2026"
       }
     },
