@@ -1,7 +1,80 @@
 {
-  "generated": "2026-11-22T14:25:36.617794+00:00Z",
-  "count": 206,
+  "generated": "2026-11-23T17:48:55.528562+00:00Z",
+  "count": 207,
   "publications": [
+    {
+      "id": "2611.27708v1",
+      "title": "Quark dipole operators in the gradient-flow scheme at NNLO QCD",
+      "summary": "Conversion factors for the dimension-five QCD operator basis from the $\\overline{\\textrm{MS}}$ to the gradient-flow scheme are presented through NNLO in the strong coupling. In the CP-even sector, the results are provided for general quark masses and arbitrary flavor content of the operators. Specifically, this concerns the quark CMDM operator and its mixing with lower-dimensional QCD operators. In the massless case, our results immediately apply to the quark chromoelectric dipole operator. As a by-product, we also determine missing entries in the $\\overline{\\textrm{MS}}$ anomalous dimension matrix of the CMDM operator to NNLO QCD.",
+      "authors": [
+        "Janosch Borgulat",
+        "Lars Georg",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Andrea Shindler"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.27708v1",
+      "link": "https://arxiv.org/abs/2611.27708v1",
+      "published": "2026-11-20T15:13:27Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3231847",
+        "inspire_url": "https://inspirehep.net/literature/3231847",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.27586v1",
+      "title": "From Resonance Properties to High-Energy Behavior: The $R$ Ratio from Lattice QCD",
+      "summary": "We investigate resonance properties and inclusive spectral behavior through Bayesian reconstruction of the $R$-ratio from Euclidean lattice correlators near the physical pion mass. Without additional Gaussian smearing, the reconstructed spectrum already captures the smooth high-energy behavior observed in experiment. Direct integration of the $ρ$ peak determines $f_ρ$ with approximately $1\\%$ statistical precision and close agreement with the experimental reference, providing access to resonance properties without resolving individual finite-volume levels. With a common Gaussian width of $σ=0.6$~GeV, the lattice and experimental $R$-ratios show good overall agreement over $0.25$--$2.50$~GeV. Comparisons among ensembles with spatial extents up to approximately $10$~fm demonstrate that finite-volume effects can be controlled across these complementary observables. These results demonstrate a unified framework for studying resonance and inclusive physics from lattice QCD, with potential applications to other hadronic channels, inclusive decay rates, and hadronic tensors.",
+      "authors": [
+        "Nan Wang",
+        "Long-cheng Gui",
+        "Jun Hua",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Jun Shi",
+        "Gen Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.27586v1",
+      "link": "https://arxiv.org/abs/2611.27586v1",
+      "published": "2026-11-20T13:17:06Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3231848",
+        "inspire_url": "https://inspirehep.net/literature/3231848",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.26854v1",
+      "title": "Optimized solver algorithms for computing $\\mathrm{Tr}(A^{-1})$",
+      "summary": "Estimating the trace of the inverse of a large quark matrix is a longstanding problem in lattice QCD. The standard approach is Hutchinson's method, which uses random noise vectors to estimate the trace to a desired statistical tolerance. Each noise vector $b$ requires solving a system of linear equations $Ax = b$. In this work, we introduce a new class of Krylov solvers for this task, called Twin methods. Twin methods generate the Krylov polynomial once then reuse it on all other right-hand sides. This reduces the number of basic linear algebra operations in the algorithm and therefore lowers the trace computation time. We apply the Twin approach to BiCG and BiCGStab and test them on lattice QCD matrices of varying size and in a range of computing contexts. We also present a more economical estimation of $\\mathrm{Tr}(A^{-1})$ which implements a polynomial approximation of $A^{-1}$ and a singular value deflation. In this scheme, the solvers are applied to only a few noise vectors, and the remainder are treated by the polynomial and the deflation. In our tests, the polynomial approximation combined with the deflation yield a 17-fold speedup in the time required to compute the trace over standard Hutchinson's method.",
+      "authors": [
+        "Benjamin Luke",
+        "Sudip Shiwakoti",
+        "Shayan Nadeem",
+        "Ronald Morgan",
+        "Walter Wilcox"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.26854v1",
+      "link": "https://arxiv.org/abs/2611.26854v1",
+      "published": "2026-11-19T22:17:09Z",
+      "categories": [
+        "hep-lat",
+        "math.NA"
+      ],
+      "inspire": {
+        "control_number": "3231657",
+        "inspire_url": "https://inspirehep.net/literature/3231657",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.26443v1",
       "title": "Review of Pion and Nucleon Gluon Parton Distribution Functions from Lattice QCD",
@@ -579,7 +652,7 @@
       "inspire": {
         "control_number": "3217285",
         "inspire_url": "https://inspirehep.net/literature/3217285",
-        "citation_count": 0
+        "citation_count": 1
       }
     },
     {
@@ -822,32 +895,6 @@
       }
     },
     {
-      "id": "2610.02430v1",
-      "title": "Towards Precision-Controlled Partonic Structures from First Principles",
-      "summary": "The internal structure of hadrons is governed by nonperturbative Quantum Chromodynamics (QCD). This dissertation presents first-principles calculations of partonic observables using lattice QCD and effective field theory, with controlled systematic uncertainties, advancing from collinear structure to transverse-momentum-dependent distributions (TMDs) that encode the three-dimensional partonic structure of hadrons. Within the large momentum effective theory (LaMET) framework, this work presents state-of-the-art calculations of pion distribution amplitudes and systematic studies of nucleon parton distributions, with control of renormalization, excited-state contamination, Fourier-transform systematics, and power corrections. A Coulomb-gauge formulation of quasi-distributions simplifies ultraviolet structure by avoiding Wilson-line related linear divergences, with Gribov-copy effects found to be negligible at current statistical precision. Building on these developments, this dissertation reports lattice determinations of nucleon TMD parton distributions, the Collins-Soper kernel, the intrinsic soft function, and pion TMD observables. These results provide nonperturbative inputs for global QCD analyses and the precision hadron-structure program, including the Electron-Ion Collider. In parallel, this work explores machine-learning acceleration of lattice gauge simulations through neural field transformations embedded in Hybrid Monte Carlo. In two-dimensional U(1) tests, the method reduces autocorrelation and improves performance toward finer lattice spacing, suggesting potential applications to more efficient lattice QCD simulations.",
-      "authors": [
-        "Jinchen He"
-      ],
-      "pdf": "https://arxiv.org/pdf/2610.02430v1",
-      "link": "https://arxiv.org/abs/2610.02430v1",
-      "published": "2026-10-01T19:52:58Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3211126",
-        "inspire_url": "https://inspirehep.net/literature/3211126",
-        "publication_info": [
-          {
-            "year": 2026
-          }
-        ],
-        "citation_count": 0,
-        "journal_ref": "2026"
-      }
-    },
-    {
       "id": "2610.02169v1",
       "title": "Drell-Yan lepton pair production from low to high transverse momentum",
       "summary": "We present a technique for computing Drell-Yan lepton pair production at particle-level that achieves N$^3$LO and approximate N$^4$LL$'$ accuracy at small to moderate transverse momentum, tree-level precision for $Z+4$, $5$, and $6$ jets, and approximate NLO EW precision at high transverse momentum. A crucial non-perturbative input, the Collins-Soper kernel, is obtained from continuum-limit lattice QCD results. High-precision theory results are recast into strictly positive event weights using an information-theoretic approach based on the maximum entropy principle.",
@@ -1000,30 +1047,6 @@
       "inspire": {
         "control_number": "3208961",
         "inspire_url": "https://inspirehep.net/literature/3208961",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2609.32225v1",
-      "title": "LaMET-Agent: An Agent Framework for Large-Momentum Effective Theory Analysis",
-      "summary": "Large-momentum effective theory (LaMET) provides a first-principles framework for computing the $x$ dependence of light-cone parton distributions from lattice QCD. Over the past decade, theoretical and numerical advances have established a mature multi-stage workflow for systematic calculation of parton physics, although its implementation still requires expert judgment and substantial repeated effort. We present lamet-agent, an open-source large language model (LLM) agent framework that organizes this workflow into an executable, reproducible, and inspectable analysis pipeline. The present release supports collinear quark distributions and implements correlator analysis, renormalization, Fourier transformation, perturbative matching, continuum, physical pion mass and infinite-momentum extrapolations, and automated result review. We validate it on four end-to-end analyses: pion parton distribution functions in the gauge-invariant and Coulomb-gauge formulations, and pion and kaon distribution amplitudes, obtaining results consistent with the published calculations. Extensions to transverse-momentum-dependent distributions, generalized transverse-momentum-dependent distributions, and gluonic distribution functions are planned for subsequent releases.",
-      "authors": [
-        "Jinchen He",
-        "Xiangyu Jiang",
-        "Fei Yao",
-        "Dian-Jun Zhao"
-      ],
-      "pdf": "https://arxiv.org/pdf/2609.32225v1",
-      "link": "https://arxiv.org/abs/2609.32225v1",
-      "published": "2026-09-26T04:35:11Z",
-      "categories": [
-        "hep-lat",
-        "cs.AI",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3208418",
-        "inspire_url": "https://inspirehep.net/literature/3208418",
         "citation_count": 0
       }
     },
@@ -1586,7 +1609,18 @@
       "inspire": {
         "control_number": "3193720",
         "inspire_url": "https://inspirehep.net/literature/3193720",
-        "citation_count": 0
+        "doi": "10.1007/JHEP11(2026)200",
+        "publication_info": [
+          {
+            "journal_title": "JHEP",
+            "journal_volume": "11",
+            "page_start": "200",
+            "artid": "200",
+            "year": 2026
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "JHEP, 11, artid 200, p. 200, 2026"
       }
     },
     {
@@ -2462,7 +2496,7 @@
       "inspire": {
         "control_number": "3174081",
         "inspire_url": "https://inspirehep.net/literature/3174081",
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2564,7 +2598,7 @@
         "publication_info": [
           {}
         ],
-        "citation_count": 5
+        "citation_count": 6
       }
     },
     {
@@ -2664,7 +2698,18 @@
       "inspire": {
         "control_number": "3170330",
         "inspire_url": "https://inspirehep.net/literature/3170330",
-        "citation_count": 6
+        "doi": "10.1103/f4h2-pg8m",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "114",
+            "artid": "094510",
+            "year": 2026,
+            "journal_issue": "9"
+          }
+        ],
+        "citation_count": 6,
+        "journal_ref": "Phys.Rev.D, 114, artid 094510, 2026"
       }
     },
     {
@@ -3962,7 +4007,7 @@
             "journal_issue": "9"
           }
         ],
-        "citation_count": 12,
+        "citation_count": 13,
         "journal_ref": "Phys.Rev.D, 114, artid 094503, p. 9, 2026"
       }
     },
@@ -4001,7 +4046,7 @@
             "journal_issue": "19"
           }
         ],
-        "citation_count": 13,
+        "citation_count": 14,
         "journal_ref": "Phys.Rev.Lett., 137, artid 191905, p. 19, 2026"
       }
     },
@@ -4051,7 +4096,7 @@
       "inspire": {
         "control_number": "3136536",
         "inspire_url": "https://inspirehep.net/literature/3136536",
-        "citation_count": 19
+        "citation_count": 20
       }
     },
     {
