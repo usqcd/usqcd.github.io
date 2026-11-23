@@ -1,7 +1,80 @@
 {
-  "generated": "2026-11-22T14:25:36.670953+00:00Z",
-  "count": 206,
+  "generated": "2026-11-23T17:48:55.589599+00:00Z",
+  "count": 207,
   "publications": [
+    {
+      "id": "2611.27708v1",
+      "title": "Quark dipole operators in the gradient-flow scheme at NNLO QCD",
+      "summary": "Conversion factors for the dimension-five QCD operator basis from the $\\overline{\\textrm{MS}}$ to the gradient-flow scheme are presented through NNLO in the strong coupling. In the CP-even sector, the results are provided for general quark masses and arbitrary flavor content of the operators. Specifically, this concerns the quark CMDM operator and its mixing with lower-dimensional QCD operators. In the massless case, our results immediately apply to the quark chromoelectric dipole operator. As a by-product, we also determine missing entries in the $\\overline{\\textrm{MS}}$ anomalous dimension matrix of the CMDM operator to NNLO QCD.",
+      "authors": [
+        "Janosch Borgulat",
+        "Lars Georg",
+        "Robert V. Harlander",
+        "Jonas T. Kohnen",
+        "Andrea Shindler"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.27708v1",
+      "link": "https://arxiv.org/abs/2611.27708v1",
+      "published": "2026-11-20T15:13:27Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3231847",
+        "inspire_url": "https://inspirehep.net/literature/3231847",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.27586v1",
+      "title": "From Resonance Properties to High-Energy Behavior: The $R$ Ratio from Lattice QCD",
+      "summary": "We investigate resonance properties and inclusive spectral behavior through Bayesian reconstruction of the $R$-ratio from Euclidean lattice correlators near the physical pion mass. Without additional Gaussian smearing, the reconstructed spectrum already captures the smooth high-energy behavior observed in experiment. Direct integration of the $ρ$ peak determines $f_ρ$ with approximately $1\\%$ statistical precision and close agreement with the experimental reference, providing access to resonance properties without resolving individual finite-volume levels. With a common Gaussian width of $σ=0.6$~GeV, the lattice and experimental $R$-ratios show good overall agreement over $0.25$--$2.50$~GeV. Comparisons among ensembles with spatial extents up to approximately $10$~fm demonstrate that finite-volume effects can be controlled across these complementary observables. These results demonstrate a unified framework for studying resonance and inclusive physics from lattice QCD, with potential applications to other hadronic channels, inclusive decay rates, and hadronic tensors.",
+      "authors": [
+        "Nan Wang",
+        "Long-cheng Gui",
+        "Jun Hua",
+        "Jian Liang",
+        "Keh-Fei Liu",
+        "Jun Shi",
+        "Gen Wang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.27586v1",
+      "link": "https://arxiv.org/abs/2611.27586v1",
+      "published": "2026-11-20T13:17:06Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3231848",
+        "inspire_url": "https://inspirehep.net/literature/3231848",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2611.26854v1",
+      "title": "Optimized solver algorithms for computing $\\mathrm{Tr}(A^{-1})$",
+      "summary": "Estimating the trace of the inverse of a large quark matrix is a longstanding problem in lattice QCD. The standard approach is Hutchinson's method, which uses random noise vectors to estimate the trace to a desired statistical tolerance. Each noise vector $b$ requires solving a system of linear equations $Ax = b$. In this work, we introduce a new class of Krylov solvers for this task, called Twin methods. Twin methods generate the Krylov polynomial once then reuse it on all other right-hand sides. This reduces the number of basic linear algebra operations in the algorithm and therefore lowers the trace computation time. We apply the Twin approach to BiCG and BiCGStab and test them on lattice QCD matrices of varying size and in a range of computing contexts. We also present a more economical estimation of $\\mathrm{Tr}(A^{-1})$ which implements a polynomial approximation of $A^{-1}$ and a singular value deflation. In this scheme, the solvers are applied to only a few noise vectors, and the remainder are treated by the polynomial and the deflation. In our tests, the polynomial approximation combined with the deflation yield a 17-fold speedup in the time required to compute the trace over standard Hutchinson's method.",
+      "authors": [
+        "Benjamin Luke",
+        "Sudip Shiwakoti",
+        "Shayan Nadeem",
+        "Ronald Morgan",
+        "Walter Wilcox"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.26854v1",
+      "link": "https://arxiv.org/abs/2611.26854v1",
+      "published": "2026-11-19T22:17:09Z",
+      "categories": [
+        "hep-lat",
+        "math.NA"
+      ],
+      "inspire": {
+        "control_number": "3231657",
+        "inspire_url": "https://inspirehep.net/literature/3231657",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.26443v1",
       "title": "Review of Pion and Nucleon Gluon Parton Distribution Functions from Lattice QCD",
@@ -55,74 +128,6 @@
       "inspire": {
         "control_number": "3230852",
         "inspire_url": "https://inspirehep.net/literature/3230852",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.21860v1",
-      "title": "Anomaly inflow for simplicial Kähler fermions",
-      "summary": "We study massive Kähler Dirac fermions propagating on finite triangulations of various three dimensional manifolds with one or more boundaries. To probe the anomaly structure of these models we decompose the Kähler field into two reduced Kähler fields and choose boundary conditions that ensure that any edge modes are necessarily massless. We then show how to factorize the Pfaffian of this system into a product of bulk and boundary sectors each of which can separately pick up a phase under a global $Z_4$ transformation of the fermions that simultaneously changes the sign of the mass. These phases are topological, depending only on the index of the lattice Kähler operator in that sector. For the boundary sector a non-trivial phase signals the presence of a 't Hooft anomaly. We study cases where the boundary is anomalous but an inflow from the bulk cancels its phase. Canceling this anomaly for a non-orientable boundary in the absence of the bulk recovers the known classification of topological superconductors. We also give a continuum interpretation of these results in terms of inflow from a gravitational Chern Simons theory which is induced by integrating out massive bulk Kähler Dirac fermions. In the presence of a boundary the latter gives rise to Wen-Zee terms that mediate the anomaly inflow mechanism.",
-      "authors": [
-        "Simon Catterall"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.21860v1",
-      "link": "https://arxiv.org/abs/2611.21860v1",
-      "published": "2026-11-16T20:23:25Z",
-      "categories": [
-        "hep-lat",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3230241",
-        "inspire_url": "https://inspirehep.net/literature/3230241",
-        "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.21112v1",
-      "title": "Global analysis of the $ρ$ resonance in lattice QCD",
-      "summary": "We present a lattice-QCD study of the $ρ$ resonance in which we address the quark-mass and lattice-spacing dependence in a novel way using a global analysis of four $N_f=2+1$ ensembles. We parametrize discretization effects in the lattice energy levels and not in the scattering amplitude, which is defined in the continuum. We describe the amplitude using a $K$-matrix parameterization, which contains the light- and strange-quark mass dependence. By varying the parameterizations of quark-mass and lattice-spacing dependence, we examine the sensitivity of the physical-limit $ρ$ pole position to these choices and obtain the result $\\sqrt{s}_ρ= 744(11)(7) - i\\,69(7)(3)~\\text{MeV}$ from a model average.",
-      "authors": [
-        "Luka Jevsenak",
-        "Luka Leskovec",
-        "Stefan Meinel",
-        "John Negele",
-        "Srijit Paul",
-        "Andrew Pochinsky"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.21112v1",
-      "link": "https://arxiv.org/abs/2611.21112v1",
-      "published": "2026-11-16T13:58:37Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3230045",
-        "inspire_url": "https://inspirehep.net/literature/3230045",
-        "citation_count": 1
-      }
-    },
-    {
-      "id": "2611.18552v1",
-      "title": "Real-time simulation of scattering in $φ^4$ theory: localized excitation, scalable wave packet preparation, and peak-generating artifacts",
-      "summary": "Probing real-time dynamics is essential for understanding non-perturbative scattering and interactions in quantum field theory. A common challenge in real-time simulation is preparing accurate asymptotic incoming states. Through efficiently solvable eigenvalue problems, we jointly optimize a superposition of single particle momentum eigenstates and a single site interpolating operator to maximize preparation fidelity from the interacting vacuum. This leads to a localized excitation in the interacting theory analogous to a position eigenstate. Weighted sums of the resulting interpolating operator over lattice sites prepare wave packets of arbitrary spatial extent. To ensure that this construction produces the correct continuum limit, relative phases among single particle momentum eigenstates in this superposition are calibrated using a relation derived from Lorentz symmetry. Analyzing single particle wave packet propagation through the position space profile reveals oscillatory Airy distortions, which originate from interference between saddle point contributions at different momenta that share the same lattice group velocity. These oscillations systematically weaken when approaching the continuum limit, and reliable regimes are identified as a function of simulation time and wave packet momentum profile. Two-particle scattering simulations in interacting scalar field theory are also implemented, revealing artificial inelasticity arising from coarse local field digitization or deviation from the Nyquist-Shannon sampling point. With these artifacts under control, present simulations provide emerging evidence for physical inelastic processes in $φ^4$ theory. The constructions introduced in this work may provide new understanding of state preparation for the quantum simulation of scattering.",
-      "authors": [
-        "Boyu Gao",
-        "Natalie Klco"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.18552v1",
-      "link": "https://arxiv.org/abs/2611.18552v1",
-      "published": "2026-11-13T18:57:45Z",
-      "categories": [
-        "quant-ph",
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3229358",
-        "inspire_url": "https://inspirehep.net/literature/3229358",
         "citation_count": 0
       }
     }
