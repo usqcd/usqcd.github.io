@@ -1,7 +1,36 @@
 {
-  "generated": "2026-11-24T17:21:30.260017+00:00Z",
-  "count": 209,
+  "generated": "2026-11-25T17:09:45.152402+00:00Z",
+  "count": 207,
   "publications": [
+    {
+      "id": "2611.31810v1",
+      "title": "Intrinsic Soft Function in the Continuum and Physical Mass Limit from Lattice QCD",
+      "summary": "The intrinsic soft function is a universal nonperturbative ingredient of transverse-momentum-dependent (TMD) factorization. Despite substantial progress in lattice QCD studies, a determination with simultaneous control of the continuum, physical-pion-mass, and infinite-momentum limits has remained unavailable. In this work we present the first lattice determination incorporating all these limits within large-momentum effective theory, extracting the intrinsic soft function from a light-meson form factor and quasi-TMD wave functions. A key advance is the use of power-counting-guided axial-vector interpolators, which substantially improve the signal and enable a direct calculation at the physical pion mass. Combined with results from six ensembles spanning four lattice spacings, this improvement allows a precise determination extending to $b_\\perp\\simeq1.1~\\mathrm{fm}$, while remaining consistent with perturbative predictions at short distances. The resulting transverse-distance dependence exhibits an approximately exponential decay, with the decay rate being characterized by an effective scale $Λ\\simeq0.7~\\mathrm{GeV}$ at $μ=2~\\mathrm{GeV}$, providing a quantitative benchmark for nonperturbative Wilson-line dynamics and essential input for precision TMD studies.",
+      "authors": [
+        "Zhi-Chao Gong",
+        "Min-Huan Chu",
+        "Jun Hua",
+        "Xiangdong Ji",
+        "Andreas Schäfer",
+        "Jin-Xin Tan",
+        "Han-Zhang Wang",
+        "Wei Wang",
+        "Jian-Hui Zhang",
+        "Mu-Hua Zhang",
+        "Qi-An Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.31810v1",
+      "link": "https://arxiv.org/abs/2611.31810v1",
+      "published": "2026-11-24T02:02:07Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "3233493",
+        "inspire_url": "https://inspirehep.net/literature/3233493",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.27708v1",
       "title": "Quark dipole operators in the gradient-flow scheme at NNLO QCD",
@@ -108,30 +137,6 @@
         ],
         "citation_count": 0,
         "journal_ref": "Particles, 9, artid 104, p. 104, 2026"
-      }
-    },
-    {
-      "id": "2611.23982v1",
-      "title": "Positivity, Noise, and Cones",
-      "summary": "As a consequence of causality, Euclidean-time correlation functions in quantum field theory are subject to constraints in the form of positivity conditions on certain Hankel matrices. Such conditions define convex conic structures. Correlation functions computed numerically using Monte Carlo techniques generally contain statistical fluctuations that violate the positivity conditions. This work describes a projection procedure, based on the convex conic geometry induced by the positivity conditions and a statistical covariance matrix, that can be used to restore positivity, providing a unique decomposition for noisy correlators into causal and acausal components. In contrast to previous literature, this work explicitly leverages the conic structure and not just the convex nature of the causal space. The projection can be computed using primal-dual interior-point methods. Constrained projection gives rise to observable-specific frequentist confidence intervals for smeared spectral densities in the causal bootstrap of [Phys. Rev. D 114, 074510 (2026)]. Analytic results are supported with numerical examples.",
-      "authors": [
-        "Ryan Abbott",
-        "Claire X. Davis",
-        "Sarah Fields",
-        "William I. Jay",
-        "Patrick Oare",
-        "Matteo Saccardi"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.23982v1",
-      "link": "https://arxiv.org/abs/2611.23982v1",
-      "published": "2026-11-18T07:24:38Z",
-      "categories": [
-        "hep-lat"
-      ],
-      "inspire": {
-        "control_number": "3230852",
-        "inspire_url": "https://inspirehep.net/literature/3230852",
-        "citation_count": 0
       }
     }
   ]
