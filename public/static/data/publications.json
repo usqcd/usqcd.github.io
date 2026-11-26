@@ -1,7 +1,36 @@
 {
-  "generated": "2026-11-25T17:09:45.152402+00:00Z",
-  "count": 207,
+  "generated": "2026-11-26T16:47:33.772203+00:00Z",
+  "count": 211,
   "publications": [
+    {
+      "id": "2611.33280v1",
+      "title": "Parton structure of mesonic states with tensor networks",
+      "summary": "We present the first direct tensor network calculation of flavor-resolved parton distribution functions (PDFs) for a pion-like isospin triplet in the two-flavor Nambu-Jona-Lasinio model in (1+1) dimensions. Four-fermion interactions bind the mesons without confinement. Using staggered fermions and a charge-symmetrized Hamiltonian, we prepare the bound states and compute light-cone correlators by real-time evolution. The resulting quark and antiquark PDFs obey the expected isospin relations under $u \\leftrightarrow d$ exchange between charged pions and exhibit equal u and d distributions in the neutral pion. A flavor-independent antisymmetrization of the field ordering removes the vacuum-subtracted anticommutator contribution and restores charge-conjugation relations in both the correlators and PDFs across the triplet within numerical accuracy. These results provide benchmarks for quantum simulations of the partonic structure of the meson.",
+      "authors": [
+        "Jack Y. Araz",
+        "Yamil Cahuana Medrano",
+        "Peter L. Nguyen",
+        "Zhong-Bo Kang",
+        "Jian-Wei Qiu",
+        "David Richards",
+        "Nobuo Sato",
+        "Marco Zaccheddu",
+        "Jia-Yue Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/2611.33280v1",
+      "link": "https://arxiv.org/abs/2611.33280v1",
+      "published": "2026-11-24T19:00:03Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "quant-ph"
+      ],
+      "inspire": {
+        "control_number": "3233807",
+        "inspire_url": "https://inspirehep.net/literature/3233807",
+        "citation_count": 0
+      }
+    },
     {
       "id": "2611.31810v1",
       "title": "Intrinsic Soft Function in the Continuum and Physical Mass Limit from Lattice QCD",
@@ -105,38 +134,6 @@
           {}
         ],
         "citation_count": 0
-      }
-    },
-    {
-      "id": "2611.26443v1",
-      "title": "Review of Pion and Nucleon Gluon Parton Distribution Functions from Lattice QCD",
-      "summary": "Gluons play an essential role in the strong interaction that binds quarks into hadrons, as described by quantum chromodynamics (QCD). Understanding how the fundamental dynamics of QCD give rise to hadron structure remains one of the outstanding challenges in nuclear and particle physics. Parton distribution functions (PDFs) provide a successful framework for describing high-energy scattering processes involving hadrons. However, our knowledge of gluon PDFs remains comparatively limited because of the experimental challenges associated with directly constraining the gluon structure of hadrons. In recent years, a major breakthrough has enabled the calculation of the Bjorken-$x$ dependence of PDFs directly from lattice QCD. Among the available approaches, the large-momentum effective theory (LaMET) and pseudo-PDF frameworks have emerged as the most widely used methods and have produced the majority of lattice determinations of parton distributions. These developments have sparked rapid progress in first-principles studies of the $x$-dependent structure of hadrons, including gluon PDFs of the nucleon and pseudoscalar mesons. In this review, we summarize recent advances in lattice QCD calculations of gluon PDFs {using the LaMET and pseudo-PDF methods}, discuss the current status and impacts of these developments, and highlight the remaining challenges and future opportunities.",
-      "authors": [
-        "William Good",
-        "Huey-Wen Lin"
-      ],
-      "pdf": "https://arxiv.org/pdf/2611.26443v1",
-      "link": "https://arxiv.org/abs/2611.26443v1",
-      "published": "2026-11-19T17:15:22Z",
-      "categories": [
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3231429",
-        "inspire_url": "https://inspirehep.net/literature/3231429",
-        "doi": "10.3390/particles9040104",
-        "publication_info": [
-          {
-            "journal_title": "Particles",
-            "journal_volume": "9",
-            "page_start": "104",
-            "artid": "104",
-            "year": 2026
-          }
-        ],
-        "citation_count": 0,
-        "journal_ref": "Particles, 9, artid 104, p. 104, 2026"
       }
     }
   ]
