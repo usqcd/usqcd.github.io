@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T16:47:33.719393+00:00Z",
-  "count": 211,
+  "generated": "2026-11-27T16:34:41.327946+00:00Z",
+  "count": 208,
   "publications": [
     {
       "id": "2611.33280v1",
@@ -3005,32 +3005,6 @@
       }
     },
     {
-      "id": "2606.09757v1",
-      "title": "Partial Pressure Contributions of Hadron Families to the QCD Equation of State",
-      "summary": "Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.",
-      "authors": [
-        "Jonathan Gonzales",
-        "Alejandro Florez",
-        "Johannes Jahan",
-        "Angel R. Nava Acuna",
-        "Naman Mehndiratta",
-        "Claudia Ratti"
-      ],
-      "pdf": "https://arxiv.org/pdf/2606.09757v1",
-      "link": "https://arxiv.org/abs/2606.09757v1",
-      "published": "2026-06-08T17:17:05Z",
-      "categories": [
-        "hep-ph",
-        "hep-lat",
-        "nucl-th"
-      ],
-      "inspire": {
-        "control_number": "3166306",
-        "inspire_url": "https://inspirehep.net/literature/3166306",
-        "citation_count": 2
-      }
-    },
-    {
       "id": "2606.02447v2",
       "title": "Kinematic enhancement for nucleon interpolators",
       "summary": "The reliable treatment of highly boosted hadrons is crucial for many lattice QCD applications. For all these cases the kinematically enhanced interpolators promise very significant improvements and are, therefore, ever more often used in recent calculations, especially for highly boosted mesons like the pion. Motivated by, e.g., the physics program of the future Electron-Ion Collider (EIC) in the US and Electron-Ion collider in China (EIcC), we systematically benchmark our code for the unpolarized isovector nucleon quark matrix elements extracted at large source-sink separations, where excited state artifacts are significantly suppressed. We find that the precision of the renormalized nucleon matrix elements is typically improved by an order of magnitude at momentum $P_z\\sim2.5$ GeV. By comparing the results from three CLS ensembles with different lattice spacings $a$ but the same pion mass, we observe no statistically significant dependence on $a$ in the renormalized matrix elements at nearly identical values of $P_z$. These encouraging results suggest that the use of kinematically improved operators is highly advantageous for parton physics calculations and can be extended to a broader class of baryon observables, making them a promising candidate for a standard component of modern lattice QCD.",
@@ -5631,34 +5605,6 @@
       }
     },
     {
-      "id": "2601.21232v1",
-      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
-      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
-      "authors": [
-        "Joaquin Grefa",
-        "Chun Yue Tsang",
-        "Rajesh Kumar",
-        "Veronica Dexheimer",
-        "Claudia Ratti",
-        "Zhangbu Xu"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.21232v1",
-      "link": "https://arxiv.org/abs/2601.21232v1",
-      "published": "2026-01-29T03:49:43Z",
-      "categories": [
-        "nucl-th",
-        "hep-ex",
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "inspire": {
-        "control_number": "3112888",
-        "inspire_url": "https://inspirehep.net/literature/3112888",
-        "citation_count": 0
-      }
-    },
-    {
       "id": "2601.21155v2",
       "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
       "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
@@ -5836,36 +5782,6 @@
         "control_number": "3103920",
         "inspire_url": "https://inspirehep.net/literature/3103920",
         "citation_count": 1
-      }
-    },
-    {
-      "id": "2601.07987v1",
-      "title": "Merging multidimensional equations of state of strongly interacting matter via a statistical mixture",
-      "summary": "We introduce a general method to merge multidimensional equations of state (EoSs) by combining them in a two-fluid equilibrium statistical mixture in the grand canonical ensemble. The merged grand potential density $ω$ is built directly from the input EoSs and the fluid fractions are fixed by minimizing $ω$ at fixed temperature $T$ and baryon chemical potential $μ_B$. Thermodynamic consistency and stability are guaranteed as all thermodynamic quantities are consistently derived from a single merged grand potential $ω(T,μ_B)$ with the correct convexity properties. Our method can accommodate a first-order phase transition and a critical endpoint with mean-field critical exponents. We use this method to merge a van der Waals Hadron-Resonance-Gas EoS with a holographic Einstein-Maxwell-Dilaton EoS that has a critical point and a first-order line. The result is a single EoS, spanning hadronic and deconfined matter over a broad range in $(T,μ_B)$, which can be readily used in heavy-ion hydrodynamic simulations. Our merging method can be generalized to consider a higher dimensional phase diagram (e.g., by considering more chemical potentials) and more than two input EoSs.",
-      "authors": [
-        "Yumu Yang",
-        "Prachi Garella",
-        "Musa R. Khan",
-        "Tulio E. Restrepo",
-        "Joaquin Grefa",
-        "Johannes Jahan",
-        "Mauricio Hippert",
-        "Jorge Noronha",
-        "Claudia Ratti",
-        "Romulo Rougemont"
-      ],
-      "pdf": "https://arxiv.org/pdf/2601.07987v1",
-      "link": "https://arxiv.org/abs/2601.07987v1",
-      "published": "2026-01-12T20:37:09Z",
-      "categories": [
-        "nucl-th",
-        "hep-lat",
-        "hep-ph"
-      ],
-      "inspire": {
-        "control_number": "3103918",
-        "inspire_url": "https://inspirehep.net/literature/3103918",
-        "citation_count": 0
       }
     },
     {
